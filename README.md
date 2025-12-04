@@ -44,6 +44,7 @@ python preprocess/preprocess.py path/to/file.html --output-dir ./custom_output
   Output file: trace/html_parsing_20251204_113224.txt
   Output format: Structured
   Source URL: http://example.com
+  Content Hash: a1b2c3d4e5f6...
   Total blocks: 91
   Retained blocks: 12
   Ignored blocks: 79
@@ -55,6 +56,7 @@ HTML File: path/to/file.html
 Processing Time: 2025-12-04 11:32:24
 Output Format: Structured
 Source URL: http://example.com
+Content Hash: a1b2c3d4e5f6...
 Total Blocks: 91
 Retained Blocks: 12
 Ignored Blocks: 79
@@ -78,6 +80,7 @@ result: ParsedHTML = parse_html_file('path/to/file.html')
 
 # Access metadata
 print(f"URL: {result.url}")                    # Source URL (if available)
+print(f"Hash: {result.content_hash}")          # SHA-256 hash of original content
 print(f"Total blocks: {result.total_blocks}")  # All blocks in HTML
 print(f"Retained: {result.retained_blocks}")   # Content blocks extracted
 print(f"Ignored: {result.ignored_blocks}")     # Blocks removed/merged
@@ -99,14 +102,12 @@ with open('output.json', 'w') as f:
 >>> result = parse_html_file('example.html')
 >>> print(result.url)
 'http://example.com'
+>>> print(result.content_hash)
+'a1b2c3d4e5f6...'
 >>> print(result.retained_blocks)
 12
 >>> print(result.blocks[0])
 TextBlock(tag='h1', text='Page Title')
->>> print(result.blocks[0].tag)
-'h1'
->>> print(result.blocks[0].text)
-'Page Title'
 ```
 
 ## Features
@@ -114,42 +115,9 @@ TextBlock(tag='h1', text='Page Title')
 - 🎯 **Leaf-node extraction** - Inspired by BoilerNet for accurate content extraction
 - 📊 **Detailed statistics** - Track total, retained, and ignored blocks
 - 🔗 **URL extraction** - Automatically extracts URLs from CleanEval format
+- 🔒 **Content Hashing** - Calculates SHA-256 hash of original HTML content
 - 📦 **Pydantic models** - Type-safe, validated data structures
 - 🚀 **Standalone** - Only 2 dependencies, works anywhere
-
-## Usage
-
-### As a Library
-
-```python
-from preprocess import parse_html_file, ParsedHTML
-
-# Parse HTML file
-result: ParsedHTML = parse_html_file('example.html')
-
-# Access structured data
-print(f"URL: {result.url}")
-print(f"Total blocks: {result.total_blocks}")
-print(f"Retained: {result.retained_blocks}")
-print(f"Ignored: {result.ignored_blocks}")
-
-# Iterate through content blocks
-for block in result.blocks:
-    print(f"<{block.tag}> {block.text}")
-```
-
-### As a Command-Line Tool
-
-```bash
-# Extract blocks (default)
-python preprocess/preprocess.py input.html
-
-# Extract plain text
-python preprocess/preprocess.py input.html --method text
-
-# Custom output directory
-python preprocess/preprocess.py input.html --output-dir ./output
-```
 
 ## Output
 
@@ -157,6 +125,7 @@ The tool generates a trace file with:
 - Source file path
 - Processing timestamp
 - Source URL (if available)
+- Content Hash (SHA-256)
 - Block statistics (total/retained/ignored)
 - All extracted content blocks with tags
 
@@ -173,6 +142,7 @@ class TextBlock(BaseModel):
 ```python
 class ParsedHTML(BaseModel):
     url: Optional[str]        # Source URL
+    content_hash: str         # SHA-256 hash of original content
     total_blocks: int         # Total blocks found
     retained_blocks: int      # Content blocks retained
     ignored_blocks: int       # Blocks removed/merged
