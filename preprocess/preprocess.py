@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup, NavigableString
 from pydantic import BaseModel, Field
 from typing import List, Optional
 import re
+import hashlib
 
 # ============================================================================
 # Data Models
@@ -30,6 +31,7 @@ class ParsedHTML(BaseModel):
         blocks (List[TextBlock]): List of extracted text blocks with their tags
     """
     url: Optional[str] = Field(None, description="Source URL if available")
+    content_hash: str = Field(..., description="SHA-256 hash of the original HTML content")
     total_blocks: int = Field(..., description="Total block-level elements in HTML")
     retained_blocks: int = Field(..., description="Number of content blocks retained")
     ignored_blocks: int = Field(..., description="Number of blocks removed as noise")
@@ -410,8 +412,15 @@ def parse_html_file(file_path, method='blocks'):
         raise FileNotFoundError(f"HTML file not found: {file_path}")
     
     # Read HTML file
-    with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-        html_content = f.read()
+    # Read HTML file
+    with open(file_path, 'rb') as f:
+        raw_content = f.read()
+        
+    # Calculate SHA-256 hash of the raw content
+    content_hash = hashlib.sha256(raw_content).hexdigest()
+    
+    # Decode content for processing
+    html_content = raw_content.decode('utf-8', errors='ignore')
     
     # Extract URL from CleanEval format
     _, url = _extract_from_text_wrapper(html_content)
@@ -430,6 +439,7 @@ def parse_html_file(file_path, method='blocks'):
         # Create ParsedHTML object with statistics
         return ParsedHTML(
             url=url,
+            content_hash=content_hash,
             total_blocks=stats['total'],
             retained_blocks=stats['retained'],
             ignored_blocks=stats['ignored'],
@@ -471,6 +481,7 @@ if __name__ == "__main__":
         result = "\n".join(result_lines)
         output_format = "Structured"
         url_info = result_data.url
+        content_hash_info = result_data.content_hash
         stats_info = {
             'total': result_data.total_blocks,
             'retained': result_data.retained_blocks,
@@ -496,6 +507,7 @@ if __name__ == "__main__":
         if url_info:
             f.write(f"Source URL: {url_info}\n")
         if args.method == 'blocks':
+            f.write(f"Content Hash: {content_hash_info}\n")
             f.write(f"Total Blocks: {stats_info['total']}\n")
             f.write(f"Retained Blocks: {stats_info['retained']}\n")
             f.write(f"Ignored Blocks: {stats_info['ignored']}\n")
@@ -509,6 +521,7 @@ if __name__ == "__main__":
     if url_info:
         print(f"  Source URL: {url_info}")
     if args.method == 'blocks':
+        print(f"  Content Hash: {content_hash_info}")
         print(f"  Total blocks: {stats_info['total']}")
         print(f"  Retained blocks: {stats_info['retained']}")
         print(f"  Ignored blocks: {stats_info['ignored']}")
