@@ -1,0 +1,230 @@
+{
+  "url": "http://www.outsideshore.com/school/art/oil.htm",
+  "file_number": "624",
+  "content_hash": "a7bdd6809a21742540403a11a84b543ccd4709fcaa205edbad4a3bbab3d28144",
+  "total_blocks": 141,
+  "retained_blocks": 55,
+  "ignored_blocks": 86,
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "The Outside Shore Oil Paint"
+    },
+    {
+      "tag": "h2",
+      "text": "What Is Oil Paint?"
+    },
+    {
+      "tag": "p",
+      "text": "Oil paint, it would seem, needs little in the way of introduction, as it is \r\nthe painting medium most people are most familiar with. The majority of \r\npaintings one sees in most galleries and museums are done with oil paint. Still, \r\nit never hurts to know a little more about the medium."
+    },
+    {
+      "tag": "div",
+      "text": "Handellian Pasture (Oil, 11x14\") When Iencountered this scene, it reminded me of a painting Ihad recently seen by the great Albert Handell."
+    },
+    {
+      "tag": "p",
+      "text": "Oil paint consists of pigment suspended in a vegetable-based oil. The oils \r\nused are drying oils, which is to say that left exposed to air for a length of \r\ntime, they eventually cure through an oxidation process and become hard and \r\npermanently affixed to the painting surface. Linseed oil is the most common, but \r\nsafflower, poppy, and walnut oils are used as well. The different oils have \r\ndifferent properties in terms of how long the curing process takes, how hard the \r\noil film becomes, how resistant to cracking or yellowing it becomes, and so \r\nforth. Once cured, a painting needs relatively little in the way of protection, \r\nalthough varnish is common to protect against atmospheric pollutants. Still, \r\nover time, the painting may be susceptible to cracking and/or yellowing. These \r\nrisks can be lessened if proper care is taken when creating the painting in the \r\nfirst place, as certain techniques are more prone to eventual problems than \r\nothers. See the section on Making Marks below."
+    },
+    {
+      "tag": "h2",
+      "text": "Buying Oil Paint"
+    },
+    {
+      "tag": "p",
+      "text": "There are a few questions you need to answer before buying oil paints."
+    },
+    {
+      "tag": "h3",
+      "text": "Student Versus Artist Quality"
+    },
+    {
+      "tag": "p",
+      "text": "This is the very first question a newcomer to oil painting has to answer for \r\nhimself. The student grades are, as you might expect, less expensive, and of \r\ncorrespondingly lower quality. There is considerable debate among art educators \r\nas to whether the trade-off is worthwhile. Ipersonally do not have strong \r\nfeelings on the matter, so Ican try to be reasonably objective here. First, you might be wondering what \"lower quality\" actually means in \r\npractice. This can vary by manufacturer. In some cases, fillers may be used that \r\ncompromise the permanence of the resulting paintings. That may or may not \r\nconcern you at all when you are first starting out. It is also usually the case \r\nthat less pigment is used per tube than in artist quality paint. As far as Ican \r\ntell, if all your paints are student grade, this should not matter much, but it \r\nwould seem true that it would take a lot of student quality yellow to make a \r\ngreen when mixed with an artist quality blue, for example. Perhaps the most problematic issue with student grade paints is the tendency \r\nto use less expensive substitute pigments in some colors. These are generally \r\nlabeled \"hues\".  For example, a paint labeled \"Cadmium Red Hue\" is more or \r\nless the same color as cadmium red but contains a less expensive substitute for \r\nthe quite expensive cadmium red pigment. Many people consider this use of \"hues\" \r\nto be reason enough to avoid student grade paints. Idisagree. Just because a \r\npigment is less expensive does not mean it is inferior. Ihappen to prefer \r\nseveral of the cheaper pigments often used as substitutes for cadmium red over \r\ncadmium red itself. As long as you are aware you are not getting cadmium red, \r\nand therefore the paint will not behave in all respects like cadmium red, you \r\nmight well be perfectly happy with what you are getting instead. There may well be other more subjective issues with some student grade \r\nbrands.  In particular the \"feel\" of the paint might be different from \r\nartist quality paints, in terms of thick or oily or buttery or creamy the paint \r\nfeels. On the other hand, each artist quality brand feels different as well, so \r\nin the end, it comes down to personal preference in most cases. Now, conversely, Ishould point out arguments in favor or using artist \r\nquality paint. To start with, the price difference is not that extreme, if you \r\ncompare paints made from similar pigments and consider how much you will \r\nactually use. Atube of student quality ultramarine blue might sell for $4 and \r\none of artist quality for $6, and either tube will most likely last you several \r\nmonths, depending on how much you paint. Sure, you will need more than one tube \r\nof paint, but still, the total difference in paint costs over the course of a \r\nyear might well be less than the cost of dinner for two at a chain restaurant. There is also the danger the student grade paint you choose will be so \r\ncompromised in quality that you get frustrated with it and give up on painting. \r\nThis would seem to be most likely if the pigment strength was very low or \r\ntexture way too oily or too stiff, which can indeed making mixing and applying \r\npaint more difficult than it need be. So you may well decide that the difference in price is more than worthwhile. \r\nThat will have to be up to you."
+    },
+    {
+      "tag": "h3",
+      "text": "Water Miscible Oils"
+    },
+    {
+      "tag": "p",
+      "text": "Oil paints are traditionally made from linseed oil, which, like most oils, is \r\nnot water soluble. This means that you typically need something like turpentine, \r\nmineral spirits, or a citrus-based solvent for cleanup and for thinning paint. \r\nRecently, paints made from chemically modified oils have come on the market, and \r\nthese allow cleanup with just soap and water. Several manufacturers offer these \r\ntypes of paints. Some say they do not handle the same as ordinary oils, but \r\ngiven the convenience as well as ecological advantages of not needing to deal \r\nwith solvents, these paints are proving quite popular, especially with people \r\nnew to the medium."
+    },
+    {
+      "tag": "h3",
+      "text": "Alkyds"
+    },
+    {
+      "tag": "p",
+      "text": "Another type of chemically modified oil paint are the alkyds. These are like \r\ntraditional oil paints in all respects except one: they cure much more quickly. \r\nWhereas a typical oil painting might take a week or more before it is dry enough \r\nto handle easily without risking damage to the surface, an alkyd painting \r\nreaches that point in around one day."
+    },
+    {
+      "tag": "h3",
+      "text": "Oil Paint Brands"
+    },
+    {
+      "tag": "p",
+      "text": "Once you've settled the student versus artist grade issue, then you can pick \r\nspecific brands. Ido not have enough experience with different brands to really \r\noffer much advice. Ican recommend The Oil Painting Book , by Bill Creevy, \r\nfor information on different brands, although it is bound to be somewhat out of \r\ndate, as smaller companies come and go and even larger ones changes their \r\nformulations. But here are some of the more popular brands and what Iknow about \r\nthem:"
+    },
+    {
+      "tag": "h4",
+      "text": "Winsor & Newton"
+    },
+    {
+      "tag": "p",
+      "text": "This is one of the most popular oil paint brands, found in most art stores. \r\nTheir artist quality paints are relatively inexpensive, and their student grade \r\npaints (Winton) are even more so."
+    },
+    {
+      "tag": "h4",
+      "text": "Grumbacher"
+    },
+    {
+      "tag": "p",
+      "text": "This is another of the most popular brands, cheaper than Winsor & Newton for \r\nthe most part although probably of lesser quality as well."
+    },
+    {
+      "tag": "h4",
+      "text": "Utrecht"
+    },
+    {
+      "tag": "p",
+      "text": "This is one of the least expensive artist quality paints on the market. It is \r\ntherefore quite popular, even though it is available only via mail order or from \r\na few select stores."
+    },
+    {
+      "tag": "h4",
+      "text": "Rembrandt"
+    },
+    {
+      "tag": "p",
+      "text": "These oil paints are perhaps a little more expensive than Winsor & Newton, \r\nbut they have a good reputation for quality. Their paints are generally lighter \r\nand more mousse-like in texture than most."
+    },
+    {
+      "tag": "h4",
+      "text": "Old Holland"
+    },
+    {
+      "tag": "p",
+      "text": "Although it is not as large a company as Winsor & Newton, Grumbacher, or \r\nTalens, Old Holland oil paints are still reasonably widely available.  They \r\nconsidered by many to be the finest of the major brands, and the price is \r\nconsistent with this."
+    },
+    {
+      "tag": "h4",
+      "text": "Gamblin"
+    },
+    {
+      "tag": "p",
+      "text": "This is one of the more popular of the smaller brands. The paints are made by \r\nan artist, Robert Gamblin."
+    },
+    {
+      "tag": "h4",
+      "text": "M. Graham"
+    },
+    {
+      "tag": "p",
+      "text": "These paints are made with walnut oil instead of linseed oil. The advantages \r\nand disadvantages of this have been debated over the years, but the claim is \r\nthat paintings made from walnut oil paints will yellow less and be less \r\nsusceptible to cracking over time. One tradeoff is that walnut oil dries more \r\nslowly than linseed oil. M. Graham also makes an alkyd white, and by using this \r\nin conjunction with walnut oil colors for the rest of your painting, you end up \r\nwith a curing time more similar to linseed oil, since white is mixed into most \r\nother colors."
+    },
+    {
+      "tag": "h3",
+      "text": "Palette"
+    },
+    {
+      "tag": "p",
+      "text": "Here, Ido not mean the thing you squeeze your paint onto. Imean, the list \r\nof colors you squeeze out. Different painters use different palettes, and many \r\nalter their palette according to the painting. Choosing a palette is such a personal thing, but Ican mention some of the \r\nthings artists often consider. Color is the most obvious consideration in choosing a palette, but even \r\nthere, there are several things you want to optimize in choosing your colors. First, you want to be able to mix any color you might possibly need. This \r\ngenerally requires having at the very least the three primaries, and many \r\nartists prefer having two of each primary - a warmer and cooler variant. Second, you want to make it easy to mix the colors you need most often. For \r\nexample, a palette consisting of just the primaries may make it possible to mix a believable skin tone, but one that also includes some more subdued \r\n\"earth tones\" might make it easier . You often hear artists talking about a \"limited palette\". This simply means \r\nhaving fewer colors available than one might otherwise choose. For some artists, \r\n12 colors is limited. Others may routinely paint with only 6 and consider 3 a \r\nlimited palette. One reason to consider limiting your palette is color harmony. Roughly \r\nspeaking, this is how good the colors in a painting look together. It is often \r\neasier to get colors that go well together if they are all mixed from just a few \r\npalette colors, rather than having every possible color on your palette. Another reason to consider limiting your palette is that it is cheaper to buy \r\na few tubes of paint than many. It is also easier to carry fewer tubes around, \r\nso plein air painters are especially likely to try to limit their palettes. And \r\nsome argue that it is easier to learn to use just a few colors well than to try \r\nto learn to use many at once. Ipersonally find color mixing greatly simplified \r\nwhen there are fewer colors on my palette - there are fewer choices, making it \r\nis easier to see what paints need to be mixed to get a given color. In addition to the color of the paints, there are other considerations in \r\nchoosing a palette as well. There is a lot of variance between pigments in \r\nprice, so even within a single brand, some paints might cost three or more times \r\nas much as others. Again, price does not necessarily correlate with quality \r\nhere, and quite viable palettes can be formed from the least expensive pigments. \r\nAlso, some pigments are more permanent than others, and this too does not \r\nnecessarily correlate with price. Some pigments are more transparent than \r\nothers, and depending on your painting style you might have a preference for one \r\nor the other. Or you might have a preference for having both transparent and \r\nopaque choices. Finally, some pigments are considered toxic, and some artists \r\nchoose to avoid these for health reasons. So with all this said, somehow you have to get to the point of actually \r\nchoosing your paints. There are some pigments that virtually every manufacturer \r\noffers, but the naming often differs, and there are many colors unique to a \r\ngiven manufacturer. Some colors offered by many manufacturers are actually \r\nmixtures of two or more pigments, and these mixtures will vary even between \r\nsimilarly-named colors from different manufacturers. There are far more colors \r\navailable than Ican tell you about. But Iam listing some of the ones Ioften \r\nsee people using. The following colors are the full-intensity colors, sometimes just called the \r\ncolor wheel colors. They are listed more or less in color wheel order. Remember, \r\nbetween two similar colors, the warmer one is the one closer to orange on the \r\nwheel, and the cooler one is the one closer to blue."
+    },
+    {
+      "tag": "div",
+      "text": "Azo yellow - cool yellow Cadmium yellow light / lemon - opaque cool yellow. All cadmiums are \r\n  expensive Hansa / arylide yellow - transparent neutral (neither especially cool nor \r\n  warm) yellow Cadmium yellow medium / deep - opaque warm yellow Cadmium orange - opaque Cadmium red light / medium - opaque warm red Naphthol / Pyrrol red - transparent warm red Alizarin crimson - transparent cool red, seldom used any more because it \r\n  is not very permanent Quinacridone red / rose / violet - transparent cool red Dioxazine purple - transparent Ultramarine / French ultramarine blue - transparent blue on the violet \r\n  side Cobalt blue - transparent neutral blue, very expensive Phthalo blue - transparent blue on the green side, extremely powerful \r\n  (some say overpowering) Prussian blue - transparent greenish, coppery blue Cerulean - opaque, light greenish blue, expensive when genuine but often \r\n  produced as a mixture of cheaper pigments Viridian - deep, transparent cool green, expensive Phthalo green - transparent cool green, also very powerful Sap green - warm green, often a mixture of pigments"
+    },
+    {
+      "tag": "p",
+      "text": "The following colors are less intense, and are often referred to as the earth \r\ntones."
+    },
+    {
+      "tag": "div",
+      "text": "Naples yellow - very light and somewhat dull yellow, sometimes used as a \r\n  substitute for white Yellow ochre - dull mustard yellow Burnt sienna / red oxide - reddish brown Burnt umber - dull brownish gray Payne's gray - gray from a mixture of pigments Black - several different options available here White - several different options here too; titanium is probably the most \r\n  popular"
+    },
+    {
+      "tag": "p",
+      "text": "Of course, Iam not suggesting you have all these colors on your palette. But \r\nhopefully it well help you decide what colors interested you. It might also help \r\nyou understand suggested palettes you find elsewhere. One word on black, which is probably the most controversial of pigments in \r\noil. Some say you should not have it at all, some say have it but do not rely on \r\nit every time you you want to darken a color, and some simply love it. Iam of \r\nthe opinion that it should be thought of as a color like any other. If you are \r\ntrying to limit your palette and include only a bare minimum to get the job \r\ndone, black is clearly not necessary. Most colors can be darkened effective by \r\nmixing in their complement, and a reasonable approximation to black itself can \r\nbe mixed simply by combining other dark pigments. On the other hand, there is \r\nnothing wrong with black pigment that would make me avoid it if Iwas including \r\nother so-called \"convenience\" colors - ones you can reasonably mix yourself - \r\nlike purple, orange, green, or any of the earth tones. Once you have chosen your colors, you can arrange them physically on your \r\npalette any way you like. But of course you do need a physical palette to do \r\nthis on. Most traditional is wood that has been primed to make it less \r\nabsorbent, but glass and plastic palettes are also used. There are also \r\ndisposable palettes, which are pads of paper that has been specially coated to \r\nmake it less absorbent. As for the process of squeezing out the paint, typical is to squeeze them out \r\nalong the edges of your palette, in blobs of about the same amount you would use \r\nto brush your teeth. Many artists put the colors in color wheel order. The \r\ncenter of your palette is left clear for mixing."
+    },
+    {
+      "tag": "h2",
+      "text": "Mediums And Solvents"
+    },
+    {
+      "tag": "p",
+      "text": "There is a large variety of painting mediums (and for whatever reason, \r\nin this context, the plural of medium is usually \"mediums\", not \"media\") on the \r\nmarket. These are substances that you can mix with your paints as you apply them \r\nto get different effects. Some mediums are designed to speed up drying, others \r\nto slow it down. Some are designed to make paint more fluid, some to make it \r\nmore like paste. Other mediums are designed to make paints more transparent. Strictly speaking, mediums are not necessary in order to paint with oil, and \r\nmany artists - especially plein air painters, who are always looking to cut down \r\non unnecessary supplies - do not use them at all. But some paintings techniques \r\n- especially ones that involve painting in multiple layers over the course of \r\ndays, weeks, or months - require the use of mediums. Iwill discuss this further \r\nin the section on Making Marks . As a more or less separate issue, there are solvents . You can use a \r\nsolvent as a painting medium, and it has the effect of making the paint more \r\nfluid, transparent, and faster drying. But solvents are also used for cleaning \r\nbrushes, both between strokes and at the end of a session, and for other general \r\ncleanup of oil paint. And a rag dipped in solvent can be used to wipe paint off \r\nthe surface, to correct or lighten an area. Solvents are by nature pretty toxic, \r\nand one reason the main reason water miscible oils are so popular is that they \r\nallow you to avoid solvents entirely. The traditional solvent is turpentine, \r\nwhich is not only toxic as a liquid but also gives off very powerful fumes and \r\ncare should be taken using it indoors. Odorless mineral spirits are popular \r\ntoday, although they are almost as toxic - the fumes simply do not smell as \r\nstrong. Some are turning to citrus based solvents, which are less toxic in some \r\nways, but still not to be taken lightly. Although few seem to realize this, solvents are not actually necessary for \r\ncleanup even with traditional oil paint. Oil can be used instead. Some people \r\nuse cheap vegetable oil for cleaning their brushes, although it would concern me \r\nthat this is not a drying oil, and any oil left in the brush might interfere \r\nwith the paint. Iuse walnut oil, which is the same oil my paints are made from. \r\nIcan use this oil as a painting medium - which makes the paint more fluid but \r\nalso slower drying - as well as for cleanup. Walnut oil is more expensive than \r\nvegetable oil, but Iuse so little of it - about a tablespoon or two per \r\npainting - that it hardly matters. You do have to be careful to buy walnut oil \r\nwith no preservatives, which would function to retard the drying even further."
+    },
+    {
+      "tag": "h2",
+      "text": "Surfaces"
+    },
+    {
+      "tag": "p",
+      "text": "There are basically three different types of surfaces that artists use for \r\noil paintings: stretched canvas, canvas-covered boards, and gesso-primed boards. \r\nAny of these can be bought ready-made, or you can construct your own, usually \r\nfor less money. Some artists will also experiment with painting on paper on \r\nmetal or other surfaces, but the majority of paintings are on one of the \r\naforementioned surfaces. Oil paint by its nature is somewhat corrosive, and most surfaces need to be \r\nprotected from these effects by priming with either a glue or an acrylic gesso. \r\nWhen you buy ready-made canvases, they are already primed. If you make your own \r\nsurface, you can either buy pre-primed canvas, or buy raw canvas and prime it \r\nyourself. Stretched canvas is canvas that has been stretched tight like a drum head \r\nacross a wooden frame called a stretcher. Stretched canvas has the advantage of \r\nbeing relatively lightweight even in large sizes. Canvas covered boards are \r\npopular for plein air work as they are generally thinner than the stretcher \r\nbars, making it easier to transport several of them. You also do not have to \r\nworry about the sun shining through the back of a board. Cheap canvas boards are \r\nmade from cardboard. Better ones are made from some sort of wood. These boards \r\ncan also be primed directly, without first covering them with canvas. The \r\nsurface feels quite different from canvas, as it is generally smoother. Some \r\nprefer this, some do not."
+    },
+    {
+      "tag": "h2",
+      "text": "Brushes and Other Tools"
+    },
+    {
+      "tag": "p",
+      "text": "To further add to the confusion faced by beginning oil painters, there are as \r\nmany different brushes to choose from as paints and mediums. The good news is, \r\nyou can get by just fine with very few brushes. It is not unheard of for plein \r\nair painters to use just one brush for an entire painting, although most prefer \r\nhaving a couple of different sizes available. And it is more convenient if you \r\nhave different brushes for different colors - less cleaning between strokes is \r\nnecessary. Literally having one brush for each color is not necessary. You can \r\nstill get some benefit from using one brush for dark colors, another for light. \r\nOr one for warm colors, another for cool. Either way, you reduce the risk of \r\ncreating muddy colors by inadvertently mixing very unrelated colors together. Brushes come in different shapes, materials, and sizes. The common shapes \r\nare:"
+    },
+    {
+      "tag": "div",
+      "text": "Round - an elongated cone Flat - rectangular when seen straight on, thin from the side Filbert - like a flat but with rounded corners on the tip Bright - a relatively short flat"
+    },
+    {
+      "tag": "p",
+      "text": "Other specialty brushes are available, such as the fan blender, which some \r\nused to softly blend colors together after they have already been applied. While many people do use different shaped brushes for different purposes, \r\nthere is relatively little agreement on which shapes are best for which \r\npurposes. And in fact, it is just as common for an artist to use only only shape \r\nfor all parts of a painting. Filberts are probably the most popular choice. Iam \r\nfinding Iprefer the variety of marks Ican make with a flat for most purposes, \r\nalthough for final detail work, a small, soft, round seems to work best for me. This leads to issue of brush material. Hog bristle is the standard, and it is \r\nfortunately fairly cheap. There are also synthetic brushes that mimic the \r\nbehavior of bristle, and these can be cheaper still. The key attribute of these \r\nbrushes is that they are fairly stiff, allowing them to pick up and move thick \r\npaint easily. However, when you are trying to lay new paint on top of an \r\nexisting layer of wet paint, you often want a softer brush that will not disturb \r\nthe existing layers as much. Sable is one of the traditional choices here, but \r\nit is expensive, so synthetic sable substitutes are a good choice for this \r\npurpose. Agiven brush company will offer a line of brushes in a given material of a \r\ngiven quality, and usually offer several sizes of each of the above shapes \r\nwithin that line. The sizes are numbered, but the numbering is very inconsistent \r\nfrom brand to brand. About all you can be sure of is that within a shape within \r\na given line, higher numbers are bigger. But what one company calls a #6 round \r\nmight be a #9 from another company. And even within a single line, a #8 filbert \r\nmight be much larger than a #8 bright. So it is unfortunately difficult if not \r\nimpossible to give advice on brush size. The one piece of advice most educators seem to agree on is that you should \r\nuse bigger brushes than you might otherwise think, to avoid getting too caught \r\nup in detail too soon. Idefinitely agree with this. When Iwork on an 11x14\" \r\ncanvas, much of my painting is done with a filbert brush that is almost an inch \r\nwide, which Ialternate with a flat that is only a little smaller. As Iprogress, Istart relying more on a pair of brushes maybe half that size. But \r\nalthough Ido have a small soft round brush - about the size of the tip of the \r\ntail of a mouse - that Ireserve for final details, most of my paintings do not \r\nrequire this level of detail. My recommendation, then, is to have a couple of relatively large brushes - \r\nfrom most manufacturers, this means numbers in the teens - that you can switch \r\nbetween (light and dark or warm and cool) for much of the painting. Also a \r\ncouple of medium sized ones you can use the same way. And if you do get a brush \r\nnumbered 1 or 0, do not expect to use it much. The other tools typically used by oil painters are knives. These are not \r\nknives in the sense of being particularly sharp, but you probably would not be \r\nallowed to take them on an airplane. There are palette knives and painting \r\nknives, and some people maintain there is an important distinction between them, \r\nbut others do not bother, and instead simply note that there are different \r\nshapes of knives available. They can be made of metal, usually with a wooden \r\nhandle, or plastic. Knives are used for three purposes: to mix paint on your palette before \r\napplying it, to apply paint (as an alternative to using a brush), and to scrape \r\noff your palette when you are finished painting. The latter use is probably the \r\nonly one that pretty much requires a knife, or some sort of scraping device. Along flat knife is best for this. Using a knife for mixing colors is not \r\nstrictly necessary, as you can do this with a brush as well. But it is easier to \r\nwipe off a knife, and therefore easier to mix clean colors."
+    },
+    {
+      "tag": "div",
+      "text": "Cold Morning (Oil, 11x14\") This was painted entirely with a palette knife, because Iforgot to bring my brushes that day. Note how the texture differs from my other oil paintings."
+    },
+    {
+      "tag": "p",
+      "text": "Using a knife to apply paint to canvas is something that a few artists do a lot - some \r\nto the point of not using brushes. Others never use a knife for this purpose. \r\nOthers use the knife this way on occasion for the effects it can produce. It is \r\neasier to lay clean color on top of existing wet paint with a knife than with a \r\nbrush. Aknife stroke looks different from a brush stroke, so if you do mix \r\nbrush and knife work in a painting, it pays to be aware of this, so you do not \r\nhave some passages that stand out as being different from the rest if that is \r\nnot your intention. But that might be exactly the effect you want."
+    },
+    {
+      "tag": "h2",
+      "text": "Making Marks"
+    },
+    {
+      "tag": "p",
+      "text": "This leads directly into the matter of how we apply paint to the canvas. Oil \r\npainters tend to use one of a handful of basic approaches to painting, and the \r\napproach you choose has a lot to do with the techniques you will use. The approach Iam most familiar with is called alla prima painting, \r\nwhich basically means completing a painting in one session. With oil paint, that \r\nmeans the paint is always wet, so if you ever need to put one color over another \r\n- and Ido this all the time - you are working wet into wet. The challenge here \r\nis avoid having the layer underneath muddy up the layer on top. One way to do \r\nthis is to apply the first layers sparingly - either using a mostly dry brush \r\nwith little paint on it, or by so diluting the paint with solvent (not oil!) \r\nthat it can actually dry in just a few minutes. If you need to layer paint on \r\ntop of thicker paint than this, you can use a medium such as oil to make the top \r\nlayers more fluid, which can help it stay on top. You may also find either \r\nsofter brushes or a knife can make applying paint on top of wet paint easier. \r\nBut you should also consider simply expecting some mixing of layers to occur, \r\nand in fact to depend on it. For example, if the first layer is red, and you \r\nwant it to be more orange, instead of mixing up just the right orange and trying \r\nto lay it on top without mixing, try simply laying some yellow on top and doing \r\nthe mixing on the canvas. This approach works if the colors are related, so the \r\ncorollary to this is, try to avoid putting down color that is unrelated to what \r\nyou want the final color to be. if you have to do this, put it down as sparingly \r\nas possible."
+    },
+    {
+      "tag": "div",
+      "text": "House With Wagon (Oil, 11x14\") Like almost all my work, this was painted en plein air, and was completed in one session."
+    },
+    {
+      "tag": "p",
+      "text": "Alla prima painting is the norm for plein air painters. Studio painters may \r\nwork alla prima, but at least as many prefer to working in layers. This means \r\npainting one layer and letting it dry before working the next. While one can \r\napproach this as simply alla prima painting that has been slowed down, and with \r\nless worry about layers muddying each other, the traditional reason for working \r\nin layers is to use the technique of glazing . This involves building up \r\ncolors through layers of transparent paint. For example, if you had a red area \r\nyou wanted orange, you would first allow the red area to dry -  possibly a \r\nmatter of days. Then you would mix your yellow paint with a special glazing \r\nmedium to make it fluid and transparent, and add a thin layer on top of the red. \r\nThe result would be an orange with a different look that you would get if you \r\nsimply mixed the red and yellow. When working in layers, it is important to honor the fat over lean rule. Alean layer has relatively little oil - either because there is little paint \r\nperiod, or because the oil paint has been diluted with solvent. Fat layers are \r\npaints applied full strength from the tube, or applied with the addition of a \r\nmedium contains yet more oil. The lean layers below will dry faster than the fat \r\nones on top, which is what you want. If you painted a lean layer over a fat one, \r\nthe fat layer would not actually have completely cured yet, and the new lean \r\nlayer would actually cure before the fat one underneath ever finished. As the \r\nfat layer continued to cure, it would tend to cause the already dry lean layer \r\nabove it to crack. So, once you have decided on a basic approach, it is finally time to actually \r\npick up the brush. Every artist has their own technique here, but the basic \r\norder of operations is usually similar. The first step is to make sure the brush you are using is clean enough. Ifind a good wipe with a paper towel is often enough, but for a more thorough \r\ncleaning, you can swirl  the brush in solvent or oil first. You can use a knife to premix the color you want to apply if you like, but in \r\nmany cases it works as well to simply grab some paint with your brush, move it \r\nto a clean area of your palette, and then take the other side of the same brush \r\nand grab a bit of another color to mix in. It is usually wise to start by \r\nguessing which color you will need more of in the mix and start with a good \r\nquantity of it, then add the lesser color just a little bit at a time until the \r\ncolor is right. Otherwise, you will tend to overestimate how much of the lesser \r\ncolor you need to start with, and it will take a whole tube of the dominant \r\ncolor to get the mixture right. Once you have a mixture, dip your brush in, and stroke the canvas. That is \r\nthe easy part! Depending on how much paint you loaded, you can keep stroking on \r\na dry canvas until the paint on the brush is gone. If there was already a layer \r\nof wet paint on the canvas, however, you might get just a couple of new strokes \r\nbefore you need to wipe the brush off and get fresh paint - each stroke is \r\nlikely to pick up as much old wet paint as it deposits new paint. The \r\nworkarounds of using a medium to make the top layers more fluid or using a \r\nsofter brush might gain you a couple of extra strokes at most. That is the basic cycle. When you are done applying a given color, you clean \r\nyour brush - again, a simple wipe may be sufficient - and start again. Or switch \r\nto a different brush if you are changing colors drastically and want to lessen \r\nthe risk of creating muddy mixtures. When you are done painting for the day, brushes will usually need a more \r\nthorough cleaning, or the paint left in them will dry and ruin the brush. This \r\nmeans a longer swirl in the solvent or oil, perhaps working the brush on the \r\npalette to remove the paint further, wiping the brush well, and possibly \r\nrepeating this whole process. You should also scrape the mixtures off your \r\npalette, although the remainder of the original blobs you squeezed out along the \r\nedges can often be left alone and reused for a few days."
+    },
+    {
+      "tag": "h2",
+      "text": "My Palette"
+    },
+    {
+      "tag": "p",
+      "text": "Istarted off using the so-called split primary palette - a warm and cool \r\nvariant of each primary - plus burnt sienna and of course white. Inever felt \r\nlimited by this, but Ibegan to notice a few things. Ialmost never used the \r\nburnt sienna. And eventually Icame to realize that Iwas tending to choose one \r\nof each primary for a given painting, and then to stick with it. That is, while \r\nIhad two reds, if Iused the warm one for one thing in the painting, Iwould \r\ntend to want to use that same red anywhere Ineeded red, to aid color harmony. \r\nAnd this did not really introduce any major hardship. It is true that mixing a \r\ngood orange was a little trickier if Iwas using the cool red and yellow instead \r\nof the warm, but Ifound Icould produce perfectly acceptable results by simply \r\nmaking sure Istarted with a clean brush or palette knife. So Istarted using just a neutral yellow, a cool red, and ultramarine blue. Iliked the ultramarine because Ilike intense violets and dull greens in my \r\nlandscapes, and ultramarine lends itself well to both. Every so often Iwould \r\nfind the need to have a more intense green than Icould mix this way, so Iadded \r\nan intense green to my palette. It also helps me get more realistic sky color \r\nwhen mixed with ultramarine blue. For a while Iwas still thinking mixing \r\noranges were a problem, so Iput the warm red back on in my kit. Iwould decide \r\nwhich red to use for any given painting before starting. Usually, it was the \r\nwarm red for sunny days and the cool for overcast ones, or sunny days where Ineeded especially intense violets. Ihave found the warm red Ihave (naphthol) - \r\nis versatile enough that Ialmost never choose the cool one (quinacridone rose) \r\nany more. But realistically, Ihave found that the quinacridone is pretty \r\nversatile, too. So my basic palette now consists of"
+    },
+    {
+      "tag": "div",
+      "text": "Azo / arylide yellow (a mixture) Naphthol red Ultramarine blue Phthalo green Titanium white Quinacridone rose - just in case"
+    },
+    {
+      "tag": "p",
+      "text": "As it happens, this is very similar to the palette preferred by a number of \r\nother more well-known landscape painters, including Scott Christiansen and Kevin \r\nMacPherson. Ido not think Scott uses or recommends the phthalo green, but Ifind it a useful addition for the reasons Imentioned. Scott mentions use a red \r\nlike naphthol while Kevin mentions one more like quinacridone rose, but again, Ifind either works pretty well. This palette is admittedly optimized for landscape work, but Ihave used it \r\nfor portraits and figures and been just as happy with the results. Some people \r\ncannot imagine not having earth tones or colors that more closely resemble skin \r\non their palettes, but with a palette that offers so few choices, it is easy \r\nenough to figure out what colors you need in order to mix any other color you \r\nwant. It is just a matter of how much of each to use, and it doesn't take much \r\nexperimentation to figure that out."
+    },
+    {
+      "tag": "div",
+      "text": "Hear Music Make Music View Art Make Art"
+    },
+    {
+      "tag": "p",
+      "text": "All content copyright © The Outside \r\nShore Marc Sabatella / marc@outsideshore.com P.O. Box 147151, Edgewater, CO 80214-7151"
+    }
+  ]
+}

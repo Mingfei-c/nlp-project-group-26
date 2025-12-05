@@ -1,0 +1,14 @@
+{
+  "url": "http://www.bbc.co.uk/commissioning/contacts/index.shtml?genre=L&category=EB&template=contacts.tmpl&data=contacts.dat",
+  "file_number": "262",
+  "content_hash": "f0ee7d08bfe26e707cdd418742caef14fbb48e725eb7fc7d73e0e9bf60a80b5b",
+  "total_blocks": 174,
+  "retained_blocks": 1,
+  "ignored_blocks": 173,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    }
+  ]
+}

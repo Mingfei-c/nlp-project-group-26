@@ -1,0 +1,30 @@
+{
+  "url": "http://downtownme.com/event/event.asp?strFunction=BuildEventFromCategory&intCategoryId=9&intFrom=1",
+  "file_number": "47",
+  "content_hash": "6fd7e61b11d5c06bd42d3c7f796c1325ae83cd9dfe2a2fe96b1b720ebcfa9248",
+  "total_blocks": 54,
+  "retained_blocks": 5,
+  "ignored_blocks": 49,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Login | Create an Account"
+    },
+    {
+      "tag": "div",
+      "text": "Search Maine Restaurant Guide"
+    },
+    {
+      "tag": "div",
+      "text": "List Your Business"
+    },
+    {
+      "tag": "div",
+      "text": "Classifieds | Job Listings | High School Sports | Contact Us | Star Rating System | Sitemap Visit our featured business Copyright  2002-2006 PHD Consulting Inc. All rights reserved. Our Disclaimer."
+    }
+  ]
+}

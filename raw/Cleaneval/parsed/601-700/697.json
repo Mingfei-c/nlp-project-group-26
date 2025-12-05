@@ -1,0 +1,38 @@
+{
+  "url": "http://www.scsmallbiz.com/sections.php?Section=Financial",
+  "file_number": "697",
+  "content_hash": "f2b59ac9ce5ac4171d24ce419c3558474e798595b49e77baf69cad49eec9e244",
+  "total_blocks": 125,
+  "retained_blocks": 7,
+  "ignored_blocks": 118,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "Click Here To Go To Advanced Search Page"
+    },
+    {
+      "tag": "div",
+      "text": "Issue 4, Vol. 2 - March 2006"
+    },
+    {
+      "tag": "div",
+      "text": "March 2006 Featured Articles Editor's Corner DEPARTMENTS Strategy Legal Money Tech The Final Word Profile Advertisers Index Home Browse Past Issues Advanced Search Subscribe Unsubscribe Advertise Ad Rates/Specs Contact Us Take Online Poll"
+    },
+    {
+      "tag": "div",
+      "text": "MEMBER LOGIN"
+    },
+    {
+      "tag": "div",
+      "text": "Username Password Remember my login Home Subscribe Advertise Ad Rates/Specs Policies & Procedures Take Online Poll Contact Us"
+    },
+    {
+      "tag": "div",
+      "text": "Sorry. There are currently no articles listed under this section. Please try another section."
+    },
+    {
+      "tag": "div",
+      "text": "Santa Cruz Small Business Monthly • 5619 Scotts Valley Dr. #140, Scotts Valley, CA 95066 • 831-479-4700• fax 831-438-1068• inbox@scsmallbiz.com"
+    }
+  ]
+}

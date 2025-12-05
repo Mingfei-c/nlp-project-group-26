@@ -1,0 +1,154 @@
+{
+  "url": "http://news.com.com/Sun+open-source+license+could+mean+Solaris-Linux+barrier/2100-7344_3-5475182.html",
+  "file_number": "123",
+  "content_hash": "5e1d8a407913de0c234a6e6f047911932504487c8ffda23a0a33b7ffae77cbd5",
+  "total_blocks": 210,
+  "retained_blocks": 36,
+  "ignored_blocks": 174,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "Log in | Sign up Why join? Remember me | Forgot password? Welcome ( log out ) View profile Search: News All CNET The Web Advanced search Today on CNET Reviews News Downloads Tips & Tricks CNET TV Compare Prices Today on News | Business Tech | Cutting Edge | Access | Threats | Media 2.0 | Markets | Digital Life | Blogs | Extra | My News | RSS"
+    },
+    {
+      "tag": "h1",
+      "text": "Sun open-source license could mean Solaris-Linux barrier"
+    },
+    {
+      "tag": "div",
+      "text": "New license likely will be used to govern Solaris OS. But it may inhibit cross-pollination between Solaris and Linux. By Stephen Shankland Staff Writer, CNET News.com Published: December 2, 2004, 2:22 PM PST TalkBack E-mail Print del.icio.us Digg this"
+    },
+    {
+      "tag": "p",
+      "text": "Sun Microsystems has quietly begun seeking official open-source status for a new software license that likely will be used to govern its Solaris operating system. But the license may inhibit cross-pollination between Solaris and Linux--a sacrifice Sun appears willing to make in its effort to attract developers and revitalize its version of Unix."
+    },
+    {
+      "tag": "div",
+      "text": "News.context What's new: Sidestepping existing open-source licenses, such as the GPL that governs the heart of Linux, Sun has proposed a new type of license that could cover its open-source release of Solaris."
+    },
+    {
+      "tag": "p",
+      "text": "Bottom line: Sun hopes an open-source Solaris will attract developers and revitalize the OS. But the proposed license could hamper cross-pollination between Solaris and Linux and, as one commentator has it, add to a list of licenses that create \"lots of little lumps of software that can't be combined.\" Sun, however, calls its license \"less burdensome\" and seems ready to sacrifice any benefits of Linux intermingling. More stories on open-source Solaris On Wednesday evening, CNET News.com has learned, Sun submitted a description of its Common Development and Distribution License , or CDDL, to the Open Source Initiative . The nonprofit group reviews licenses and bestows official open-source status on those that meet the Open Source Definition requirements. The CDDL lets programmers see, change and distribute source code for any programming project it governs. Unlike some open-source licenses, it requires that modifications be shared as open-source software. Sun hopes its open-source move will attract developers to Solaris and reinvigorate the operating system. Solaris waned in popularity with the Internet bubble burst and with the rise of Linux, which works better on widely used servers based on x86 processors such as Intel's Xeon. But if Sun chooses to release Solaris under the CDDL--and it hasn't committed to doing so--the choice likely will prevent direct cross-pollination between the Unix variant and its prime competitor, Linux. That sharing is one of the prime advantages of the open-source philosophy; making Solaris open-source raised the possibility that it could benefit from Linux features such as widespread hardware support, and Linux could gain from Solaris features such as multiprocessor abilities. Sun's CDDL description addressed the difficulties of intermingling software covered by the CDDL with software covered by the General Public License , or GPL--the license that governs Linux. \"The CDDL is not expected to be compatible with the GPL, since it contains requirements that are not in the GPL,\" Claire Giordano of Sun's CDDL team said in its submission. \"Thus, it is likely that files released under the CDDL will not be able to be combined with files released under the GPL to create a larger program.\" Open Source Initiative President Eric Raymond declined to comment yet on whether the license meets those criteria. But if the Open Source Initiative approves the license, the CDDL will join a list that already includes dozens of licenses. This proliferation of open-source licenses is a problem, said Larry Rosen, an intellectual-property attorney who has advised OSI and who wrote \"Open Source Licensing: Software Freedom and Intellectual Property Law.\""
+    },
+    {
+      "tag": "h4",
+      "text": "Now on News.com:"
+    },
+    {
+      "tag": "div",
+      "text": "Year in review: Social networking catches fire How Ihelped Spider-Man save Santa Claus Crave: Digital pets for the dateless Extra: Most memorable ads of 2006 Video: Goofiest tech moves of '06"
+    },
+    {
+      "tag": "p",
+      "text": "\"What we end with up is...lots of little lumps of software that can't be combined,\" Rosen said in an interview. \"It is, in fact, a problem creating a commons of software if every company has its own commons.\" Sun wouldn't comment on whether Solaris 10 will be covered by the CDDL. \"We're not drawing linkage between that and any of Sun's products,\" spokesman Russ Castronovo said. However, executives have said Sun will seek the blessing of the Open Source Initiative for the license, and the clock is ticking. Sun had"
+    },
+    {
+      "tag": "div",
+      "text": "CONTINUED Page 1 | 2 TalkBack E-mail Print del.icio.us Digg this"
+    },
+    {
+      "tag": "h3",
+      "text": "Read more on this story's topics and companies"
+    },
+    {
+      "tag": "div",
+      "text": "Add to My News | Create an alert Open source Add to My News | Create an alert Linux Add to My News | Create an alert Unix Add to My News | Create an alert Operating systems Add to My News | Create an alert Software Add to My News | Create an alert Sun Microsystems Inc Add to My News | Create an alert Red Hat Inc Add to My News | Create an alert Novell Inc Add to My News | Create an alert Intel Corp Add to My News | Create an alert Intl Business Machines Corp Add to My News | Create an alert Hewlett-packard"
+    },
+    {
+      "tag": "h3",
+      "text": "TalkBack"
+    },
+    {
+      "tag": "p",
+      "text": "No discussion exists, click here to start it ."
+    },
+    {
+      "tag": "div",
+      "text": "Related stories"
+    },
+    {
+      "tag": "h4",
+      "text": "Related news"
+    },
+    {
+      "tag": "div",
+      "text": "Sun plans patent protection for open-source Solaris November 18, 2004 'Open Source Solaris' to debut this year September 13, 2004 Netscape now--for free January 22, 1998 Get this story's \"Big Picture\" >"
+    },
+    {
+      "tag": "h4",
+      "text": "Related videos"
+    },
+    {
+      "tag": "div",
+      "text": "Amid the many, start-ups to look out for November 8, 2006 Adobe CEO Bruce Chizen speaks on Apollo November 8, 2006 CEO Jeff Bezos says Web services will be a 'meaningful business' November 8, 2006 Watch more videos >"
+    },
+    {
+      "tag": "h5",
+      "text": "From News.com Extra"
+    },
+    {
+      "tag": "div",
+      "text": "Test drive Solaris 10 for free from OSNews Can Solaris 10 Make Sun Shine Again? from BusinessWeek Solaris attempts sunshine for tenth time from the INQUIRER Sun stares down Red Hat with Solaris 10 from The Register Get more news around the Web with News.com Extra >"
+    },
+    {
+      "tag": "h5",
+      "text": "Related white papers"
+    },
+    {
+      "tag": "div",
+      "text": "Top Ten Considerations for Choosing a Server Virtualization Technology SWsoft An Introduction to OS Virtualization and Virtuozzo SWsoft Virtualizing High Network I/O Environments SWsoft HP Integrity Essentials: Management Solutions for HP Integrity Servers Hewlett-Packard HP-UX 11i - Approaching a Virtualized IT World With Confidence Hewlett-Packard More results for open source >"
+    },
+    {
+      "tag": "h3",
+      "text": "Resource center from News.com sponsors"
+    },
+    {
+      "tag": "h4",
+      "text": "Aligning CIO & CEO visions"
+    },
+    {
+      "tag": "h5",
+      "text": "What CIOs need to know"
+    },
+    {
+      "tag": "p",
+      "text": "It's a simple truth. The closer you and your CEO see things, the greater your chance for success. Our exclusive report can help you get there—and help your business grow. Get the report featuring the views of 765 CEOs on innovation. learn more"
+    },
+    {
+      "tag": "div",
+      "text": "What CEOs think: Innovation Insights for CIOs Learn How CIOs can deliver strategic success for their enterprises The New CIO:  Beyond Technology Learn how CIOs become heroes Podcast:  Chris Gorog of Napster Learn about the impact of technology in strategy execution The future of the Enterprise Read more about tomorrow's organization CIO Vision Series:Innovating within a retail industry disrupted by the Web Video: CIO of Virgin Entertainment Group, Robert Fort CIO Vision Series: Innovating around social search Video: Yahoo CIO Lars Rabbe"
+    },
+    {
+      "tag": "h3",
+      "text": "Top picks from News.com readers"
+    },
+    {
+      "tag": "p",
+      "text": "Readers who read Sun open-source license could mean Solaris-Linux barrier also read..."
+    },
+    {
+      "tag": "div",
+      "text": "Sun considers GPL for Solaris More Info"
+    },
+    {
+      "tag": "h3",
+      "text": "Markets"
+    },
+    {
+      "tag": "p",
+      "text": "Market news, charts, SEC filings, and more"
+    },
+    {
+      "tag": "h4",
+      "text": "Related quotes"
+    },
+    {
+      "tag": "div",
+      "text": "Sun Microsystems Inc 5.51 0.05 (0.92%) Red Hat Inc 16.22 0.00 (0.00%) Novell Inc 6.25 0.11 (1.79%) Intel Corp 20.15 0.07 (0.35%) International Business Machines 95.66 0.41 (0.43%) HEWLETT PACKARD CO 40.93 0.30 (0.74%) DJIA 12,407.63 64.41 (0.52%) S&P 500 1,416.90 6.14 (0.44%) NASDAQ 2,413.51 12.33 (0.51%) CNET TECH 1,590.52 7.81 (0.49%)"
+    },
+    {
+      "tag": "div",
+      "text": "Symbol Lookup Site map | Help center | Corrections | Newsletters | Send tips | News.com mobile | Content licensing | RSS feeds | Search: News All CNET The Web Popular topics: Camcorders | Desktops | DVD Players | Internet Explorer 7 | iPod Nano | iPod Shuffle | Nikon D80 | Notebooks | Projectors | Speed Test | Web Hosting Today on CNET | Reviews | News | Compare prices | Tips & Tricks | Downloads | CNET TV Popular on CNET Networks: PS3 | Wii | Xbox 360 | Pussycat Dolls | Free Music Videos | TV Listings | Prison Break | Game Cheats About CNET Networks | Jobs | Advertise | Partnerships | Site map Copyright ©2006 CNET Networks, Inc. All rights reserved. Privacy policy | Terms of use"
+    }
+  ]
+}

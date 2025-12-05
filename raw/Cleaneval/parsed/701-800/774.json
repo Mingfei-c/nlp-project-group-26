@@ -1,0 +1,122 @@
+{
+  "url": "http://www.unicorn-enterprises.com/uxps_overview.html",
+  "file_number": "774",
+  "content_hash": "a00697643d78865e5f369d2aa008609d19a8d78d91d25f99aa33d70c612ee10d",
+  "total_blocks": 83,
+  "retained_blocks": 28,
+  "ignored_blocks": 55,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "h1",
+      "text": "Unicorn Enterprises SA"
+    },
+    {
+      "tag": "div",
+      "text": "Home Solutions Products Technologies Contact"
+    },
+    {
+      "tag": "h2",
+      "text": "Unicorn Print Server: Product Overview"
+    },
+    {
+      "tag": "h3",
+      "text": "Contents"
+    },
+    {
+      "tag": "div",
+      "text": "Introduction Features Spool management Job management Advanced features Optional features"
+    },
+    {
+      "tag": "h3",
+      "text": "Introduction"
+    },
+    {
+      "tag": "p",
+      "text": "Unicorn Print Server is an advanced output management solution designed to provide \r\nan efficient integration of the various types of hardware platforms, operating systems \r\nand printing devices on a basis of a single concept. Unicorn Print Server is designed to make the enterprise printing more efficient, \r\nflexible and reliable. The utilization of printing resources, as well as overall printing \r\nenvironment administration and maintenance costs can be optimized. The need for the \r\nvarious additional platform-specific printing software components may be \r\nsignificantly reduced. Unicorn Print Server has a scalable architecture. No matter how big is the printing \r\nenvironment, the appropriate server configuration can be provided. The printing \r\nsolution can be easily upgraded, while the printing environment grows and the need to \r\nsupport additional hosts, printers and applications arises. Unicorn Print Server is \r\noptimized for mission-critical applications, providing an adequate performance for \r\nlarge enterprises. On the other hand, for smaller enterprises, the money-saving low-end\r\nsolutions may be provided. Unicorn Print Server is optimized to create customer-specific solutions. For every \r\nparticular customer, the special solution can be created from the selected set of \r\nstandard server components. Components may be configured to meet customer needs. \r\nWhen some customer requirements can not be satisfied using the existing modules, \r\nadditional customer-specific components can be developed and easily integrated using \r\nthe server open architecture. This can dramatically reduce time and costs for the \r\ndevelopment of highly customized printing solutions. Unicorn Print Server is running on (Windows NT/2000) platform. \r\nMost of client platforms and printing devices are supported."
+    },
+    {
+      "tag": "h3",
+      "text": "Features"
+    },
+    {
+      "tag": "p",
+      "text": "Unicorn Print Server supports the rich set of features. These features are grouped into \r\nfollowing categories:"
+    },
+    {
+      "tag": "div",
+      "text": "Spool management Job management Advanced features Optional features"
+    },
+    {
+      "tag": "p",
+      "text": "The following sections contain more detailed discussion of these features."
+    },
+    {
+      "tag": "h3",
+      "text": "Spool management"
+    },
+    {
+      "tag": "p",
+      "text": "Spool management features provide the basic functionality of the print server. These \r\nfeatures include:"
+    },
+    {
+      "tag": "div",
+      "text": "Spooling Job attribute handling Logical and physical printers Printer pooling and load balancing Printer status monitoring Intelligent job scheduling Optimized performance for mission-critical applications Centralized management of the distributed printing environment"
+    },
+    {
+      "tag": "p",
+      "text": "At the very basic level, Unicorn Print Server is a spooling system. Its main function is \r\nto deliver a document to a specified output device on behalf of a client. The client \r\nsubmits the document to the print server along with the set of desired output \r\nparameters. For each incoming print request the server creates a separate print job. All \r\nparameters of the print request are stored as job attributes. Various attributes describe \r\nall relevant information about the print job, such as job identification, job scheduling, \r\nprinter selection, current job status and document production instructions. The print server supports the concept of logical and physical printers. Logical printers \r\nrepresent input queues of the print server. When a print request is submitted, the name \r\nof a logical printer should be specified. Physical printers correspond to output devices \r\ncontrolled by the print server. Each physical printer represents either a physical output \r\ndevice or an external document processing software component (e.g., archiving or \r\nmailing software). The flexible way is provided to establish and manage associations between logical and \r\nphysical printers. Various types of associations are possible. For instance, one logical \r\nprinter may be associated with several physical printers, thus forming a printer pool. \r\nFor each job requesting that logical printer the print server selects an associated \r\nphysical printer most suitable to render this job. On the other hand, a group of logical \r\nprinters may be associated with the same physical printer. In this case, a separate set \r\nof initial attribute values is usually attached to each logical printer in a group, and jobs \r\nsubmitted to different logical printers may receive different attribute values. Printer pooling provides additional efficiency and flexibility of the enterprise printing \r\nprocess. Using the printer pooling mechanism, such important feature as load \r\nbalancing is implemented. When many print jobs are submitted to a printer pool, the \r\nprint server tries to distribute them between printers to provide the balanced load and \r\nthus optimize the performance. On the other hand, when a job with the certain \r\nrequirements is submitted to a printer pool, the server will select the printer that is \r\ncapable to satisfy these requirements. For instance, a particular document may require \r\ncertain paper media to be properly rendered. The server will select a printer that has \r\nall requested media available. Thus, all jobs submitted to the printer pool will be \r\nautomatically routed to various printers depending on job requirements and printer \r\ncapabilities. Printer pooling can also increase the stability of the printing environment. \r\nIf any printers that belong to the printer pool are temporary unavailable due to the \r\nhardware fault or to the servicing needs, jobs will be automatically directed to the \r\nprinters that are still in operation. The operator of the print server may reconfigure \r\nprinter pools dynamically. If necessary, additional printers can be included in printer \r\npools. The print server performs monitoring of the status of printers attached to the system. \r\nThe current state (e.g., idle, printing, shutdown) of each printer is continuously \r\nchecked, thus improving the performance and reliability of the printing process. The print server performs an intelligent job scheduling. The order in which jobs are \r\nprinted depends on many factors. Each job has the certain submission time and may \r\nhave the certain priority assigned. Basically, jobs are scheduled according to their \r\npriorities and submission time. However, it is possible to assign the special held state \r\nto a job. In this case the job is not scheduled for printing until it is manually released. \r\nIt is also possible to assign the certain printing time to a job. The job is held until this \r\ntime is coming, then the job is automatically released. Finally, jobs that belong to a \r\ncertain group may be assigned the same label. These jobs will be not printed until any \r\nof the target physical printers will be assigned the same label. This feature allows the \r\ndynamic control over the scheduling jobs that belong to different groups. After the job is successfully printed, it is retained during the certain period of time. \r\nThe job retention period may vary for different job categories, more important jobs \r\nmay be retained for longer time. Retained jobs may be reprinted on demand. When the \r\njob retention period is expired, the document spool file is deleted to free the disk \r\nspace, but the job entry may be kept for some more time to enable accounting. The print server performance is optimized to obtain the maximum throughput for the \r\nmission-critical applications. Normally, thousands print jobs can be processed by the \r\nserver within one hour, given the sufficient performance of the printing devices. All components of the printing environment can be controlled from the single central \r\npoint. The graphical user interface is provided that allows the print server operator to \r\nview and modify attributes of any object that is managed by the server (e.g., print job, \r\ndocument, physical or logical printer). If necessary, the graphical user interface may \r\nbe used from the remote workstation."
+    },
+    {
+      "tag": "h3",
+      "text": "Job management"
+    },
+    {
+      "tag": "p",
+      "text": "Job management features are designed to provide control over processing of each \r\nparticular print job. These features include:"
+    },
+    {
+      "tag": "div",
+      "text": "Common job control functions Job reprint, printer rerouting and range printing Analysis of the document contents for print requirements Advanced support for printer-specific features Support for banner and trailer pages"
+    },
+    {
+      "tag": "p",
+      "text": "The print server implements a set of common job control functions. Using the \r\ngraphical user interface, the operator can hold a job or release a job that is currently \r\nheld. If necessary, processing of any job may be cancelled. Document production \r\ninstructions, like copy count, single-sided or double-sided printing, default medium or \r\ndefault input tray, collating, finishing and color specifications may be changed as well. Print jobs that had been successfully printed are usually retained during the certain \r\nperiod of time. If necessary, the operator may reprint any retained job. Some job \r\nattributes may be changed before reprinting. The destination printer may be changed, \r\nthus providing the way for printer rerouting. If necessary, only some selected pages of \r\nthe document may be reprinted. The print server is capable to analyze the document contents and assign certain \r\nattributes to the corresponding job based on the results of such analysis. For instance, \r\nPostScript documents that are conforming to Document Structuring Conventions \r\n(DSC) are scanned for DSC comments that contain document requirements. These \r\nrequirements are extracted and assigned to the print job as various job attributes. The \r\nprint server also supports analysis of job tickets. Job ticket is a sequence of text lines \r\nthat describe print job requirements. Usually the job ticket is inserted by the client \r\napplication in front of the document contents. The print server is capable to analyze \r\njob tickets and extract these requirements. Since different vendors use different \r\nformats for job tickets, the flexible method is provided to describe such formats and to \r\nmake them known to the server. Several widely used formats (e.g., Xerox Job Tickets) \r\nare recognized by the standard configuration. The print server also defines a native job \r\nticket format, Unicorn Job Tickets. In more general case, the document requirements \r\nmay be contained inside the body of the document. These requirements may be \r\nextracted and assigned to the job as job attributes using the generic context analysis \r\nengine. The flexible method to define customer-specific context rules is provided by \r\nthe server. The print server provides an advanced support for printer-specific features. Generally, \r\nthe print server handles all document production instructions in the device-independent\r\nway as job attributes. When the document is about to be transmitted to \r\nthe printer, printer-specific instructions are generated and inserted into the output \r\nstream in the way that depends on the given printer type. The print server may use \r\nvarious methods to implement printer-specific features. For PostScript printers, the \r\nPostScript code based on Adobe PostScript Printer Description (PPD) files is \r\ngenerated. For some printer types vendor-specific job tickets are created and inserted \r\nin front of the document contents. Support for printer-specific features offers solutions for several types of output \r\nmanagement problems that often appear in the various environments. For instance, \r\nwhen print jobs are submitted by typical Windows applications, printer drivers \r\ngenerate the printer-specific code that implements requested features. Once the print \r\njob is created, it is not possible to reroute it to a printer of a different type, because the \r\nnew printer may interpret incorrectly that printer-specific code. Another problem \r\noccurs in traditional mainframe environments, when spooling systems running on the \r\nmainframe hosts are not aware about the advanced features supported by the printing \r\ndevices and therefore are not capable to use these features for rendering documents \r\ngenerated by the host applications. Both problems can be effectively addressed by \r\nUnicorn Print Server support for printer-specific features. The print server is designed to support printers of various vendors. The flexible way is \r\nprovided to define specific details of the communication protocol, as well as device \r\ncapabilities for every particular printer type. The print server can automatically produce banner and trailer pages that may be \r\nprinted before and after the document. Banner and trailer pages are composed \r\ndynamically, based on the defined sets of templates. Values of the various job \r\nattributes that identify the job or specify the job characteristics may be inserted into \r\nbanner and trailer pages. Templates may be customized to match the specific needs."
+    },
+    {
+      "tag": "h3",
+      "text": "Advanced features"
+    },
+    {
+      "tag": "p",
+      "text": "Advanced features are designed to enable the creation of powerful enterprise output \r\nmanagement solutions. These features include:"
+    },
+    {
+      "tag": "div",
+      "text": "Remote and distributed printing Rearrangement of the document contents Integration of external format converters Accounting Built-in scripting engine"
+    },
+    {
+      "tag": "p",
+      "text": "When the printing environment of an enterprise is distributed through several \r\ngeographical locations, additional problems arise. When a document is transmitted to \r\na printing device that is installed at the remote geographical location, data may be lost \r\nor corrupted. The print operators working at both transmitting and receiving locations \r\nneed adequate means to track all remotely printed jobs and to control the status of \r\nsuch jobs in the reliable way. To solve these problems, the print server provides \r\nfacilities specially designed for the remote and distributed printing. At each remote \r\nlocation a separate instance of a print server may be installed. Thus the network of \r\nprint servers operating together is created. When a print server installed at any \r\nlocation needs to print a job to any remote printer, it does not attempt to transmit the \r\njob to this printer directly. Instead, the job is first transmitted to the corresponding \r\nremote print server, which takes care of the actual job delivery. In this case the job \r\nmay be tracked by both submitting and receiving print servers. This method enforces \r\nthe transparent, controllable and reliable remote document transfer and printing. Some applications may require rearrangement of information contained in source \r\ndocuments, before printing. For instance, many banking packages generate source \r\ndocuments that contain information related to multiple bank customers, and it is \r\ndesired to fetch information related to each particular customer from the source set of \r\ndocuments, in order to form one set of output documents for each customer. The print \r\nserver provides components that support the document contents rearrangement. Basically, the print server itself has a limited built-in support for various document \r\nformats. Currently it is capable to analyze and use certain elements of PostScript \r\ndocuments. Optional components are designed to support some additional formats \r\n(e.g., Xerox VIPP). In all other cases the print server relies either on the ability of a \r\nprinting device to interpret the particular document format or on the availability of the \r\nthird party format conversion software. When the printing device supports the \r\nrequested document format, the document is simply transferred to that device. \r\nOtherwise the external third party software component that converts the document \r\nformat to one supported by the target printer is required. External converters may be \r\nintegrated into the print server environment in the flexible and efficient way. If the \r\ntarget printer does not support the given document format, the server selects the \r\nsuitable external converter and automatically launches it to perform the conversion. \r\nWhen the conversion is finished, the resulting document is returned to the print server \r\nfor the final output. The accounting feature is designed to produce reports that contain statistical \r\ninformation describing the volume printed and printing resources consumed during \r\nthe given period of time, grouped by users and/or specially defined accounting \r\nprofiles. Using this feature, printing costs related to each user group can be calculated. \r\nThe overall efficiency of the enterprise printing process and of the utilization of \r\nprinting resources can be estimated as well. Unicorn Print Server is designed as the open, extensible software. The extensibility \r\nmechanism is based on the scripting technology. The print server includes simple yet \r\npowerful embedded scripting language that provides access to all objects of the server \r\nobject model, like print jobs, documents, logical and physical printers, thus enforcing \r\nthe open architecture of the server. The scripting language is based on Tcl (tool \r\ncommand language). Most of the existing print server components can be customized \r\nusing scripts. Scripting may be also used for the efficient creation of entirely new print \r\nserver components that implement custom features not available otherwise."
+    },
+    {
+      "tag": "h3",
+      "text": "Optional features"
+    },
+    {
+      "tag": "p",
+      "text": "Optional features are designed to enable the efficient integration of the print server \r\nwith certain vendor-specific platforms and technologies. Currently these features \r\ninclude: Advanced support for Xerox VIPP technology Client software for Open VMS Client software for Microsoft Windows The print server provides an extensive support for Xerox VIPP technology that may be \r\nused for traditional host printing and legacy document formats. The print server \r\nperforms all VIPP formatting and resource management, based on the document \r\nrequirements and printer capabilities. For VIPP documents, the print server can perform effectively the resource \r\nmanagement. All available resources (e.g., fonts, forms and images) may be stored in \r\nthe print server database in the centralized way. The server performs the analysis of \r\nthe document and extracts resource requirements. Depending on these requirements \r\nand the printer capabilities, resources needed to render each particular job are included \r\ninto the output stream and transmitted to the target printer. The enhanced support is available for print clients running under Open VMS. \r\nOpen VMS native document formats and job submission methods are supported, \r\nproviding seamless integration into the standard operating system environment. The enhanced client software is available for Microsoft Windows. This software acts \r\nas an integral part of the standard Windows spooling system. Once installed, the \r\nWindows client software automatically becomes available for all applications running \r\non a client system. The Windows client software allows a user submitting a print job \r\nto specify values of required job attributes in the device-independent form, instead of \r\nsetting the various printer-specific features requested by each printer driver. These \r\nattribute values are transmitted to the print server, which is completely responsible for \r\ntheir interpretation depending on the type of the target printer. The client software for \r\nWindows can dramatically reduce number of various printer drivers installed on each \r\nclient system, thus reducing the maintenance cost of the distributed printing \r\nenvironment."
+    },
+    {
+      "tag": "p",
+      "text": "Home Solutions Products Technologies Contact"
+    },
+    {
+      "tag": "p",
+      "text": "Copyright © 2000-2003, Unicorn Enterprises SA. All rights reserved. Legal Notice."
+    }
+  ]
+}

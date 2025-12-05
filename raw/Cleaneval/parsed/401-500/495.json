@@ -1,0 +1,50 @@
+{
+  "url": "http://www.iabc.com/members/faqmem.htm",
+  "file_number": "495",
+  "content_hash": "7b5b6d8dcd654ee4583a8190a9c3170471dc1b910e88e8d4f32ab656ffb28bc4",
+  "total_blocks": 128,
+  "retained_blocks": 10,
+  "ignored_blocks": 118,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"\r\n        \"http://www.w3.org/TR/REC-html40/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "Members Only Member Centre MyComm Search for Members MemberSpeak The IABC Buzz Member News CW Online Online Library Other Benefits Renew Your Membership Update Your Contact Info Leader Centre Member Guides Strategic Plan Executive Board Motions Get Access to the Member Centre FAQs Student Connection Join IABC Education Publications Research Accreditation Awards Jobs Communities Chapters About IABC"
+    },
+    {
+      "tag": "h1",
+      "text": "members only"
+    },
+    {
+      "tag": "h2",
+      "text": "member log in"
+    },
+    {
+      "tag": "p",
+      "text": "The content you have requested is for IABC members only.  Please log in using your IABC Member ID and Password."
+    },
+    {
+      "tag": "p",
+      "text": "Member ID: Password:"
+    },
+    {
+      "tag": "p",
+      "text": "Forgot your password or member ID? Problems Signing In?"
+    },
+    {
+      "tag": "p",
+      "text": "You are not logged in."
+    },
+    {
+      "tag": "div",
+      "text": "List of Member Benefits Member Centre Leader Centre CW Online MemberSpeak MyComm IABC Student Connection"
+    },
+    {
+      "tag": "p",
+      "text": "© 2006 International Association of Business Communicators. One Hallidie Plaza, Suite 600 San Francisco, CA 94102 USA +1 415.544.4700 Terms of Service"
+    }
+  ]
+}

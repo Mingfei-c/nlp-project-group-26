@@ -1,0 +1,42 @@
+{
+  "url": "http://www.reclaimamerica.org/",
+  "file_number": "668",
+  "content_hash": "6350ba5a08ca0de252f3e4c438a5909de6c22b39f90a2537f7645eede905c33c",
+  "total_blocks": 222,
+  "retained_blocks": 8,
+  "ignored_blocks": 214,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Donate | Contact \r\n\t\t\t\t\t\t\t\tUs | Resources | Search"
+    },
+    {
+      "tag": "p",
+      "text": "Events | Resources | Petitions | News | About Us | Home | New \r\n\t\t\t\t\tSite Features"
+    },
+    {
+      "tag": "div",
+      "text": "Join Our Prayer Force Sign Up For Center Alerts Community Leader Update Submit A Field Report Let Your Voice Be Heard Register For Conference!"
+    },
+    {
+      "tag": "div",
+      "text": "email first name last name Current Issues Pro-life issues Supreme Court Stopping Pornography Ten Commandments"
+    },
+    {
+      "tag": "div",
+      "text": "Merry Christmas and Happy New Year! Geneva College Files Religious Freedom Lawsuit Abortion Kills 7,000 Unborn Girls in India Daily Same-Sex Unions Sanctioned in New Jersey Salvation Army Receives Funds to Fight Child Prostitution Vatican Upholds Nebraska Mass Excommunications"
+    },
+    {
+      "tag": "div",
+      "text": "Title Title Order Now"
+    },
+    {
+      "tag": "div",
+      "text": "©2006 Coral Ridge Ministries. All rights reserved."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "url": "http://www.inlandrevenue.gov.uk/manuals/cismanual/html/cis6300/34_0018_CIS6358.htm",
+  "file_number": "509",
+  "content_hash": "53ca4ed8220b38cb9b7bc43d0d1378b824e0994223f70d7d05fca5c1276f4d2c",
+  "total_blocks": 86,
+  "retained_blocks": 20,
+  "ignored_blocks": 66,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd\" Skip to main content Home About us Contact us Online services Site map Help » Practitioner Zone businesses & corporations employers individuals & employees"
+    },
+    {
+      "tag": "h1",
+      "text": "Construction Industry Scheme - CIS6358"
+    },
+    {
+      "tag": "h2",
+      "text": "Vouchers: cessations and surrender: cancel returned CIS24\r\nvouchers on CIS system (A)"
+    },
+    {
+      "tag": "div",
+      "text": "CIS6302 Back to action guide menu CIS6313 Information"
+    },
+    {
+      "tag": "h3",
+      "text": "CANCEL RETURNED CIS24 VOUCHERS ON CIS SYSTEM"
+    },
+    {
+      "tag": "p",
+      "text": "This action guide explains the steps you should take to record\r\nCIS24 vouchers surrendered to the Revenue as cancelled on the CIS\r\nsystem."
+    },
+    {
+      "tag": "h3",
+      "text": "CAUTION"
+    },
+    {
+      "tag": "p",
+      "text": "Remember that changing the status of the returned vouchers from\r\n'Valid' will mean that they are treated by the CIS System as having\r\nbeen 'used'. As a result, subject to the 'Minimum Stock Level'\r\nbeing reached, this action may trigger the replenishment process\r\nand a further issue of vouchers. Because of this you should always\r\nbear in mind the reason for voucher cancellation and amend the\r\nsubcontractor's details or Voucher Profile Band in order to prevent\r\nthe automatic issue of further vouchers either in error or bearing\r\nincorrect details. The action guide is presented in two parts as follows"
+    },
+    {
+      "tag": "div",
+      "text": "To cancel individual vouchers, follow the\r\nsteps at Abelow To cancel a range of vouchers, follow the\r\nsteps at Bbelow"
+    },
+    {
+      "tag": "p",
+      "text": "For physical cancellation of the vouchers, see the action guide\r\nlisted in the menu. A. CANCEL INDIVIDUAL VOUCHERS 1) Select `File' from the CIS Main Menu. 2) Select `Manage Vouchers' from the File Menu 3) Select `Single voucher' from the Manage Vouchers menu You should now be at the `Voucher Serial Number' window. 4) Key in the voucher serial number for the voucher you want to\r\ncancel and click on the [OK] button You should now be at the `View Voucher Details' window. 5) Click on the [Cancel Voucher] button. This should take you to the `Voucher Cancellation' window. 6) Click on the 'Status' field to reveal a list of three\r\npossible statuses to change to"
+    },
+    {
+      "tag": "div",
+      "text": "lost stolen spoilt"
+    },
+    {
+      "tag": "p",
+      "text": "7) Click on 'Spoilt' (or other option). It should then appear\r\nalone in the box. 8) Click on the `Effective From' box and key in the date of\r\nreceipt of the voucher. 9) Select the 'Reason for Cancellation' from the list\r\nprovided. This action will enable the [Save] button. 10) Click on the [Save] button to store the change. 11) This action will result in the display of a final warning\r\nmessage confirming that the change of status is irreversible"
+    },
+    {
+      "tag": "div",
+      "text": "Click on [Yes] to receive the message 'This change\r\nhas been saved and the voucher will be cancelled overnight'."
+    },
+    {
+      "tag": "p",
+      "text": "The overnight batch process will update all the voucher and\r\nstock on hand records. This will have the effect of reducing the\r\nminimum stock level of vouchers held by the contractor and, unless\r\nthere is a system stop on voucher issue, trigger automatic\r\nreplenishment. B. CANCEL A RANGE OF VOUCHERS 1) Select `File' from the CIS Main Menu. 2) Select `Manage Vouchers' from the File Menu. 3) Select `Range of Vouchers' from the Manage Vouchers menu The `Taxpayer UTR/NINO' window should now be displayed. 4) For a sole trader or cardholder for a concern, enter the\r\nNINO or UTR. For a concern, enter the UTR of the concern. 5) Click on [OK] If the subcontractor also acts as a contractor, you should be\r\nat the `Contractor/subcontractor Selection' window. Click on the\r\n[Subcontractor] button. If the subcontractor is a concern with more than one\r\ncardholder, you will be presented with the `Cardholder Selection'\r\nwindow. Click on the cardholder to whom the vouchers were issued\r\nand click on the [OK] button. You should now be at the `Voucher selection criteria'\r\nwindow. 6) Click on the CIS24 box in the `Select Voucher Type' area of\r\nthe window and select the 'Y' by clicking on it. 7) Click on the [View Vouchers] button You should now see the `List Voucher Ranges' window containing a\r\nlist of ranges of vouchers issued to the subcontractor. 8) Click on the entry in the list for the vouchers you want to\r\ncancel and click on the [Cancel Range] button. This should take you to the `Voucher Cancellation' window. 9) Click on the 'Status' field to reveal a list of three\r\npossible statuses to change to"
+    },
+    {
+      "tag": "div",
+      "text": "lost stolen spoilt"
+    },
+    {
+      "tag": "p",
+      "text": "10) Click on 'Spoilt' (or other option). It should then appear\r\nalone in the box. 11) Click on the `Effective From' box and key in the date on\r\nwhich you received the vouchers. 12) Select the 'Reason for Cancellation' from the list\r\n\r\nprovided. This action will enable the [Save] button. 13) Click on the [Save] button to store the change. 14. This action will result in the display of a final warning\r\n\r\nmessage confirming that the change of status is irreversible"
+    },
+    {
+      "tag": "div",
+      "text": "Click on [Yes] to receive the message 'This change\r\n\r\nhas been saved and the vouchers will be cancelled overnight'."
+    },
+    {
+      "tag": "p",
+      "text": "The overnight batch process will update all the voucher and\r\n\r\nstock on hand records. This will have the effect of reducing the\r\n\r\nminimum stock level of vouchers held by the subcontractor and,\r\n\r\nunless there is a system stop on voucher issue, trigger automatic\r\n\r\nreplenishment. CIS forms Glossary Where am I? Quick links index- CIS0100"
+    },
+    {
+      "tag": "p",
+      "text": "Home | Main Contents | Manual Contents Previous Page | Next Page | Top"
+    },
+    {
+      "tag": "div",
+      "text": "© Crown Copyright | Terms & conditions | Privacy policy | Accessibility"
+    }
+  ]
+}

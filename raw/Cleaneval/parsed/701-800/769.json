@@ -1,0 +1,30 @@
+{
+  "url": "http://www.umanitoba.ca/about/mission.php",
+  "file_number": "769",
+  "content_hash": "3b026f4f66ad75809c314497c802abfb3e9faea134070d60fa76483f96e94fea",
+  "total_blocks": 45,
+  "retained_blocks": 5,
+  "ignored_blocks": 40,
+  "blocks": [
+    {
+      "tag": "h2",
+      "text": "University of Manitoba"
+    },
+    {
+      "tag": "div",
+      "text": "Page Has Moved University of Manitoba site search Uof M Home Future Students Current Students Faculty & Staff Alumni & Visitors The University Faculties Search"
+    },
+    {
+      "tag": "h1",
+      "text": "This page has moved"
+    },
+    {
+      "tag": "p",
+      "text": "The page you are looking for has moved. The document is now located at: http://umanitoba.ca/admin/president/strategic_plan_jun03.pdf You will be redirected in 15 seconds."
+    },
+    {
+      "tag": "div",
+      "text": "UMANITOBA / Faculty of Medicine C 2005 UNIVERSITY OF MANITOBA CONTACT THE UNIVERSITY | MAPS | EMERGENCY | WEBMAIL Faculty of Medicine 260 Brodie Centre, 727 McDermot Avenue University of Manitoba, Winnipeg, MB  \nR3E 3P5 Canada Tel 204 789-3557\n\n\n  Email medium@umanitoba.ca"
+    }
+  ]
+}

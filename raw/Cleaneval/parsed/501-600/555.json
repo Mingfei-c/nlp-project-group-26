@@ -1,0 +1,34 @@
+{
+  "url": "http://www.macfixit.com/article.php?story=20050616083226250",
+  "file_number": "555",
+  "content_hash": "8ee5f476ec359d7b830c816e0947bb377009559661728937e9eb5c436db4c572",
+  "total_blocks": 91,
+  "retained_blocks": 6,
+  "ignored_blocks": 85,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Advertise | Support | Contact Us"
+    },
+    {
+      "tag": "div",
+      "text": "Advanced Search"
+    },
+    {
+      "tag": "div",
+      "text": "This Content or feature is for MacFixIt Pro subscribers. If your subscription has expired you can renew online. Subscribe to MacFixit Pro and gain access to exclusive content and features including: Troubleshooting Articles and special reports from 1996 to present Advanced search options Option to remove ads from the site Email alerts- receive an immediate, daily or weekly email alert about products, developers and categories you care about. Learn More | Purchase | Renew"
+    },
+    {
+      "tag": "div",
+      "text": "Login Here: Email Address: Password: Forgot your password? Learn More | Purchase"
+    },
+    {
+      "tag": "div",
+      "text": "Problems with MacFixIt? Send email here ."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "url": "http://plus.maths.org/issue14/features/smith/",
+  "file_number": "142",
+  "content_hash": "e3f6055f2ea75d24ac6096c394b29bb9d18e72a5f7e3aae934204ecd9fa3ea72",
+  "total_blocks": 118,
+  "retained_blocks": 32,
+  "ignored_blocks": 86,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "about Plus support Plus subscribe to Plus terms of use search plus with google home latest issue explore the archive careers library news © 1997-2004, Millennium Mathematics Project, University\n\t\tof Cambridge. Permission is granted to\n\t\tprint and copy this page on paper for non-commercial\n\t\tuse.  For other uses, including electronic\n\t\tredistribution, please contact us. Issue 14 March 2001 Contents Features Maths aMazes Maths and magic The mathematics of diseases Adam Smith and the invisible hand Radioactive decay and exponential laws Career interview Career Interview: Actuary Regulars Plus puzzle Pluschat Mystery mix Reviews 'The Math Chat Book' 'In Code' Two books for mathemagicians 'The Language of Mathematics' News from March 2001 All the latest news Subscribe to our\nfree newsletter The Plus new writers award Get your own copy of all the Plus posters! March 2001 Features"
+    },
+    {
+      "tag": "h1",
+      "text": "Adam Smith and the invisible hand"
+    },
+    {
+      "tag": "h3",
+      "text": "by Helen Joyce"
+    },
+    {
+      "tag": "blockquote",
+      "text": "...every individual necessarily labours to render the annual revenue \nof the society as great as he can. He generally, indeed, neither \nintends to promote the public interest, nor knows how much he \nis promoting it. By preferring the support of domestic to that \nof foreign industry, he intends only his own security; and by\ndirecting \nthat industry in such a manner as its produce may be of the greatest \nvalue, he intends only his own gain, and he is in this, as in many\nother \ncases, led by an invisible hand to promote an end which was no part \nof his intention. Nor is it always the worse for the society that it\nwas \nno part of it. By pursuing his own interest he frequently promotes \nthat of the society more effectually than when he really intends to \npromote it. Ihave never known much good done by those who \naffected to trade for the public good."
+    },
+    {
+      "tag": "p",
+      "text": "In this passage, taken from his 1776 book\n\"An Inquiry into the Nature and Causes of the Wealth of Nations\"\nAdam Smith set out the mechanism by which he felt economic society\noperated. Each individual strives to become wealthy \"intending\nonly his own gain\" but to this end he must exchange what he\nowns or produces with others who sufficiently value what he has\nto offer; in this way, by division of labour and a free market,\npublic interest is advanced. Smith is often regarded as the father of economics, and his writings\nhave been enormously influential. Nowadays, \"invisible hand\" explanations\nare invoked to explain all sorts of phenomena, from scientific progress\nto environmental degradation. In the modern context, mathematicians\nstudy \"invisible hand\" processes as part of Game Theory, the branch of\nmathematics that deals with payoffs and strategies (see Game\nTheory and the Cuban Missile Crisis )\nin Issue 13 of Plus . Smith was profoundly religious, and saw the\n\"invisible hand\" as the mechanism by which a benevolent God\nadministered a universe in which human happiness was\nmaximised. He made it clear in his writings that quite\nconsiderable structure was required in society before the \ninvisible hand mechanism could work efficiently. For example,\nproperty rights must be strong, and there must be widespread\nadherence to moral norms, such as prohibitions against theft and\nmisrepresentation. Theft was, to Smith, the worst crime of all,\neven though a poor man stealing from a rich man may increase\noverall happiness.\nHe even went so far as to say that the purpose of government\nis to defend the rich from the poor. Here is a description of the way Smith imagined the universe operates: There is a benevolent deity who administers the world in such\na way as to maximise human happiness. In order to do this he has created humans with a nature\nthat leads them to act in a certain way. The world as we know it is pretty much perfect, and everyone is \nabout equally happy. In particular, the rich are no happier than the poor. Although this means we should all be happy with our lot in life,\nour nature (which, remember, was created by God for the purpose\nof maximising happiness) leads us to think that we would be\nhappier if we were wealthier. This is a good thing, because it leads us to struggle to become \nwealthier, thus increasing the sum total of human happiness via\nthe mechanisms of exchange and division of labour. It is clear why Smith says that moral norms are necessary for such\na system to work - in order for exchange to proceed, \ncontracts must be enforceable, people must have good\naccess to information about the products and services\navailable, and the rule of law must hold."
+    },
+    {
+      "tag": "h2",
+      "text": "The modern \"Invisible Hand\""
+    },
+    {
+      "tag": "p",
+      "text": "Nowadays, something much more general is meant by the expression\n\"invisible hand\". An invisible hand process is one in which\nthe outcome to be explained is produced in a decentralised way,\nwith no explicit agreements between the\nacting agents. The second essential\ncomponent is that the process is not intentional. The agents' aims\nare not coordinated nor identical with the actual outcome, which is\na byproduct of those aims. The process should work even\nwithout the agents having any knowledge of it. This is why the process\nis called invisible. The system in which the invisible hand is most often assumed\nto work is the free market. \nAdam Smith assumed that consumers choose for the lowest price,\nand that entrepreneurs choose for the highest rate of profit.\nHe asserted that by thus making their excess or insufficient demand known through\nmarket prices, consumers \"directed\" entrepreneurs' investment money to\nthe most profitable industry. Remember that this is the industry \nproducing the goods most highly\nvalued by consumers, so in general economic well-being is increased. One extremely positive aspect of a market-based\neconomy is that it forces people to think about what\nother people want. Smith saw this as a large part of\nwhat was good about the invisible hand mechanism.\nHe identified two ways to obtain\nthe help and co-operation of other people, upon which we all depend constantly.\nThe first way is to appeal to the benevolence and goodwill of others. \nTo do this a person must often act in a servile and fawning way, which Smith\nfound repulsive, and he claimed it generally meets\nwith very limited success. The second way is to\nappeal instead to other people's self-interest. In one of his most famous quotes:"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Man has almost constant occasion for the help of his\nbrethren, and it is in vain for him to expect it from their\nbenevolence only. He will be more likely to prevail if he can\ninterest their self-love in his favour, and show them that it is for\ntheir own advantage to do for him what he requires of them.\nWhoever offers to another a bargain of any kind, proposes to do\nthis. Give me what Iwant, and you shall have this which you want, is\nthe meaning of every such offer; and it is the manner that we\nobtain from one another the far greater part of those good offices which\nwe stand in need of. It is not from the benevolence of the\nbutcher, the brewer, or the baker that we expect our dinner, but from\ntheir regard to their own interest. We address ourselves, not\nto their humanity but to their self-love."
+    },
+    {
+      "tag": "p",
+      "text": "For Smith, to propose an exchange is to attempt to show another that what\nyou can do, or what you have, can be of use to the other. When you carry\nout the exchange, it means the other person\nrecognises that what you can do or that what you\nhave is of value. This is why so much of a person's self-esteem is bound up\nin their job - a well-paid job is supposed to be a sign that others value your\ncontribution and find it worth exchanging their own resources for."
+    },
+    {
+      "tag": "h2",
+      "text": "How wise is the Invisible Hand?"
+    },
+    {
+      "tag": "p",
+      "text": "with permission from: The Warren J. Samuels Portrait Collection at Duke University The theory of the invisible hand is certainly persuasive, and its simplicity\nis also very attractive. No doubt every reader can see that it describes\nthe way that things really work on many occasions, and, whether we \nfind it palatable or not, we probably all recognise the truth of Smith's assertion that \npaying for your dinner is a more reliable way to get it than\nappealing to the benevolence of others. But, even assuming all the correct conditions, does the invisible hand theory\nreally lead to the maximisation of human economic wellbeing\nin some sense, as Smith asserts?\nThis is where mathematics, in the form of Game Theory, can provide us with\nsome insights."
+    },
+    {
+      "tag": "h3",
+      "text": "The Prisoner's Dilemma"
+    },
+    {
+      "tag": "p",
+      "text": "The \"Prisoner's Dilemma\" is a very famous \"paradox\" in Game Theory.\nIt describes two people in a simple situation, acting in an informed manner,\nboth attempting to maximise\ntheir wellbeing, and yet making choices that lead to an \nunnecessarily poor outcome for both. Two people, who are suspected of being accomplices in a crime, \nare held prisoner in separate, non-communicating cells.\nThe police visit each prisoner, and tell both that  \nif neither confesses, each will be sentenced to two years in jail.\nHowever, if exactly one prisoner confesses, implicating each other, the one\nwho confesses will get off scot-free as a reward, and the other, who didn't \nconfess, will receive a punitive sentence of five years. \nIf each confesses and implicates the other, both will be \nsentenced to three years. What should a prisoner in this situation do? \nSuppose that the other prisoner doesn't\nconfess. Then the best course of action is to confess, \nand go free. Even if the other prisoner\ndoes confess, it will be better to have done likewise - \nat least the sentence will be lower.\nBoth prisoners will reason thus, so both will confess and\nend up serving sentences of three years - even\nthough, if both had remained silent, both would have served \nsentences of only two years. It may not be immediately clear what the relevance of the Prisoner's Dilemma\nis to Smith's theory of the Invisible Hand. In fact, it has a number of\nimplications for economic behaviour. The Prisoner's Dilemma"
+    },
+    {
+      "tag": "h4",
+      "text": "The temptation to default"
+    },
+    {
+      "tag": "p",
+      "text": "We can think of the prisoners as being asked to decide\nwhether to keep a contract they have made with each other\n(remain silent) or to default (confess and betray the other). \nSimilar choices have to be made all the time in economic society.\nWhen two people freely agree to exchange \ngoods or services to their mutual benefit, each must\ndecide whether to try to cheat the other by defaulting, or handing \nover counterfeit goods,\nor whether to act in good faith and risk the\nother party defaulting. Obviously, both parties \nare better off if neither default\nthan if both default - after all, we suppose they \nwillingly contracted with each\nother - but each would like to get\nsomething for nothing, and each is\nafraid the other will feel the same. The result may well be\nthat the parties are unable to carry out the exchange\nas arranged, and both lose out. The reason we don't see this behaviour too often is because we live in a \nsociety where courts can enforce contracts. This reduces the fear of \nthe other party defaulting, and makes it easier to hand over goods\nahead of receiving whatever is to be exchanged for them.\nIn illegal exchanges, for example,\nreceiving stolen goods, default is more common, and rather difficult \nfor criminals to guard against. Enforcing laws of contract requires cooperation and resources from someone \nelse - in democratic societies, the\ncourts on behalf of the government and the people. \nBut courts and prisons and police \ncost money and most\nof the costs fall on people who were not party \nto the contract in the first place -\nwho are therefore paying for a service that doesn't \ndirectly benefit themselves.\nSuch courts fall into the category of \"public good\" - \nwe are all better off in a society\nwhere the rule of law is upheld - but are not created and maintained \nby any invisible hand mechanism.\nCourts are set up deliberately to carry out a public good; \nand, although they may not always work\nthe way they are intended to, there is nothing \nunintended about their use to enforce\ncontracts."
+    },
+    {
+      "tag": "h4",
+      "text": "Subsidy-seeking"
+    },
+    {
+      "tag": "p",
+      "text": "In a democratic society, there is a strong temptation\nfor \"special-interest\" groups to form and lobby the \ngovernment to provide tax-payers'\nmoney to the group in the form of subsidies. \nPoliticians find the prospect of buying the loyalty of the\ngroup attractive, and the group sees the prospect\nof getting other people's money for nothing. \nClearly, everyone\nwould be better off if no one sought subsidies - by definition,\nsubsidies are only needed for unprofitable activities, that is,\nactivities that other people do not value sufficiently\nto pay their own money for. However,\nif other people seek and gain subsidies, anyone who doesn't\nbother trying to do the same for themselves\nwill end up subsidising others while receiving no subsidies\nthemselves. This fear may force large numbers of people\nto spend their time lobbying the government \nfor subsidies, rather than\nsimply engaging in more profitable activities - a classic example\nof the\nPrisoner's Dilemma, and one over which no court has jurisdiction. Avery similar situation occurs regarding monopolies.\nSince pretty much every producer is a consumer, it is probably to \neverybody's benefit overall if no producers attempt to raise prices by \nmonopolising their market; however, attempting to enforce a monopoly can be very\nattractive to individual producers. Smith rather sardonically observed that"
+    },
+    {
+      "tag": "blockquote",
+      "text": "\"People of the same trade \nseldom meet together even for merriment and diversion, \nbut the conversation ends in a conspiracy against the public or some\ncontrivance to raise prices.\""
+    },
+    {
+      "tag": "h3",
+      "text": "Arrow's Theorem"
+    },
+    {
+      "tag": "p",
+      "text": "As explained in the Editorial of Issue 13 of Plus , Arrow's Impossibility Theorem says that,\nin a certain sense, \nit is impossible to produce a consistent group preference\nby aggregating individual preferences.\nIt is normally stated in terms of votes and elections,\nand, in this format, says that is impossible to use information about individual\nvoters' preferences to decide what is \"the will of the people\".\nEvery voting system in current use throws up anomalies, such\nas \"flip-flops\", which occur when a third candidate enters the race and overturns\nthe group preference between the other two candidates (think of\nRalph Nader in California, splitting Al Gore's vote and handing George\nBush the election)."
+    },
+    {
+      "tag": "h4",
+      "text": "The \"will of the people\""
+    },
+    {
+      "tag": "p",
+      "text": "Again, the relevance to allocation of public goods is not immediately\nobvious - until you recall that an essential part of the invisible\nhand process is that producers respond to an single signal that is \nmeant to be an aggregate of all signals\nby consumers. Arrow's Theorem is often interpreted as\nsaying that there is no consistent\nway to aggregate the preferences of individuals to give a single\npreference which can be regarded as the preference of society -\nor \"the will of the people\". An economic version of the flip-flop could occur if a majority\nof customers would prefer to buy Product Xto Product Y,\nbut some of that majority actually\nlike Product Zeven better (the equivalent of splitting the vote); \nthe producer may end up producing\nProduct Yeven though more people would have liked Product X,\nand presumably it would have been more profitable to produce it.\nIf this happens, then the invisible hand cannot be said to have \nworked to maximise economic wellbeing. In a centralised society a few individuals make decisions on how to spend everyone's money and direct everyone's effort."
+    },
+    {
+      "tag": "h2",
+      "text": "How far does the invisible hand reach?"
+    },
+    {
+      "tag": "p",
+      "text": "How economic systems work and what can be done to improve them\nis still very much a live area of research for economists.\nMathematicians are currently grappling with the implications of game \ntheory for all sorts of social choice, in particular, what meaning, if any,\ncan be attached to the expressions \"the will of the people\" and\n\"the public good\". The results of such analyses will not be the only factor\nin deciding whether societies move towards or away\nfrom laissez-faire economics (\"laissez-faire\" means\n\"let alone\" and is shorthand for leaving things to the\ninvisible hand).\nPolitical will, whether the world becomes more peaceful or less,\nand the practicality of any alternatives will also be factors.\nAlternative systems tend to require\nmuch more intervention and more stringent rules. \nIn the real world, such rules \nautomatically introduce more and more opportunities for\nmistakes and corruption, which might mean that another system,\neven if better in principle, would be worse in practice. Perhaps the strongest reason for leaving the allocation\nof effort and reward to the invisible hand is that\nwhen it misappropriates\ngoods, it is likely to be\non a small scale. More centralised methods of allocating\ngoods are more prone to corruption and waste. Smith described\npeople given the spending of other people's money thus:"
+    },
+    {
+      "tag": "blockquote",
+      "text": "..being the managers of other people's money\nthan of their own, it cannot well be expected\nthat they should watch over it with the same\nanxious vigilance with which partners in a\nprivate copartnery frequently watch over their\nown. Like the stewards of a rich man, they\n... consider attention to small matters as\nnot for their master's honour and very easily\ngive themselves a dispensation from having it."
+    },
+    {
+      "tag": "p",
+      "text": "It is useful to remember the context in which\nSmith developed his theories - that of a heavily planned and rather\ndictatorial society, where some individuals were above the law\nand others were effectively without any rights. In a centralised society\na few individuals make decisions on how to spend everyone's money\nand direct everyone's effort. As Smith said"
+    },
+    {
+      "tag": "blockquote",
+      "text": "It is the highest impertinence and presumption, therefore,\nin kings and ministers to pretend to watch over the economy of private\npeople, and to restrain their expense...They are themselves always, and\nwithout exception, the greatest spendthrifts in the society."
+    },
+    {
+      "tag": "h2",
+      "text": "About the author"
+    },
+    {
+      "tag": "p",
+      "text": "Helen Joyce is one of the assistant editors on Plus magazine."
+    },
+    {
+      "tag": "h4",
+      "text": "Download PDF version | Printer friendly version Return to article"
+    },
+    {
+      "tag": "div",
+      "text": "contact copyright info sponsors privacy info"
+    },
+    {
+      "tag": "p",
+      "text": "Plus is part of the family of activities in the Millennium\nMathematics Project, which also includes the NRICH and MOTIVATE sites."
+    }
+  ]
+}

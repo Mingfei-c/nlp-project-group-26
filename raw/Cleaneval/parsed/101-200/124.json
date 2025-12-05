@@ -1,0 +1,350 @@
+{
+  "url": "http://news.com.com/Supreme+Court+rules+against+file+swapping/2100-1030_3-5764135.html",
+  "file_number": "124",
+  "content_hash": "6f2c1220bdbd8dde5b65ed3ff2d560195f234db2f7ee305553cccca6cb038c5c",
+  "total_blocks": 276,
+  "retained_blocks": 85,
+  "ignored_blocks": 191,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "Log in | Sign up Why join? Remember me | Forgot password? Welcome ( log out ) View profile Search: News All CNET The Web Advanced search Today on CNET Reviews News Downloads Tips & Tricks CNET TV Compare Prices Today on News | Business Tech | Cutting Edge | Access | Threats | Media 2.0 | Markets | Digital Life | Blogs | Extra | My News | RSS"
+    },
+    {
+      "tag": "h1",
+      "text": "Supreme Court rules against file swapping"
+    },
+    {
+      "tag": "div",
+      "text": "In unanimous decision, justices say Grokster and others could be held responsible for widespread copyright infringement. By John Borland Staff Writer, CNET News.com Published: June 27, 2005, 9:04 AM PDT Last modified: June 27, 2005, 2:35 PM PDT TalkBack E-mail Print del.icio.us Digg this"
+    },
+    {
+      "tag": "p",
+      "text": "update The Supreme Court has handed movie studios and record labels a sweeping victory against file swapping, ruling that peer-to-peer companies such as Grokster could be held responsible for the copyright piracy on their networks. In a unanimous decision issued Monday, the nine justices said companies that build businesses with the active intent of encouraging copyright infringement should be held liable for their customers' illegal actions. \"We hold that one who distributes a device with the object of promoting its use to infringe copyright, as shown by clear expression or other affirmative steps taken to foster infringement, is liable for the resulting acts of infringement,\" Justice David Souter wrote in the majority opinion."
+    },
+    {
+      "tag": "h3",
+      "text": "News.com Poll"
+    },
+    {
+      "tag": "div",
+      "text": "Do you agree with the Supreme Court decision in the Grokster case?"
+    },
+    {
+      "tag": "p",
+      "text": "Yes No View results The decision comes as a surprisingly strong victory for copyright companies and stands to reshape an Internet landscape in which file swapping has become commonplace. The ruling will give the recording industry and Hollywood immediate ammunition to file lawsuits against other file-trading companies. It could also be a boon for legal music services such as Apple Computer's iTunes, which could see their strongest competitor--freely downloadable songs--driven further underground. It won't immediately shut down access to the trading networks, however. The court's ruling sends the case back to the lower courts, which will review the evidence against Grokster and co-defendant StreamCast in the light of Monday's decision. Record labels and movie studios immediately hailed the decision as an unambiguous victory. \"The most important message from today's historic decision is that progress and innovation do not have to come at the expense of recording artists, songwriters and the people who make their living in the entertainment industry,\" Warner Music Group CEO Edgar Bronfman said in a statement. \"This important decision will allow artists and the creative community to prosper side by side with the technology industry.\" The peer-to-peer companies involved warned that the high court had opened the floodgates to litigation against a wide variety of technology companies, but said that they would continue to distribute their software and that they expected to be cleared of any wrongdoing. \"We are confident that it will be proven that Morpheus does not promote or encourage copyright infringement,\" said StreamCast Chief Executive Officer Michael Weiss. \"We're staying in this for the fight. We're going to continue to innovate and come out with new products.\" Cloud over Silicon Valley? The justices were reviewing a pair of lower-court decisions in which both courts said that file-swapping companies such as Grokster were not liable for the copyright infringement of people using their software. The nation's top court heard oral arguments on the case in late March. With the potential to rewrite the Supreme Court's 1984 Sony Betamax ruling that made VCRs--and by extension any technology with \"substantial noninfringing use\"--legal to sell, the decision has been closely watched across Silicon Valley. Technology companies have feared that a new copyright-focused standard aimed at controlling peer-to-peer networks might result in a rise in lawsuits aimed at blocking new products. The Betamax ruling had protected generations of products, ranging from CD burners to Apple's iPod to personal computers. In its majority ruling Monday, the court did not make any detailed changes or clarifications to that 1984 decision. However, Souter did write that the Betamax decision had not been meant as a shield for companies that actively induced or encouraged their customers to infringe copyrights. The peer-to-peer companies appeared to fall into that category, he wrote. \"There is no evidence that either company (Grokster or StreamCast) made an effort to filter copyrighted material from users' downloads or otherwise impede the sharing of copyrighted files,\" Souter wrote. \"Each company showed itself to be aiming to satisfy a known source of demand for copyright infringement, the market comprising former Napster users.\" Essentially that means the Betamax ruling's protections still will apply in most cases, lawyers said. However, the ruling does dispel the most expansive interpretation of that decision, under which any product with any legal use, no matter how minimal, was viewed as necessarily legal, said Thelen Reid & Priest attorney Michael Elkin. \"Idon't think the Sony Betamax decision ever gave a get-out-of-jail-free pass to anyone,\" Elkin said. Critics of the ruling said that the court provided no clear standard or test to define inducement, aside from noting several instances in which the peer-to-peer companies appeared to cross the line. Some in the technology world said the result could lead to more litigation against young companies with new technologies."
+    },
+    {
+      "tag": "div",
+      "text": "special coverage File-swap fallout Read all of News.com's stories on the Supreme Court's landmark decision and how it affects companies such as Grokster."
+    },
+    {
+      "tag": "p",
+      "text": "\"This is a very dangerous decision for technology and innovation,\" said Ed Black, chief executive officer of the Computer and Communications Industry Association. \"If you think of the Sony decision as a shield or an umbrella, we're afraid some holes have been punctured in that umbrella.\" Added Michael Petricone, vice president of technology policy for the Consumer Electronics Association: \"It is a real concern for the entire industry. We are faced with competitors in China and India who do not face the same litigation burden that companies will with this decision.\" Not everyone in Silicon Valley took a bleak view of the ruling, however. An Intel spokeswoman said the company was still studying the ruling, but noted that the court seemed to have upheld the most important aspects of the Betamax decision. Changed landscape for digital content? The decision isn't likely to eliminate file swapping. Many of the most popular services are decentralized enough that they can exist even if a parent company disappears. Many peer-to-peer services also are based outside the United States or have been created by overseas programmers. U.S. courts have shown their willingness to reach overseas companies in some cases, however. Already, a Los Angeles court has ruled that Kazaa parent Sharman Networks, based in Australia, maintains enough business connections in the United States to be sued in American courts . If the decision--and subsequent lower court actions--pushes file-swapping services further underground, it can only help companies such as Apple that are selling music and movies online, music service executives said. \"Ithink the Supreme Court did the right thing, in a lucid way,\" said Rob Glaser, CEO of RealNetworks. \"Ithink it will make a difference in the long slog to convert the industry over to legitimacy, by not allowing businesses to do this kind of nudge-nudge wink-wink marketing.\" Apple, Napster and other digital music services also hailed the ruling as a vindication of their business models. The decision could also be a boost for companies such as Shawn Fanning's Snocap or Audible Magic, which offer technology for filtering copyrighted files out of peer-to-peer swaps, or turning those swaps into transactions. Today that available filtering technology focuses only on music files, but tools are being developed to identify and block movie downloads . \"To the P2P operators, the LimeWires and the eDonkeys: We want to work with you,\" said Mitch Bainwol, chief executive officer of the Recording Industry Association of America. \"This is time to come forward and start filtering. We can build a better digital age together.\" Although the decision technically leaves the file-swapping companies' fate to the lower court, it could hold the seeds of a quick decision in favor of Hollywood and the record labels. Souter's ruling noted that the original trial judge granted summary judgment to Grokster, but said the lower court should instead immediately reconsider the copyright companies' request for summary judgment. Souter was supported unanimously in his decision by all nine justices, a rare level of agreement on controversial cases. Justice Ruth Bader Ginsburg wrote one concurring decision that was joined by Justices Anthony Kennedy and William Rehnquist. Justice Stephen Breyer wrote a second concurrence, joined by Justices John Paul Stevens and Sandra Day O'Connor. CNET News.com's Declan McCullagh and Anne Broache contributed to this report."
+    },
+    {
+      "tag": "div",
+      "text": "TalkBack E-mail Print del.icio.us Digg this"
+    },
+    {
+      "tag": "h3",
+      "text": "Read more on this story's topics and companies"
+    },
+    {
+      "tag": "div",
+      "text": "Add to My News | Create an alert Digital rights management (DRM) Add to My News | Create an alert Copyright Add to My News | Create an alert Peer to peer Add to My News | Create an alert Lawsuits 106 comments Post a comment"
+    },
+    {
+      "tag": "h3",
+      "text": "TalkBack"
+    },
+    {
+      "tag": "h4",
+      "text": "This is not about copyright infringement"
+    },
+    {
+      "tag": "p",
+      "text": "Cat Wild Jun 28, 2005, 5:13 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "P2P"
+    },
+    {
+      "tag": "p",
+      "text": "Cat Wild Jun 28, 2005, 4:49 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Effects on BitTorrent?"
+    },
+    {
+      "tag": "p",
+      "text": "Michael Basil Jun 28, 2005, 11:41 AM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Boycott the RIAA and others of their ilk"
+    },
+    {
+      "tag": "p",
+      "text": "J Tzu Jun 28, 2005, 9:48 AM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Gun makers still not held responsible"
+    },
+    {
+      "tag": "p",
+      "text": "bobby_brady Jun 28, 2005, 8:45 AM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "What does this ruling do to Tivo like devices?"
+    },
+    {
+      "tag": "p",
+      "text": "bobby_brady Jun 28, 2005, 8:42 AM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Only a fool... Or, someone who lives in a vacuum..."
+    },
+    {
+      "tag": "p",
+      "text": "Raife Jun 28, 2005, 3:59 AM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Mmmhmmm..."
+    },
+    {
+      "tag": "p",
+      "text": "paintedover26k Jun 28, 2005, 1:44 AM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Does the same go for weapons manufacturers?"
+    },
+    {
+      "tag": "p",
+      "text": "Ian Barnett Jun 28, 2005, 1:09 AM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "TIme to SUE, Ye Haw."
+    },
+    {
+      "tag": "p",
+      "text": "System Tyrant Jun 27, 2005, 8:24 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Perhaps..."
+    },
+    {
+      "tag": "p",
+      "text": "techoguy Jun 27, 2005, 7:38 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Protect ISP's, shoot P2P networks?"
+    },
+    {
+      "tag": "p",
+      "text": "Alexander Moore Jun 27, 2005, 4:08 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Look at the law, not your emotions..."
+    },
+    {
+      "tag": "p",
+      "text": "rdean Jun 27, 2005, 3:32 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Glad to someone think' s right"
+    },
+    {
+      "tag": "p",
+      "text": "Earl Jun 27, 2005, 3:14 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "this ruling is good"
+    },
+    {
+      "tag": "p",
+      "text": "Sam Papelbon Jun 27, 2005, 3:09 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Good"
+    },
+    {
+      "tag": "p",
+      "text": "Earl Jun 27, 2005, 2:54 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Re: The Supreme Court ruling about music"
+    },
+    {
+      "tag": "p",
+      "text": "Lloyd Marion Jun 27, 2005, 2:44 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "One of the best statements made."
+    },
+    {
+      "tag": "p",
+      "text": "Earl Jun 27, 2005, 2:08 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "One of the best statements made."
+    },
+    {
+      "tag": "p",
+      "text": "Earl Jun 27, 2005, 2:07 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Very Good Statment"
+    },
+    {
+      "tag": "p",
+      "text": "Earl Jun 27, 2005, 1:52 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "That's just it!"
+    },
+    {
+      "tag": "p",
+      "text": "Earl Jun 27, 2005, 1:29 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "So should we hold music industry liable..."
+    },
+    {
+      "tag": "p",
+      "text": "Adi None Jun 27, 2005, 1:21 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "won't this affect the manufacturers of CD and DVD burning components?"
+    },
+    {
+      "tag": "p",
+      "text": "Andy Melchior Jun 27, 2005, 12:44 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Typically shortsighted"
+    },
+    {
+      "tag": "p",
+      "text": "Bill Dautrive Jun 27, 2005, 12:16 PM PDT"
+    },
+    {
+      "tag": "h4",
+      "text": "Meaningless"
+    },
+    {
+      "tag": "p",
+      "text": "Willie Winkie Jun 27, 2005, 11:59 AM PDT"
+    },
+    {
+      "tag": "div",
+      "text": "Read more comments > Related stories"
+    },
+    {
+      "tag": "h4",
+      "text": "Related news"
+    },
+    {
+      "tag": "div",
+      "text": "Supreme Court may redefine file swapping March 29, 2005 FAQ: Betamax--tech's favorite ruling March 28, 2005 P2P companies ask high court for help March 1, 2005 Judges rule file-sharing software legal August 19, 2004 Get this story's \"Big Picture\" >"
+    },
+    {
+      "tag": "h4",
+      "text": "Related videos"
+    },
+    {
+      "tag": "div",
+      "text": "\"Anytime change is required, some people will resist it\" October 23, 2006 Trials and tribulations of being a female CEO in a man's world October 20, 2006 From secretary to CEO and beyond, it's been a long ride October 20, 2006 Watch more videos >"
+    },
+    {
+      "tag": "h5",
+      "text": "From News.com Extra"
+    },
+    {
+      "tag": "div",
+      "text": "Waiting for Grokster from Technology Review As Grokster Decision Nears, Hollywood Talks Tough from InternetNews.com File-Sharing Is the Latest Battleground in the Clash of Technology and Copyright from The New York Times Get more news around the Web with News.com Extra >"
+    },
+    {
+      "tag": "h5",
+      "text": "Related white papers"
+    },
+    {
+      "tag": "div",
+      "text": "How To Use the Six Laws of Persuasion during a Negotiation Global Knowledge Network Settling Conflict Without Drawing Blood - Use Mediation EzineArticles.com Enhancing Corporate Governance for Banking Organisations Bank for International Settlements New HSR Rules Regarding the Treatment of Unincorporated Entities White & Case The SEC's Bid to Re-Engineer Corporate Culture White & Case More results for copyright >"
+    },
+    {
+      "tag": "h3",
+      "text": "Resource center from News.com sponsors"
+    },
+    {
+      "tag": "h4",
+      "text": "Aligning CIO & CEO visions"
+    },
+    {
+      "tag": "h5",
+      "text": "What CIOs need to know"
+    },
+    {
+      "tag": "p",
+      "text": "It's a simple truth. The closer you and your CEO see things, the greater your chance for success. Our exclusive report can help you get there—and help your business grow. Get the report featuring the views of 765 CEOs on innovation. learn more"
+    },
+    {
+      "tag": "div",
+      "text": "What CEOs think: Innovation Insights for CIOs Learn How CIOs can deliver strategic success for their enterprises The New CIO:  Beyond Technology Learn how CIOs become heroes Podcast:  Chris Gorog of Napster Learn about the impact of technology in strategy execution The future of the Enterprise Read more about tomorrow's organization CIO Vision Series:Innovating within a retail industry disrupted by the Web Video: CIO of Virgin Entertainment Group, Robert Fort CIO Vision Series: Innovating around social search Video: Yahoo CIO Lars Rabbe"
+    },
+    {
+      "tag": "h3",
+      "text": "Top picks from News.com readers"
+    },
+    {
+      "tag": "p",
+      "text": "Readers who read Supreme Court rules against file swapping also read..."
+    },
+    {
+      "tag": "div",
+      "text": "File-swap fallout in Supreme Court ruling More Info"
+    },
+    {
+      "tag": "h3",
+      "text": "Markets"
+    },
+    {
+      "tag": "p",
+      "text": "Market news, charts, SEC filings, and more"
+    },
+    {
+      "tag": "h4",
+      "text": "Related quotes"
+    },
+    {
+      "tag": "div",
+      "text": "DJIA 12,407.63 64.41 (0.52%) S&P 500 1,416.90 6.14 (0.44%) NASDAQ 2,413.51 12.33 (0.51%) CNET TECH 1,590.52 7.81 (0.49%)"
+    },
+    {
+      "tag": "div",
+      "text": "Symbol Lookup Site map | Help center | Corrections | Newsletters | Send tips | News.com mobile | Content licensing | RSS feeds | Search: News All CNET The Web Popular topics: Camcorders | Desktops | DVD Players | Internet Explorer 7 | iPod Nano | iPod Shuffle | Nikon D80 | Notebooks | Projectors | Speed Test | Web Hosting Today on CNET | Reviews | News | Compare prices | Tips & Tricks | Downloads | CNET TV Popular on CNET Networks: PS3 | Wii | Xbox 360 | Pussycat Dolls | Free Music Videos | TV Listings | Prison Break | Game Cheats About CNET Networks | Jobs | Advertise | Partnerships | Site map Copyright ©2006 CNET Networks, Inc. All rights reserved. Privacy policy | Terms of use"
+    }
+  ]
+}

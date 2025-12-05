@@ -1,0 +1,42 @@
+{
+  "url": "http://www.walsall.gov.uk/newsdocs/NewsArticle.asp?NewsId=2858",
+  "file_number": "795",
+  "content_hash": "9aee019c7b7dbbf6f70fea56895d772adfd2146f7ad007047cba4d3f613c95c1",
+  "total_blocks": 34,
+  "retained_blocks": 8,
+  "ignored_blocks": 26,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "Skip Navigation Home | A-Zindex | FAQ | Accessibility | Site map | Contact us | Text only | Change contrast | Print friendly version Search"
+    },
+    {
+      "tag": "p",
+      "text": "Business | Community and living | Council and democracy | Education | Environment | Housing | Jobs and careers | Leisure and culture | News | Policing and public safety | Social care and health | Transport and streets |"
+    },
+    {
+      "tag": "div",
+      "text": "Home"
+    },
+    {
+      "tag": "h1",
+      "text": "Page not found"
+    },
+    {
+      "tag": "p",
+      "text": "The page you requested cannot be found. Please try searching our website or using the A-Zindex ."
+    },
+    {
+      "tag": "div",
+      "text": "Many web addresses have changed on our new website, please update your favourites / bookmarks If you followed a link from another page on our website, please email the web manager giving the address of the page which has the link If you followed the link from another website, please use the back button on your browser and inform the website that the link is no longer valid If you typed the web address yourself, please check the address and spelling"
+    },
+    {
+      "tag": "p",
+      "text": "This page was last updated on 07 November 2006"
+    },
+    {
+      "tag": "div",
+      "text": "© Walsall Council 2006 | Copyright | Disclaimer | Privacy statement"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "url": "http://info.channelnewsasia.com/bb/viewtopic.php?p=120139&",
+  "file_number": "82",
+  "content_hash": "3dc2b0ba6b27a7152af53de4fcec3a103e1dbb2d051d8062ab233f698bf4534c",
+  "total_blocks": 27,
+  "retained_blocks": 7,
+  "ignored_blocks": 20,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Channelnewsasia Forum Channelnewsasia Forum"
+    },
+    {
+      "tag": "div",
+      "text": "FAQ Search Memberlist Usergroups Register Profile Log in to check your private messages Log in"
+    },
+    {
+      "tag": "div",
+      "text": "Channelnewsasia Forum Forum Index"
+    },
+    {
+      "tag": "div",
+      "text": "Information"
+    },
+    {
+      "tag": "div",
+      "text": "The topic or post you requested does not exist"
+    },
+    {
+      "tag": "div",
+      "text": "Powered by phpBB © 2001, 2005 phpBB Group Channel NewsAsia Forum - Terms of Use"
+    }
+  ]
+}

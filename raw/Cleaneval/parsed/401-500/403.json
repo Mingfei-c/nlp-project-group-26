@@ -1,0 +1,370 @@
+{
+  "url": "http://www.epic.co.uk/content/resources/email_newsletter/December2004.htm",
+  "file_number": "403",
+  "content_hash": "68d5a32d5af2061758fead5d67860b0c7f5fbaf696b459a45f4cf7feb3770759",
+  "total_blocks": 555,
+  "retained_blocks": 90,
+  "ignored_blocks": 465,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "About us What we do Sectors Research and Resource Centre White papers Email newsletter Epic Think Tanks Case studies Show reports Book reviews Links Leaders Research Jobs Investors News"
+    },
+    {
+      "tag": "div",
+      "text": "3,2"
+    },
+    {
+      "tag": "h1",
+      "text": "E P I C   T H I N K I N G"
+    },
+    {
+      "tag": "h2",
+      "text": "Issue 37: December 2004"
+    },
+    {
+      "tag": "p",
+      "text": "This month: 1. Introduction: Ashort \r\n              round-up of the year 2. New white paper: Informal \r\n              learning 3a. Research: Apractical guide to accessible \r\n              e-learning 3b. Research: Workflow Research 3c. Research: E-learning research - University \r\n              of Sussex 3d. Research: ASTD State of the industry 4. Interview: Lee Maxey, CLO, Pathlore 5a. Article: Audio Review: Will Wright – Simulation Design 5b. Article: Audio downloads and Podcasting 6. Show report: Online Educa Berlin 7a. News: Auseful e-learning source 7b. News: Healthcare and e-learning in the \r\n              US 8. Jobs: Check out the latest vacancies 9. E-learning diary: January - June 2005"
+    },
+    {
+      "tag": "h2",
+      "text": "SANTA'S SACK"
+    },
+    {
+      "tag": "p",
+      "text": "In the tradition of heaving stockings, bulging packages and stuffed \r\n              stomachs the contents of this year's Epic Christmas newsletter are \r\n              overflowing. We have added a couple of features including an e-learning \r\n              diary showing the most important dates in the first half of 2005. \r\n              Epic will be exhibiting at a number of locations during the year, \r\n              the first of which will be the Learning Technologies show starting \r\n              on January 26th in Olympia, London. Epic will be on stand 62 - if \r\n              you would like an invitation to the show please contact \r\n              us . Following on from last month's iPod learning White Paper, \r\n              this month's jamboree publication features a review of downloadable \r\n              audio files by Steve Rayson and Donald Clark has summarised the \r\n              year's e-learning events. As usual, we welcome your comments and \r\n              suggestions and Iwould like to extend personal thanks for your \r\n              continued support throughout this year. Have a very Merry Christmas \r\n              and a Happy New Year - see you in 2005. Editor"
+    },
+    {
+      "tag": "h2",
+      "text": "INTRODUCTION"
+    },
+    {
+      "tag": "p",
+      "text": "1. Ashort round-up of the year by Donald Clark, Epic 2004 was the year of the monkey and, true to form, \r\n              there was a great deal of monkey business going on. In January we had the now infamous Towards a Unified e-Learning \r\n              Strategy. It was a sort of educational tract/DfES deapartmental \r\n              plan, completely missing the commercial sector. End of January was \r\n              the deadline for responses to the Government's Consultation Document. \r\n              We are still waiting on the results! Someone mentioned February \r\n              2005. In the meantime, things have moved with informal learning \r\n              and a dozen other market shifts. Throughout the year some consolidation was seen in the US, notably \r\n              the Docent and click2learn merger in March. In June Blackboard had \r\n              hugely successful float on NASDAQ, but their competitors such as \r\n              eCollege, Corinthian Colleges and DeVry continue to suffer. In the \r\n              corporate sector we’re still waiting on Sumtotal to sort out \r\n              the merger. Skillsoft have stabilised, however poor product perceptions \r\n              continue. In the UK KnowledgePool and ACT went into receivership while the \r\n              UkeU collapsed with a Select Committee grilling the Chair and Chief \r\n              Executive of HEFCE, especially the bonuses for 30 of the 70 staff. \r\n              November saw the NHSU merge down into a new NHS Institute. Merry Xmas"
+    },
+    {
+      "tag": "h2",
+      "text": "WHITE PAPER"
+    },
+    {
+      "tag": "p",
+      "text": "2. Informal Learning Informal, casual, instant, spot, embedded or workflow learning \r\n              is now recognised as perhaps the most important form of adult learning, \r\n              quantifiably more important than formal learning interventions. \r\n              We all know that over a lifetime, most of what we learn is not within \r\n              the context of a college, classroom or course. We develop daily \r\n              through natural exploration, exposure and encounters with knowledge \r\n              and people. It has even been described as learning that ‘takes \r\n              place at subconscious levels’ Rusaw (1995). Read \r\n              more To get your free copy contact us top"
+    },
+    {
+      "tag": "h2",
+      "text": "RESEARCH"
+    },
+    {
+      "tag": "p",
+      "text": "3a. Apractical guide to accessible e-learning Providing accessible e-learning is becoming \r\n              ever more critical in today's marketplace. It is not just a legal \r\n              requirement, but can confer a competitive advantage on the organisations \r\n              who make the effort to ensure that their e-learning is accessible. Anew report commissioned by the CIPD from Epic depicts the current \r\n              state of play, and provides practical recommendations on how organisations \r\n              should approach this thorny issue. Case studies illustrate how some \r\n              other organisations are going about providing accessible e-learning \r\n              without losing any interactivity or engagement. The full report will be available in the next few days for free \r\n              download via the CIPD website ( www.cipd.co.uk ). 3b. \r\n              Workflow Research Want to learn? Then stop trying. Research released in November 2004 suggests that, in some circumstances, \r\n              we learn best when we are not thinking about something too much. \r\n              Dr Paul Fletcher published his findings in Cerebral Cortex. The experiment was very clever involving the pressing of buttons \r\n              in response to screen information. What the learners did not know, \r\n              was that there were hidden sequences. Bizarrely those who simply \r\n              went on to push the buttons did well, even denying that there were \r\n              any sequences. When people were actively looking for the sequence, \r\n              they did not show any evidence of getting faster or better. In fact, \r\n              it appears that explicitly trying to learn obliterates implicit \r\n              learning. What’s going on here? Their results indicated that the frontal lobes were most active \r\n              during explicit learning, which was when they were looking for the \r\n              sequence but showed least improvement in performance. It was also \r\n              the case that, under this condition, the frontal lobes showed a \r\n              very different relationship with other key brain regions and interacting \r\n              with them in a different way than under circumstances in which subjects \r\n              were performing the task optimally. As Dr Fletcher said, 'This study shows that our frontal lobes, \r\n              although thought to be the seat of higher human psychological function, \r\n              may, under certain circumstances, be more of a hindrance than a \r\n              help. That is, as many sportspeople have already discovered for \r\n              themselves, there are certain circumstances under which we should \r\n              stop deliberating and just act.' This is an interesting finding and, in a small way supports the \r\n              idea of embedded or workflow learning, as opposed to separate learning \r\n              interventions. top 3c. \r\n                E-learning research - University of Sussex An interesting source of research in e-learning \r\n                is the www.reveel.sussex.ac.uk site. This provides access and links to good research with the \r\n                research methodology. This is an attempt to separate out the significant \r\n                studies from those that have poor methodologies. Several studies on learning effectiveness are of \r\n                interest including: Allen et al (2004) Guerandel et a (2003) Kekkonen-Moneta (2002) On community and connectivity: Uschi (2002) De Laat & Lally (2004) Rovai (2001) Kreijns et al (2003) There’s also a warning about the so-called \r\n                ‘grey literature’, where the research is perhaps serving \r\n                specific interests. On the whole this is a credible site that holds \r\n                lots of promise."
+    },
+    {
+      "tag": "div",
+      "text": "3d. ASTD State of the \r\n                industry"
+    },
+    {
+      "tag": "p",
+      "text": "Research: ASTD State of the Industry Report Just released this month, the annual 2004 report \r\n                has a wealth of data on the training industry based on data from \r\n                344 US organisations. The headlines are: 1. Learning increasingly linked to performance 2. E-learning up from 15.4% to 23.6% 3. Annual training expenditure per employee steady at $820 4. Time steady at 26 hours per employee top"
+    },
+    {
+      "tag": "h2",
+      "text": "INTERVIEW"
+    },
+    {
+      "tag": "p",
+      "text": "4. Given the chance, Epic \r\n                loves to hear the opinions and experiences of influential figures \r\n                within the learning industry. You may remember we ran an interview \r\n                with John Brown of Ufi Ltd. back in October. This month, Lee Maxey, \r\n                Chief Learning Officer at Pathlore, has generously answered our \r\n                e-learning questionnaire. The questionnaire aims to get personal \r\n                views, rather than general thoughts on the state of the market \r\n                and the questions have been designed acccordingly. Introduction by Donald Clark, Epic Lee Maxey has been a constant \r\n                source of inspiration for me. We have bumped into each other at \r\n                many conferences in many cities and I'm always amazed at the freshness \r\n                of his thoughts. One of his most endearing habits is his ability \r\n                to change his mind. Having promoted the idea of LCMSs, he now \r\n                sees them as red herrings. As an American who spent his early \r\n                years in Europe, he can also see things from both sides of the \r\n                pond. His sheer enthusiasm for learning and the internet comes \r\n                through in this interview. Q What's your INTEREST in learning/online \r\n                learning? I LOVE learning. My view is that if one is not learning, \r\n                then one is not really living. As a student, competitive athlete, \r\n                teacher, coach, and now as a parent, Icontinue to be amazed at \r\n                how different learning can be depending on one’s perspective. \r\n                Online learning is not the issue as much as one’s view of \r\n                learning as a whole. Having the understanding and appreciation \r\n                of how learning can change one’s world is far more important \r\n                than the delivery vehicle for learning. Q What interactive technology do you use \r\n                and have at HOME? We have a wireless DSL connection to the internet \r\n                and a basic TV. We don’t watch much TV. Our use of the internet \r\n                ranges from email, to shopping, to searches for needed information, \r\n                to finding kids resources. Q What stands out as your MOST EFFECTIVE \r\n                learning experience? Wood Badge training for Boy Scout Leaders and flight \r\n                school training to be a pilot were both powerful learning experiences. \r\n                They both were totally immersive, and continue to impact how Ithink about learning today. One was a team-based collaborative \r\n                experience that involved a lot of behavioural and a “soft \r\n                skill” focus. The other was an intense solitary activity \r\n                with high degrees of precision and procedure. Read the rest \r\n                of the interview top"
+    },
+    {
+      "tag": "h2",
+      "text": "ARTICLE"
+    },
+    {
+      "tag": "p",
+      "text": "5a. Audio Review: Will Wright – Simulation \r\n                Design At Epic we have all been excited recently by the \r\n                potential of audio files and iPods as learning devices. Thus when \r\n                Icame across an audio file by Will Wright on www.itconversations.com Idownloaded it to my iPod and began listening. Will Wright, for \r\n                those that don’t know, was the founder of Maxis, the company \r\n                that created the world’s best selling PC game The Sims. \r\n                This is a game that my daughter spends many hours playing and \r\n                hence Iwas also interested to understand the way the game was \r\n                designed. Will is also a very amusing speaker and interesting \r\n                individual. He explained that when he gets a new game the first \r\n                thing he does is work out what you have to do and then do the \r\n                complete opposite i.e. drive the wrong way on a racing game. He \r\n                also likes his children to experiment in the same way and added \r\n                “do you know that Barbie’s hair is flammable?” \r\n                Ipersonally liked his style which made me listen on. Read the rest of the \r\n                review 5b.Audio downloads and Podcasting www.itconversations.com offers free download audio files of conversations with leading \r\n                people in the IT industry and is just one of many sites offering \r\n                free audio downloads. You might also be interested in Podcasting. \r\n                Podcasting is like subscribing to a set of news feeds except that \r\n                rather than read them on screen you can listen at your PC or on \r\n                an iPod. There are many podcasting feeds you can subscribe to \r\n                at www.ipodder.org . These \r\n                include regular podcasts from US Universities on education and \r\n                technology. Even the BBC is getting in on the act. You can now \r\n                sign up to the “In our Time” podcast where Melvyn \r\n                Bragg and three guests investigate the history of ideas and debate \r\n                their application in modern life. Just go to http://www.bbc.co.uk/radio4/history/inourtime/mp3_podcast.shtml . \r\n                This automatically delivers a new audio file to your PC whenever \r\n                the BBC updates it. Alternatively if you just want to download \r\n                the file manually go to http://www.bbc.co.uk/radio4/history/inourtime/mp3.shtml . Happy listening! top"
+    },
+    {
+      "tag": "h2",
+      "text": "SHOW REPORT"
+    },
+    {
+      "tag": "p",
+      "text": "6. Online Educa Berlin 2004 Epic's Donald Clark recently spoke at the Online \r\n                Educa international conference in Berlin. Here is his report of \r\n                the show. Online Educa is 10 years old this year and remains \r\n                the leading European e-learning conference with:"
+    },
+    {
+      "tag": "div",
+      "text": "1700 registered participants from 60 countries attendees from 63 countries 344 speakers from 43 countries 71 themed sessions"
+    },
+    {
+      "tag": "p",
+      "text": "It’s an eclectic mix of researchers, educationalists, \r\n                corporates and policy makers. Note that this doesn’t mean \r\n                any real interaction between them. Indeed there were some fractious \r\n                sessions and more than the odd culture clash (more of this later). \r\n                In many ways this is what makes this an interesting event. Astrong feature of the conference is the short \r\n                speaker slots. Three or four speakers per session means they’re \r\n                limited to about 20 mins each. This lowers the odds on boredom, \r\n                and as the speakers still have to pay to attend the quality can \r\n                be variable. In fact, this year, there was some disgruntlement \r\n                around ‘presentation skills’. Read \r\n                the rest of the report top"
+    },
+    {
+      "tag": "h2",
+      "text": "NEWS"
+    },
+    {
+      "tag": "p",
+      "text": "7a. Useful e-learning \r\n                        source Schmoller \r\n                        news Seb Schmoller has been working away in e-learning \r\n                        for years. His ALT organisation is now a large and credible \r\n                        body, but it is his useful mailing that I’d like \r\n                        to turn your attention to. If you want useful UK news \r\n                        stories and links in e-learning, Seb keeps his eye on \r\n                        the e-learning ball. Ihave personally found this a useful \r\n                        source of market and academic information. He also reviews our White Papers (fairly \r\n                        and objectively). Ishould add that our decision to make \r\n                        some available without registration was his idea. HIGHLY RECOMMENDED 7b. Healthcare and e-learning \r\n                        in the US Healthcare in the US has surprisingly low \r\n                        levels of training spend with many hospitals facing shrinking \r\n                        budgets, an unsophisticated infrastructure but a highly \r\n                        technical and diverse audience and 24/7 operations. However, \r\n                        they have lots of external training requirements – \r\n                        especially in health and safety. Joint Commission for Accreditation of Healthcare \r\n                        Organisations (JCAHO), an accreditation body that requires \r\n                        documented annual training. Then there’s the Office \r\n                        of Inspector General (OIG) where compliance is backed \r\n                        up with huge penalties on fraud and abuse allegations. \r\n                        Hospitals therefore need compliance plans and need to \r\n                        adhere to National standards. Clinical professionals also \r\n                        need annual training. It is imperative that they receive \r\n                        annual training. The Risk Management Issues are enormous, \r\n                        especially around professional liability and malpractice \r\n                        issues. Read \r\n                        the rest of the report top"
+    },
+    {
+      "tag": "h2",
+      "text": "JOBS!"
+    },
+    {
+      "tag": "p",
+      "text": "8. Job vacancies Epic is currently looking for e-learning designers \r\n                  and project managers. Apply \r\n                  through our web site"
+    },
+    {
+      "tag": "h2",
+      "text": "BLENDED LEARNING COURSE \r\n                  - BOOK NOW"
+    },
+    {
+      "tag": "p",
+      "text": "Develop an Effective Blended \r\n                  Learning Programme. This unique course from Epic, centred around \r\n                  a practical, hands-on workshop, gives a step-by step methodology \r\n                  for designing effective blended programmes, and tools to help \r\n                  with the decision-making process. Click \r\n                  here for full course content and booking top"
+    },
+    {
+      "tag": "h2",
+      "text": "9. \r\n                  DIARY FOR 2005 - JANUARY TO JUNE"
+    },
+    {
+      "tag": "div",
+      "text": "Date Event Venue January \r\n                      2005"
+    },
+    {
+      "tag": "p",
+      "text": "12-15 Jan BETT: \r\n                        the educational technology show Olympia, London 18-19 Jan NILTA Annual Conference 2005 London 20 Jan E-learning \r\n                        Conference 2005 University of Ulster 25-26 Jan Elearn \r\n                        Expo Paris Palais des Congrès, Paris"
+    },
+    {
+      "tag": "div",
+      "text": "26-27 Jan"
+    },
+    {
+      "tag": "p",
+      "text": "Learning \r\n                        Technologies 2005 EPIC EXHIBITS: Visit Epic on stand 62"
+    },
+    {
+      "tag": "div",
+      "text": "Olympia, London February \r\n                      2005"
+    },
+    {
+      "tag": "p",
+      "text": "15-18 Feb LEARNTEC \r\n                        2005 Karlsruhe, GER 16-17 Feb 2nd \r\n                        Annual Financial eLearning Forum New York, USA 21-23 Feb WBE \r\n                        2005 Grindelwald, Switzerland 28 Feb - 02 Mar Training \r\n                        2005 New Orleans, Louisiana, USA"
+    },
+    {
+      "tag": "div",
+      "text": "March \r\n                      2005"
+    },
+    {
+      "tag": "p",
+      "text": "1-5 Mar"
+    },
+    {
+      "tag": "div",
+      "text": "SITE \r\n                      International Conference"
+    },
+    {
+      "tag": "p",
+      "text": "Phoenix , Arizona, \r\n                        USA 9 -11 Mar"
+    },
+    {
+      "tag": "div",
+      "text": "SOCPO \r\n                      Annual Conference"
+    },
+    {
+      "tag": "p",
+      "text": "Brighton"
+    },
+    {
+      "tag": "div",
+      "text": "15-16 Mar"
+    },
+    {
+      "tag": "p",
+      "text": "The \r\n                        Multi Channel Retail Show MCRS \r\n                        2005 EPIC EXHIBITS"
+    },
+    {
+      "tag": "div",
+      "text": "ExCel, London"
+    },
+    {
+      "tag": "p",
+      "text": "17-19 Mar The \r\n                        Education Show NEC Birmingham 18 Mar E-Learning \r\n                        in Health and Social Care Wrexham, North Wales 21-23 Mar HC2005 \r\n                        Conference Harrogate"
+    },
+    {
+      "tag": "div",
+      "text": "April \r\n                      2005"
+    },
+    {
+      "tag": "p",
+      "text": "2-5 Apr"
+    },
+    {
+      "tag": "div",
+      "text": "e-Learning \r\n                      2005 Dallas, Texas"
+    },
+    {
+      "tag": "p",
+      "text": "12 -14 \r\n                        Apr HRD \r\n                        2005 HRD \r\n                        2005 EPIC EXHIBITS"
+    },
+    {
+      "tag": "div",
+      "text": "Olympia, London"
+    },
+    {
+      "tag": "p",
+      "text": "14-16 Apr"
+    },
+    {
+      "tag": "div",
+      "text": "EURO \r\n                      TAAC 2005 Blackpool, UK"
+    },
+    {
+      "tag": "p",
+      "text": "26 Apr"
+    },
+    {
+      "tag": "div",
+      "text": "The \r\n                      British Learning Association Conference 2005 Royal Institution, London 26-28 Apr"
+    },
+    {
+      "tag": "p",
+      "text": "ITEC \r\n                        2005 EPIC EXHIBITS:"
+    },
+    {
+      "tag": "div",
+      "text": "Amsterdam RAI International Exhibition \r\n                      & Congress Centre May \r\n                      2005"
+    },
+    {
+      "tag": "p",
+      "text": "11-13 May"
+    },
+    {
+      "tag": "div",
+      "text": "Online \r\n                      Educa Madrid Madrid, Spain"
+    },
+    {
+      "tag": "p",
+      "text": "11 -14 May"
+    },
+    {
+      "tag": "div",
+      "text": "The \r\n                      Human Resources Forum Aurora - Southampton Western Dock"
+    },
+    {
+      "tag": "p",
+      "text": "22-24 May"
+    },
+    {
+      "tag": "div",
+      "text": "eLearning \r\n                      Summit California, USA"
+    },
+    {
+      "tag": "p",
+      "text": "24-25 May"
+    },
+    {
+      "tag": "div",
+      "text": "ICEIS \r\n                      2005 Miami, USA"
+    },
+    {
+      "tag": "p",
+      "text": "26-27 May"
+    },
+    {
+      "tag": "div",
+      "text": "eLearnExpo \r\n                      Moscow 2005 Moscow, Russia June \r\n                      2005"
+    },
+    {
+      "tag": "p",
+      "text": "5-9 Jun"
+    },
+    {
+      "tag": "div",
+      "text": "ASTD \r\n                      International conference and exhibition Orlando, Florida, USA"
+    },
+    {
+      "tag": "p",
+      "text": "15-17 Jun"
+    },
+    {
+      "tag": "div",
+      "text": "eLit2005 Glasgow, Scotland"
+    },
+    {
+      "tag": "p",
+      "text": "20-23 Jun Eden \r\n                        2005 Helsinki, Finland 21-22 Jun"
+    },
+    {
+      "tag": "div",
+      "text": "GC \r\n                      Expo 2005 London, UK"
+    },
+    {
+      "tag": "p",
+      "text": "21-22 Jun"
+    },
+    {
+      "tag": "div",
+      "text": "e.Learning \r\n                      Regions&Cities 2005 Oxford, UK"
+    },
+    {
+      "tag": "p",
+      "text": "22-23 Jun"
+    },
+    {
+      "tag": "div",
+      "text": "HR \r\n                      Software Show Olympia, London"
+    },
+    {
+      "tag": "p",
+      "text": "27-28 Jun The \r\n                        Science Learning and Teaching Conference 2005 Warwick, UK 27 Jun- 2 Jul"
+    },
+    {
+      "tag": "div",
+      "text": "Ed-Media \r\n                      2005 Montreal, Canada"
+    },
+    {
+      "tag": "h2",
+      "text": "RETURN OF POST"
+    },
+    {
+      "tag": "p",
+      "text": "If you have: * a question to put to the Epic Thinking user base * a response to any of the points raised here * a suggestion for a topic you'd like to see covered mail \r\n                  us right now"
+    },
+    {
+      "tag": "h2",
+      "text": "HOUSEKEEPING"
+    },
+    {
+      "tag": "p",
+      "text": "Fed up with your colleagues \r\n                  reading this newsletter over your shoulder? Tell them to get \r\n                  their own... To \r\n                  subscribe click here putting 'subscribe' in the subject \r\n                  field To \r\n                  unsubscribe click here putting 'unsubscribe' in the subject \r\n                  field Epic provides a full range \r\n                  of services and facilities from consultancy to delivery of e-learning \r\n                  and e-government solutions. EpiCentre, part of Epic provides \r\n                  a dedicated testing and localisation service. To \r\n                  order our 12-page corporate brochure email click here and put 'brochure' in the subject line"
+    },
+    {
+      "tag": "h2",
+      "text": "CONFIDENTIALITY"
+    },
+    {
+      "tag": "p",
+      "text": "This email and any attachments \r\n                  are private and confidential and may also be subject to legal \r\n                  privilege. If you are not the named recipient, please notify \r\n                  the sender immediately and do not disclose the contents to another \r\n                  person, use it for any purpose, or store or copy the information \r\n                  in any medium. Internet communications are not secure and Epic \r\n                  is not responsible for their misuse by third parties, or for \r\n                  any possible alteration or data corruption in transmission. \r\n                  You should not rely solely on the contents that should be checked \r\n                  against hard copy. top"
+    },
+    {
+      "tag": "div",
+      "text": "See also: Sector \r\n            coverage Our \r\n            clients Testimonials Awards"
+    },
+    {
+      "tag": "p",
+      "text": "Corporate brochure: E-Learning at Epic Data sheets: Epic Consulting, Accessibility Lab, \r\n              Arena, Blended Learning ROI Calculator (‘The Blender’), \r\n              Epic P2P, Hosting, Thought Leadership Programme, Testing (x4) White papers: Blended Learning, Blended\r\n                  \t\t\t\t\t\t\t\t\tLearning in Practice Survey report: The Future of E-Learning"
+    },
+    {
+      "tag": "div",
+      "text": "Go to downloads"
+    },
+    {
+      "tag": "div",
+      "text": "Copyright Epic 2006. All rights reserved. Home | Contact \r\n      us | Jobs \r\n      at Epic | Client \r\n      extranet | Press \r\n      information"
+    }
+  ]
+}

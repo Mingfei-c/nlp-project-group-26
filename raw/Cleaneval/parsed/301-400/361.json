@@ -1,0 +1,38 @@
+{
+  "url": "http://www.culture.gov.uk/global/press_notices/archive_2005/dvdmarketboost_pactdcms.htm",
+  "file_number": "361",
+  "content_hash": "c9b0476a59c6275c9f7abfc9037c01a73475478a9335ade134be2fbe48b5fbae",
+  "total_blocks": 34,
+  "retained_blocks": 7,
+  "ignored_blocks": 27,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd\""
+    },
+    {
+      "tag": "h1",
+      "text": "Department for Culture Media and Sport"
+    },
+    {
+      "tag": "div",
+      "text": "home"
+    },
+    {
+      "tag": "h1",
+      "text": "404 Page Not Found"
+    },
+    {
+      "tag": "p",
+      "text": "The DCMS web page or document you are looking for has not been found. We have recently redesigned and restructured our website, and the information you are looking for may have been moved or deleted."
+    },
+    {
+      "tag": "div",
+      "text": "If you are looking for a specific piece of information, you may find it easier to use the search engine or our Site Map . If you are looking for a particular document DCMS has published, you can search our Reference Library . If you still cannot find what you are looking for contact us with details and we will try to help. Click here to return to the Department of Culture, Media and Sport home page."
+    },
+    {
+      "tag": "p",
+      "text": "Please update your bookmarks with the new URL."
+    }
+  ]
+}
