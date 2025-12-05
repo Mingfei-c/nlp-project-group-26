@@ -3,12 +3,12 @@
   "file_number": "681",
   "content_hash": "3e792e4849bf3f09aac2cf8c091b34aea69927ffb2db5c22a19f1158d766e90f",
   "total_blocks": 152,
-  "retained_blocks": 91,
-  "ignored_blocks": 61,
+  "retained_blocks": 89,
+  "ignored_blocks": 63,
   "blocks": [
     {
       "tag": "div",
-      "text": "New site design help Jump to site navigation Jump to Daily Life navigation end of #headerContainer"
+      "text": "New site design help Jump to site navigation Jump to Daily Life navigation"
     },
     {
       "tag": "h1",
@@ -268,7 +268,7 @@
     },
     {
       "tag": "div",
-      "text": "Print Email end of #middleColumn end of #middleColumnWrapper"
+      "text": "Print Email"
     },
     {
       "tag": "h2",
@@ -276,15 +276,11 @@
     },
     {
       "tag": "div",
-      "text": "Contact us FAQs Useful links Adapting to sight loss Doing everyday things Talk and Support Emotional support here to HELP Community care end of #leftColumn end of #leftColumnWrapper end of #middleLeftWrapper"
+      "text": "Contact us FAQs Useful links Adapting to sight loss Doing everyday things Talk and Support Emotional support here to HELP Community care"
     },
     {
       "tag": "h2",
       "text": "More info"
-    },
-    {
-      "tag": "div",
-      "text": "pollImageName=\"poll\" & poll_id & \".jpg\""
     },
     {
       "tag": "h3",
@@ -321,10 +317,6 @@
     {
       "tag": "p",
       "text": "Brandon's story - 10-year-old Brandon is registered blind. At school he doesn't get access to the same choice of books as sighted children. His mum says: \"It's not the fault of the teachers. It's the fact that many of the books he likes to read are not available in braille or audio. I'd like the Government to act now. If the situation doesn't improve, I'm worried that as he gets older, Brandon won't receive the books he needs.” Right to Read campaign"
-    },
-    {
-      "tag": "div",
-      "text": "end of #rightColumn end of #rightColumnWrapper end of #mainContentWrapper end of #columnColours"
     },
     {
       "tag": "h3",

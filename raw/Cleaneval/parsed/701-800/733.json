@@ -3,12 +3,12 @@
   "file_number": "733",
   "content_hash": "a0ed5169b3e4b45fee1e3a2be5984ccddecafae8963ce892b6463f0f0d0418eb",
   "total_blocks": 317,
-  "retained_blocks": 99,
-  "ignored_blocks": 218,
+  "retained_blocks": 100,
+  "ignored_blocks": 217,
   "blocks": [
     {
       "tag": "div",
-      "text": "ULTIMATE DROPDOWN MENU v3.6 by Brothercake http://www.brothercake.com/dropdown/ Keyword Search"
+      "text": "Keyword Search"
     },
     {
       "tag": "p",
@@ -256,7 +256,7 @@
     },
     {
       "tag": "div",
-      "text": "<tr valign=\"top\"> \r\n          <td><font size=1>&#187;&nbsp;</font></td>\r\n          <td> \r\n            <p><a href=\"../askthedoc/ask_the_doc0304.html\" class=\"toc\">Bariatric Surgery: Shedding Pounds and Saving Lives</a><br>\r\n              <font color=\"#666666\" size=\"1\"> (March 01, 04)</font></p>\r\n          </td>\r\n        </tr> »"
+      "text": "»"
     },
     {
       "tag": "p",
@@ -396,11 +396,15 @@
     },
     {
       "tag": "p",
-      "text": "Colon Cancer (May 23, 02) Printer Friendly Version"
+      "text": "Colon Cancer (May 23, 02)"
+    },
+    {
+      "tag": "p",
+      "text": "Printer Friendly Version"
     },
     {
       "tag": "div",
-      "text": "Home | Welcome | Services | Patient Information | Employment | News | Physician \r\n\t      Directory Wellness/Classes | Special Events | Foundation | Support \r\n\t      Groups | Medical Staff Education Hints | Index | <a href=\"/search.html\">Search</a> Copyright © 1996-2006 \r\n\t      www.suburbanhospital.org All rights reserved."
+      "text": "Home | Welcome | Services | Patient Information | Employment | News | Physician \r\n\t      Directory Wellness/Classes | Special Events | Foundation | Support \r\n\t      Groups | Medical Staff Education Hints | Index Copyright © 1996-2006 \r\n\t      www.suburbanhospital.org All rights reserved."
     }
   ]
 }

@@ -3,12 +3,20 @@
   "file_number": "576",
   "content_hash": "312e14a99343b10cab7340bb7830484286ef7b753b85b5aa292e51f082e5c877",
   "total_blocks": 261,
-  "retained_blocks": 7,
-  "ignored_blocks": 254,
+  "retained_blocks": 11,
+  "ignored_blocks": 250,
   "blocks": [
     {
       "tag": "div",
-      "text": "Search The Web Mirror.co.uk for Home | News | Sport | 3am | Blogs | TV & Film | Dating | Gaming | More > Sport > Reade on Sport container object end of container object container object end of container object container object LATEST: end of container object container object SVEN ARE YOU GOING TO BELIEVE US.. WE'RE GOING TO WIN THE CUP 18 October 2003"
+      "text": "Search The Web Mirror.co.uk for"
+    },
+    {
+      "tag": "div",
+      "text": "Home | News | Sport | 3am | Blogs | TV & Film | Dating | Gaming | More > Sport > Reade on Sport"
+    },
+    {
+      "tag": "div",
+      "text": "LATEST: SVEN ARE YOU GOING TO BELIEVE US.. WE'RE GOING TO WIN THE CUP 18 October 2003"
     },
     {
       "tag": "p",
@@ -24,7 +32,7 @@
     },
     {
       "tag": "div",
-      "text": "Print page Email to a friend end of container object end of column container object More Reade on Sport"
+      "text": "Print page Email to a friend More Reade on Sport"
     },
     {
       "tag": "p",
@@ -32,7 +40,15 @@
     },
     {
       "tag": "div",
-      "text": "more... end of container object container object columnist teaser Search Reade on Sport e.g. zinedine zidane end of container object container object end of container object container object end of container object container object RSS Link Reade on Sport RSS Feed (what's this?) End of RSS Link end of container object end of column Advertisement end of column Downloads | Fun & Games | Motoring | Your Life | Film Store | Leisure Guide | Horoscopes | Holidays | More > Home | News | Sport | 3am | Blogs | TV & Film | Dating | Gaming | Downloads | Fun & Games | Motoring | Your Life | Film Store | Leisure Guide | Horoscopes | Holidays | Weather | Web & Mobile | Casino | Ticketmaster | Bingo & Win | House & Home | Mobile | Scottish News and Sport | Northern Ireland News and Sport | We Love Telly | Terms and Conditions | Contact Us | Privacy Policy | About us | Betfair | Big Brother | Jobs WEBSIDESTORY CODE HBX1.0 (Universal) COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy END WEBSIDESTORY CODE container object begin ad tag End ad tag end of container object"
+      "text": "more... Search Reade on Sport e.g. zinedine zidane Reade on Sport RSS Feed (what's this?) Advertisement"
+    },
+    {
+      "tag": "div",
+      "text": "Downloads | Fun & Games | Motoring | Your Life | Film Store | Leisure Guide | Horoscopes | Holidays | More >"
+    },
+    {
+      "tag": "div",
+      "text": "Home | News | Sport | 3am | Blogs | TV & Film | Dating | Gaming | Downloads | Fun & Games | Motoring | Your Life | Film Store | Leisure Guide | Horoscopes | Holidays | Weather | Web & Mobile | Casino | Ticketmaster | Bingo & Win | House & Home | Mobile | Scottish News and Sport | Northern Ireland News and Sport | We Love Telly | Terms and Conditions | Contact Us | Privacy Policy | About us | Betfair | Big Brother | Jobs"
     }
   ]
 }

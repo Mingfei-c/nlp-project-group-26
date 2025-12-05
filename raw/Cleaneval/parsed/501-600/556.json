@@ -3,12 +3,24 @@
   "file_number": "556",
   "content_hash": "14eebfbbc31ea7a27b7c4b593203fbf70be85a299dd77720f2f29ec791e6916d",
   "total_blocks": 180,
-  "retained_blocks": 19,
-  "ignored_blocks": 161,
+  "retained_blocks": 22,
+  "ignored_blocks": 158,
   "blocks": [
     {
       "tag": "div",
-      "text": "upper header start Take me to... upper header end header bar start This site The web men search <input type=\"submit\" name=\"submit\" value=\"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\" class=\"infoseeksubmit\" /> Site map : FREE web feed header bar end : Bookmark News nav column start Manchester Evening News News Education Health Technology Showbiz User Comments Your Pictures Manchester Bomb Shipman Archive News Archive News Sport Football Entertainment Business Jobs Personal Finance Blogs Photo Galleries Postbag In Touch Crossword Audio & Video Dating About Us Contact Us Manchester Online Health and Beauty Advertise A Job CV-Station Homes Food & Drink Holidays Motors Classifieds The Cloud Wi-Fi Bingo IQ Tests Family Notices Public Transport Hotels Dating Mancunians Build A Site Tourist Guide Local Press Weather Online Shop Advertising Broadband Manchester United Rental Property Driving Experience Holiday Rentals Hotels in Manchester"
+      "text": "Take me to..."
+    },
+    {
+      "tag": "div",
+      "text": "This site The web Site map : FREE web feed"
+    },
+    {
+      "tag": "div",
+      "text": ": Bookmark News"
+    },
+    {
+      "tag": "div",
+      "text": "Manchester Evening News News Education Health Technology Showbiz User Comments Your Pictures Manchester Bomb Shipman Archive News Archive News Sport Football Entertainment Business Jobs Personal Finance Blogs Photo Galleries Postbag In Touch Crossword Audio & Video Dating About Us Contact Us Manchester Online Health and Beauty Advertise A Job CV-Station Homes Food & Drink Holidays Motors Classifieds The Cloud Wi-Fi Bingo IQ Tests Family Notices Public Transport Hotels Dating Mancunians Build A Site Tourist Guide Local Press Weather Online Shop Advertising Broadband Manchester United Rental Property Driving Experience Holiday Rentals Hotels in Manchester"
     },
     {
       "tag": "p",
@@ -16,7 +28,11 @@
     },
     {
       "tag": "div",
-      "text": "include virtual=\"/ssi/google120x600.txt\" nav column end home > news columnone content start Email to a Friend | Your comments Friday, 30th July 2004"
+      "text": "home > news"
+    },
+    {
+      "tag": "div",
+      "text": "Email to a Friend | Your comments Friday, 30th July 2004"
     },
     {
       "tag": "h4",
@@ -55,16 +71,12 @@
       "text": "Jim Dobbin, MP for Heywood and Middleton: \"Ivery much support the campaign. The more opinion formers we have the better and that includes the Manchester Evening News.\" Keith Bradley, Labour, Manchester Withington: \"There will be huge disappointment in South Manchester because of yet another delay in bringing Metrolink extensions through to my constituency and to Manchester Airport.\" Beverley Hughes, Labour MP for Stretford and Urmston: \"The extension is essential and should go ahead. Metrolink is a really crucial part of Greater Manchester's economic development.\" Andrew Bennett, Labour, Denton and Reddish: \"Iam utterly disgusted. It's another example of the way people of London and the south east get resources. We need to look at new ways of funding this project including congestion charging.\" David Heyes, Labour, Ashton-under-Lyne: \"It's a double blow for me and my constituents as two lines would have run through Ashton. Iam seeking an urgent meeting with Mr Darling. Iwill carry on fighting.\" Ivan Lewis, Labour, Bury South, Minister for Skills and Vocational Education: Iendorse other MPs and Igoing back to the Department of Transport and getting them to think again . . . we all need to work together.\" Submit your comments"
     },
     {
-      "tag": "div",
-      "text": "columnone content end columtwo content start"
-    },
-    {
       "tag": "h5",
       "text": "Current headlines"
     },
     {
       "tag": "div",
-      "text": "Parents launch fund for murdered woman Thousand gather for Boxing Day hunts Half of us ditch New Year's Resolutions Sex does matter at the sales Kylie's top role model for 2006 Gym for mates as well as health Poisoned spy's contact arrested Snow no show Queen praises courage of armed forces Police appeal after man raped Bishop enters veil row Bus fleet banned from city's roads The £1m bill for a bright Christmas Reunited - couple forced to live in separate homes Airport cheer for the festive jet-setters Shameless star Jody is arrested in drugs raid Christmas dinner takes you round the world Homeless helpers still need cash and food Lads lift the Premiership Winter springs a floral surprise in the garden columntwo content end right hand column start"
+      "text": "Parents launch fund for murdered woman Thousand gather for Boxing Day hunts Half of us ditch New Year's Resolutions Sex does matter at the sales Kylie's top role model for 2006 Gym for mates as well as health Poisoned spy's contact arrested Snow no show Queen praises courage of armed forces Police appeal after man raped Bishop enters veil row Bus fleet banned from city's roads The £1m bill for a bright Christmas Reunited - couple forced to live in separate homes Airport cheer for the festive jet-setters Shameless star Jody is arrested in drugs raid Christmas dinner takes you round the world Homeless helpers still need cash and food Lads lift the Premiership Winter springs a floral surprise in the garden"
     },
     {
       "tag": "p",
@@ -80,7 +92,7 @@
     },
     {
       "tag": "div",
-      "text": "right hand column end This site The web men search <input type=\"submit\" name=\"submit\" value=\"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\" class=\"infoseeksubmit\" /> footer start Home | About Us | Advertise With Us | Site Map | Contact Us Audio & Video . Business . Crossword . Entertainment . Football . In Touch . Kilimanjaro 2005 . News . Personal Finance . Photo Galleries . Postbag . Sport . Blogs .\n<a href=\"/healthandbeauty/\">Health&nbsp;&amp;&nbsp;Beauty</a>\n.\n<a href=\"/jobs/\">Jobs</a>\n.\n<a href=\"/cars/\">Cars</a>\n.\n<a href=\"/homesearch/\">Home&nbsp;Search</a>\n.\n<a href=\"/classifieds/\">Classifieds</a>\n.\n<a href=\"/publictransport/\">Public&nbsp;Transport</a>\n.\n<a href=\"/competitions/\">Competitions</a>\n.\n<a href=\"/accommodation/\">Hotels</a>\n.\n<a href=\"/food/\">Food&nbsp;&amp;&nbsp;Drink</a>\n.\n<a href=\"/dating/\">Dating</a>\n.\n<a href=\"/mancunian/\">Mancunians</a>\n.\n<a href=\"http://www.mymanchesteronline.co.uk/\" target=\"_blank\">Build&nbsp;A&nbsp;Site</a>\n.\n<a href=\"/tourist/\">Tourist&nbsp;Guide</a>\n.\n<a href=\"/newspapers/\">Local&nbsp;Press</a>\n.\n<a href=\"/weather/\">Weather</a>\n.\n<a href=\"/shopping/\">Online&nbsp;Shop</a>\n.\n<a href=\"/travel/\">Travel</a> © Copyright 2006 Manchester Evening News . footer end Sublime Media Tag for manchesteronline_couk(Place within the HEAD tags only)"
+      "text": "This site The web Home | About Us | Advertise With Us | Site Map | Contact Us Audio & Video . Business . Crossword . Entertainment . Football . In Touch . Kilimanjaro 2005 . News . Personal Finance . Photo Galleries . Postbag . Sport . Blogs © Copyright 2006 Manchester Evening News ."
     }
   ]
 }

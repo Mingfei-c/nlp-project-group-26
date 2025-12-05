@@ -3,12 +3,12 @@
   "file_number": "113",
   "content_hash": "3d3fa011d32079ebaabc4e0014747571bcceef2e1e06f9b436ecc912dd1fee99",
   "total_blocks": 539,
-  "retained_blocks": 179,
-  "ignored_blocks": 360,
+  "retained_blocks": 174,
+  "ignored_blocks": 365,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" banner"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
     },
     {
       "tag": "h1",
@@ -16,15 +16,7 @@
     },
     {
       "tag": "h2",
-      "text": "The Further Adventures of Jeremy Smith, aka \"Mr. Beaks\", aka Melvin Moody"
-    },
-    {
-      "tag": "div",
-      "text": "sidebar user photo about page link"
-    },
-    {
-      "tag": "h2",
-      "text": "About Archives"
+      "text": "The Further Adventures of Jeremy Smith, aka \"Mr. Beaks\", aka Melvin Moody About Archives"
     },
     {
       "tag": "div",
@@ -44,19 +36,7 @@
     },
     {
       "tag": "p",
-      "text": "Clipse: Hell Hath No Fury My Morning Jacket: Okonokos Ratatat: Classics TV on the Radio: Return to Cookie Mountain"
-    },
-    {
-      "tag": "div",
-      "text": "archive nav"
-    },
-    {
-      "tag": "p",
-      "text": "« December 2004 | Main | February 2005 »"
-    },
-    {
-      "tag": "div",
-      "text": "entries"
+      "text": "Clipse: Hell Hath No Fury My Morning Jacket: Okonokos Ratatat: Classics TV on the Radio: Return to Cookie Mountain « December 2004 | Main | February 2005 »"
     },
     {
       "tag": "h2",

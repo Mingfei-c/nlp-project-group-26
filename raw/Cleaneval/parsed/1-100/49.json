@@ -8,7 +8,7 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "Contact Us JaX"
+      "text": "Contact Us"
     },
     {
       "tag": "p",
@@ -16,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "Join Our Green Alert List JaX"
+      "text": "Join Our Green Alert List"
     },
     {
       "tag": "p",
@@ -24,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "Earth Tones Residential Long Distance Service JaX"
+      "text": "Earth Tones Residential Long Distance Service"
     },
     {
       "tag": "p",
@@ -32,7 +32,7 @@
     },
     {
       "tag": "div",
-      "text": "© 2006, Earth Tones - All rights reserved. <font size=\"-10\" color=\"fefefe\"><br>\r\n\tSoftware provided by <a href=\"http://allianceisp.biz\"><font color=\"fefefe\">ASI</font></a></font> MemberID ="
+      "text": "© 2006, Earth Tones - All rights reserved."
     }
   ]
 }

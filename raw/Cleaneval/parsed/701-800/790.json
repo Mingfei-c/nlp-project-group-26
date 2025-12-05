@@ -3,12 +3,24 @@
   "file_number": "790",
   "content_hash": "56b86b8e32a711585d331fc4946c2ec1d214ac3f457a0a492190e02beceff68e",
   "total_blocks": 334,
-  "retained_blocks": 13,
-  "ignored_blocks": 321,
+  "retained_blocks": 21,
+  "ignored_blocks": 313,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" saved from url=(0089)http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2003/05/25/BU268156.DTL begin ZEDO end ZEDO BEGIN LEFT RAIL AREA Search in: Articles - 30 \r\n                    days - \r\n                    Archive - Photos ----- Classifieds Jobs Rentals Real Estate Vehicles ----- Dining Movies Events Art Music PerfArts ----- Lodging SFGate \r\n                  Home Today's \r\n                  Chronicle Sports Entertainment News & \r\n                  Features Business Opinion Politics Technology Crime Science Weird News Polls Photo Gallery Columnists Lottery Obituaries Personal Shopper Classifieds Jobs Personals Real Estate Rentals Vehicles WebAds Regional Traffic Weather Live Views Maps Bay Area Traveler Wine Country Reno & Tahoe Ski & Snow Outdoors Entertainment Food & Dining Wine Movies Music & Nightlife Events Performance Art Books Comics TV & Radio Search Listings Living Health Home & Garden Gay & Lesbian Horoscope Resources Search & Archives Feedback/Contacts Corrections Newsletters Promotions Site Index Chronicle Services Missed Delivery Vacation Hold Subscribe Contact Advertising Advertise Online Place Print Ad Media \r\n            Kit END LEFT RAIL END LEFT RAIL AREA THE GUTTER END GUTTER BEGIN MAIN SPREAD begin article nested table here divider /divider Visa's use provokes opposition by techies L-1 \r\n                  regarded as threat to workers Carrie Kirby, Chronicle \r\n                  Staff Writer Sunday, May \r\n                  25, 2003 PAPER LOGO if expr=\"('' eq 'pm')\" <A HREF=\"#sections\"><IMG SRC=\"/templates/brands/chronicle/images/chroniclepm.gif\" WIDTH=150 HEIGHT=36 BORDER=0></A> else endif"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Search in: Articles - 30 \r\n                    days - \r\n                    Archive - Photos ----- Classifieds Jobs Rentals Real Estate Vehicles ----- Dining Movies Events Art Music PerfArts ----- Lodging"
+    },
+    {
+      "tag": "div",
+      "text": "SFGate \r\n                  Home Today's \r\n                  Chronicle Sports Entertainment News & \r\n                  Features Business Opinion Politics Technology Crime Science Weird News Polls Photo Gallery Columnists Lottery Obituaries Personal Shopper Classifieds Jobs Personals Real Estate Rentals Vehicles WebAds Regional Traffic Weather Live Views Maps Bay Area Traveler Wine Country Reno & Tahoe Ski & Snow Outdoors Entertainment Food & Dining Wine Movies Music & Nightlife Events Performance Art Books Comics TV & Radio Search Listings Living Health Home & Garden Gay & Lesbian Horoscope Resources Search & Archives Feedback/Contacts Corrections Newsletters Promotions Site Index Chronicle Services Missed Delivery Vacation Hold Subscribe Contact Advertising Advertise Online Place Print Ad Media \r\n            Kit"
+    },
+    {
+      "tag": "div",
+      "text": "Visa's use provokes opposition by techies L-1 \r\n                  regarded as threat to workers Carrie Kirby, Chronicle \r\n                  Staff Writer Sunday, May \r\n                  25, 2003"
     },
     {
       "tag": "p",
@@ -40,23 +52,43 @@
     },
     {
       "tag": "div",
-      "text": "RIGHT HAND GUTTER drop in column Printer-friendly \r\n                  version Email \r\n                  this article to a friend"
+      "text": "Printer-friendly \r\n                  version Email \r\n                  this article to a friend"
     },
     {
       "tag": "p",
-      "text": "START OF QUOTEBOX Get Quote: Detailed News Charts SEC Filings Company Profile Historical \r\n                                Quotes Symbol \r\n                                Lookup END OF QUOTEBOX Main \r\n                                Business & Finance Page : Stock \r\n                                quotes, portfolio, funds and more... SFGate \r\n                                Technology : It's a high-tech world - - \r\n                                we just plug you into \r\n                                it..."
+      "text": "Get Quote:"
+    },
+    {
+      "tag": "p",
+      "text": "Detailed News Charts SEC Filings Company Profile Historical \r\n                                Quotes Symbol \r\n                                Lookup"
+    },
+    {
+      "tag": "p",
+      "text": "Main \r\n                                Business & Finance Page : Stock \r\n                                quotes, portfolio, funds and more... SFGate \r\n                                Technology : It's a high-tech world - - \r\n                                we just plug you into \r\n                                it..."
     },
     {
       "tag": "div",
-      "text": "MORTGAGE UNDERWRITERS BANK OF AMERICA SALES 2,000 ... Signing Bonus! \r\n                                $5,500/wk. TEACHER MATH w/pre Alg., Alg., \r\n                                Geom., Alg. I MANAGEMENT REGIONAL VP SALES/NAT'L \r\n                                ACCTS infoUSA COLLECTIONS EXPERIENCED \r\n                                COLLECTORS R M A SALES CAREER OPPORTUNITY Local \r\n                                sales posit GRANT WRITER w/min. 7 yrs exp. \r\n                                at the Inst ACCOUNTING CONTROLLER Xperex Corp., \r\n                                SSF-based C MEDICAL BILLER Full-time, \r\n                                benefits, for busy SALES High-end SF Jewelry \r\n                                Company Jeanine Payer, \r\n                                Inc HUMAN \r\n                                RESOURCES Salary Range \r\n                                $28.91-$35.16/hour Town of Colma, \r\n                                Calif PROPERTY MANAGER Estab. Property \r\n                                Mgmt Co in S REST Highly experienced SOUS \r\n                                CHEFS & LINE SOCIAL \r\n                                WORK MULTIPLE CAREER \r\n                                OPPORTUNITIES LARKIN ST. \r\n                                YOUTH TEACHER Science/Math 5th-8th gr \r\n                                & Kindergart TEACHER Daycare for \r\n                                infant/toddler. M, W, Th LEGAL SECTY FT 2yrs+ lit exp. \r\n                                Family law e BIOTECH CAREER EXPO PDL COURT Excellent Benefits \r\n                                Part-Time(32hr/wk) Napa Superior \r\n                                Court HOTEL The Stanford Park Hotel, a \r\n                                luxurious NURSING CLINICAL NURSING \r\n                                DIRECTOR Sutter Medical NURSING RN/LVN DEPT OF \r\n                                CORRECTIONS EDUCATION EXECUTIVE DIRECTOR MBA \r\n                                PROGRAM UC BERKELEY DRIVER Class A. 3 yrs min exp. \r\n                                Good DMV. Go HOTEL/RESTAURANT Join Our 5-Star \r\n                                Team! Mandarin Oriental About \r\n                                Top Jobs View All Top Jobs end article nested table here Standard Article Footer Page I - 1 begin buy the paper insert Get 50% off home delivery of the Chronicle for \r\n                  12 weeks! end buy the paper insert 2003 San \r\n            Francisco Chronicle | Feedback BEGIN CHRONICLE SECTIONS PULLDOWN newspaper_nav2 list_sections Chronicle Sections Magazine Living Sports Bay \r\n                    Area Travel Real \r\n                    Estate Insight Business Book \r\n                    Reviews Commentary News Sunday \r\n                    Datebook Movies /list_sections /newspaper_nav2 END CHRONICLE SECTIONS PULLDOWN BEGIN HORIZONTAL NAV ITEMS (BOTTOM) END HORIZONTAL NAV ITEMS (BOTTOM) ad here ad ends here"
+      "text": "MORTGAGE UNDERWRITERS BANK OF AMERICA SALES 2,000 ... Signing Bonus! \r\n                                $5,500/wk. TEACHER MATH w/pre Alg., Alg., \r\n                                Geom., Alg. I MANAGEMENT REGIONAL VP SALES/NAT'L \r\n                                ACCTS infoUSA COLLECTIONS EXPERIENCED \r\n                                COLLECTORS R M A SALES CAREER OPPORTUNITY Local \r\n                                sales posit GRANT WRITER w/min. 7 yrs exp. \r\n                                at the Inst ACCOUNTING CONTROLLER Xperex Corp., \r\n                                SSF-based C MEDICAL BILLER Full-time, \r\n                                benefits, for busy SALES High-end SF Jewelry \r\n                                Company Jeanine Payer, \r\n                                Inc HUMAN \r\n                                RESOURCES Salary Range \r\n                                $28.91-$35.16/hour Town of Colma, \r\n                                Calif PROPERTY MANAGER Estab. Property \r\n                                Mgmt Co in S REST Highly experienced SOUS \r\n                                CHEFS & LINE SOCIAL \r\n                                WORK MULTIPLE CAREER \r\n                                OPPORTUNITIES LARKIN ST. \r\n                                YOUTH TEACHER Science/Math 5th-8th gr \r\n                                & Kindergart TEACHER Daycare for \r\n                                infant/toddler. M, W, Th LEGAL SECTY FT 2yrs+ lit exp. \r\n                                Family law e BIOTECH CAREER EXPO PDL COURT Excellent Benefits \r\n                                Part-Time(32hr/wk) Napa Superior \r\n                                Court HOTEL The Stanford Park Hotel, a \r\n                                luxurious NURSING CLINICAL NURSING \r\n                                DIRECTOR Sutter Medical NURSING RN/LVN DEPT OF \r\n                                CORRECTIONS EDUCATION EXECUTIVE DIRECTOR MBA \r\n                                PROGRAM UC BERKELEY DRIVER Class A. 3 yrs min exp. \r\n                                Good DMV. Go HOTEL/RESTAURANT Join Our 5-Star \r\n                                Team! Mandarin Oriental About \r\n                                Top Jobs View All Top Jobs"
+    },
+    {
+      "tag": "div",
+      "text": "Page I - 1"
+    },
+    {
+      "tag": "div",
+      "text": "Get 50% off home delivery of the Chronicle for \r\n                  12 weeks!"
+    },
+    {
+      "tag": "div",
+      "text": "2003 San \r\n            Francisco Chronicle | Feedback"
+    },
+    {
+      "tag": "div",
+      "text": "Chronicle Sections Magazine Living Sports Bay \r\n                    Area Travel Real \r\n                    Estate Insight Business Book \r\n                    Reviews Commentary News Sunday \r\n                    Datebook Movies"
     },
     {
       "tag": "pre",
       "text": "Indian workers\r\n   Year      L-1 visas to all nationalities      To Indians      Proportion of \r\nIndians\r\n   2001      59,384                                  11,908            20%\r\n   2002      57,721                                  17,812            31\r\n   2003      32,416                                  10,447            33\r\n   First 6 months\r\n   Source: State Department\r\n   Top nationalities for visa holders FY 2002:\r\n   India  17,812\r\n   Britain 6,711\r\n   Japan  6,122\r\n   Germany 2,916\r\n   Mexico 2,020\r\n   France 1,995\r\n   Total  57,721\r\n   Source: State Department\r\n   L-1 visa use by Indian outsourcers is increasing:\r\n   Wipro         Infosys\r\n   2000   289           218\r\n   2001   510           292\r\n   2002   1,004         445\r\n   2003   1,157       1,760"
-    },
-    {
-      "tag": "div",
-      "text": "------END MAIN SPREAD------ /chronicle/archive/2003/05/25/BU268156.DTL"
     }
   ]
 }

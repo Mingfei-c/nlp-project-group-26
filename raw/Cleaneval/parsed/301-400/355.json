@@ -3,12 +3,28 @@
   "file_number": "355",
   "content_hash": "b34c33a0e7e7779862c29a2d525d733ba6c18748471b7bc3517eac68f6f8f545",
   "total_blocks": 123,
-  "retained_blocks": 5,
-  "ignored_blocks": 118,
+  "retained_blocks": 9,
+  "ignored_blocks": 114,
   "blocks": [
     {
       "tag": "div",
-      "text": "OPERATIONS JOINT \r\n                    VENTURES PUBLICATIONS > Review 2005 Archive > Communiqu Archive > Community \r\n                          Updates Archive > Pamphlets NEWS \r\n                    RELEASES ENVIRONMENT SAFETY \r\n                    & QUALITY OUR \r\n                    COMMUNITIES CONTACT \r\n                    US AREVA \r\n                    Group LINKS"
+      "text": "OPERATIONS JOINT \r\n                    VENTURES PUBLICATIONS"
+    },
+    {
+      "tag": "div",
+      "text": "> Review 2005 Archive > Communiqu Archive > Community \r\n                          Updates"
+    },
+    {
+      "tag": "div",
+      "text": "Archive"
+    },
+    {
+      "tag": "div",
+      "text": "> Pamphlets"
+    },
+    {
+      "tag": "div",
+      "text": "NEWS \r\n                    RELEASES ENVIRONMENT SAFETY \r\n                    & QUALITY OUR \r\n                    COMMUNITIES CONTACT \r\n                    US AREVA \r\n                    Group LINKS"
     },
     {
       "tag": "p",

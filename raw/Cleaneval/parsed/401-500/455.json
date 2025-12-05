@@ -3,12 +3,16 @@
   "file_number": "455",
   "content_hash": "7090989fb1c1c98e8f3cde27559b31b5c9e740762c03f82e3c13ef95106dde46",
   "total_blocks": 137,
-  "retained_blocks": 15,
-  "ignored_blocks": 122,
+  "retained_blocks": 19,
+  "ignored_blocks": 118,
   "blocks": [
     {
       "tag": "div",
-      "text": "Credits:\n\nSite Developers: Anthony Carmody Consulting Pty Ltd - www.carmoda.com\nInterface Design: Ben Portas <benjaminportas@hotmail.com> \nSite Migration: Kate Bradley <Kdisco78@yahoo.com> start outer table Welcome to george.net.au, Today is Dec 27, 2006 - 12:29 AM Sign In or Sign up start middle table MyHome Home"
+      "text": "Welcome to george.net.au, Today is Dec 27, 2006 - 12:29 AM Sign In or Sign up"
+    },
+    {
+      "tag": "div",
+      "text": "MyHome Home"
     },
     {
       "tag": "p",
@@ -24,7 +28,7 @@
     },
     {
       "tag": "div",
-      "text": "Forum Members Subscribe Archive start inner frame table"
+      "text": "Forum Members Subscribe Archive"
     },
     {
       "tag": "h1",
@@ -32,7 +36,11 @@
     },
     {
       "tag": "div",
-      "text": "Hi, you're either logged out, or you haven't yet become a member of george.net.au . Why don't you create an account right now, or if you already have one, log in ! News : What george is up to now."
+      "text": "Hi, you're either logged out, or you haven't yet become a member of george.net.au . Why don't you create an account right now, or if you already have one, log in !"
+    },
+    {
+      "tag": "div",
+      "text": "News : What george is up to now."
     },
     {
       "tag": "p",
@@ -56,15 +64,23 @@
     },
     {
       "tag": "div",
-      "text": "end inner frame table Specialones Newsletter Subscribe / Unsubscribe Here"
+      "text": "Specialones Newsletter Subscribe / Unsubscribe Here"
     },
     {
       "tag": "p",
-      "text": "Who's Online There are 40 unlogged users and 0 registered users online. You can log-in or register for a user account here . User's Login"
+      "text": "Who's Online There are 40 unlogged users and 0 registered users online. You can log-in or register for a user account here ."
+    },
+    {
+      "tag": "p",
+      "text": "User's Login"
     },
     {
       "tag": "div",
-      "text": "User name Password Remember me Log in Problems? New User? Sign Up! end middle table end outer table ©george.net.au webmaster | site maintained by carmoda.com site built by Anthony Carmody Consulting http://www.carmoda.com/"
+      "text": "User name Password Remember me Log in Problems? New User? Sign Up!"
+    },
+    {
+      "tag": "div",
+      "text": "©george.net.au webmaster | site maintained by carmoda.com"
     }
   ]
 }

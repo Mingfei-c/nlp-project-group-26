@@ -3,12 +3,12 @@
   "file_number": "319",
   "content_hash": "7a0a0bd73be8fe749b79b7a32fc7d4a13b82d8e59196d7d72cab587c97c8a8ee",
   "total_blocks": 1429,
-  "retained_blocks": 33,
-  "ignored_blocks": 1396,
+  "retained_blocks": 34,
+  "ignored_blocks": 1395,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" Begin Banner"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\""
     },
     {
       "tag": "p",
@@ -16,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "Begin Styles for Menu Tabs Future \r\nStudents Current \r\nStudents Continuing Ed ESL| GED| Literacy Business Alumni End Menu Styles search"
+      "text": "Future \r\nStudents Current \r\nStudents Continuing Ed ESL| GED| Literacy Business Alumni search"
     },
     {
       "tag": "h1",
@@ -24,7 +24,11 @@
     },
     {
       "tag": "div",
-      "text": "Center Home Training Business Assistance Seminars/Workshops Facility Rental About Us Contact Us FALL/WINTER 2006"
+      "text": "Center Home Training Business Assistance Seminars/Workshops Facility Rental About Us Contact Us"
+    },
+    {
+      "tag": "div",
+      "text": "FALL/WINTER 2006"
     },
     {
       "tag": "p",

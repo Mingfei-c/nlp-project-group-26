@@ -3,12 +3,20 @@
   "file_number": "442",
   "content_hash": "113221bbdcf7d0327a8acc25a2d1f776101c7245b416055f82bf815961896aae",
   "total_blocks": 252,
-  "retained_blocks": 37,
-  "ignored_blocks": 215,
+  "retained_blocks": 38,
+  "ignored_blocks": 214,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" #BeginTemplate \"/templates/ftb_3.dwt\" DW6 #BeginEditable \"doctitle\" #EndEditable OPEN PAGE TABLE FOR CENTERING START BANNER AND GOOGLE SEARCH END BANNER AND GOOGLE SEARCH BEGIN NAVIGATION BAR #BeginEditable \"Navigation Tabs\" #EndEditable END NAVIGATION BAR BEGIN PAGE BODY #BeginEditable \"Page Header\" Updates \r\n      to \r\n      Publication 1001 #EndEditable #BeginEditable \"Page Body Content\" Revision Date 2005 Revision Details 09/13/06 Publication 1001, instructions under Dividend Income, column 3 The column is (as referenced) an addition to income for California tax calculation.  The above quantity should be a subtraction (column B) in line 9 of Schedule CA."
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Updates \r\n      to \r\n      Publication 1001"
+    },
+    {
+      "tag": "div",
+      "text": "Revision Date 2005 Revision Details 09/13/06 Publication 1001, instructions under Dividend Income, column 3 The column is (as referenced) an addition to income for California tax calculation.  The above quantity should be a subtraction (column B) in line 9 of Schedule CA."
     },
     {
       "tag": "p",
@@ -144,15 +152,11 @@
     },
     {
       "tag": "div",
-      "text": "Back to Law \r\n        & Legislation Page | Back \r\n        to Forms and Publications page #EndEditable END PAGE BODY BEGIN PAGE FOOTER"
+      "text": "Back to Law \r\n        & Legislation Page | Back \r\n        to Forms and Publications page"
     },
     {
       "tag": "p",
-      "text": "Privacy | Webmaster | Careers | Accessibility | Flex Your Power | California Home Last modified: #BeginEditable \"Date\" #BeginDate format:Am3 09/19/2006 #EndDate #EndEditable"
-    },
-    {
-      "tag": "div",
-      "text": "END PAGE FOOTER #EndTemplate"
+      "text": "Privacy | Webmaster | Careers | Accessibility | Flex Your Power | California Home Last modified: 09/19/2006"
     }
   ]
 }

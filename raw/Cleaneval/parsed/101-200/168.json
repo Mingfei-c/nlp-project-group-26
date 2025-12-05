@@ -3,12 +3,16 @@
   "file_number": "168",
   "content_hash": "370b3eb1fd3d89f92c5316f71bd3048cb147cfe9b2a4b01d5711f2e6f77bcb63",
   "total_blocks": 56,
-  "retained_blocks": 16,
-  "ignored_blocks": 40,
+  "retained_blocks": 17,
+  "ignored_blocks": 39,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" Skip Navigation (press 2) + Visit the NASA Portal + S.O.N. Home TaSS HOME SUN-EARTH VIEWER TRACKING THE PERFECT STORM SPACE WEATHER RESOURCES SUNSPOT REGIONS STORM SIGNALS MAGNETOSPHERE AURORAS"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" Skip Navigation (press 2) + Visit the NASA Portal + S.O.N. Home TaSS HOME SUN-EARTH VIEWER TRACKING THE PERFECT STORM SPACE WEATHER RESOURCES"
+    },
+    {
+      "tag": "div",
+      "text": "SUNSPOT REGIONS STORM SIGNALS MAGNETOSPHERE AURORAS"
     },
     {
       "tag": "h1",

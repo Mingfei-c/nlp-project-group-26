@@ -3,20 +3,12 @@
   "file_number": "371",
   "content_hash": "3f2f5d13d07241475b666a1938ef3b6ff8456ed857469ea7656dd986dabff2db",
   "total_blocks": 71,
-  "retained_blocks": 43,
-  "ignored_blocks": 28,
+  "retained_blocks": 39,
+  "ignored_blocks": 32,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "Add the page heading here"
-    },
     {
       "tag": "h1",
       "text": "Trapping Regulations"
-    },
-    {
-      "tag": "div",
-      "text": "If there is a sub-heading, add it here <h2>_page subheading_</h2> Add links to program home page and other main program page here. Delete text if not needed"
     },
     {
       "tag": "p",
@@ -24,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "Fish, Wildlife and Marine Resources Bureau of Wildlife Main heading for link list: modify or delete to suit needs of page"
+      "text": "Fish, Wildlife and Marine Resources Bureau of Wildlife"
     },
     {
       "tag": "p",
@@ -32,15 +24,11 @@
     },
     {
       "tag": "div",
-      "text": "Trigger Regulations for body-gripping traps used in the Southern Zone for beaver Trapping Seasons Trapping Licenses Rights of Trappers Trapper Education Legal Traps Legal Trapping Methods Checking Traps Pelt Sealing Coyote Reporting Buying and Selling Fur The following code is required on any page that includes a link to a PDF file, and a Department phone number must be inserted. Delete if the page does not link to any PDF file. <div class=\"floatalignright\"><a href=\"/website/site/pdf.html\"><img src=\"/website/graphics/site/pdfbutton.gif\" width=\"71\" height=\"23\" alt=\"graphic link to PDF information/help\" border=\"0\" align=\"top\" ></a><br><span class=\"pdftext\">For help with the PDF(s)<br>on this page call (518)402-8924</span></div> Remove comment tags from next line if the page has more links below the body text <p class=\"toplinksub\"><a href=\"#links\">Other Links of Interest...</a></p> Puts line above text.  Do not remove. Main body of page begins here. Begin with a heading which may be deleted if page contains few or no links."
+      "text": "Trigger Regulations for body-gripping traps used in the Southern Zone for beaver Trapping Seasons Trapping Licenses Rights of Trappers Trapper Education Legal Traps Legal Trapping Methods Checking Traps Pelt Sealing Coyote Reporting Buying and Selling Fur"
     },
     {
       "tag": "h2",
       "text": "Trapping Regulations"
-    },
-    {
-      "tag": "div",
-      "text": "If page includes a photo, remove the comment from the code below and modify or repeat as needed <div class=\"imagealignright\"><img src=\" \" width=\" \" height=\" \" alt=\" \" border=\"1\"></div> Start body text here. All paragraphs must have opening and closing p tags."
     },
     {
       "tag": "p",
@@ -168,15 +156,11 @@
     },
     {
       "tag": "div",
-      "text": "Species requiring a pelt seal cannot be bought or sold or given to another person unless it has the plastic pelt seal on it. All other species may be bought, sold, and transported without restriction. Furbearers may be bought or sold either skinned or unskinned. People who buy fur do not need a fur buyer's license in New York. If the page includes a bottom section of links, remove the comment tags enclosing the next two lines. <hr class=\"clearboth\">\n<p class=\"toplinkhead\"><a name=\"links\"></a>Other Links of Interest</p> If the page includes a bottom section of links, remove the comment tags from the appropriate codes below, and repeat as necessary. For links to pages on DEC's web site: <div class=\"toplink\"><a href=\" \"> </a> </div> For links to pages not on DEC's web site: <div class=\"toplink\"><a href=\" \"></a>  <span class=\"leaving\"><img src=\"/website/graphics/site/leaving.gif\" width=\"108\" height=\"14\" alt=\"leaves DEC's web site\" border=\"0\"></span></div> Do not modify the following 3 lines"
+      "text": "Species requiring a pelt seal cannot be bought or sold or given to another person unless it has the plastic pelt seal on it. All other species may be bought, sold, and transported without restriction. Furbearers may be bought or sold either skinned or unskinned. People who buy fur do not need a fur buyer's license in New York."
     },
     {
       "tag": "p",
       "text": "Back to top of page"
-    },
-    {
-      "tag": "div",
-      "text": "Do not modify the following 3 lines"
     }
   ]
 }

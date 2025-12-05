@@ -3,12 +3,12 @@
   "file_number": "633",
   "content_hash": "1b1f533ad80f4c62cf0f16a8ae25d727edf618c88914530c755d1f56a25f0610",
   "total_blocks": 124,
-  "retained_blocks": 9,
-  "ignored_blocks": 115,
+  "retained_blocks": 10,
+  "ignored_blocks": 114,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n         xmlns:trackback=\"http://madskills.com/public/xml/rss/module/trackback/\"\n         xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n<rdf:Description\n    rdf:about=\"http://www.pbs.org/newshour/bb/asia/july-dec97/imf_12-12.html\"\n    trackback:ping=\"http://www.pbs.org/cgi-registry/trackback.pl/newshour/bb/asia/july-dec97/imf_12-12.html\"\n    dc:identifier=\"http://www.pbs.org/newshour/bb/asia/july-dec97/imf_12-12.html\" />\n</rdf:RDF> No Ad Zone defined for this page."
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
     },
     {
       "tag": "h2",
@@ -40,7 +40,11 @@
     },
     {
       "tag": "div",
-      "text": "footer nav table REGIONS TOPICS RECENT PROGRAMS ABOUT US FEEDBACK SUBSCRIPTIONS / FEEDS: search table END search table END footer nav table footer table Support the kind of journalism done by the NewsHour... Become a member of your local PBS station. PBS Online Privacy Policy Copyright ©1996-2006 MacNeil/Lehrer Productions. All Rights Reserved. END footer table"
+      "text": "REGIONS TOPICS RECENT PROGRAMS ABOUT US FEEDBACK SUBSCRIPTIONS / FEEDS:"
+    },
+    {
+      "tag": "div",
+      "text": "Support the kind of journalism done by the NewsHour... Become a member of your local PBS station. PBS Online Privacy Policy Copyright ©1996-2006 MacNeil/Lehrer Productions. All Rights Reserved."
     }
   ]
 }

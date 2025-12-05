@@ -3,8 +3,8 @@
   "file_number": "194",
   "content_hash": "62eba44ce44e80f989c65335e36b56434d424c26341516a2486e20038095d127",
   "total_blocks": 127,
-  "retained_blocks": 9,
-  "ignored_blocks": 118,
+  "retained_blocks": 10,
+  "ignored_blocks": 117,
   "blocks": [
     {
       "tag": "p",
@@ -32,7 +32,11 @@
     },
     {
       "tag": "p",
-      "text": "About CDIA Founded in 1906, the Consumer Data Industry Association \r\n(CDIA), formerly known as Associated Credit Bureaus (ACB), is the international \r\ntrade association that represents more than 400 consumer data companies. CDIA \r\nmembers represent the nations leading institutions in credit reporting, \r\nmortgage reporting, check verification, fraud prevention, risk management, \r\nemployment reporting, tenant screening and collection services. For more information about \r\nCDIA, its members, or identity fraud or other issues, please visit us at \r\nwww.cdiaonline.org or contact us at 202-371-0910. President Signs Medicare Rx Bill Into Law President George W. Bush signs H. R. 1, the Medicare Prescription Drug, Improvement and Modernization Act of 2003 on Dec. 8, 2003. Internship Opportunities Committee on Ways and Means Internship Opportunities"
+      "text": "About CDIA Founded in 1906, the Consumer Data Industry Association \r\n(CDIA), formerly known as Associated Credit Bureaus (ACB), is the international \r\ntrade association that represents more than 400 consumer data companies. CDIA \r\nmembers represent the nations leading institutions in credit reporting, \r\nmortgage reporting, check verification, fraud prevention, risk management, \r\nemployment reporting, tenant screening and collection services. For more information about \r\nCDIA, its members, or identity fraud or other issues, please visit us at \r\nwww.cdiaonline.org or contact us at 202-371-0910."
+    },
+    {
+      "tag": "p",
+      "text": "President Signs Medicare Rx Bill Into Law President George W. Bush signs H. R. 1, the Medicare Prescription Drug, Improvement and Modernization Act of 2003 on Dec. 8, 2003. Internship Opportunities Committee on Ways and Means Internship Opportunities"
     },
     {
       "tag": "div",

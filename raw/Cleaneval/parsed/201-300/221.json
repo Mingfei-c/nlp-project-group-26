@@ -3,60 +3,36 @@
   "file_number": "221",
   "content_hash": "fa77fe5929fce9b27a1a3452f34a9d90d9cf0823c590aa35a00291f76253323a",
   "total_blocks": 153,
-  "retained_blocks": 19,
-  "ignored_blocks": 134,
+  "retained_blocks": 14,
+  "ignored_blocks": 139,
   "blocks": [
     {
       "tag": "div",
-      "text": "start: new header start: navbar Home Archive Columnists Video Blogs Discuss About Search Donate start: body beg body start: subscribe box Get AlterNet in your mailbox! Advertisement Advertisement Advertisement Advertisement Advertisement AlterNet Your turn"
+      "text": "Home Archive Columnists Video Blogs Discuss About Search Donate Get AlterNet in your mailbox! Advertisement Advertisement Advertisement Advertisement Advertisement AlterNet Your turn"
     },
     {
       "tag": "p",
       "text": "Support AlterNet Do you value the information you're getting from  AlterNet? Please show your support with a tax-deductible donation . Feedback Tell us how we're doing ."
     },
     {
-      "tag": "div",
-      "text": "start: search box"
-    },
-    {
       "tag": "h3",
       "text": "Search:"
     },
     {
+      "tag": "p",
+      "text": "DOPE By Dan Savage , The Stranger . Posted May 17, 2002 ."
+    },
+    {
       "tag": "div",
-      "text": "start: headline and byline start: headline"
+      "text": "After a teen turned his dad in for growing marijuana, local TV news reporters and daily papers quickly called him a hero. Was Ithe only pot-smoking parent who was horrified? Tools EMAIL PRINT"
     },
     {
       "tag": "p",
-      "text": "DOPE"
+      "text": "Share and save this story: Also in Top Stories Announcing the P.U.-litzer Prizes for 2006 Norman Solomon, Jeff Cohen, AlterNet Bush Could Usher in a Very Dangerous New Year Robert Parry, Consortium News 109th Congress: Goodbye, Farewell and Don't Let the Door Hit You... Michael Winship, AlterNet A Call for Publicly Financed Elections Jennifer James, Yale Daily News"
     },
     {
       "tag": "div",
-      "text": "end: headline start: byline"
-    },
-    {
-      "tag": "p",
-      "text": "By Dan Savage , The Stranger . Posted May 17, 2002 ."
-    },
-    {
-      "tag": "div",
-      "text": "end: byline end: headline and byline start: teaser After a teen turned his dad in for growing marijuana, local TV news reporters and daily papers quickly called him a hero. Was Ithe only pot-smoking parent who was horrified? Tools EMAIL PRINT end: teaser start: if story video end: if story video start: if columnist or story image end: if columnist or story image start: if podcast end: if podcast start: share this story"
-    },
-    {
-      "tag": "p",
-      "text": "Share and save this story:"
-    },
-    {
-      "tag": "div",
-      "text": "start: end this story start: top story sidebar"
-    },
-    {
-      "tag": "p",
-      "text": "Also in Top Stories Announcing the P.U.-litzer Prizes for 2006 Norman Solomon, Jeff Cohen, AlterNet Bush Could Usher in a Very Dangerous New Year Robert Parry, Consortium News 109th Congress: Goodbye, Farewell and Don't Let the Door Hit You... Michael Winship, AlterNet A Call for Publicly Financed Elections Jennifer James, Yale Daily News"
-    },
-    {
-      "tag": "div",
-      "text": "end: top story sidebar start: coverage last end: coverage last start: columnist last end: columnist last More stories by Dan Savage"
+      "text": "More stories by Dan Savage"
     },
     {
       "tag": "p",
@@ -64,7 +40,7 @@
     },
     {
       "tag": "div",
-      "text": "new signup Get AlterNet in your mailbox! start: square ad if story over 600 words Advertisement"
+      "text": "Get AlterNet in your mailbox! Advertisement"
     },
     {
       "tag": "p",
@@ -72,15 +48,19 @@
     },
     {
       "tag": "div",
-      "text": "extra digg icon if tagged posts footer tools AlterNet Home » Story Tools: EMAIL PRINT More News and Analysis : Bush Could Usher in a Very Dangerous New Year Intelligence sources say President Bush -- along with Israel's Ehud Olmert and the UK's Tony Blair -- are weighing the possibility of Israeli-led attacks on Syria and Iran in early 2007, with the United States providing logistical back-up. By Robert Parry, Consortium News. December 26, 2006. Pressuring Israel May Prevent a 'Generational' Mideast War Israel may well find itself at war with Syria and Hezbollah in the coming months, and the American foreign policy establishment needs to let go of its long-standing biases to prevent these conflicts. By Joshua Holland, AlterNet. December 23, 2006. Looking Back at History, from 2026 EnviroHealth: Aview of our recent past from the distant future -- from the death of the Republican party to the Latin Americna renaissance. By Rebecca Solnit, Tomdispatch.com. December 23, 2006. start: footer Home Top Stories Columnists Video Blogs Discuss RSS/XML About Search Donate Contact Us Advertise"
+      "text": "AlterNet Home » Story Tools: EMAIL PRINT"
+    },
+    {
+      "tag": "div",
+      "text": "More News and Analysis : Bush Could Usher in a Very Dangerous New Year Intelligence sources say President Bush -- along with Israel's Ehud Olmert and the UK's Tony Blair -- are weighing the possibility of Israeli-led attacks on Syria and Iran in early 2007, with the United States providing logistical back-up. By Robert Parry, Consortium News. December 26, 2006. Pressuring Israel May Prevent a 'Generational' Mideast War Israel may well find itself at war with Syria and Hezbollah in the coming months, and the American foreign policy establishment needs to let go of its long-standing biases to prevent these conflicts. By Joshua Holland, AlterNet. December 23, 2006. Looking Back at History, from 2026 EnviroHealth: Aview of our recent past from the distant future -- from the death of the Republican party to the Latin Americna renaissance. By Rebecca Solnit, Tomdispatch.com. December 23, 2006."
+    },
+    {
+      "tag": "div",
+      "text": "Home Top Stories Columnists Video Blogs Discuss RSS/XML About Search Donate Contact Us Advertise"
     },
     {
       "tag": "p",
       "text": "Reproduction of material from any AlterNet pages without written permission is strictly prohibited. © 2006 Independent Media Institute. All rights reserved."
-    },
-    {
-      "tag": "div",
-      "text": "start: footer shadow"
     }
   ]
 }

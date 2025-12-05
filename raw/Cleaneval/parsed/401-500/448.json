@@ -3,13 +3,9 @@
   "file_number": "448",
   "content_hash": "0ccdf605924dd296f54ea230b15b11784fdf79f7d36b86df00a72cf7ae1baf68",
   "total_blocks": 273,
-  "retained_blocks": 39,
-  "ignored_blocks": 234,
+  "retained_blocks": 35,
+  "ignored_blocks": 238,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "mstheme msnavigation"
-    },
     {
       "tag": "p",
       "text": "Global Direct Investment Solutions Corporate Development for a Networked World On The Short List The Global Direct Investment Forum The Global \r\n    Direct Investment Foundation Invest From Anywhere, To Anywhere"
@@ -21,10 +17,6 @@
     {
       "tag": "p",
       "text": "Bruce Donnelly bruce@gdi-solutions.com ( Biography )"
-    },
-    {
-      "tag": "div",
-      "text": "msnavigation msnavigation msnavigation"
     },
     {
       "tag": "p",
@@ -52,11 +44,11 @@
     },
     {
       "tag": "p",
-      "text": "fDi magazine will also be distributed at BIO 2007 in \r\n    Boston and at other major events during the next year. Editorial and event plan, rates fDi magazine was a sponsor and exhibitor at the CoreNet Global Summit in Orlando Florida and at the IEDC 2007 Annual \r\n    Conference in New York. You can also search this  \r\n      website for over 25,000 relevant research sources in this niche market, \r\n      including content which highlights national, regional, state, and \r\n      local economic development organizations and professional service \r\n      providers.  Let us help you to find what you \r\n    are seeking . Search WWW Search www.gdi-solutions.com This website Search www.ontheshortlist.com On The Short List Search www.partners4technology.com Partners4Technology Search www.fdimagazine.com fDi - Foreign Direct Investment (FT Business) Tip : See Google \" Cheat \r\n    Sheet \" help page for advanced web search features."
+      "text": "fDi magazine will also be distributed at BIO 2007 in \r\n    Boston and at other major events during the next year. Editorial and event plan, rates fDi magazine was a sponsor and exhibitor at the CoreNet Global Summit in Orlando Florida and at the IEDC 2007 Annual \r\n    Conference in New York. You can also search this  \r\n      website for over 25,000 relevant research sources in this niche market, \r\n      including content which highlights national, regional, state, and \r\n      local economic development organizations and professional service \r\n      providers.  Let us help you to find what you \r\n    are seeking ."
     },
     {
-      "tag": "div",
-      "text": "Search Google"
+      "tag": "p",
+      "text": "Search WWW Search www.gdi-solutions.com This website Search www.ontheshortlist.com On The Short List Search www.partners4technology.com Partners4Technology Search www.fdimagazine.com fDi - Foreign Direct Investment (FT Business) Tip : See Google \" Cheat \r\n    Sheet \" help page for advanced web search features."
     },
     {
       "tag": "p",
@@ -151,16 +143,8 @@
       "text": "This website was designed for high resolution \r\n    display settings (1280x1024 or higher) as typically used by the executives \r\n    and professionals we serve, instead of older display standards.  More \r\n    scrolling may be required at lower resolution settings.  We regret any \r\n    inconvenience to users of lower resolution display settings who may need to \r\n    scroll more than we anticipated."
     },
     {
-      "tag": "div",
-      "text": "msnavigation msnavigation msnavigation"
-    },
-    {
       "tag": "p",
       "text": "Send questions, suggestions, or comments about this site to enquiries@gdi-solutions.com . Global Direct Investment Solutions, PO Box 439  Fox River \r\nGrove, IL 60021-0439  TEL 847-304-4655  FAX 847-304-5375 The use of graphics and advertising has been  minimized to \r\nimprove performance. Copyright  2002, 2003, 2004, 2005, 2006  \r\nGlobal Direct Investment Solutions, Inc.     \r\n\r\n\r\nLast modified: \r\n09/02/06"
-    },
-    {
-      "tag": "div",
-      "text": "msnavigation"
     }
   ]
 }

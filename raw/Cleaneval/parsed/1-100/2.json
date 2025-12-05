@@ -3,13 +3,9 @@
   "file_number": "2",
   "content_hash": "df8bca24e0c55a89804292f0cf927508f198f071712167f30e697a2866e7a804",
   "total_blocks": 65,
-  "retained_blocks": 12,
-  "ignored_blocks": 53,
+  "retained_blocks": 11,
+  "ignored_blocks": 54,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "grey line banner table grey line start of toolbar component navigation table <a href=\"***WELSH***\">\r\n\t\t\t<img src=\"/common/images/toolbar/banner_index_cymraeg.gif\" width=69 height=24 hspace=0 vspace=0 border=0 name=\"banner_index_cymraeg\" alt=\"Cymraeg\"></a>"
-    },
     {
       "tag": "h3",
       "text": "4.4 Health of the environment"
@@ -52,7 +48,7 @@
     },
     {
       "tag": "div",
-      "text": "Copyright © 1999 Environment Agency. \r\n        All Rights Reserved. START RedMeasure V4 - Java v1.1  $Revision: 1.9 $ COPYRIGHT 2000 Red Sheriff Limited END RedMeasure V4"
+      "text": "Copyright © 1999 Environment Agency. \r\n        All Rights Reserved."
     }
   ]
 }

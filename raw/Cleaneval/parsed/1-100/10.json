@@ -8,7 +8,11 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "#BeginEditable \"Navigation\" Satanism Front Page News General & Secular Satanism Dark Doctrines The Dark Force in Nature Scientific Klippoths Religious philosophy Gender & Sex Satanic Reds Dark Tradition Socio-political Is Fascism Satanic? Spells 666 >> Fun Bad stuff Danish Satanism Chat Links About Buy Searching the site #EndEditable #BeginEditable \"Locationbar\" Satanic Reds >> 666 #EndEditable #BeginEditable \"Body\""
+      "text": "Satanism Front Page News General & Secular Satanism Dark Doctrines The Dark Force in Nature Scientific Klippoths Religious philosophy Gender & Sex Satanic Reds Dark Tradition Socio-political Is Fascism Satanic? Spells 666 >> Fun Bad stuff Danish Satanism Chat Links About Buy Searching the site"
+    },
+    {
+      "tag": "div",
+      "text": "Satanic Reds >> 666"
     },
     {
       "tag": "h1",
@@ -33,10 +37,6 @@
     {
       "tag": "p",
       "text": "Visit: Satanic Reds"
-    },
-    {
-      "tag": "div",
-      "text": "#EndEditable"
     }
   ]
 }

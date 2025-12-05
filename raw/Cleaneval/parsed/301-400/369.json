@@ -3,12 +3,28 @@
   "file_number": "369",
   "content_hash": "4b8fbd243da6cc1aa3daee49fff321a37fafd360d1cc5482cb6fed087692ac63",
   "total_blocks": 251,
-  "retained_blocks": 38,
-  "ignored_blocks": 213,
+  "retained_blocks": 45,
+  "ignored_blocks": 206,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\" [if IE]>\n <link rel=\"stylesheet\" type=\"text/css\" href=\"http://img.shopping.com/jfe/FE_20061212_cobrands51_build_69/css/sdcIe.css\"/>\n<![endif] Books Cars Clothing Computers Electronics Flowers & Gifts Health & Beauty Home & Garden Jewelry Kids & Family Movies Music Office Sports Video Games Search for: in All Categories Books Cars Clothing & Accessories Computers & Software Electronics Flower & Gifts Health & Beauty Home & Garden Jewelry & Watches Kids and Family Movies Music Office Sports & Outdoors Video Games Back to: Sports and Outdoors You found   17 items in"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "Books Cars Clothing Computers Electronics Flowers & Gifts Health & Beauty Home & Garden Jewelry Kids & Family Movies Music Office Sports Video Games"
+    },
+    {
+      "tag": "div",
+      "text": "Search for: in All Categories Books Cars Clothing & Accessories Computers & Software Electronics Flower & Gifts Health & Beauty Home & Garden Jewelry & Watches Kids and Family Movies Music Office Sports & Outdoors Video Games"
+    },
+    {
+      "tag": "div",
+      "text": "Back to: Sports and Outdoors"
+    },
+    {
+      "tag": "div",
+      "text": "You found   17 items in"
     },
     {
       "tag": "h2",
@@ -20,7 +36,15 @@
     },
     {
       "tag": "div",
-      "text": "Compare prices on 17 products Product Description Store name & Rating Price Featured Product"
+      "text": "Compare prices on 17 products Product Description"
+    },
+    {
+      "tag": "div",
+      "text": "Store name & Rating"
+    },
+    {
+      "tag": "div",
+      "text": "Price Featured Product"
     },
     {
       "tag": "h2",
@@ -156,7 +180,11 @@
     },
     {
       "tag": "div",
-      "text": "Authorized Bowflex Dealer for Weight Benches , Sport and Outdoor. The Bowflex SelectTech 3.1 Adjustable Bench can turn your space into the ultimate ho... Read more at Weight Lifting Equipment Guide In stock Weight Lifting Equipment Guide Review this store $149.00 Showing 1-17 of 17 Why are these stores listed? Sponsored Listings ( About ) NASM Personal Trainer NASM Personal Trainer Certification Earn 43% more as a personal trainer www.nasm.org Fit-Trail Fitness Trails Outdoor exercise systems on jogging trails or in clusters www.fittrail.com Your Fitness Pal Lose Pounds. Get in Shape. Set fitness goals! www.yourfitnesspal.com Weight Lifting Equipment All the Weightlifting Equipment. Deals in Weightlifting Equipment! Weightlifting.TrueLocal.com Outdoor Fitness Equipment Fitness trail and exercise products Perfect for all fitness levels. www.triactiveamerica.com home | about | privacy | user agreement | site index Copyright © 2000-2006 DealTime Ltd."
+      "text": "Authorized Bowflex Dealer for Weight Benches , Sport and Outdoor. The Bowflex SelectTech 3.1 Adjustable Bench can turn your space into the ultimate ho... Read more at Weight Lifting Equipment Guide In stock Weight Lifting Equipment Guide Review this store $149.00 Showing 1-17 of 17 Why are these stores listed?"
+    },
+    {
+      "tag": "div",
+      "text": "Sponsored Listings ( About ) NASM Personal Trainer NASM Personal Trainer Certification Earn 43% more as a personal trainer www.nasm.org Fit-Trail Fitness Trails Outdoor exercise systems on jogging trails or in clusters www.fittrail.com Your Fitness Pal Lose Pounds. Get in Shape. Set fitness goals! www.yourfitnesspal.com Weight Lifting Equipment All the Weightlifting Equipment. Deals in Weightlifting Equipment! Weightlifting.TrueLocal.com Outdoor Fitness Equipment Fitness trail and exercise products Perfect for all fitness levels. www.triactiveamerica.com home | about | privacy | user agreement | site index Copyright © 2000-2006 DealTime Ltd."
     }
   ]
 }

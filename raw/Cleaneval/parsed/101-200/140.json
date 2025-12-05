@@ -3,12 +3,16 @@
   "file_number": "140",
   "content_hash": "e5ee6b800faf6ae88df0987e6218d59f438f8ca58a5c54d37f52cc23d79bb0bb",
   "total_blocks": 34,
-  "retained_blocks": 7,
-  "ignored_blocks": 27,
+  "retained_blocks": 8,
+  "ignored_blocks": 26,
   "blocks": [
     {
       "tag": "div",
-      "text": "Berkeley Parents Network --nav bar--- Home Members Post a Msg Reviews Advice Subscribe Help/FAQ What's New Search"
+      "text": "Berkeley Parents Network"
+    },
+    {
+      "tag": "div",
+      "text": "Home Members Post a Msg Reviews Advice Subscribe Help/FAQ What's New Search"
     },
     {
       "tag": "h2",

@@ -3,16 +3,20 @@
   "file_number": "588",
   "content_hash": "725a6c2dbff2737838dc3cfb9b31428d3ab57661e097f744fab781b7c6c9b41d",
   "total_blocks": 519,
-  "retained_blocks": 5,
-  "ignored_blocks": 514,
+  "retained_blocks": 6,
+  "ignored_blocks": 513,
   "blocks": [
     {
-      "tag": "div",
-      "text": "<title>Media War Watch -- Media Research Center</title>"
+      "tag": "p",
+      "text": "Home CyberAlert Media Reality Check Notable Quotables Press Releases Media Bias Videos 30-Day Archive Entertainment News The Watchdog About the MRC MRC in the News Support the MRC Planned\r\n            Giving What Others Say Take Action DisHonors\r\n            Awards Best\r\n            of NQ Archive Site Search Links Media Addresses Contact MRC Comic Commentary MRC\r\n            Bookstore Job Openings Internships News\r\n            Division NewsBusters \r\n            Blog Business & Media Institute CNSNews.com TimesWatch.org"
     },
     {
       "tag": "p",
-      "text": "MENU SECTION Menu Item Home CyberAlert End Menu Item MENU ITEM Media Reality Check END MENU ITEM Notable Quotables Press Releases Media Bias Videos 30-Day Archive MENU SECTION Entertainment News MENU SECTION The Watchdog About the MRC MRC in the News Support the MRC Planned\r\n            Giving What Others Say MENU SECTION Take Action DisHonors\r\n            Awards Best\r\n            of NQ Archive MENU SECTION Site Search Links Media Addresses Contact MRC Comic Commentary MRC\r\n            Bookstore Job Openings Internships MENU SECTION News\r\n            Division NewsBusters \r\n            Blog Business & Media Institute CNSNews.com TimesWatch.org New paypal support image info here ImageReady Preload Script (support.psd) End Preload Script ImageReady Slices (support.psd) End ImageReady Slices MENU SECTION 2002 January 2003 February 2003 March 2003 Special Sections:"
+      "text": "2002 January 2003 February 2003 March 2003"
+    },
+    {
+      "tag": "p",
+      "text": "Special Sections:"
     },
     {
       "tag": "div",
@@ -24,7 +28,7 @@
     },
     {
       "tag": "div",
-      "text": "FOOTER START Media Research Center 325 S. Patrick Street Alexandria, VA  22314 Founded in 1987, the MRC is a 501 (c)(3) non profit research and education foundation. Privacy Statement FOOTER END"
+      "text": "Media Research Center 325 S. Patrick Street Alexandria, VA  22314 Founded in 1987, the MRC is a 501 (c)(3) non profit research and education foundation. Privacy Statement"
     }
   ]
 }

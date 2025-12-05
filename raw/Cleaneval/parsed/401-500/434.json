@@ -3,20 +3,16 @@
   "file_number": "434",
   "content_hash": "d06dabb01f41c93fd614cb4d05ebce2af6035cadd0f85dfd3cb6b4a11fae07df",
   "total_blocks": 209,
-  "retained_blocks": 24,
-  "ignored_blocks": 185,
+  "retained_blocks": 13,
+  "ignored_blocks": 196,
   "blocks": [
     {
       "tag": "div",
-      "text": "<CACHEEXPIRY>6/22/2007 8:05:51 AM</CACHEEXPIRY> HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" #dinclude virtual=\"/dyn/internaluserfunc.asp\" #dinclude virtual=\"/dyn/internaluserfunc.asp\" <a class=search href=\"http://easycart.plugnpay.com/easycart.cgi?username=foreignaffa&continue=http%3A%2F%2Fwww%2Eforeignaffairs%2Eorg%2F20040301faessay83204%2Dp10%2Fandrei%2Dshleifer%2Ddaniel%2Dtreisman%2Fa%2Dnormal%2Dcountry%2Ehtml%3F%5Fcache%2Einternaluser%3D%26%5Fcache%2Emethod%3DGET%26CacheCallId%3D1\">Shopping cart:\r\n item(s)</a> #dinclude virtual=\"/dyn/internaluserfunc.asp\" begin this include: virtual=\"/banmanpro/banmanfunc.asp\" end banmanfunc.asp begin this include: file=\"header.asp\" (includes search box, lanugage links, etc) #disabled virtual=\"/dyn/internaluserfunc.asp\" #disabled virtual=\"/dyn/accesslib.asp\" SiteCatalyst code version: G.5. Copyright 1997-2003 Omniture, Inc. More info available at http://www.omniture.com /DO NOT REMOVE/ End SiteCatalyst code version: G.5. begin spacer row end spacer row end header.asp begin content table (next lines from template.asp) begin spacer row end spacer row begin begin this include:  file=\"left_nav.asp\" begin left navigation begin main navigation"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\""
     },
     {
       "tag": "p",
       "text": "Advanced Search"
-    },
-    {
-      "tag": "div",
-      "text": "end main navigation begin secondary navigation end secondary navigation begin cfr box"
     },
     {
       "tag": "h3",
@@ -24,51 +20,27 @@
     },
     {
       "tag": "p",
-      "text": "Adaily guide to the most influential analysis from the Council on Foreign Relations, publisher of Foreign Affairs ."
+      "text": "Adaily guide to the most influential analysis from the Council on Foreign Relations, publisher of Foreign Affairs . IRAN: Iranian Middle Class Growing Disillusioned with Ahmadinejad December 19, 2006 MIDDLE EAST: Resetting U.S. Policy in the Middle East December 18, 2006 NORTH KOREA: Expectations for North Korea Talks 'Extremely Low' December 15, 2006"
     },
     {
       "tag": "div",
-      "text": "slot 3"
+      "text": "Roundtable on the Iraq Study Group Report 9/11: A Roundtable What to Do in Iraq: A Roundtable Confidence in U.S. Foreign Policy Index The Iraq Timeline Complete list >>"
+    },
+    {
+      "tag": "div",
+      "text": "A Normal Country Andrei Shleifer and Daniel Treisman From Foreign Affairs , March/April 2004"
     },
     {
       "tag": "p",
-      "text": "IRAN: Iranian Middle Class Growing Disillusioned with Ahmadinejad December 19, 2006"
+      "text": "Summary: \r\nConventional wisdom in the West says that post-Cold War Russia has been a disastrous failure.  The facts say otherwise.  Aspects of Russia's performance over the last decade may have been disappointing, but the notion that the country has gone through an economic cataclysm and political relapse is wrong--more a comment on overblown expectations than on Russia's actual experience.  Compared to other countries at a similar level of economic and political development, Russia looks more the norm than the exception. Andrei Shleifer is Whipple V.N. Jones Professor of Economics at Harvard University. Daniel Treisman is Associate Professor of Political Science at the University of California, Los Angeles. For full references and data sources see http://papers.nber.org/papers/w10057."
     },
     {
       "tag": "div",
-      "text": "slot 3 slot 1"
-    },
-    {
-      "tag": "p",
-      "text": "MIDDLE EAST: Resetting U.S. Policy in the Middle East December 18, 2006"
+      "text": "Topics: Russia, CIS, and Central Asia Political Systems Abnormal Demographics By Mark Lawrence Schrad Foreign Affairs, July/August 2004 Low Self-Esteem By Golfo Alexopoulos Foreign Affairs, May/June 2004 Rulers and Victims: The Russians in the Soviet Union Geoffrey Hosking.\r\n:\r\nBelknap Press,\r\n2006. Putin's Russia: Life in a Failing Democracy Anna Politkovskaya.\r\n:\r\nMetropolitan Books,\r\n2005. Virtual Politics: Faking Democracy in the Post-Soviet World Andrew Wilson.\r\n:\r\nYale University Press,\r\n2005. Leading Russia: Putin in Perspective; Essays in Honour of Archie Brown Edited by Alex Pravda.\r\n:\r\nOxford University Press,\r\n2005. The Soviet Century Moshe Lewin.\r\n:\r\nVerso,\r\n2005."
     },
     {
       "tag": "div",
-      "text": "slot 1 slot 2"
-    },
-    {
-      "tag": "p",
-      "text": "NORTH KOREA: Expectations for North Korea Talks 'Extremely Low' December 15, 2006"
-    },
-    {
-      "tag": "div",
-      "text": "slot 2 end cfr box special sections Roundtable on the Iraq Study Group Report 9/11: A Roundtable What to Do in Iraq: A Roundtable Confidence in U.S. Foreign Policy Index The Iraq Timeline Complete list >> end special sections end left navigation end \"left_nav.asp\" begin content; template loads default.asp or named file A Normal Country Andrei Shleifer and Daniel Treisman From Foreign Affairs , March/April 2004 begin purchase message end purchase message begin divider with \"purchase\", \"print\", and \"email\" buttons end divider with \"purchase\", \"print\", and \"email\" buttons begin summary"
-    },
-    {
-      "tag": "p",
-      "text": "Summary: \r\nConventional wisdom in the West says that post-Cold War Russia has been a disastrous failure.  The facts say otherwise.  Aspects of Russia's performance over the last decade may have been disappointing, but the notion that the country has gone through an economic cataclysm and political relapse is wrong--more a comment on overblown expectations than on Russia's actual experience.  Compared to other countries at a similar level of economic and political development, Russia looks more the norm than the exception."
-    },
-    {
-      "tag": "div",
-      "text": "end summary"
-    },
-    {
-      "tag": "p",
-      "text": "Andrei Shleifer is Whipple V.N. Jones Professor of Economics at Harvard University. Daniel Treisman is Associate Professor of Political Science at the University of California, Los Angeles. For full references and data sources see http://papers.nber.org/papers/w10057."
-    },
-    {
-      "tag": "div",
-      "text": "begin \"Of Related Interest\" box begin spacer row end spacer row Topics: Russia, CIS, and Central Asia Political Systems Abnormal Demographics By Mark Lawrence Schrad Foreign Affairs, July/August 2004 Low Self-Esteem By Golfo Alexopoulos Foreign Affairs, May/June 2004 Rulers and Victims: The Russians in the Soviet Union Geoffrey Hosking.\r\n:\r\nBelknap Press,\r\n2006. Putin's Russia: Life in a Failing Democracy Anna Politkovskaya.\r\n:\r\nMetropolitan Books,\r\n2005. Virtual Politics: Faking Democracy in the Post-Soviet World Andrew Wilson.\r\n:\r\nYale University Press,\r\n2005. Leading Russia: Putin in Perspective; Essays in Honour of Archie Brown Edited by Alex Pravda.\r\n:\r\nOxford University Press,\r\n2005. The Soviet Century Moshe Lewin.\r\n:\r\nVerso,\r\n2005. end \"Of Related Interest\" box begin 500-word preview [continued...]"
+      "text": "[continued...]"
     },
     {
       "tag": "p",
@@ -76,31 +48,15 @@
     },
     {
       "tag": "div",
-      "text": "begin purchase message end purchase message end 500-word preview begin paginated links for full article or essay pages « previous page 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 next page » end paginated links begin copyright notice end copyright notice end content; next line is from the template begin this include: file=\"right_col.asp\" begin right tout area"
+      "text": "« previous page 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 next page »"
     },
     {
       "tag": "p",
-      "text": "On Newsstands Jan. 2 Subscriber Login Email address: Password: Subscribers, login for instant access —  ADVERTISEMENT —"
+      "text": "On Newsstands Jan. 2 Subscriber Login Email address: Password: Subscribers, login for instant access —  ADVERTISEMENT — Newsletter • Subscribe • Current newsletter • Newsletter archives Newsstand Finder Enter U.S. ZIP code • Browse U.S. & Canadian locations • Browse international locations"
     },
     {
       "tag": "div",
-      "text": "<tr>\r\n<td>\r\n<p style=\"font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 8px; color: gray; text-align: center; margin:5px 0 3px 0\"> &#8212;  ADVERTISEMENT &#8212; </p>\r\n</td>\r\n</tr> <tr>\r\n<td> #uninclude file=\"zone.asp\" </td>\r\n</tr> <tr>\r\n<td bgcolor=\"#FFFFFF\">\r\n<img src=\"/images/spacer.gif\" width=\"1\" height=\"10\" alt=\"\" border=\"0\">\r\n</td>\r\n</tr> <tr>\r\n<td>\r\n<p style=\"font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 8px; color: gray; text-align: center; margin:5px 0 3px 0\"> &#8212;  ADVERTISEMENT &#8212; </p>\r\n</td>\r\n</tr> <tr>\r\n<td> #uninclude file=\"zone.asp\" </td>\r\n</tr> begin newsletter sub box"
-    },
-    {
-      "tag": "p",
-      "text": "Newsletter • Subscribe • Current newsletter • Newsletter archives"
-    },
-    {
-      "tag": "div",
-      "text": "end newsletter sub box begin newsstand finder"
-    },
-    {
-      "tag": "p",
-      "text": "Newsstand Finder Enter U.S. ZIP code • Browse U.S. & Canadian locations • Browse international locations"
-    },
-    {
-      "tag": "div",
-      "text": "end newsstand finder end row for newsstand finder, newsletter sign-up, and adveertising buttons end right tout area end right ad column begin this include: file=\"footer.asp Copyright 2002--2006 by the Council on Foreign Relations, Inc. All Rights Reserved. Privacy Policy | Contact Us | FAQs | end footer"
+      "text": "Copyright 2002--2006 by the Council on Foreign Relations, Inc. All Rights Reserved. Privacy Policy | Contact Us | FAQs |"
     }
   ]
 }

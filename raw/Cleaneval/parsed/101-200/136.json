@@ -3,20 +3,24 @@
   "file_number": "136",
   "content_hash": "4510c5ee5258b8eeabc822bddece366e63141e0126825a38bf182fa52e00d56b",
   "total_blocks": 142,
-  "retained_blocks": 59,
-  "ignored_blocks": 83,
+  "retained_blocks": 60,
+  "ignored_blocks": 82,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" Set the following content-values to the description and keywords you would like\n    search engines to associate with your blog. OxBlog This is a good place for static links and a description of your blog."
-    },
-    {
-      "tag": "p",
-      "text": "Front page Archive XML Feed Visit: Nathan Hale Foreign Policy Society Truman National Security Project \"Love your site\" -- Dan Savage \"Agreat read\" -- Fareed Zakaria \"Ienjoy OxBlog very much\" -- Michael Barone OxBlog:  Trying to live up to the hype since April 23, 2002! The off-the-cuff political commentary of David Adesnik, Patrick Belton and Patrick Porter, all of whom are, or were, graduate students at Oxford. David Adesnik, a research analyst in Washington DC, received his doctorate in international relations from Oxford.  Patrick Belton, a debonair son of Eire with a passion for single malts, is a doctoral candidate in international relations at Oxford.  Patrick Porter, a recently-married Australian, is about to receive his doctorate in history from Oxford. Email David Email Patrick B. Email Patrick P. <p>\n    <a href=\"\">link 1</a>\n    <br><a href=\"\">link 2</a>\n    <br>etc. Afew of our favorite links NYT WaPo OpinionJournal TNR Weekly Standard NRO Slate Commentary BBC RealClear Politics A&L Daily Google Amazon Other Blogs We Like George Washington : InstaPundit James Wilson : Brett Marston Volokh Conspiracy Abigail Adams : Diotima Alexis de Tocqueville : American Scene Crescat Sententia Crooked Timber Galley Slaves KausFiles James Lileks R. Garcia Tagorda Eve Tushnet Theodore Roosevelt : Amygdala Belgravia Dispatch Phil Carter Joyful Christian Joe Gandelman Red and Blue Adrianne Truett Winds of Change PejmanPundit Yuppies of Zion Calvin Coolidge : ScrappleFace Winston Churchill : Sasha Castel England's Sword Innocents Abroad Andrew Sullivan Franklin Roosevelt : Antidotal Kevin Drum Josh Marshall Matt Yglesias David Ben Gurion : GedankenPundit Kesher Talk Friedrich Hayek : Jane Galt Virginia Postrel Natalie Solent VodkaPundit Matt Welch Ronald Reagan : Power Line Daniel Patrick Moynihan : Daniel Drezner How Appealing Josh Cherniss Steve Sachs"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
     },
     {
       "tag": "div",
-      "text": "This is where the actual content of your blog goes. Saturday, June 18, 2005"
+      "text": "OxBlog"
+    },
+    {
+      "tag": "p",
+      "text": "Front page Archive XML Feed Visit: Nathan Hale Foreign Policy Society Truman National Security Project \"Love your site\" -- Dan Savage \"Agreat read\" -- Fareed Zakaria \"Ienjoy OxBlog very much\" -- Michael Barone OxBlog:  Trying to live up to the hype since April 23, 2002! The off-the-cuff political commentary of David Adesnik, Patrick Belton and Patrick Porter, all of whom are, or were, graduate students at Oxford. David Adesnik, a research analyst in Washington DC, received his doctorate in international relations from Oxford.  Patrick Belton, a debonair son of Eire with a passion for single malts, is a doctoral candidate in international relations at Oxford.  Patrick Porter, a recently-married Australian, is about to receive his doctorate in history from Oxford. Email David Email Patrick B. Email Patrick P. Afew of our favorite links NYT WaPo OpinionJournal TNR Weekly Standard NRO Slate Commentary BBC RealClear Politics A&L Daily Google Amazon Other Blogs We Like George Washington : InstaPundit James Wilson : Brett Marston Volokh Conspiracy Abigail Adams : Diotima Alexis de Tocqueville : American Scene Crescat Sententia Crooked Timber Galley Slaves KausFiles James Lileks R. Garcia Tagorda Eve Tushnet Theodore Roosevelt : Amygdala Belgravia Dispatch Phil Carter Joyful Christian Joe Gandelman Red and Blue Adrianne Truett Winds of Change PejmanPundit Yuppies of Zion Calvin Coolidge : ScrappleFace Winston Churchill : Sasha Castel England's Sword Innocents Abroad Andrew Sullivan Franklin Roosevelt : Antidotal Kevin Drum Josh Marshall Matt Yglesias David Ben Gurion : GedankenPundit Kesher Talk Friedrich Hayek : Jane Galt Virginia Postrel Natalie Solent VodkaPundit Matt Welch Ronald Reagan : Power Line Daniel Patrick Moynihan : Daniel Drezner How Appealing Josh Cherniss Steve Sachs"
+    },
+    {
+      "tag": "div",
+      "text": "Saturday, June 18, 2005"
     },
     {
       "tag": "p",
@@ -240,7 +244,7 @@
     },
     {
       "tag": "div",
-      "text": "Home Start Bravenet.com Service Code END DO NOT MODIFY"
+      "text": "Home"
     }
   ]
 }

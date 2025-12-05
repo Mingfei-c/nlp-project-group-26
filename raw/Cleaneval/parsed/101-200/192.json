@@ -3,12 +3,16 @@
   "file_number": "192",
   "content_hash": "1c7d7373c387e6cc767ba6a6c9de68c4fe8e0f289513686aa1785a4adf1cc64f",
   "total_blocks": 133,
-  "retained_blocks": 36,
-  "ignored_blocks": 97,
+  "retained_blocks": 37,
+  "ignored_blocks": 96,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" You are here: About > Health > Walking > Pedometer Walking > Walking Idol - Walking Minutes Challenge Walking Health Walking Essentials Walk Off Weight Walk of Life 10-Week Program Best Walking Shoes 10 Walking Mistakes Log Your Walks Topics Walking Off Weight Pedometer Walking Treadmills Beginners Fitness Walking & Workouts Walking Programs Walking Fast Half Marathon & Marathon Blisters and Heel Pain Get Healthy Walking What to Eat and Drink Walking Clubs and Partners Trails, Walk Events & Tours Walking Clothing & Gear Walking Shoes Buyer's Guide Best Pedometers Best Walking Shoes Budget Treadmills Treadmill Buying Tips Walking Gadgets Tools About Video Library Clinical Trials Finder Drug Finder Medical Encyclopedia Forums Most Popular Articles Latest Articles Help gc Walking Idols Newsletters & RSS Email to a friend Digg this story"
+      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "You are here: About > Health > Walking > Pedometer Walking > Walking Idol - Walking Minutes Challenge Walking Health Walking Essentials Walk Off Weight Walk of Life 10-Week Program Best Walking Shoes 10 Walking Mistakes Log Your Walks Topics Walking Off Weight Pedometer Walking Treadmills Beginners Fitness Walking & Workouts Walking Programs Walking Fast Half Marathon & Marathon Blisters and Heel Pain Get Healthy Walking What to Eat and Drink Walking Clubs and Partners Trails, Walk Events & Tours Walking Clothing & Gear Walking Shoes Buyer's Guide Best Pedometers Best Walking Shoes Budget Treadmills Treadmill Buying Tips Walking Gadgets Tools About Video Library Clinical Trials Finder Drug Finder Medical Encyclopedia Forums Most Popular Articles Latest Articles Help Walking Idols Newsletters & RSS Email to a friend Digg this story"
     },
     {
       "tag": "h5",
@@ -96,7 +100,7 @@
     },
     {
       "tag": "div",
-      "text": "/gc Updated: December 6, 2004"
+      "text": "Updated: December 6, 2004"
     },
     {
       "tag": "h5",

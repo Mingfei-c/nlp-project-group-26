@@ -3,12 +3,24 @@
   "file_number": "708",
   "content_hash": "ad12b0feebf298e313d7e59fc617c172f24c9797f9d70bb495184bc8fd48702f",
   "total_blocks": 151,
-  "retained_blocks": 21,
-  "ignored_blocks": 130,
+  "retained_blocks": 24,
+  "ignored_blocks": 127,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" <object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0\" width=\"205\" height=\"42\">\r\n            <param name=\"movie\" value=\"../images/swf/masterhead.swf\" />\r\n            <param name=\"quality\" value=\"high\" />\r\n            <embed src=\"../images/swf/masterhead.swf\" quality=\"high\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" width=\"205\" height=\"42\"></embed>\r\n          </object> You need to upgrade your Flash Player Flash Player 6 or higher is required for viewing. Download the latest player by following this link Home | Add \r\n            to Favourites | Feedback | Help <tr> \r\n    <td height=\"40\" align=\"center\" valign=\"bottom\"><object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0\" width=\"158\" height=\"40\">\r\n        <param name=\"movie\" value=\"../images/swf/sms_small.swf\">\r\n        <param name=\"quality\" value=\"high\">\r\n        <embed src=\"../images/swf/sms_small.swf\" quality=\"high\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" width=\"158\" height=\"40\"></embed></object></td>\r\n  </tr> Print \r\n      page exam \r\n                  centre - leaving cert « \r\n                  back"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "You need to upgrade your Flash Player Flash Player 6 or higher is required for viewing. Download the latest player by following this link Home | Add \r\n            to Favourites | Feedback | Help"
+    },
+    {
+      "tag": "div",
+      "text": "Print \r\n      page"
+    },
+    {
+      "tag": "div",
+      "text": "exam \r\n                  centre - leaving cert « \r\n                  back"
     },
     {
       "tag": "p",

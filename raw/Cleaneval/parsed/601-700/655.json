@@ -3,20 +3,20 @@
   "file_number": "655",
   "content_hash": "3a264de05b61eb5fb08177c16613a47fdefa0240b12c63638d5e0ea4f3068b95",
   "total_blocks": 268,
-  "retained_blocks": 92,
-  "ignored_blocks": 176,
+  "retained_blocks": 75,
+  "ignored_blocks": 193,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" start uberContainer Wednesday 27th December 12.43am GMT start content start wrap start maincol"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "Wednesday 27th December 12.43am GMT"
     },
     {
       "tag": "p",
       "text": "Behind the BRICs: Opportunities and Risks in Emerging Markets in 2007 Also in this issue: Profile: SEB's Seppo Leskinen New FX Heads for JP Margan, Standard Chartered Transferring Sports Psychology into Trading When (and when not) to Book Your 2007 Vacation"
-    },
-    {
-      "tag": "div",
-      "text": "end txt div end story div end unnamed div"
     },
     {
       "tag": "h3",
@@ -35,10 +35,6 @@
       "text": "Read\n\t\t\t\t this story"
     },
     {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
-    },
-    {
       "tag": "h3",
       "text": "Lloyds TSB Adds to Client Solutions Team."
     },
@@ -53,10 +49,6 @@
     {
       "tag": "blockquote",
       "text": "Read\n\t\t\t\t this story"
-    },
-    {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
     },
     {
       "tag": "h3",
@@ -75,10 +67,6 @@
       "text": "Read\n\t\t\t\t this story"
     },
     {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
-    },
-    {
       "tag": "h3",
       "text": "Reuters News  For Machines"
     },
@@ -93,10 +81,6 @@
     {
       "tag": "blockquote",
       "text": "Read\n\t\t\t\t this story"
-    },
-    {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
     },
     {
       "tag": "h3",
@@ -115,10 +99,6 @@
       "text": "Read\n\t\t\t\t this story"
     },
     {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
-    },
-    {
       "tag": "h3",
       "text": "Reuters, TMA Hong Kong Launch RMB Swap Fixing"
     },
@@ -133,10 +113,6 @@
     {
       "tag": "blockquote",
       "text": "Read\n\t\t\t\t this story"
-    },
-    {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
     },
     {
       "tag": "h3",
@@ -155,10 +131,6 @@
       "text": "Read\n\t\t\t\t this story"
     },
     {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
-    },
-    {
       "tag": "h3",
       "text": "Lehman Shuffles the Pack in Europe"
     },
@@ -173,10 +145,6 @@
     {
       "tag": "blockquote",
       "text": "Read\n\t\t\t\t this story"
-    },
-    {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
     },
     {
       "tag": "h3",
@@ -195,10 +163,6 @@
       "text": "Read\n\t\t\t\t this story"
     },
     {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
-    },
-    {
       "tag": "h3",
       "text": "Association Issue Information Abuse Warning"
     },
@@ -213,10 +177,6 @@
     {
       "tag": "blockquote",
       "text": "Read\n\t\t\t\t this story"
-    },
-    {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
     },
     {
       "tag": "h3",
@@ -235,10 +195,6 @@
       "text": "Read\n\t\t\t\t this story"
     },
     {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
-    },
-    {
       "tag": "h3",
       "text": "CLS Adds OTC Derivatives from DTCC"
     },
@@ -253,10 +209,6 @@
     {
       "tag": "blockquote",
       "text": "Read\n\t\t\t\t this story"
-    },
-    {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
     },
     {
       "tag": "h3",
@@ -275,10 +227,6 @@
       "text": "Read\n\t\t\t\t this story"
     },
     {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
-    },
-    {
       "tag": "h3",
       "text": "Another Week; Another CME Record"
     },
@@ -293,10 +241,6 @@
     {
       "tag": "blockquote",
       "text": "Read\n\t\t\t\t this story"
-    },
-    {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
     },
     {
       "tag": "h3",
@@ -315,10 +259,6 @@
       "text": "Read\n\t\t\t\t this story"
     },
     {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
-    },
-    {
       "tag": "h3",
       "text": "Committees Issue NDF Documentation"
     },
@@ -333,10 +273,6 @@
     {
       "tag": "blockquote",
       "text": "Read\n\t\t\t\t this story"
-    },
-    {
-      "tag": "div",
-      "text": "end links div end txt div end story div"
     },
     {
       "tag": "h3",
@@ -356,7 +292,7 @@
     },
     {
       "tag": "div",
-      "text": "end links div end txt div end story div div id=\"otherNews\">\n\t\t<h1>MORE NEWS</h1>\n\t\t<div class=\"topic\">\n\t\t\t  <blockquote class=\"iconLink\"><a href=\"/morenews/\">New\n\t\t\t  website now up!! </a></blockquote>\n\t\t\t  <blockquote class=\"iconLink\"><a href=\"/morenews/\">More\n\t\t\t  financial news goes here... </a></blockquote>\n\t\t</div>\n\t</div end newcol div end maincolContent div end maincol start subcol start nav Home Latest Issue Browse Archive Latest Issue Browse Archive Upcoming Events Event Booking Subscribe Contact Us end nav end subcolContent end subcol end wrap start xcol start xcolContent EXTRA INFO - Host=hs0002616,vcSKey=BR_Home,AdLocations=T,R,F,C,xtraValueKeyCodes=undo_kpa=1,xtraValueKeywords= end div adOfTheWeek"
+      "text": "Home Latest Issue Browse Archive Latest Issue Browse Archive Upcoming Events Event Booking Subscribe Contact Us"
     },
     {
       "tag": "h2",
@@ -364,15 +300,11 @@
     },
     {
       "tag": "div",
-      "text": "Forex Network Asia Forex Network Chicago Forex Network New York end div todaysJobs end div miscCol start xcol end xcol end xcolContent end xcol end content start footer"
+      "text": "Forex Network Asia Forex Network Chicago Forex Network New York"
     },
     {
       "tag": "p",
       "text": "Home | About | Contact | Squawkbox | Log On | Subscribe | Links ©1999- 2006 P&L Services Ltd, All rights reserved"
-    },
-    {
-      "tag": "div",
-      "text": "end footer end uberContainer start topbanner end topbanner"
     }
   ]
 }

@@ -3,12 +3,20 @@
   "file_number": "65",
   "content_hash": "02a093523b46ef475b8ce275e613d84054f9293728e2e892675c37d45f4548bd",
   "total_blocks": 468,
-  "retained_blocks": 21,
-  "ignored_blocks": 447,
+  "retained_blocks": 25,
+  "ignored_blocks": 443,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" DoubleClick Random Number End DoubleClick Random Number begin OSTG navbar OSTG | ThinkGeek - Slashdot - ITMJ - Linux.com - NewsForge - SourceForge - Surveys - Jobs - PriceGrabber end OSTG navbar DoubleClick Ad Tag End DoubleClick Ad Tag Main table Tue, Dec 26th home | browse | articles | contact | chat | submit | faq | newsletter | about | stats | scoop 15:57  PDT Search for in projects articles comments Section Main Unix Handhelds Mac OS X Themes login « register « recover password « [Article] add comment [Article]"
+      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "OSTG | ThinkGeek - Slashdot - ITMJ - Linux.com - NewsForge - SourceForge - Surveys - Jobs - PriceGrabber"
+    },
+    {
+      "tag": "div",
+      "text": "Tue, Dec 26th home | browse | articles | contact | chat | submit | faq | newsletter | about | stats | scoop 15:57  PDT Search for in projects articles comments Section Main Unix Handhelds Mac OS X Themes login « register « recover password « [Article] add comment [Article]"
     },
     {
       "tag": "p",
@@ -20,7 +28,15 @@
     },
     {
       "tag": "p",
-      "text": "We're eager to find people interested in writing editorials on\r\nsoftware-related topics.  We're flexible on length, style, and topic,\r\nso long as you know what you're talking about and back up your\r\nopinions with facts.  Anyone who writes an editorial gets a freshmeat\r\nt-shirt from ThinkGeek in\r\naddition to 15 minutes of fame.  If you think you'd like to try your\r\nhand at it, let jeff.covey@freshmeat.net know what you'd like to write about. [add comment] Referenced categories Topic :: Security Referenced projects Bastille Linux - Acomprehensive hardening program for Linux and HP-UX. Comments [ » ] RE: RE: Linux and the Common Man(tm), revisited by RichD - Jan 12th 2000 13:08:28 Andy Wrote:"
+      "text": "We're eager to find people interested in writing editorials on\r\nsoftware-related topics.  We're flexible on length, style, and topic,\r\nso long as you know what you're talking about and back up your\r\nopinions with facts.  Anyone who writes an editorial gets a freshmeat\r\nt-shirt from ThinkGeek in\r\naddition to 15 minutes of fame.  If you think you'd like to try your\r\nhand at it, let jeff.covey@freshmeat.net know what you'd like to write about. [add comment]"
+    },
+    {
+      "tag": "p",
+      "text": "Referenced categories Topic :: Security Referenced projects Bastille Linux - Acomprehensive hardening program for Linux and HP-UX."
+    },
+    {
+      "tag": "p",
+      "text": "Comments [ » ] RE: RE: Linux and the Common Man(tm), revisited by RichD - Jan 12th 2000 13:08:28 Andy Wrote:"
     },
     {
       "tag": "pre",
@@ -84,11 +100,11 @@
     },
     {
       "tag": "p",
-      "text": "What you're doing is picking out one trivial error and using it as an\nexcuse to ignore the very good points he made. [reply] [top] [ » ] no slackware security list? by casphar - Jan 8th 2000 05:45:19 I'm a home and work user of Linux, my flavour of choice is Slackware. I've\nused most of the major distributions and am forced\r\nto use a few at work. As far as Slackware goes, it does have a security\nmailing list which i am subscribed to, it can easily be found at\nwww.slackware.com\r\nwhich also tells you that all of the current and future versions dir trees\nwill have a patch dir, with patches for that particular version.\r\nIalso sit on a 24/7 internet connection, with a static ip, i get at least\n1 hack attempt a day. And strangely enough none of them seem to have\nworked. Why? Because i spend half an hour a day checking new email for\nproblems,\r\nand checking websites for problems with anything i'm running. So if this\nprofessional sys admin has misinformed you of the slackware side of\nlinux,\r\nwhat else could he be wrong about? Icould be interpreting him wrong, or i\nmight just not be thinking clearly tonight, but i dont and never have had\nproblems\r\nwith the slackware distributions. [reply] [top] End of content"
+      "text": "What you're doing is picking out one trivial error and using it as an\nexcuse to ignore the very good points he made. [reply] [top] [ » ] no slackware security list? by casphar - Jan 8th 2000 05:45:19 I'm a home and work user of Linux, my flavour of choice is Slackware. I've\nused most of the major distributions and am forced\r\nto use a few at work. As far as Slackware goes, it does have a security\nmailing list which i am subscribed to, it can easily be found at\nwww.slackware.com\r\nwhich also tells you that all of the current and future versions dir trees\nwill have a patch dir, with patches for that particular version.\r\nIalso sit on a 24/7 internet connection, with a static ip, i get at least\n1 hack attempt a day. And strangely enough none of them seem to have\nworked. Why? Because i spend half an hour a day checking new email for\nproblems,\r\nand checking websites for problems with anything i'm running. So if this\nprofessional sys admin has misinformed you of the slackware side of\nlinux,\r\nwhat else could he be wrong about? Icould be interpreting him wrong, or i\nmight just not be thinking clearly tonight, but i dont and never have had\nproblems\r\nwith the slackware distributions. [reply] [top]"
     },
     {
       "tag": "div",
-      "text": "© Copyright 2005 OSTG Open Source Technology Group, All Rights Reserved. About freshmeat.net • Privacy Statement • Terms of Use • Advertise • Contact Us • Revision : v2.6.0-pre1 End of main table"
+      "text": "© Copyright 2005 OSTG Open Source Technology Group, All Rights Reserved. About freshmeat.net • Privacy Statement • Terms of Use • Advertise • Contact Us • Revision : v2.6.0-pre1"
     }
   ]
 }

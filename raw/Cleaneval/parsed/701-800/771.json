@@ -3,20 +3,16 @@
   "file_number": "771",
   "content_hash": "f07061bf936c1c3a02fe818f93627786cc3ebffbc6646698eaa9038f755819cb",
   "total_blocks": 93,
-  "retained_blocks": 5,
-  "ignored_blocks": 88,
+  "retained_blocks": 4,
+  "ignored_blocks": 89,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "[if !mso]>\r\n<style>\r\nv\\:*         { behavior: url(#default#VML) }\r\no\\:*         { behavior: url(#default#VML) }\r\n.shape       { behavior: url(#default#VML) }\r\n</style>\r\n<![endif] [if gte mso 9]>\r\n<xml><o:shapedefaults v:ext=\"edit\" spidmax=\"1027\"/>\r\n</xml><![endif]"
-    },
     {
       "tag": "h1",
       "text": "February 14, \r\n                2003"
     },
     {
       "tag": "p",
-      "text": "U.S. DEPARTMENT OF STATE Office of the Spokesman [if gte vml 1]><v:line id=\"_x0000_s1025\"\r\n style='position:absolute;left:0;text-align:left;top:0;z-index:1' from=\"0,7.2pt\"\r\n to=\"460.8pt,7.2pt\" o:allowincell=\"f\">\r\n <v:stroke startarrowwidth=\"narrow\" startarrowlength=\"short\" endarrowwidth=\"narrow\"\r\n  endarrowlength=\"short\"/>\r\n</v:line><![endif] if !vml endif For \r\n                    Immediate \r\n                    Release                                                                                 \r\n                      February 14, 2003 As Delivered 2003/160 Remarks Secretary of State Colin L. Powell To the United Nations Security Council February 14, 2003 New York, New York (12:20 p.m. EST) SECRETARY POWELL: Thank you \r\n                    very much, Mr. President.  Mr. President, Mr. Secretary \r\n                    General, Distinguished Members of the Council, it's a great \r\n                    pleasure to be here with you again to consider this very \r\n                    important matter.  And I'm very pleased to be here as the \r\n                    Secretary of State of a relatively new country on the face \r\n                    of the earth, but Ithink Ican take some credit sitting \r\n                    here as being a representative of the oldest democracy that \r\n                    is assembled here around this table. I'm proud of that.  Ademocracy that \r\n                    believes in peace, a nation that has tried in the course of \r\n                    its history to show how people can live in peace with one \r\n                    another, but a democracy that has not been afraid to meet \r\n                    its responsibilities on the world stage when it has been \r\n                    challenged; more importantly, when others in the world have \r\n                    been challenged or when the international order has been \r\n                    challenged or when the international institutions of which \r\n                    we are a part have been challenged."
+      "text": "U.S. DEPARTMENT OF STATE Office of the Spokesman if !vml endif For \r\n                    Immediate \r\n                    Release                                                                                 \r\n                      February 14, 2003 As Delivered 2003/160 Remarks Secretary of State Colin L. Powell To the United Nations Security Council February 14, 2003 New York, New York (12:20 p.m. EST) SECRETARY POWELL: Thank you \r\n                    very much, Mr. President.  Mr. President, Mr. Secretary \r\n                    General, Distinguished Members of the Council, it's a great \r\n                    pleasure to be here with you again to consider this very \r\n                    important matter.  And I'm very pleased to be here as the \r\n                    Secretary of State of a relatively new country on the face \r\n                    of the earth, but Ithink Ican take some credit sitting \r\n                    here as being a representative of the oldest democracy that \r\n                    is assembled here around this table. I'm proud of that.  Ademocracy that \r\n                    believes in peace, a nation that has tried in the course of \r\n                    its history to show how people can live in peace with one \r\n                    another, but a democracy that has not been afraid to meet \r\n                    its responsibilities on the world stage when it has been \r\n                    challenged; more importantly, when others in the world have \r\n                    been challenged or when the international order has been \r\n                    challenged or when the international institutions of which \r\n                    we are a part have been challenged."
     },
     {
       "tag": "div",

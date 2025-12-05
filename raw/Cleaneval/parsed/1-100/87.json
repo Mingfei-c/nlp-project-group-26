@@ -3,12 +3,16 @@
   "file_number": "87",
   "content_hash": "c92e2488a573315948f62fe6cb14ce0f927c5023a4c01431f22eaee3e8f2da8a",
   "total_blocks": 76,
-  "retained_blocks": 17,
-  "ignored_blocks": 59,
+  "retained_blocks": 19,
+  "ignored_blocks": 57,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n\"http://www.w3.org/TR/html4/loose.dtd\" start BioBar cell Games Support Forums BioWare Info My Account Login Community Sign Up Store end BioBar cell start panel content"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n\"http://www.w3.org/TR/html4/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "Games Support Forums BioWare Info My Account Login Community Sign Up Store"
     },
     {
       "tag": "h4",
@@ -16,7 +20,7 @@
     },
     {
       "tag": "div",
-      "text": "3,305,889 Users: (225 Online) Start Login Form Name: Password: Sign Up | Login Help End Login Form end panel content start inner content table td valign=\"top\" id=\"s-gameinfo-left\"></td"
+      "text": "3,305,889 Users: (225 Online) Name: Password: Sign Up | Login Help"
     },
     {
       "tag": "h3",
@@ -72,7 +76,11 @@
     },
     {
       "tag": "div",
-      "text": "end inner content table Email This Page Newsletter Sign Up BioWare | Jobs | Copyright and Trademark Information Website Terms of Use Agreement | Privacy Policy"
+      "text": "Email This Page Newsletter Sign Up"
+    },
+    {
+      "tag": "div",
+      "text": "BioWare | Jobs | Copyright and Trademark Information Website Terms of Use Agreement | Privacy Policy"
     }
   ]
 }

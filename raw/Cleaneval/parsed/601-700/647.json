@@ -3,36 +3,32 @@
   "file_number": "647",
   "content_hash": "af8fffddc55bb1a696d2b236160ab1b9533a58a25d2627e6dc67cbc10856308f",
   "total_blocks": 219,
-  "retained_blocks": 17,
-  "ignored_blocks": 202,
+  "retained_blocks": 20,
+  "ignored_blocks": 199,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" end <a href=\"/World_Rankings/index.shtml\"><img src=\"/mediastore/graphics/PR_new/zurich_logo.gif\" width=\"128\" height=\"69\" hspace=\"0\" vspace=\"0\" border=\"0\"></a> Web Image Audio Video News <div style=\"position:relative; overflow:hidden; width:310; height:100%; padding:1px\" valign=\"middle\"> Australia England France Ireland New Zealand Scotland South Africa Wales More Teams Shop By Country Clearance Sale Shorts Ladies Jersies Accessories Leisurewear Rugby Balls RWC 2003 Six Nations Under-21 Tri Nations Pacific Islanders Super 14 The Premiership Top 14 Heineken Cup Challenge Cup Magners League NZ Cup Currie Cup EDF Energy Cup IRB Sevens Barbarians Lions World Cup 2007 Fixtures Results England Tables Scotland tables Wales Tables Ireland tables Your Say Soapbox Screensavers Wallpapers Competitions Rugby Lookalikes The 3rd Half Picture Gags Quiz More Wallpapers Ringtones Babes Video Games Laws & Referees Coaching Fitness Rugby Tours Betting On Rugby Spread Betting Rugby On TV <table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"778\">\n\t<tr>\n\t\t<td><a href=\"/News/index.shtml\"><img src=\"/mediastore/graphics/PR_new/menu/news.gif\" border=\"0\" alt=\"News\"></a></td>\n\t\t<td bgcolor=\"#016F30\"><a href=\"/Teams/index.shtml\" onMouseOut=\"FW_startTimeout();\"  onMouseOver=\"window.FW_showMenu(window.fw_menu_1,54,130);\"><img src=\"/mediastore/graphics/PR_new/menu/bycountry.gif\" border=\"0\" alt=\"Teams\"></a></td>\n\t\t<td bgcolor=\"#016F30\"><a href=\"http://www.worldrugbyshop.co.uk\" onMouseOut=\"FW_startTimeout();\"  onMouseOver=\"window.FW_showMenu(window.fw_menu_2,130,130);\"><img src=\"/mediastore/graphics/PR_new/menu/rugbyshop.gif\" border=\"0\" alt=\"Rugby Shop\"></a></td>\n\t\t<td bgcolor=\"#016F30\"><a href=\"/Tournaments/index.shtml\" onMouseOut=\"FW_startTimeout();\"  onMouseOver=\"window.FW_showMenu(window.fw_menu_3,203,130);\"><img src=\"/mediastore/graphics/PR_new/menu/tournaments.gif\" border=\"0\" alt=\"Tournaments\"></a></td>\n\t\t<td bgcolor=\"#016F30\"><a href=\"http://www.sportinglife.com/clients/planetrugby/fixtures/\" onMouseOut=\"FW_startTimeout();\"  onMouseOver=\"window.FW_showMenu(window.fw_menu_4,293,130);\"><img src=\"/mediastore/graphics/PR_new/menu/fixres.gif\" alt=\"Fixtures\" border=\"0\"></a></td>\n\t\t<td bgcolor=\"#016F30\"><a href=\"http://www.sportinglife.com/clients/planetrugby/tables/england.html\" onMouseOut=\"FW_startTimeout();\"  onMouseOver=\"window.FW_showMenu(window.fw_menu_5,412,130);\"><img src=\"/mediastore/graphics/PR_new/menu/tables.gif\" border=\"0\" alt=\"Tables\"></a></td>\n\t\t<td bgcolor=\"#016F30\"><a href=\"/Opinion/index.shtml\" onMouseOut=\"FW_startTimeout();\"  onMouseOver=\"window.FW_showMenu(window.fw_menu_6,503,130);\"><img src=\"/mediastore/graphics/PR_new/menu/opinion.gif\" border=\"0\" alt=\"Opinion\"></a></td>\n\t\t<td bgcolor=\"#016F30\"><a href=\"/Fun_Downloads/index.shtml\" onMouseOut=\"FW_startTimeout();\"  onMouseOver=\"window.FW_showMenu(window.fw_menu_7,559,130);\"><img src=\"/mediastore/graphics/PR_new/menu/fundownloads.gif\" alt=\"Fun & Downloads\" border=\"0\"></a></td>\n\t\t<td bgcolor=\"#016F30\"><a href=\"/Off_The_Field/index.shtml\" onMouseOut=\"FW_startTimeout();\"  onMouseOver=\"window.FW_showMenu(window.fw_menu_8,669,130);\"><img src=\"/mediastore/graphics/PR_new/menu/offthefield.gif\" alt=\"Off the field\" border=\"0\"></a></td>\n\t</tr>\n</table> null"
-    },
-    {
-      "tag": "p",
-      "text": "Home The Premiership"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
     },
     {
       "tag": "div",
-      "text": "<p><a href=\"http://sixnations.planetrugby.com/\" target=\"_new\">6N Microsite</a></p>\n<p><a href=\"javascript:void(window.open('http://rugby.sportal.com','RugbyCentre','width=670,height=540,toolbars=no,scrollbars=auto,left=80,top=80'))\">Premiership Video</A></p>"
-    },
-    {
-      "tag": "p",
-      "text": "Live Coverage www.sports.co.uk"
+      "text": "Web Image Audio Video News"
     },
     {
       "tag": "div",
-      "text": "<p><a target=\"_blank\" href=\"http://adv.teamtalkmedia.com/RealMedia/ads/click_mx.ads/Sportinglife.TTM.ROS/Sportinglife/FM-SixNations-RHL-TTM-RON-06/1x1pixel.gif?http://sixnations.fantasy-manager.co.uk\">Six Nations Fantasy</a></p>"
+      "text": "Australia England France Ireland New Zealand Scotland South Africa Wales More Teams Shop By Country Clearance Sale Shorts Ladies Jersies Accessories Leisurewear Rugby Balls RWC 2003 Six Nations Under-21 Tri Nations Pacific Islanders Super 14 The Premiership Top 14 Heineken Cup Challenge Cup Magners League NZ Cup Currie Cup EDF Energy Cup IRB Sevens Barbarians Lions World Cup 2007 Fixtures Results England Tables Scotland tables Wales Tables Ireland tables Your Say Soapbox Screensavers Wallpapers Competitions Rugby Lookalikes The 3rd Half Picture Gags Quiz More Wallpapers Ringtones Babes Video Games Laws & Referees Coaching Fitness Rugby Tours Betting On Rugby Spread Betting Rugby On TV"
     },
     {
       "tag": "p",
-      "text": "Bet Now Latest Odds Games Tour with Gullivers Poker Room Casino Chat Forum Competitions Contact us"
+      "text": "Home The Premiership Live Coverage www.sports.co.uk Bet Now Latest Odds Games Tour with Gullivers Poker Room Casino Chat Forum Competitions Contact us"
     },
     {
       "tag": "div",
-      "text": "betting kiosk poll - Tonga -- rugby tickets twickenham tickets twickenham hospitality sportswear rugby tours broadband main content area miscElement_2 miscElement 3 Tonga News | Profile | Anthem"
+      "text": "rugby tickets twickenham tickets twickenham hospitality sportswear rugby tours broadband"
+    },
+    {
+      "tag": "div",
+      "text": "Tonga News | Profile | Anthem"
     },
     {
       "tag": "h2",
@@ -56,7 +52,11 @@
     },
     {
       "tag": "div",
-      "text": "email, print links Email Us Your Thoughts Discuss on the Message Board Mail this to a Friend Prepare article for printer email, print links end The best value rugby tours with Gullivers Sports Travel : RBS Six Nations, Dubai and Hong Kong Sevens, Rugby World Cup 2007, Lions 2009. Playing tours for clubs and schools. For more information, please visit www.gulliversports.co.uk Visit our dedicated ProSport fitness section Order England RWC Winners T-Shirts, Videos & DVDs here More Stories"
+      "text": "Email Us Your Thoughts Discuss on the Message Board Mail this to a Friend Prepare article for printer"
+    },
+    {
+      "tag": "div",
+      "text": "The best value rugby tours with Gullivers Sports Travel : RBS Six Nations, Dubai and Hong Kong Sevens, Rugby World Cup 2007, Lions 2009. Playing tours for clubs and schools. For more information, please visit www.gulliversports.co.uk Visit our dedicated ProSport fitness section Order England RWC Winners T-Shirts, Videos & DVDs here More Stories"
     },
     {
       "tag": "p",
@@ -64,7 +64,19 @@
     },
     {
       "tag": "div",
-      "text": "main content area ends Terms & Conditions | Privacy Policy | Copyright | Advertise with us Search Web Image Audio Video News for Top Searches Java flipbar END OF SEARCH TICKER The best results from google, Ask Jeeves, Yahoo! and more"
+      "text": "Terms & Conditions | Privacy Policy | Copyright | Advertise with us"
+    },
+    {
+      "tag": "div",
+      "text": "Search Web Image Audio Video News for"
+    },
+    {
+      "tag": "div",
+      "text": "Top Searches"
+    },
+    {
+      "tag": "div",
+      "text": "The best results from google, Ask Jeeves, Yahoo! and more"
     },
     {
       "tag": "p",
@@ -72,7 +84,7 @@
     },
     {
       "tag": "div",
-      "text": "SportingLife.com - TEAMtalk.com - Bettingzone.co.uk - sportal.com Football365.com - Rivals.net - Golf365.com - Cricket365.com - TShirts365.com Planet-Rugby.com - Planet-F1.com - MobileLounge.co.uk - ExtremeSports365 Sports Broadband Service - ConferenceFootball.tv - Fantasy-Manager - Sports.co.uk Oddschecker.com - totalbet.com - totalbetCasino.co.uk - totalbetPoker.co.uk ukbetting.com - Casino-Checker.com - ukbetting Casino - ukbettingPoker.co.uk Poker-Checker.com - HotelNewspapers.com - PGA Pro.tv Not Used launch pop-ups"
+      "text": "SportingLife.com - TEAMtalk.com - Bettingzone.co.uk - sportal.com Football365.com - Rivals.net - Golf365.com - Cricket365.com - TShirts365.com Planet-Rugby.com - Planet-F1.com - MobileLounge.co.uk - ExtremeSports365 Sports Broadband Service - ConferenceFootball.tv - Fantasy-Manager - Sports.co.uk Oddschecker.com - totalbet.com - totalbetCasino.co.uk - totalbetPoker.co.uk ukbetting.com - Casino-Checker.com - ukbetting Casino - ukbettingPoker.co.uk Poker-Checker.com - HotelNewspapers.com - PGA Pro.tv"
     }
   ]
 }

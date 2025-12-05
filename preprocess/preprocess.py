@@ -81,7 +81,12 @@ def preprocess_html(html_content):
         
     soup = BeautifulSoup(html_content, 'html.parser')
     
-    # 1. Remove noise tags
+    # 1. Remove HTML comments (including Dreamweaver template markers)
+    from bs4 import Comment
+    for comment in soup.find_all(string=lambda text: isinstance(text, Comment)):
+        comment.extract()
+    
+    # 2. Remove noise tags
     for tag in soup(IGNORE_TAGS):
         tag.decompose()
         
@@ -149,7 +154,12 @@ def extract_blocks(html_content, return_stats=False):
     # Count total block-level elements before removal
     total_blocks = len(soup.find_all(list(BLOCK_TAGS)))
     
-    # 1. Remove noise tags
+    # 1. Remove HTML comments (including Dreamweaver template markers)
+    from bs4 import Comment
+    for comment in soup.find_all(string=lambda text: isinstance(text, Comment)):
+        comment.extract()
+    
+    # 2. Remove noise tags
     for tag in soup(IGNORE_TAGS):
         tag.decompose()
     
@@ -233,7 +243,8 @@ def _find_semantic_parent(tag_path):
 def _group_leaves_by_semantic_parent(leaves):
     """
     Group text leaf nodes by semantic parent tag
-    Consecutive leaf nodes with the same semantic tag are merged into one block
+    Consecutive leaf nodes with the same semantic tag are merged into one block,
+    but blocks are split at structural boundaries (like table cells)
     
     Args:
         leaves: [(text, tag_path), ...] list
@@ -244,18 +255,40 @@ def _group_leaves_by_semantic_parent(leaves):
     if not leaves:
         return []
     
+    def _get_structural_boundary_id(tag_path):
+        """
+        Get a unique identifier for the structural boundary (table cell position).
+        Returns tuple of (tag_name, index_in_path) to differentiate between different cells.
+        """
+        structural_tags = {'td', 'th'}
+        for i, tag in enumerate(reversed(tag_path)):
+            if tag in structural_tags:
+                # Return both tag name and its position to uniquely identify this boundary
+                return (tag, len(tag_path) - 1 - i)
+        return None
+    
     blocks = []
     current_tag = None
     current_texts = []
+    prev_tag_path = None
     
     for text, tag_path in leaves:
         semantic_tag = _find_semantic_parent(tag_path)
+        structural_boundary = _get_structural_boundary_id(tag_path)
+        prev_structural_boundary = _get_structural_boundary_id(prev_tag_path) if prev_tag_path else None
         
-        if semantic_tag == current_tag:
-            # Same tag, continue accumulating
-            current_texts.append(text)
-        else:
-            # Different tag, save previous block and start new block
+        # Check if we should start a new block
+        should_break = False
+        
+        if semantic_tag != current_tag:
+            # Different semantic tag, always break
+            should_break = True
+        elif structural_boundary != prev_structural_boundary:
+            # Crossed a structural boundary (different table cell)
+            should_break = True
+        
+        if should_break:
+            # Save previous block
             if current_tag is not None and current_texts:
                 combined_text = ' '.join(current_texts).strip()
                 # Fix split words (e.g., "A dvertise" -> "Advertise")
@@ -266,8 +299,14 @@ def _group_leaves_by_semantic_parent(leaves):
                         'text': combined_text
                     })
             
+            # Start new block
             current_tag = semantic_tag
             current_texts = [text]
+        else:
+            # Continue accumulating in current block
+            current_texts.append(text)
+        
+        prev_tag_path = tag_path
     
     # Save the last block
     if current_tag is not None and current_texts:

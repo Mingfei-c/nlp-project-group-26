@@ -3,8 +3,8 @@
   "file_number": "105",
   "content_hash": "d0988b8b472ae4fa04f9ad9d32b3cce88d6140f25020a7b8025466373831b4f7",
   "total_blocks": 713,
-  "retained_blocks": 73,
-  "ignored_blocks": 640,
+  "retained_blocks": 77,
+  "ignored_blocks": 636,
   "blocks": [
     {
       "tag": "p",
@@ -140,7 +140,11 @@
     },
     {
       "tag": "p",
-      "text": "1. Differential diagnosis for prolonged PT: warfarin, liver disease, poor nutrition,\r\nvitamin Kdeficiency (antibiotics, nutritional, fat malabsorption), deficiency\r\nor inhibitor for factors II, V, VII, or X, DIC, heparin bolus. 2. Differential diagnosis for prolonged PTT: heparin, congenital deficiency of VIII,\r\nIX, XI, von Willebrands disease, anti-phospholipid antibody, inhibitor to any\r\nfactor except VII, liver disease, DIC. 3. Use oral vitamin Kto correct mild to moderate PT prolongation.\r\nCorrection occurs within 10-12 hours. Subcutaneous vitamin Kis as good as IV\r\nvitamin K, minus the risk of anaphylaxis. 4. FFP lasts 4-6 hours (need to give concomitant vitamin K). 5. Bebulin is a plasma-derived concentrate of factors II, VII, IX,\r\nand X.  It should be used in life threatening bleeds associated with\r\nwarfarin.  Dose Bebulin ~50 U/kg IV push (need to give concomitant vitamin\r\nK). 6. For heparin associated bleeding: Unfractionated heparin: Protamine 1 mg for\r\nevery 100 units heparin given. Dose by adding the amount given during each\r\nprior hour divided by 2 number of hours back .  For example, a\r\npatient on a heparin drip at 500 units/hour for 3 hours (without a bolus) would\r\nhave approximately (500/2 0 )+(500/2 1 )+(500/2 2 )\r\n=  500 + (500/2) + (500/4) = 875 units of circulating heparin. \r\nTherfore, the patient should be given 8-9 mg of protamine. Enoxaparin: 1mg:1mg. Protamine may reverse 40-50% of the drug effect. INR Bleeding Vitamin K FFP Normal  5.9 None Not indicated Not indicated 6.0  9.9 None Oral: 0.5  2.5 mg SC: 0.5  1.0 mg Not indicated > 10 None SC: 3 mg total, in divided doses of 1 mg Not indicated > 20 Yes SC: 10 mg 10  20 cc/kg"
+      "text": "1. Differential diagnosis for prolonged PT: warfarin, liver disease, poor nutrition,\r\nvitamin Kdeficiency (antibiotics, nutritional, fat malabsorption), deficiency\r\nor inhibitor for factors II, V, VII, or X, DIC, heparin bolus. 2. Differential diagnosis for prolonged PTT: heparin, congenital deficiency of VIII,\r\nIX, XI, von Willebrands disease, anti-phospholipid antibody, inhibitor to any\r\nfactor except VII, liver disease, DIC. 3. Use oral vitamin Kto correct mild to moderate PT prolongation.\r\nCorrection occurs within 10-12 hours. Subcutaneous vitamin Kis as good as IV\r\nvitamin K, minus the risk of anaphylaxis. 4. FFP lasts 4-6 hours (need to give concomitant vitamin K). 5. Bebulin is a plasma-derived concentrate of factors II, VII, IX,\r\nand X.  It should be used in life threatening bleeds associated with\r\nwarfarin.  Dose Bebulin ~50 U/kg IV push (need to give concomitant vitamin\r\nK). 6. For heparin associated bleeding: Unfractionated heparin: Protamine 1 mg for\r\nevery 100 units heparin given. Dose by adding the amount given during each\r\nprior hour divided by 2 number of hours back .  For example, a\r\npatient on a heparin drip at 500 units/hour for 3 hours (without a bolus) would\r\nhave approximately (500/2 0 )+(500/2 1 )+(500/2 2 )\r\n=  500 + (500/2) + (500/4) = 875 units of circulating heparin. \r\nTherfore, the patient should be given 8-9 mg of protamine. Enoxaparin: 1mg:1mg. Protamine may reverse 40-50% of the drug effect."
+    },
+    {
+      "tag": "p",
+      "text": "INR Bleeding Vitamin K FFP Normal  5.9 None Not indicated Not indicated 6.0  9.9 None Oral: 0.5  2.5 mg SC: 0.5  1.0 mg Not indicated > 10 None SC: 3 mg total, in divided doses of 1 mg Not indicated > 20 Yes SC: 10 mg 10  20 cc/kg"
     },
     {
       "tag": "h1",
@@ -272,7 +276,19 @@
     },
     {
       "tag": "p",
-      "text": "Stage Skin Liver (total bilirubin) GI 1+ maculopapular rash on < 25 % of BSA 2-3 mg/dl diarrhea 500  1000 cc/day 2+ maculopapular rash on 25-50 % of BSA 3-6 mg/dl diarrhea 1000  1500 cc/day 3+ generalized erythroderma 6-15 mg/dl diarrhea > 1500 cc/day 4+ generalized erythroderma and desquamation > 15 mg/dl severe abdominal pain  ileus Use staging\r\ninformation above to determine clinical grade on chart below: Clinical grade Skin Liver GI Decrease in clinical performance I 1+ to 2+ 0 0 None II 1+ to 3+ 1+ 1+ Mild III 1+ to 3+ 2+ to 3+ 2+ to 3+ Marked IV 2+ to 4+ 2+ to 4+ 2+ to 4+ Extreme Armitage JO. Bone marrow transplantation. N Engl J Med. 1994 Mar\r\n24;330(12):827-38."
+      "text": "Stage Skin Liver (total bilirubin) GI 1+ maculopapular rash on < 25 % of BSA 2-3 mg/dl diarrhea 500  1000 cc/day 2+ maculopapular rash on 25-50 % of BSA 3-6 mg/dl diarrhea 1000  1500 cc/day 3+ generalized erythroderma 6-15 mg/dl diarrhea > 1500 cc/day 4+ generalized erythroderma and desquamation > 15 mg/dl severe abdominal pain  ileus"
+    },
+    {
+      "tag": "p",
+      "text": "Use staging\r\ninformation above to determine clinical grade on chart below:"
+    },
+    {
+      "tag": "p",
+      "text": "Clinical grade Skin Liver GI Decrease in clinical performance I 1+ to 2+ 0 0 None II 1+ to 3+ 1+ 1+ Mild III 1+ to 3+ 2+ to 3+ 2+ to 3+ Marked IV 2+ to 4+ 2+ to 4+ 2+ to 4+ Extreme"
+    },
+    {
+      "tag": "p",
+      "text": "Armitage JO. Bone marrow transplantation. N Engl J Med. 1994 Mar\r\n24;330(12):827-38."
     },
     {
       "tag": "h1",

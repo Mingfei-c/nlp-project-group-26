@@ -3,28 +3,20 @@
   "file_number": "306",
   "content_hash": "68a31d1bcd6759dcff8d71d20f2cf49ec7870c84950b0ef07e416216090457f9",
   "total_blocks": 276,
-  "retained_blocks": 35,
-  "ignored_blocks": 241,
+  "retained_blocks": 43,
+  "ignored_blocks": 233,
   "blocks": [
     {
       "tag": "div",
-      "text": "Header starts Canada Post From anywhere... to anyone"
+      "text": "Canada Post From anywhere... to anyone"
     },
     {
       "tag": "p",
-      "text": "Help | Legal | Copyright | Privacy | Annual report - no Graphic version toggle Graphic Version | Français"
+      "text": "Help | Legal | Copyright | Privacy | Graphic Version | Français Home > Online Tools > Postal Guide > Postal Guide"
     },
     {
       "tag": "div",
-      "text": "Header ends Breadcrumb starts"
-    },
-    {
-      "tag": "p",
-      "text": "Home > Online Tools > Postal Guide > Postal Guide"
-    },
-    {
-      "tag": "div",
-      "text": "Breadcrumb ends Stickie starts <div align=\"left\"><hr width=\"650\"></div> <span class=\"bold\">News Flash:</span> <a href=\"#\">Suspicious Mail Alert</a><p> <div align=\"left\"><hr width=\"650\"></div> Stickie ends Left nav starts Personal Business Left nav ends Page contents starts"
+      "text": "Personal Business"
     },
     {
       "tag": "p",
@@ -48,7 +40,11 @@
     },
     {
       "tag": "div",
-      "text": "Additional delivery information is optional data that a mailer wishes to include. (title, floor, etc.) It is always placed above the civic address. Aunit number is placed before the civic number with a hyphen between, OR after the street type, using an acceptable unit identifier (ex. APT 10). Please see Unit Designators for a list. The unit information may be placed on the line above the street information if space is an issue. The civic number is the official number assigned to an address by the municipality. When a civic number suffix is present, there is no space when it is alpha (123A), and there is one space when it is a fraction (123 1/2). The street name is the official name recognized by each municipality and should not be translated. (Ex.: Main is not Principale.) There is no space between a numerical street name with an ordinal or an alphanumeric character. (Ex.: 2ND ST or 36A ST). When the street name is numeric, there is only one space (no hyphen) between the civic number and the street name. (Ex.: 123 22ND AVE). The street type is provided by the municipality. Common abbreviations should be used. Please see Street Types below for a complete list. In some instances, the street type is also the street name (THE PARKWAY). The only street types that may be translated are: ST = RUE AVE = AV BLVD = BOUL"
+      "text": "Additional delivery information is optional data that a mailer wishes to include. (title, floor, etc.) It is always placed above the civic address. Aunit number is placed before the civic number with a hyphen between, OR after the street type, using an acceptable unit identifier (ex. APT 10). Please see Unit Designators for a list. The unit information may be placed on the line above the street information if space is an issue. The civic number is the official number assigned to an address by the municipality. When a civic number suffix is present, there is no space when it is alpha (123A), and there is one space when it is a fraction (123 1/2). The street name is the official name recognized by each municipality and should not be translated. (Ex.: Main is not Principale.) There is no space between a numerical street name with an ordinal or an alphanumeric character. (Ex.: 2ND ST or 36A ST). When the street name is numeric, there is only one space (no hyphen) between the civic number and the street name. (Ex.: 123 22ND AVE). The street type is provided by the municipality. Common abbreviations should be used. Please see Street Types below for a complete list. In some instances, the street type is also the street name (THE PARKWAY). The only street types that may be translated are:"
+    },
+    {
+      "tag": "div",
+      "text": "ST = RUE AVE = AV BLVD = BOUL"
     },
     {
       "tag": "p",
@@ -64,7 +60,15 @@
     },
     {
       "tag": "div",
-      "text": "Additional delivery information is optional data that a mailer wishes to include. (title, floor, municipal address, etc.) It is always placed above the post office box address. The post office box number should always be placed on the line just above the municipality, province and postal code. The # symbol should not be used, nor the French equivalent n o . Punctuation should not be used. Station information should be present to direct mail to the proper postal installation when there is more than one installation within a municipality. Station = STN Retail Postal Outlet = RPO The official municipality name, as provided to Canada Post, the official abbreviation of the municipality, or an official alternate name, must should  be used and cannot should not  be translated. (Ex.: TROIS-RIVIRES is not THREE RIVERS.) The province should always be presented using the recognized two-letter symbol. Please see Province and Territory Symbols below for a complete listing. Mailers may wish to have the province written in full and placed in brackets. Ex.: (Qubec) The postal code should be in upper case and placed two spaces to the right of the province with one space between the first three and last three characters."
+      "text": "Additional delivery information is optional data that a mailer wishes to include. (title, floor, municipal address, etc.) It is always placed above the post office box address. The post office box number should always be placed on the line just above the municipality, province and postal code. The # symbol should not be used, nor the French equivalent n o . Punctuation should not be used. Station information should be present to direct mail to the proper postal installation when there is more than one installation within a municipality."
+    },
+    {
+      "tag": "div",
+      "text": "Station = STN Retail Postal Outlet = RPO"
+    },
+    {
+      "tag": "div",
+      "text": "The official municipality name, as provided to Canada Post, the official abbreviation of the municipality, or an official alternate name, must should  be used and cannot should not  be translated. (Ex.: TROIS-RIVIRES is not THREE RIVERS.) The province should always be presented using the recognized two-letter symbol. Please see Province and Territory Symbols below for a complete listing. Mailers may wish to have the province written in full and placed in brackets. Ex.: (Qubec) The postal code should be in upper case and placed two spaces to the right of the province with one space between the first three and last three characters."
     },
     {
       "tag": "p",
@@ -72,7 +76,15 @@
     },
     {
       "tag": "div",
-      "text": "Many rural areas now have civic addresses. Civic addresses may be added above the rural route. In some locations, the rural route (RR) designator is no longer required. Additional address information is often required for delivery to this type of address. Some examples include: SITE/ COMPARTMENT, LOT/CONCESSION, civic address, attention line, title, floor. The word BOX should not be used in place of COMPARTMENT. The rural route identifier should use the two-letter symbol (RR, SS, MR), followed by the number, one space to the right. The # symbol should not be used, nor the French equivalent, n o . Punctuation should not be used in RR, SS, or MR. Station information should be present to direct mail to the proper postal installation when there is more than one installation within a municipality. Station = STN Retail Postal Outlet = RPO The official municipality name, as provided to Canada Post, the official abbreviation of the municipality, or an official alternate name, should be used and should not be translated. (Ex.: TROIS-RIVIRES is not THREE RIVERS.) The province should always be presented using the recognized two-letter symbol. Please see Province and Territory Symbols below for a complete listing. Mailers may wish to have the province written in full and placed in brackets. Ex.: (Qubec) The postal code should be in upper case and placed two spaces to the right of the province with one space between the first three and last three characters."
+      "text": "Many rural areas now have civic addresses. Civic addresses may be added above the rural route. In some locations, the rural route (RR) designator is no longer required. Additional address information is often required for delivery to this type of address. Some examples include: SITE/ COMPARTMENT, LOT/CONCESSION, civic address, attention line, title, floor. The word BOX should not be used in place of COMPARTMENT. The rural route identifier should use the two-letter symbol (RR, SS, MR), followed by the number, one space to the right. The # symbol should not be used, nor the French equivalent, n o . Punctuation should not be used in RR, SS, or MR. Station information should be present to direct mail to the proper postal installation when there is more than one installation within a municipality."
+    },
+    {
+      "tag": "div",
+      "text": "Station = STN Retail Postal Outlet = RPO"
+    },
+    {
+      "tag": "div",
+      "text": "The official municipality name, as provided to Canada Post, the official abbreviation of the municipality, or an official alternate name, should be used and should not be translated. (Ex.: TROIS-RIVIRES is not THREE RIVERS.) The province should always be presented using the recognized two-letter symbol. Please see Province and Territory Symbols below for a complete listing. Mailers may wish to have the province written in full and placed in brackets. Ex.: (Qubec) The postal code should be in upper case and placed two spaces to the right of the province with one space between the first three and last three characters."
     },
     {
       "tag": "p",
@@ -80,7 +92,15 @@
     },
     {
       "tag": "div",
-      "text": "The General Delivery indicator should be the two-letter abbreviation \"GD.\" Punctuation should not be used. Station information should be present to direct mail to the proper postal installation when there is more than one installation within a municipality. Station = STN Retail Postal Outlet = RPO The official municipality name, as provided to Canada Post, the official abbreviation of the municipality, or an official alternate name, should be used and should not be translated. (Ex.: TROIS-RIVIRES is not THREE RIVERS.) The province should always be presented using the recognized two-letter symbol. Please see Province and Territory Symbols below for a complete listing. Mailers may wish to have the province written in full and placed in brackets. Ex.: (Qubec) The postal code should be in upper case and placed two spaces to the right of the province with one space between the first three and last three characters."
+      "text": "The General Delivery indicator should be the two-letter abbreviation \"GD.\" Punctuation should not be used. Station information should be present to direct mail to the proper postal installation when there is more than one installation within a municipality."
+    },
+    {
+      "tag": "div",
+      "text": "Station = STN Retail Postal Outlet = RPO"
+    },
+    {
+      "tag": "div",
+      "text": "The official municipality name, as provided to Canada Post, the official abbreviation of the municipality, or an official alternate name, should be used and should not be translated. (Ex.: TROIS-RIVIRES is not THREE RIVERS.) The province should always be presented using the recognized two-letter symbol. Please see Province and Territory Symbols below for a complete listing. Mailers may wish to have the province written in full and placed in brackets. Ex.: (Qubec) The postal code should be in upper case and placed two spaces to the right of the province with one space between the first three and last three characters."
     },
     {
       "tag": "p",
@@ -112,7 +132,11 @@
     },
     {
       "tag": "div",
-      "text": "ENGLISH SYMBOL FRENCH SYMBOL East E Est E North N Nord N Northeast NE Nord-Est NE Northwest NW Nord-Ouest NO South S Sud S Southeast SE Sud-Est SE Southwest SW Sud-Ouest SO West W Ouest O"
+      "text": "ENGLISH SYMBOL FRENCH SYMBOL"
+    },
+    {
+      "tag": "div",
+      "text": "East E Est E North N Nord N Northeast NE Nord-Est NE Northwest NW Nord-Ouest NO South S Sud S Southeast SE Sud-Est SE Southwest SW Sud-Ouest SO West W Ouest O"
     },
     {
       "tag": "p",
@@ -120,7 +144,11 @@
     },
     {
       "tag": "div",
-      "text": "ENGLISH UNIT DESIGNATOR ABBREVIATION FRENCH UNIT DESIGNATOR ABBREVIATION Apartment APT Appartement APP Suite SUITE Bureau BUREAU Unit UNIT Unit UNIT"
+      "text": "ENGLISH UNIT DESIGNATOR ABBREVIATION FRENCH UNIT DESIGNATOR ABBREVIATION"
+    },
+    {
+      "tag": "div",
+      "text": "Apartment APT Appartement APP Suite SUITE Bureau BUREAU Unit UNIT Unit UNIT"
     },
     {
       "tag": "p",
@@ -128,7 +156,11 @@
     },
     {
       "tag": "div",
-      "text": "ENGLISH NAME SYMBOL FRENCH NAME Alberta AB Alberta British Columbia BC Colombie-Britannique Manitoba MB Manitoba New Brunswick NB Nouveau-Brunswick Newfoundland and Labrador NL Terre-Neuve-et-Labrador Northwest Territories NT Territoires du Nord-Ouest Nova Scotia NS Nouvelle-cosse Nunavut NU Nunavut Ontario ON Ontario Prince Edward Island PE le-du-Prince-douard Qubec QC Qubec Saskatchewan SK Saskatchewan Yukon YT Yukon"
+      "text": "ENGLISH NAME SYMBOL FRENCH NAME"
+    },
+    {
+      "tag": "div",
+      "text": "Alberta AB Alberta British Columbia BC Colombie-Britannique Manitoba MB Manitoba New Brunswick NB Nouveau-Brunswick Newfoundland and Labrador NL Terre-Neuve-et-Labrador Northwest Territories NT Territoires du Nord-Ouest Nova Scotia NS Nouvelle-cosse Nunavut NU Nunavut Ontario ON Ontario Prince Edward Island PE le-du-Prince-douard Qubec QC Qubec Saskatchewan SK Saskatchewan Yukon YT Yukon"
     },
     {
       "tag": "p",
@@ -144,7 +176,7 @@
     },
     {
       "tag": "div",
-      "text": "Page contents ends Right nav starts | Canada Postal Guide and Reference Tools | What's New | Canada Postal Guide | B – General Information | B.1 – Canada Post Corporation | B.2 – Customer Relationship Network | B.3 – Addressing | B.4 – Planning a Mailing | B.5 – Paying for a Mailing, Product or Service | B.6 – Customs Requirements | B.7 – Non-mailable Matter | Index | Right nav ends Footer starts Footer ends"
+      "text": "| Canada Postal Guide and Reference Tools | What's New | Canada Postal Guide | B – General Information | B.1 – Canada Post Corporation | B.2 – Customer Relationship Network | B.3 – Addressing | B.4 – Planning a Mailing | B.5 – Paying for a Mailing, Product or Service | B.6 – Customs Requirements | B.7 – Non-mailable Matter | Index |"
     }
   ]
 }

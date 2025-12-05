@@ -3,8 +3,8 @@
   "file_number": "314",
   "content_hash": "b43ca13cc15ae72a9434e723f277af0459b3c607a09275e34b341f3e6d66d3a4",
   "total_blocks": 74,
-  "retained_blocks": 34,
-  "ignored_blocks": 40,
+  "retained_blocks": 35,
+  "ignored_blocks": 39,
   "blocks": [
     {
       "tag": "h1",
@@ -136,11 +136,15 @@
     },
     {
       "tag": "p",
-      "text": "Henry IV, King of France from 1589 through 1610 was reputed to\nhave said to have avoided a battle by making a pragmatic recognition that\n\"Paris is worth a mass\".  Ibelieve that the departure of Mike\nRoberts from ICANN will bring a significant change in the personality of the\norganization.  Ithank him for leaving. Return to Diary\n        Index Return to\n        main page."
+      "text": "Henry IV, King of France from 1589 through 1610 was reputed to\nhave said to have avoided a battle by making a pragmatic recognition that\n\"Paris is worth a mass\".  Ibelieve that the departure of Mike\nRoberts from ICANN will bring a significant change in the personality of the\norganization.  Ithank him for leaving."
+    },
+    {
+      "tag": "p",
+      "text": "Return to Diary\n        Index Return to\n        main page."
     },
     {
       "tag": "div",
-      "text": "2001 Karl Auerbach, All Rights Reserved. Updated: webbot bot=\"Timestamp\" s-type=\"EDITED\"\n  s-format=\"%A, %B %d, %Y %I:%M:%S %p\" startspan Monday, May 14, 2001 03:46:50 AM webbot bot=\"Timestamp\" endspan i-checksum=\"54336\""
+      "text": "2001 Karl Auerbach, All Rights Reserved. Updated: Monday, May 14, 2001 03:46:50 AM"
     }
   ]
 }

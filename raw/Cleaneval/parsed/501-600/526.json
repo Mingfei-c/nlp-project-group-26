@@ -3,8 +3,8 @@
   "file_number": "526",
   "content_hash": "0f50badb50543f35089806c13c6d2734ba2a95bc91a61cf6a6ed466d9371ef2d",
   "total_blocks": 175,
-  "retained_blocks": 28,
-  "ignored_blocks": 147,
+  "retained_blocks": 29,
+  "ignored_blocks": 146,
   "blocks": [
     {
       "tag": "p",
@@ -20,7 +20,11 @@
     },
     {
       "tag": "div",
-      "text": "##### Content starts here ##### Banner Start // Keywords (or Job Reference) Sector Any Accountancy & Tax Aerospace & Aviation Automotive Banking & Finance Central Government Charity & Voluntary Construction Consultancy Consumer Products/FMCG Customer Services Defence & Security Education & Training Electronics Engineering Facilities/Property Man. Graduate Healthcare & Pharmaceuticals HR & Recruitment Information Technology Insurance Internet & New Media Legal Leisure, Travel & Hospitality Local Government Manufacturing Marketing, PR & Advertising Media & Publishing Oil & Gas Other Production & Operations Public Sector Purchasing & Procurement Retail Sales Science & Environment Secretarial & Support Staff Supply Chain & Logistics Telecommunications Transportation/Distribution Utilities & Energy Location Any United Kingdom ...England ......London .........Central .........City .........East London .........North London .........South London .........West London ......South East .........Bedfordshire .........Berkshire .........Buckinghamshire .........Cambridgeshire .........East Sussex .........Oxfordshire .........Hampshire .........Hertfordshire .........Kent .........Surrey .........West Sussex ......East Anglia .........Essex .........Norfolk .........Oxfordshire .........Suffolk ......South West .........Bristol .........Cornwall .........Devon .........Dorset .........Gloucestershire .........Somerset .........Wiltshire ......East Midlands .........Birmingham .........Derbyshire .........Leicestershire .........Lincolnshire .........Northamptonshire .........Nottinghamshire .........West Midlands .........Herefordshire .........Shropshire .........Staffordshire .........Warwickshire .........Worcestershire ......North West .........Cheshire .........Cumbria .........Greater Manchester .........Lancashire .........Merseyside ......Yorkshire .........East Yorkshire .........North Yorkshire .........South Yorkshire .........West Yorkshire .........Leeds ......North East .........Durham .........Newcastle .........Northumberland .........Teesside .........Tyne & Wear ...Wales ......Cardiff ......Newport ...Scotland ......Edinburgh ......Glasgow ......Aberdeen ...Northern Ireland ......Belfast Channel Islands Ireland ...Dublin International ...Africa ...Asia ...Australasia ...Europe ...Middle East ...North America ...South America Salary From Salary To Job posted in last: Any 1 day 3 days 7 days 14 days Job Type: Permanent Contract/Interim Part Time Advanced Search Reset Form Email me jobs like this View my basket Vacancy Results"
+      "text": "Keywords (or Job Reference) Sector Any Accountancy & Tax Aerospace & Aviation Automotive Banking & Finance Central Government Charity & Voluntary Construction Consultancy Consumer Products/FMCG Customer Services Defence & Security Education & Training Electronics Engineering Facilities/Property Man. Graduate Healthcare & Pharmaceuticals HR & Recruitment Information Technology Insurance Internet & New Media Legal Leisure, Travel & Hospitality Local Government Manufacturing Marketing, PR & Advertising Media & Publishing Oil & Gas Other Production & Operations Public Sector Purchasing & Procurement Retail Sales Science & Environment Secretarial & Support Staff Supply Chain & Logistics Telecommunications Transportation/Distribution Utilities & Energy Location Any United Kingdom ...England ......London .........Central .........City .........East London .........North London .........South London .........West London ......South East .........Bedfordshire .........Berkshire .........Buckinghamshire .........Cambridgeshire .........East Sussex .........Oxfordshire .........Hampshire .........Hertfordshire .........Kent .........Surrey .........West Sussex ......East Anglia .........Essex .........Norfolk .........Oxfordshire .........Suffolk ......South West .........Bristol .........Cornwall .........Devon .........Dorset .........Gloucestershire .........Somerset .........Wiltshire ......East Midlands .........Birmingham .........Derbyshire .........Leicestershire .........Lincolnshire .........Northamptonshire .........Nottinghamshire .........West Midlands .........Herefordshire .........Shropshire .........Staffordshire .........Warwickshire .........Worcestershire ......North West .........Cheshire .........Cumbria .........Greater Manchester .........Lancashire .........Merseyside ......Yorkshire .........East Yorkshire .........North Yorkshire .........South Yorkshire .........West Yorkshire .........Leeds ......North East .........Durham .........Newcastle .........Northumberland .........Teesside .........Tyne & Wear ...Wales ......Cardiff ......Newport ...Scotland ......Edinburgh ......Glasgow ......Aberdeen ...Northern Ireland ......Belfast Channel Islands Ireland ...Dublin International ...Africa ...Asia ...Australasia ...Europe ...Middle East ...North America ...South America Salary From Salary To Job posted in last: Any 1 day 3 days 7 days 14 days Job Type: Permanent Contract/Interim Part Time Advanced Search Reset Form"
+    },
+    {
+      "tag": "div",
+      "text": "Email me jobs like this View my basket Vacancy Results"
     },
     {
       "tag": "p",
@@ -116,7 +120,7 @@
     },
     {
       "tag": "div",
-      "text": "##### Content ends here ##### Ten Classified Box Start // Contact us | About us | Advertising | Press office | Promotions | Mobile © Copyright of Telegraph Media Group Limited 2006. | Terms & Conditions of reading. | Commercial information. | Privacy and Cookie Policy. Start Log End Log Footer Start //"
+      "text": "Contact us | About us | Advertising | Press office | Promotions | Mobile © Copyright of Telegraph Media Group Limited 2006. | Terms & Conditions of reading. | Commercial information. | Privacy and Cookie Policy."
     }
   ]
 }

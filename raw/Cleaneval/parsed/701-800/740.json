@@ -3,13 +3,9 @@
   "file_number": "740",
   "content_hash": "41b897e83dd1db8afc46356e0b200b3c4e1419fce011c46769cc1b630dc51a51",
   "total_blocks": 65,
-  "retained_blocks": 4,
-  "ignored_blocks": 61,
+  "retained_blocks": 3,
+  "ignored_blocks": 62,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "DWLayoutTable DWLayoutEmptyCell"
-    },
     {
       "tag": "h3",
       "text": "TASA REPORTS Q1 REVENUES UP 18%, EPS 2 CENTS VS. YEAR-AGO LOSS"

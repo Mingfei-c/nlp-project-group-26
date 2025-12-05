@@ -3,8 +3,8 @@
   "file_number": "475",
   "content_hash": "f4891b640d4acd5f6f05aeb9649f45a669b375d953e0e3de38d812e834bb0432",
   "total_blocks": 291,
-  "retained_blocks": 13,
-  "ignored_blocks": 278,
+  "retained_blocks": 24,
+  "ignored_blocks": 267,
   "blocks": [
     {
       "tag": "h2",
@@ -40,7 +40,15 @@
     },
     {
       "tag": "div",
-      "text": "Sponsored Links: Kids bedding · LipSense Guaranteed long lasting lipstick · Guaranteed long lasting lipstick · Personalized Gift Ideas · Poker California · Casinos Canadian · Bingo Games · Compare Credit Card Offers · Concert Tickets · Homes for Rent, Apartment Rentals · Play online poker at AbsolutePoker.com\n               \t\t\t· Casino · Casinos · blues festivals · 7Sultans Online Casino · Place Your Link Here! Harpers.org is the website of Harper's Magazine, an American journal of literature, politics, culture, and the arts published\n               continuously from 1850. Looking for the latest issue of Harper's Magazine? Ready to subscribe? Newsstand Current Issue Subscriber Care Subscriber Fraud Alert Washington Babylon Weekly Review Most Recent Harper's Index Most Recent Readings Features « » The Columns of Liberty Archive Connections Classified Advertising About Harper’s Visit Harper's Bookshelf Contact Harper's Media Kit Merchant Directory Search Harpers.org Subscribe to The Weekly Review Syndicate : RSS1.0 , RSS2.0 © 2006 Harper's Magazine Foundation Harper's Bookshelf What Went Wrong in Ohio by Anita Miller (Ed.) The Conyers Report on the 2004 Presidential Election."
+      "text": "Sponsored Links: Kids bedding · LipSense Guaranteed long lasting lipstick · Guaranteed long lasting lipstick · Personalized Gift Ideas · Poker California · Casinos Canadian · Bingo Games · Compare Credit Card Offers · Concert Tickets · Homes for Rent, Apartment Rentals · Play online poker at AbsolutePoker.com\n               \t\t\t· Casino · Casinos · blues festivals · 7Sultans Online Casino · Place Your Link Here! Harpers.org is the website of Harper's Magazine, an American journal of literature, politics, culture, and the arts published\n               continuously from 1850."
+    },
+    {
+      "tag": "div",
+      "text": "Looking for the latest issue of Harper's Magazine? Ready to subscribe?"
+    },
+    {
+      "tag": "div",
+      "text": "Newsstand Current Issue Subscriber Care Subscriber Fraud Alert Washington Babylon Weekly Review Most Recent Harper's Index Most Recent Readings Features « » The Columns of Liberty Archive Connections Classified Advertising About Harper’s Visit Harper's Bookshelf Contact Harper's Media Kit Merchant Directory Search Harpers.org Subscribe to The Weekly Review Syndicate : RSS1.0 , RSS2.0 © 2006 Harper's Magazine Foundation Harper's Bookshelf What Went Wrong in Ohio by Anita Miller (Ed.) The Conyers Report on the 2004 Presidential Election."
     },
     {
       "tag": "h3",
@@ -56,7 +64,43 @@
     },
     {
       "tag": "div",
-      "text": "Jan 2005 S M T W T F S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Feb 2005 S M T W T F S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 Mar 2005 S M T W T F S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 SUBSCRIBE TO HARPER'S MAGAZINE for as little as $14.97/year Visit Finland in the Lively Season!"
+      "text": "Jan 2005"
+    },
+    {
+      "tag": "div",
+      "text": "S M T W T F S"
+    },
+    {
+      "tag": "div",
+      "text": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31"
+    },
+    {
+      "tag": "div",
+      "text": "Feb 2005"
+    },
+    {
+      "tag": "div",
+      "text": "S M T W T F S"
+    },
+    {
+      "tag": "div",
+      "text": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28"
+    },
+    {
+      "tag": "div",
+      "text": "Mar 2005"
+    },
+    {
+      "tag": "div",
+      "text": "S M T W T F S"
+    },
+    {
+      "tag": "div",
+      "text": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31"
+    },
+    {
+      "tag": "div",
+      "text": "SUBSCRIBE TO HARPER'S MAGAZINE for as little as $14.97/year Visit Finland in the Lively Season!"
     }
   ]
 }

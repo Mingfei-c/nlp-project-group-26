@@ -3,12 +3,20 @@
   "file_number": "300",
   "content_hash": "715047f6a37e9fa530e7f2c0ae389b4e0b64d9286fc6b310f3be5544e54ff6f3",
   "total_blocks": 141,
-  "retained_blocks": 36,
-  "ignored_blocks": 105,
+  "retained_blocks": 37,
+  "ignored_blocks": 104,
   "blocks": [
     {
       "tag": "div",
-      "text": "**************************************BUILD VERSION INFO************************************** Release Build 3.0 *********************************************************************************************** HTML PUBLIC \"-/W3C/DTD HTML 4.0 Transitional/EN\" Includes for Meta and Sub Navigation Meta Navigation Home | Join BSR | About BSR | Search | Member Login BSR Advisory Services CSR Resources BSR Conferences BSR Store End Nav Includes Home » CSR Resources »\n\t\t  \n\t\t\t  Environment"
+      "text": "HTML PUBLIC \"-/W3C/DTD HTML 4.0 Transitional/EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Home | Join BSR | About BSR | Search | Member Login BSR Advisory Services CSR Resources BSR Conferences BSR Store"
+    },
+    {
+      "tag": "div",
+      "text": "Home » CSR Resources »\n\t\t  \n\t\t\t  Environment"
     },
     {
       "tag": "h4",
@@ -127,10 +135,6 @@
       "text": "Over the past several years, a number of organizations have investigated the increasing number of companies seeking to influence their suppliers' environmental practices, but typically have not looked at suppliers' perspectives on this trend. To address this imbalance and gain suppliers' insights into effective strategies for supply chain environmental management, BSR talked with representatives from 25 suppliers in four sectors -- automotive, electronics, forest products, and business services. This report, released in 2001 [PDF Document, File size: 135KB], summarizes their insights on: current trends in supply chain environmental management how these trends are impacting their business recommendations to suppliers on effective strategies for addressing environmental issues with suppliers whether and how these suppliers are addressing environmental issues with their suppliers future trends and directions"
     },
     {
-      "tag": "div",
-      "text": "**************************************BUILD VERSION INFO************************************** Release Build 3.0 *********************************************************************************************** Right Navigation"
-    },
-    {
       "tag": "h4",
       "text": "Search"
     },
@@ -144,7 +148,7 @@
     },
     {
       "tag": "div",
-      "text": "End Right Navigation Begin Footer Legal | Contact Us | Email this Page Home | Join BSR | About BSR | Search | Member Login BSR Advisory Services | CSR Resources | BSR Conferences | BSR Store"
+      "text": "Legal | Contact Us | Email this Page Home | Join BSR | About BSR | Search | Member Login BSR Advisory Services | CSR Resources | BSR Conferences | BSR Store"
     },
     {
       "tag": "p",

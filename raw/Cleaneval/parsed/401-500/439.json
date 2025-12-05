@@ -3,12 +3,16 @@
   "file_number": "439",
   "content_hash": "63128827af552513efe11c6866d01ef0c65e8eaa9011f631b7ce77f75aea6ce0",
   "total_blocks": 360,
-  "retained_blocks": 91,
-  "ignored_blocks": 269,
+  "retained_blocks": 93,
+  "ignored_blocks": 267,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" Free Republic Home · Browse · Search News/Activism Topics · Post Article"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "Free Republic Home · Browse · Search News/Activism Topics · Post Article"
     },
     {
       "tag": "p",
@@ -368,7 +372,11 @@
     },
     {
       "tag": "div",
-      "text": "Free Republic Home · Browse · Search News/Activism Topics · Post Article FreeRepublic , LLC, PO BOX 9771, FRESNO, CA 93794 FreeRepublic.com is powered by software copyright 2000-2003 Robinson-DeFehr Consulting, LLC."
+      "text": "Free Republic Home · Browse · Search News/Activism Topics · Post Article"
+    },
+    {
+      "tag": "div",
+      "text": "FreeRepublic , LLC, PO BOX 9771, FRESNO, CA 93794 FreeRepublic.com is powered by software copyright 2000-2003 Robinson-DeFehr Consulting, LLC."
     }
   ]
 }

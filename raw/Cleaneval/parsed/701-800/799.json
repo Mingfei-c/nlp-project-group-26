@@ -8,7 +8,15 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "SiteCatalyst code version: H.7.Copyright 1997-2006 Omniture, Inc. More info available athttp://www.omniture.com /DO NOT REMOVE/ End SiteCatalyst code version: H.7. *** NEEDED FOR REG *** *** /NEEDED FOR REG *** *** HEADER TOP *** Hello Change Preferences | Sign Out Sign In | Register Now Print Edition | Subscribe *** /HEADER TOP *** *** DROPDOWN NAVIGATION *** Politics Business Education Real Estate Nation Technology KidsPost Obituaries World Entertainment Religion Corrections Metro Health Post Magazine Archives Politics Blog Congress Polls Elections House/Senate Votes Federal Page Key Races White House In Depth <tr>\n\t\t\t\t<td colspan=\"3\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> Columns & Blogs Feedback Cartoons & Videos Outlook Editorials Message Boards Redskins D.C. United Columns/Blogs NBA Nationals Capitals College Football NHL Wizards High Schools Local Colleges NFL <tr>\n\t\t\t\t<td colspan=\"4\" class=\"adbox\">old ad <a href=\"http://midatlantic.comcastsportsnet.com\" target=\"_blank\" onClick=\"sa_onclick('http://www.washingtonpost.com/wp-adv/tracking/textlink/homepage/comcast');\">Ad: SportsNite 10pm Comcast SportsNet</a></td>\n\t\t\t</tr> Style Movies Travel Fashion & Beauty Horoscopes City Guide Television Books Home & Garden Comics Entertainment News Food & Dining Museums Theater & Dance Crosswords Ad: Click here for Travel Specials & Deals Tues., Jan. 2, All Times ET K Street, 1 NFL Insider, 11 Today's Schedule Life at Work, 11 Post Politics, 11 Weekly Schedule Media Backtalk, 12 Opinion, 1 Transcripts START OF EXTRA STUFF \n<tr>\n<td><a href='http://www.washingtonpost.com/wp-dyn/content/discussion/2006/12/22/DI2006122200365.html?nav=topnav'><nobr>Lean Plate Club, 1 p.m.</nobr></a></td>\n<td><a href='http://www.washingtonpost.com/wp-dyn/content/discussion/2006/12/22/DI2006122200629.html?nav=topnav'><nobr>D.C., Maryland and Virginia Politics, 2 p.m.</nobr></a></td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href='http://www.washingtonpost.com/wp-dyn/content/discussion/2006/12/19/DI2006121901073.html?nav=topnav'><nobr>Freedom Rock, 2 p.m.</nobr></a></td>\n\nEND OF EXTRA STUFF Multimedia: Being A Black Man Day in Photos Photos:   Eye On Entertainment News Video Videos: A Living HIV Quilt Documentary Video *** KEEP AD LINK ROW BELOW COMMENTED OUT WHEN NOT USED *** <tr>\n\t\t\t\t<td colspan=\"2\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> Search D.C.-area events and locations. Find movies, restaurants, bars and clubs. <tr>\n\t\t\t\t<td colspan=\"1\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> Merchandise Pets Death Notices Personals Rentals Legal Notices <tr>\n\t\t\t\t<td colspan=\"3\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> Find a Job Post a Job News & Advice Employer Login <tr>\n\t\t\t\t<td colspan=\"2\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> Buy a Car Experts & Advice Dealer Specials Sell a Car Coupons <tr>\n\t\t\t\t<td colspan=\"3\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> Buy a Home Sell a Home Property Values Find a Rental Rent Your Place Rentals Section <tr>\n\t\t\t\t<td colspan=\"3\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> *** /DROPDOWN NAVIGATION *** *** SEARCH *** SEARCH: washingtonpost.com Web <div class=\"sponsor\"><img src=\"http://www.washingtonpost.com/wp-srv/yahoo/articleIcon_yahoo_165x15.gif\" border=\"0\" width=\"202\" height=\"15\" alt=\"Powered by Yahoo! Search\"/></div> | Search Archives *** /SEARCH *** washingtonpost.com > Columns only technology articles will display the technews branding Print This Blog E-Mail This Blog Bottom Toolbox Advertisement Goes Here /wp-adv/ssi/toolbox/article/bottom/index.html"
+      "text": "Hello Change Preferences | Sign Out Sign In | Register Now Print Edition | Subscribe"
+    },
+    {
+      "tag": "div",
+      "text": "Politics Business Education Real Estate Nation Technology KidsPost Obituaries World Entertainment Religion Corrections Metro Health Post Magazine Archives Politics Blog Congress Polls Elections House/Senate Votes Federal Page Key Races White House In Depth Columns & Blogs Feedback Cartoons & Videos Outlook Editorials Message Boards Redskins D.C. United Columns/Blogs NBA Nationals Capitals College Football NHL Wizards High Schools Local Colleges NFL Style Movies Travel Fashion & Beauty Horoscopes City Guide Television Books Home & Garden Comics Entertainment News Food & Dining Museums Theater & Dance Crosswords Ad: Click here for Travel Specials & Deals Tues., Jan. 2, All Times ET K Street, 1 NFL Insider, 11 Today's Schedule Life at Work, 11 Post Politics, 11 Weekly Schedule Media Backtalk, 12 Opinion, 1 Transcripts Multimedia: Being A Black Man Day in Photos Photos:   Eye On Entertainment News Video Videos: A Living HIV Quilt Documentary Video Search D.C.-area events and locations. Find movies, restaurants, bars and clubs. Merchandise Pets Death Notices Personals Rentals Legal Notices Find a Job Post a Job News & Advice Employer Login Buy a Car Experts & Advice Dealer Specials Sell a Car Coupons Buy a Home Sell a Home Property Values Find a Rental Rent Your Place Rentals Section"
+    },
+    {
+      "tag": "div",
+      "text": "SEARCH: washingtonpost.com Web | Search Archives washingtonpost.com > Columns Print This Blog E-Mail This Blog"
     },
     {
       "tag": "h2",
@@ -16,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "Top News What is RSS? | All RSS Feeds end of logic for Article, Blog and Discussion Type"
+      "text": "Top News What is RSS? | All RSS Feeds"
     },
     {
       "tag": "h1",
@@ -28,15 +36,7 @@
     },
     {
       "tag": "p",
-      "text": "Washington Post Staff Writer Friday, December 22, 2006; 8:50 AM"
-    },
-    {
-      "tag": "div",
-      "text": "plsfield:description"
-    },
-    {
-      "tag": "p",
-      "text": "Are we having a presidential election or a group therapy session? Does the whole country need to get on the couch just because Hillary Clinton is running?"
+      "text": "Washington Post Staff Writer Friday, December 22, 2006; 8:50 AM Are we having a presidential election or a group therapy session? Does the whole country need to get on the couch just because Hillary Clinton is running?"
     },
     {
       "tag": "h2",
@@ -68,7 +68,7 @@
     },
     {
       "tag": "div",
-      "text": "Print This Blog E-Mail This Blog RSS Feed /wp-adv/ssi/toolbox/article/left/ placeholder"
+      "text": "Print This Blog E-Mail This Blog RSS Feed placeholder"
     },
     {
       "tag": "p",
@@ -76,7 +76,7 @@
     },
     {
       "tag": "div",
-      "text": "start the copyright for the articles © 2006 Washingtonpost.Newsweek Interactive end the copyright for the aricles start the copyright for the secions end the copyright for the secions monday:http://www.washingtonpost.com/wp-adv/ssi/ad_links_right/google/article/opinion http://www.washingtonpost.com/wp-adv/ssi/textlinks/article/default.html ****************************** Featured Advertiser Box Begins ******************************"
+      "text": "© 2006 Washingtonpost.Newsweek Interactive"
     },
     {
       "tag": "h2",
@@ -88,7 +88,7 @@
     },
     {
       "tag": "div",
-      "text": "script>\ndell_ran = Math.floor(Math.random() * 1000000);\ndocument.write('<A HREF=\"http://ad.doubleclick.net/jump/N296.wp/B1926983;sz=234x60;ord='+dell_ran+'?\"><IMG SRC=\"http://ad.doubleclick.net/ad/N296.wp/B1926983;sz=234x60;ord='+dell_ran+'?\" BORDER=0 WIDTH=234 HEIGHT=60 ALT=\"Click Here\"></A>')\n</script ****************************** Featured Advertiser Box Ends ****************************** SEARCH: washingtonpost.com Web <div class=\"sponsor\"><img src=\"http://www.washingtonpost.com/wp-srv/yahoo/articleIcon_yahoo_165x15.gif\" border=\"0\" width=\"202\" height=\"15\" alt=\"Powered by Yahoo! Search\"/></div> NEWS | OPINIONS | SPORTS | ARTS & LIVING Discussions | Photos & Video | City Guide CLASSIFIEDS | JOBS | CARS | REAL ESTATE"
+      "text": "SEARCH: washingtonpost.com Web NEWS | OPINIONS | SPORTS | ARTS & LIVING Discussions | Photos & Video | City Guide CLASSIFIEDS | JOBS | CARS | REAL ESTATE"
     },
     {
       "tag": "p",

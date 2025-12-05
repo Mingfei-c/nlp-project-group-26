@@ -3,32 +3,28 @@
   "file_number": "785",
   "content_hash": "6f7d1b92e547cdff39c20c0b79ac473691d91ec6cf3e7bbb25b614786805b187",
   "total_blocks": 203,
-  "retained_blocks": 78,
-  "ignored_blocks": 125,
+  "retained_blocks": 55,
+  "ignored_blocks": 148,
   "blocks": [
     {
       "tag": "div",
-      "text": "BEGIN HSC MASTHEAD DO NOT EDIT THIS SECTION DO NOT EDIT THE FOLLOWING LINES BEGIN HSC MASTHEAD DO NOT EDIT THIS SECTION END HSC MASTHEAD BEGIN SEARCH AREA DO NOT EDIT THIS SECTION University Links Health Science Center Links About UTHSC Colleges Administration Admissions Alumni & Development Faculty & Staff Research Residency & Fellowship Students Visitors WebMail / SiteMap / Contact Information Enter search terms Select type of search Select type of search People Search Campus Search System Search END SEARCH AREA END HSC MASTHEAD BEGIN MAIN BODY EDIT ONLY THE NAVIGATION, CONTACT & CONTENT SECTIONS"
+      "text": "University Links Health Science Center Links About UTHSC Colleges Administration Admissions Alumni & Development Faculty & Staff Research Residency & Fellowship Students Visitors WebMail / SiteMap / Contact Information"
+    },
+    {
+      "tag": "div",
+      "text": "Enter search terms"
+    },
+    {
+      "tag": "div",
+      "text": "Select type of search Select type of search People Search Campus Search System Search"
     },
     {
       "tag": "h1",
       "text": "University Health\r\n        Services"
     },
     {
-      "tag": "div",
-      "text": "insert height as fix for table sizing issue BEGIN NAVIGATION MENU, EDIT BELOW THIS LINE Home"
-    },
-    {
       "tag": "p",
-      "text": "Home"
-    },
-    {
-      "tag": "div",
-      "text": "Available Services 1"
-    },
-    {
-      "tag": "p",
-      "text": "Available Services"
+      "text": "Home Available Services"
     },
     {
       "tag": "div",
@@ -36,15 +32,7 @@
     },
     {
       "tag": "p",
-      "text": "Pharmacist Registered Dietitian Occupational Health Massage Therapist"
-    },
-    {
-      "tag": "div",
-      "text": "UT Student Services 2"
-    },
-    {
-      "tag": "p",
-      "text": "UT Student Services"
+      "text": "Pharmacist Registered Dietitian Occupational Health Massage Therapist UT Student Services"
     },
     {
       "tag": "div",
@@ -52,15 +40,7 @@
     },
     {
       "tag": "p",
-      "text": "UT Student Health Insurance Student\r\n    Families Student Health Adv. Com. Student Mental Health Graduating Students Sexual Assault Student Assistance Program"
-    },
-    {
-      "tag": "div",
-      "text": "UT Employee Health 3"
-    },
-    {
-      "tag": "p",
-      "text": "UT Employee Health"
+      "text": "UT Student Health Insurance Student\r\n    Families Student Health Adv. Com. Student Mental Health Graduating Students Sexual Assault Student Assistance Program UT Employee Health"
     },
     {
       "tag": "div",
@@ -68,39 +48,7 @@
     },
     {
       "tag": "p",
-      "text": "UT Occ. Health & Safety Info Workers Compensation TB Screening Plan Employee Assistance Program"
-    },
-    {
-      "tag": "div",
-      "text": "BCHS Students"
-    },
-    {
-      "tag": "p",
-      "text": "BCHS Students"
-    },
-    {
-      "tag": "div",
-      "text": "Travel Clinic"
-    },
-    {
-      "tag": "p",
-      "text": "Travel Clinic"
-    },
-    {
-      "tag": "div",
-      "text": "Emergency"
-    },
-    {
-      "tag": "p",
-      "text": "Emergency"
-    },
-    {
-      "tag": "div",
-      "text": "Health Education Links 6"
-    },
-    {
-      "tag": "p",
-      "text": "Physical Health Links"
+      "text": "UT Occ. Health & Safety Info Workers Compensation TB Screening Plan Employee Assistance Program BCHS Students Travel Clinic Emergency Physical Health Links"
     },
     {
       "tag": "div",
@@ -108,39 +56,7 @@
     },
     {
       "tag": "p",
-      "text": "Mental Health Links Preventive Health Links Alternative Medicine Referral Links"
-    },
-    {
-      "tag": "div",
-      "text": "Current Health Info"
-    },
-    {
-      "tag": "p",
-      "text": "Current Health Info"
-    },
-    {
-      "tag": "div",
-      "text": "FAQs"
-    },
-    {
-      "tag": "p",
-      "text": "FAQs"
-    },
-    {
-      "tag": "div",
-      "text": "Injuries/Exposures"
-    },
-    {
-      "tag": "p",
-      "text": "Injuries/Exposures"
-    },
-    {
-      "tag": "div",
-      "text": "New Patient Forms 11"
-    },
-    {
-      "tag": "p",
-      "text": "New Patient Forms"
+      "text": "Mental Health Links Preventive Health Links Alternative Medicine Referral Links Current Health Info FAQs Injuries/Exposures New Patient Forms"
     },
     {
       "tag": "div",
@@ -148,19 +64,7 @@
     },
     {
       "tag": "p",
-      "text": "Authorization Form HIPAA Form Health History Form"
-    },
-    {
-      "tag": "div",
-      "text": "Survey Forms 12"
-    },
-    {
-      "tag": "p",
-      "text": "Surveys"
-    },
-    {
-      "tag": "div",
-      "text": "END NAVIGATION MENU BEGIN CONTENT SECTION, EDIT BELOW THIS LINE InstanceBeginEditable name=\"EditRegion3\""
+      "text": "Authorization Form HIPAA Form Health History Form Surveys"
     },
     {
       "tag": "h1",
@@ -308,7 +212,11 @@
     },
     {
       "tag": "div",
-      "text": "InstanceEndEditable Hours and Location Appointments Staff Occupational Health Contact US Maps \r\n                        & Directions Web \r\n                    Mail END CONTACT INFO SECTION BEGIN CONTACT INFO SECTION, EDIT BELOW THIS LINE Contact\r\nUniversity Health Services"
+      "text": "Hours and Location Appointments Staff Occupational Health Contact US Maps \r\n                        & Directions Web \r\n                    Mail"
+    },
+    {
+      "tag": "div",
+      "text": "Contact\r\nUniversity Health Services"
     },
     {
       "tag": "p",
@@ -316,7 +224,7 @@
     },
     {
       "tag": "div",
-      "text": "END MAIN BODY FOOTER STARTS HERE DO NOT EDIT THIS SECTION INSERT CONTACT INFORMATION IN THIS CELL, EDIT BELOW THIS LINE Copyright ©2006 The University of Tennessee Health Science Center · Memphis, Tennessee 38163 · Telephone 901-448-5500"
+      "text": "Copyright ©2006 The University of Tennessee Health Science Center · Memphis, Tennessee 38163 · Telephone 901-448-5500"
     }
   ]
 }

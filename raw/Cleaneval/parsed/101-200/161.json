@@ -3,12 +3,24 @@
   "file_number": "161",
   "content_hash": "e66dbf864e6128642bd041eb04010d4c3c6b308cfcd801cf6ae11e05f17f6720",
   "total_blocks": 148,
-  "retained_blocks": 6,
-  "ignored_blocks": 142,
+  "retained_blocks": 9,
+  "ignored_blocks": 139,
   "blocks": [
     {
       "tag": "div",
-      "text": "---- OAS SETUP begin ---- ---- OAS SETUP end ---- TOP ADS END TOP ADS BRANDING Jump to Weather | Traffic | Mariners | Seahawks | Sonics | Forums | Calendar END BRANDING CONTENT BEGIN MENU NEWS Local Sports Nation/World Business/Tech Environment Education Webtowns Photos/Multimedia Special Reports Blogs LIFE & ARTS Calendar Restaurants SeattleNoise TV Listings Movie Times A&E Lifestyle Food Dining NW Gardens Seattle@Home Wheels Susan Paynter Advice Popping Off Health & Fitness Getaways Comics & Games Horoscope COMMENTARY Opinion/Columnists Letters David Horsey Forums Soundoffs P-I ANYWHERE E-mail Newsletters RSS/Web Feeds Mobile Feeds On Your Site e-Edition MARKETPLACE • Jobs • Autos • Homes • Rentals • Classifieds • Place an ad • Photo Reprints • NWsource • Shopping • Personals END MENU SIDE ADS END SIDE ADS OUR AFFILIATES end nav April 2, 1998"
+      "text": "Jump to Weather | Traffic | Mariners | Seahawks | Sonics | Forums | Calendar"
+    },
+    {
+      "tag": "div",
+      "text": "NEWS Local Sports Nation/World Business/Tech Environment Education Webtowns Photos/Multimedia Special Reports Blogs LIFE & ARTS Calendar Restaurants SeattleNoise TV Listings Movie Times A&E Lifestyle Food Dining NW Gardens Seattle@Home Wheels Susan Paynter Advice Popping Off Health & Fitness Getaways Comics & Games Horoscope COMMENTARY Opinion/Columnists Letters David Horsey Forums Soundoffs P-I ANYWHERE E-mail Newsletters RSS/Web Feeds Mobile Feeds On Your Site e-Edition MARKETPLACE • Jobs • Autos • Homes • Rentals • Classifieds • Place an ad • Photo Reprints • NWsource • Shopping • Personals"
+    },
+    {
+      "tag": "div",
+      "text": "OUR AFFILIATES"
+    },
+    {
+      "tag": "div",
+      "text": "April 2, 1998"
     },
     {
       "tag": "p",
@@ -16,7 +28,7 @@
     },
     {
       "tag": "div",
-      "text": "begin wing SKY ADS END SKY ADS headlines HEADLINES"
+      "text": "HEADLINES"
     },
     {
       "tag": "p",
@@ -24,7 +36,7 @@
     },
     {
       "tag": "div",
-      "text": "end headlines END CONTENT BOTTOM INFO Home | Archives | Corrections | Front Page | About the P-I | P-I Jobs | Contact Us | Home Delivery 101 Elliott Ave. W. Seattle, WA 98119 (206) 448-8000 Home Delivery: (206) 464-2121 or (800) 542-0820 Send comments to newmedia@seattlepi.com ©1996-2006 Seattle Post-Intelligencer Terms of Service/Privacy Policy END BOTTOM INFO also available by e-mail also available by RSS AP: TOP HEADLINES · Iraq court upholds Saddam death sentence · Senators nix pre-9/11 hijacker ID theory · Bush in Texas to rethink Iraq course · U.S. soldiers' death toll climbs in Iraq · Doctor says Castro doesn't have cancer more MOST READ · Father, son stop holiday burglar · Life's moved on at the house where 7 died · Seattle's Woodland Park receives $6 million anonymous gift · Operation he invented saves doctor · Man survives car crash into apartment more MOST PRINTED · Operation he invented saves doctor · West of state's mainland finds new niche in people · Prostate cancer seed therapy is growing · New rules for homeless: No job search, no shower · Find a cure for 'contagious shooting' more MOST E-MAILED · Aperfectly adequate Christmas letter · Real estate agents take dramatic turn for sales · New rules for homeless: No job search, no shower · Operation he invented saves doctor · Prostate cancer seed therapy is growing more POPULAR SOUNDOFFS · No more passing the buck -- let's hold storm hearings · Boy hurt by cannon blast feels twice wounded · Hawks puttering to finish line on four flat tires · U.S. Military: Bittersweet cheer · Don't judge Snohomish by actions of a few more help/troubleshoot Send comments to newmedia@seattle-pi.com"
+      "text": "Home | Archives | Corrections | Front Page | About the P-I | P-I Jobs | Contact Us | Home Delivery 101 Elliott Ave. W. Seattle, WA 98119 (206) 448-8000 Home Delivery: (206) 464-2121 or (800) 542-0820 Send comments to newmedia@seattlepi.com ©1996-2006 Seattle Post-Intelligencer Terms of Service/Privacy Policy also available by e-mail also available by RSS AP: TOP HEADLINES · Iraq court upholds Saddam death sentence · Senators nix pre-9/11 hijacker ID theory · Bush in Texas to rethink Iraq course · U.S. soldiers' death toll climbs in Iraq · Doctor says Castro doesn't have cancer more MOST READ · Father, son stop holiday burglar · Life's moved on at the house where 7 died · Seattle's Woodland Park receives $6 million anonymous gift · Operation he invented saves doctor · Man survives car crash into apartment more MOST PRINTED · Operation he invented saves doctor · West of state's mainland finds new niche in people · Prostate cancer seed therapy is growing · New rules for homeless: No job search, no shower · Find a cure for 'contagious shooting' more MOST E-MAILED · Aperfectly adequate Christmas letter · Real estate agents take dramatic turn for sales · New rules for homeless: No job search, no shower · Operation he invented saves doctor · Prostate cancer seed therapy is growing more POPULAR SOUNDOFFS · No more passing the buck -- let's hold storm hearings · Boy hurt by cannon blast feels twice wounded · Hawks puttering to finish line on four flat tires · U.S. Military: Bittersweet cheer · Don't judge Snohomish by actions of a few more help/troubleshoot Send comments to newmedia@seattle-pi.com"
     },
     {
       "tag": "p",

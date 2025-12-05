@@ -3,20 +3,16 @@
   "file_number": "505",
   "content_hash": "d2f8accb31d1145394cc5a1da09c663de2251b738e44fbf60973186df02bb6e6",
   "total_blocks": 254,
-  "retained_blocks": 43,
-  "ignored_blocks": 211,
+  "retained_blocks": 41,
+  "ignored_blocks": 213,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//IETF//DTD HTML//EN\" webbot bot=\"Include\" U-Include=\"../../_private/archivehead.htm\" TAG=\"BODY\" startspan"
+      "text": "HTML PUBLIC \"-//IETF//DTD HTML//EN\""
     },
     {
       "tag": "h6",
       "text": "encyclopaedia archives extras"
-    },
-    {
-      "tag": "div",
-      "text": "webbot bot=\"Include\" i-checksum=\"22852\" endspan"
     },
     {
       "tag": "h1",
@@ -164,19 +160,15 @@
     },
     {
       "tag": "p",
-      "text": "The numerous possibilities in Girls Club work \r\n        should cause no young woman who is genuinely interested in it to \r\n        hesitate in undertaking it There is help for \r\n        her at every turn, through these many and various channels. She may feel \r\n        that her talents are meager and that she is \r\n        not well-equipped. But as her Club grows and develops, she, too, will \r\n        grow and develop. The girls themselves and those ready and anxious to \r\n        help her will teach her. As Dr. Luther H. Gulick , \r\n        President of the Camp Fire Girls, has said, The paradox of life is that \r\n        we keep that part of it which we give to others and that we lose that \r\n        which we save for ourselves. The breath of the \r\n        Spirit is like the breezegrasp it to hold and there is nothing. \r\n        It is like the heart which grows by giving love. Without love, save it, \r\n        and the heart is empty. How to cite this piece :  Ferris, H. J. \r\n      (1918) 'The club leader' being Chapter II of Girls' Clubs. Their \r\n      organization and management. Amanual for workers , New York: E. P. \r\n      Dutton and Company. Available in the \r\n      informal education archives: http://www.infed.org/archives/nayc/ferris_girls_clubs_leader.htm This piece has been reproduced here on the understanding that it is \r\n      not subject\r\n to any copyright restrictions, and that it is, and will \r\n      remain, in the public domain. First placed in the archives: February 2005"
+      "text": "The numerous possibilities in Girls Club work \r\n        should cause no young woman who is genuinely interested in it to \r\n        hesitate in undertaking it There is help for \r\n        her at every turn, through these many and various channels. She may feel \r\n        that her talents are meager and that she is \r\n        not well-equipped. But as her Club grows and develops, she, too, will \r\n        grow and develop. The girls themselves and those ready and anxious to \r\n        help her will teach her. As Dr. Luther H. Gulick , \r\n        President of the Camp Fire Girls, has said, The paradox of life is that \r\n        we keep that part of it which we give to others and that we lose that \r\n        which we save for ourselves. The breath of the \r\n        Spirit is like the breezegrasp it to hold and there is nothing. \r\n        It is like the heart which grows by giving love. Without love, save it, \r\n        and the heart is empty. How to cite this piece :  Ferris, H. J. \r\n      (1918) 'The club leader' being Chapter II of Girls' Clubs. Their \r\n      organization and management. Amanual for workers , New York: E. P. \r\n      Dutton and Company. Available in the \r\n      informal education archives: http://www.infed.org/archives/nayc/ferris_girls_clubs_leader.htm"
     },
     {
-      "tag": "div",
-      "text": "webbot bot=\"Include\" U-Include=\"../../_private/hpfooter.htm\" TAG=\"BODY\" startspan"
+      "tag": "p",
+      "text": "This piece has been reproduced here on the understanding that it is \r\n      not subject\r\n to any copyright restrictions, and that it is, and will \r\n      remain, in the public domain. First placed in the archives: February 2005"
     },
     {
       "tag": "h6",
       "text": "infed is an open, independent and not-for-profit site put together by a small \r\n        group of educators [ about \r\n        us ]. Give us your feedback ; write for us. Check our copyright notice when copying."
-    },
-    {
-      "tag": "div",
-      "text": "webbot bot=\"Include\" i-checksum=\"33865\" endspan"
     }
   ]
 }

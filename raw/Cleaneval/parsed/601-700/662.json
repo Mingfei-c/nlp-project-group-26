@@ -3,12 +3,16 @@
   "file_number": "662",
   "content_hash": "f2e6b3b2d7586dfb9820f29d0498da37294e2b0e3a575da4f8f9c83de846c23b",
   "total_blocks": 171,
-  "retained_blocks": 5,
-  "ignored_blocks": 166,
+  "retained_blocks": 6,
+  "ignored_blocks": 165,
   "blocks": [
     {
       "tag": "div",
-      "text": "#BeginTemplate \"/Templates/popup_print.dwt\" #BeginEditable \"doctitle\" #EndEditable Print this page #BeginEditable \"main_text\" Global player wins N Korea's \r\n                  only JV bank 20 May 2004 Washington offers 'chance \r\n                  for redemption' 24 Feb 2004 North Korea talks: why now? 10 Feb 2004 Japan prepares sanctions noose 5 Feb 2004 Pessimism on the 2nd round 4 Feb 2004 Elusive talks 15 Jan 2004 No moral high ground in Beijing 20 Aug 2003 Panmunjom circus 27 July 2003 Awkward anniversaries 2 June 2003 Anti-imperialism recycled 8 May 2003 Achallenge for China 18 April 2003 Pyongyang’s lost friends 21 March 2003 Do not fear, they tell each other 18 March 2003 Postponing diplomacy 14 March 2003 UN Security Council's tough task 25 Feb 2003 Opportunity for the UN \r\n                  Security Council 19 Feb 2003 The other side of the Agreed Framework 16 Dec 2002"
+      "text": "Print this page"
+    },
+    {
+      "tag": "div",
+      "text": "Global player wins N Korea's \r\n                  only JV bank 20 May 2004 Washington offers 'chance \r\n                  for redemption' 24 Feb 2004 North Korea talks: why now? 10 Feb 2004 Japan prepares sanctions noose 5 Feb 2004 Pessimism on the 2nd round 4 Feb 2004 Elusive talks 15 Jan 2004 No moral high ground in Beijing 20 Aug 2003 Panmunjom circus 27 July 2003 Awkward anniversaries 2 June 2003 Anti-imperialism recycled 8 May 2003 Achallenge for China 18 April 2003 Pyongyang’s lost friends 21 March 2003 Do not fear, they tell each other 18 March 2003 Postponing diplomacy 14 March 2003 UN Security Council's tough task 25 Feb 2003 Opportunity for the UN \r\n                  Security Council 19 Feb 2003 The other side of the Agreed Framework 16 Dec 2002"
     },
     {
       "tag": "p",
@@ -24,7 +28,7 @@
     },
     {
       "tag": "div",
-      "text": "#EndEditable Pyongyang Square 2002-2004 © All \r\n            Rights Reserved close this window #EndTemplate"
+      "text": "Pyongyang Square 2002-2004 © All \r\n            Rights Reserved close this window"
     }
   ]
 }

@@ -3,8 +3,8 @@
   "file_number": "649",
   "content_hash": "93d93d1cc93054ac2964c47c9408faa7e8f2db866e176efa126b0746d5e4c4b8",
   "total_blocks": 269,
-  "retained_blocks": 46,
-  "ignored_blocks": 223,
+  "retained_blocks": 47,
+  "ignored_blocks": 222,
   "blocks": [
     {
       "tag": "div",
@@ -16,7 +16,11 @@
     },
     {
       "tag": "div",
-      "text": "All Businesses Accounting/Financial Services Advertising/Media Services Antique Stores/Dealers Apparel Architecture/Engineering Art/Photography/Framing Associations & Non-Profit Organizations Automotive/Transportation Banks/Financial Institutions Business Services Chiropractors Cleaners/Laundry/Alterations Construction/Contractors Counseling Services Educational Services Food/Beverage-Retail Gardening & Landscaping Healthcare Services Home Improvement/Design Information Technology Insurance Services Janitorial/Cleaning Services Legal Services Lodging/Travel Massage Therapy & Health Services Media Services Medical/Dental Miscellaneous Moving/Storage Real Estate Services/Property Management Restaurant/Bar/Bakery Retail Salons/Spas/Barbers/Nails Services Skin Care & Cosmetics Sports/Recreational Activities Wineries =   Associate Member 728 records found (displaying 181 to 200)"
+      "text": "All Businesses Accounting/Financial Services Advertising/Media Services Antique Stores/Dealers Apparel Architecture/Engineering Art/Photography/Framing Associations & Non-Profit Organizations Automotive/Transportation Banks/Financial Institutions Business Services Chiropractors Cleaners/Laundry/Alterations Construction/Contractors Counseling Services Educational Services Food/Beverage-Retail Gardening & Landscaping Healthcare Services Home Improvement/Design Information Technology Insurance Services Janitorial/Cleaning Services Legal Services Lodging/Travel Massage Therapy & Health Services Media Services Medical/Dental Miscellaneous Moving/Storage Real Estate Services/Property Management Restaurant/Bar/Bakery Retail Salons/Spas/Barbers/Nails Services Skin Care & Cosmetics Sports/Recreational Activities Wineries =   Associate Member"
+    },
+    {
+      "tag": "div",
+      "text": "728 records found (displaying 181 to 200)"
     },
     {
       "tag": "p",

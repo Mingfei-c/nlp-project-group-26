@@ -3,12 +3,20 @@
   "file_number": "542",
   "content_hash": "319a5e01560ef8d08cdc3537e538cd07a322a8566c3246c0db7740b6fcadc1cf",
   "total_blocks": 231,
-  "retained_blocks": 11,
-  "ignored_blocks": 220,
+  "retained_blocks": 14,
+  "ignored_blocks": 217,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" ACS AUTO CRAFTS BOSS BOWLING CENTER CLUBS CYSD FITNESS CENTERS FRAME SHOP GOLF PLAYHOUSE LODGING MARKETING OUTDOOR REC SPORTS VETERINARY HOME NAF JOBS EVENTS FACILITIES MWR DIRECTORY FORT LEE GARRISON"
+      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "ACS AUTO CRAFTS BOSS BOWLING CENTER CLUBS CYSD FITNESS CENTERS FRAME SHOP GOLF PLAYHOUSE LODGING MARKETING OUTDOOR REC SPORTS VETERINARY"
+    },
+    {
+      "tag": "div",
+      "text": "HOME NAF JOBS EVENTS FACILITIES MWR DIRECTORY FORT LEE GARRISON"
     },
     {
       "tag": "h1",
@@ -48,7 +56,11 @@
     },
     {
       "tag": "div",
-      "text": "“Never before has BOSS had a centrally-located facility with enough space where representatives can conduct meetings, members can enjoy amenities – and most importantly, a place where the members can relax and interact socially,” said Gray. HOME PRIVACY POLICY ADVERTISE WITH US MISSION & DISCLAIMER WEBMASTER"
+      "text": "“Never before has BOSS had a centrally-located facility with enough space where representatives can conduct meetings, members can enjoy amenities – and most importantly, a place where the members can relax and interact socially,” said Gray."
+    },
+    {
+      "tag": "div",
+      "text": "HOME PRIVACY POLICY ADVERTISE WITH US MISSION & DISCLAIMER WEBMASTER"
     }
   ]
 }

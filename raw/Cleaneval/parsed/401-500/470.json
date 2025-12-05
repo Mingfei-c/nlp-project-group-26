@@ -8,7 +8,7 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "SiteSearch Google SiteSearch Google Prospective Students | Current Students | Faculty & Research | Alumni | News & Events | Programs | Apply Online"
+      "text": "Prospective Students | Current Students | Faculty & Research | Alumni | News & Events | Programs | Apply Online"
     },
     {
       "tag": "h3",
@@ -20,7 +20,7 @@
     },
     {
       "tag": "div",
-      "text": "Counseling, School and Educational Psychology (CSEP) Educational Leadership and Policy (ELP) Learning and Instruction (LAI) Teacher Education Institute (TEI) Undergraduate Minor in Education <li class=\"indent2\"><a href=\"certification.asp\" title=\"certification\">certification</a></li>\r\n\t\t<li class=\"indent2\"><a href=\"coursework.asp\" title=\"course work\">course work</a></li>\t\t\r\n\t\t<li class=\"indent2\"><a href=\"faqs.asp\" title=\"FAQs\">FAQ's</a></li>\t\r\n\t\t<li class=\"indent2\"><a href=\"coursedelivery.asp\" title=\"course delivery\">course delivery</a></li> <li class=\"indent2\"><a href=\"requirements.asp\" title=\"program requirements\">program requirements</a></li> <li class=\"indent2\"><a href=\"application.asp\" title=\"application\">application</a></li>\t\r\n\t\t<li class=\"indent2\"><a href=\"contact.asp\" title=\"contact us\">contact us</a></li>"
+      "text": "Counseling, School and Educational Psychology (CSEP) Educational Leadership and Policy (ELP) Learning and Instruction (LAI) Teacher Education Institute (TEI) Undergraduate Minor in Education"
     },
     {
       "tag": "h4",
@@ -28,7 +28,7 @@
     },
     {
       "tag": "div",
-      "text": "Doctorate Degrees Masters Degrees Teacher Preparation <li><a href=\"mast_cert.asp\" title=\"Masters / Teacher Certification\">Masters / Teacher Certification</a></li>\r\n\t\t<li><a href=\"certification.asp\" title=\"Teacher Certification\">Teacher Certification</a></li> Administrative Certification Advanced Certificates Undergrad Minor in Education <li><a href=\"../cap/continuinged/index.asp\" title=\"Continuing Education\">Continuing Education</a></li>"
+      "text": "Doctorate Degrees Masters Degrees Teacher Preparation Administrative Certification Advanced Certificates Undergrad Minor in Education"
     },
     {
       "tag": "h4",
@@ -36,7 +36,7 @@
     },
     {
       "tag": "div",
-      "text": "Non Matriculated <li><a href=\"../apply/summer.asp\" title=\"Summer Programs\">Summer Programs</a></li> Doctoral Seminars Education Outreach Series"
+      "text": "Non Matriculated Doctoral Seminars Education Outreach Series"
     },
     {
       "tag": "p",

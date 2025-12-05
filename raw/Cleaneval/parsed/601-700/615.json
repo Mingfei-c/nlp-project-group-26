@@ -3,12 +3,56 @@
   "file_number": "615",
   "content_hash": "886ba562425116b5a12780be3e2e62c3c7fac48c813c299688dd351191c0c873",
   "total_blocks": 643,
-  "retained_blocks": 13,
-  "ignored_blocks": 630,
+  "retained_blocks": 34,
+  "ignored_blocks": 609,
   "blocks": [
     {
       "tag": "div",
-      "text": "Vignette V6 Wed Dec 27 01:44:37 2006 Help/FAQ Vignette V6 Wed Dec 27 01:44:37 2006 | MyOECD | Français Organisation for Economic Co-operation and Development Search This sub-site Whole site More Search options Vignette V6 Wed Dec 27 01:44:37 2006 channelId : 37439<br>\r\ncontentId : 37439 Corporate Governance Company Law and Corporate Governance Corporate Governance Principles Corporate Responsibility Disclosure and Accounting Reform Entrepreneurship at Local Level Institutions, Governance and Development Governance and Privatisation of State-Owned Assets Guidelines for Multinational Enterprises Insolvency and Corporate Distress Back to OECD home page Topic List Related Topics Development Employment Enterprise, Industry and Services Finance Public Governance and Management Regional, Rural and Urban Development Sustainable Development Corporate Governance About | Statistics | Publications & Documents | Information by Country Corporate Governance looks at the institutional and policy framework for corporations - from their very beginnings, in entrepreneurship, through their governance structures, company law, privatisation, to market exit and insolvency. The integrity of corporations, financial institutions and markets is particularly central to the health of our economies and their stability. The OECD Steering Group on Corporate Governance co-ordinates and guides the Organisation's work on corporate governance. What's new OECD calls for improved corporate reporting of business models and intellectual assets 10-Dec-2006"
+      "text": "Help/FAQ | MyOECD | Français"
+    },
+    {
+      "tag": "div",
+      "text": "Organisation for Economic Co-operation and Development"
+    },
+    {
+      "tag": "div",
+      "text": "Search"
+    },
+    {
+      "tag": "div",
+      "text": "This sub-site Whole site More Search options"
+    },
+    {
+      "tag": "div",
+      "text": "Corporate Governance"
+    },
+    {
+      "tag": "div",
+      "text": "Company Law and Corporate Governance Corporate Governance Principles Corporate Responsibility Disclosure and Accounting Reform Entrepreneurship at Local Level Institutions, Governance and Development Governance and Privatisation of State-Owned Assets Guidelines for Multinational Enterprises Insolvency and Corporate Distress"
+    },
+    {
+      "tag": "div",
+      "text": "Back to"
+    },
+    {
+      "tag": "div",
+      "text": "OECD home page Topic List"
+    },
+    {
+      "tag": "div",
+      "text": "Related Topics"
+    },
+    {
+      "tag": "div",
+      "text": "Development Employment Enterprise, Industry and Services Finance Public Governance and Management Regional, Rural and Urban Development Sustainable Development Corporate Governance About | Statistics | Publications & Documents | Information by Country"
+    },
+    {
+      "tag": "div",
+      "text": "Corporate Governance looks at the institutional and policy framework for corporations - from their very beginnings, in entrepreneurship, through their governance structures, company law, privatisation, to market exit and insolvency. The integrity of corporations, financial institutions and markets is particularly central to the health of our economies and their stability. The OECD Steering Group on Corporate Governance co-ordinates and guides the Organisation's work on corporate governance."
+    },
+    {
+      "tag": "div",
+      "text": "What's new OECD calls for improved corporate reporting of business models and intellectual assets 10-Dec-2006"
     },
     {
       "tag": "p",
@@ -56,7 +100,47 @@
     },
     {
       "tag": "div",
-      "text": "OECD offers guidance for multinationals in “weak governance” zones 12-Jun-2006 Multinational enterprises investing in countries characterised by weak or non-existent government need to take special care in handling a range of risks and ethical dilemmas not usually encountered in countries with stronger governance arrangements. Anew Risk Awareness Tool for Multinational Enterprises in Weak Governance Zones from the OECD is designed to help them. See more news and events... Top Don't miss Principles: FAQs Conferences Regional Roundtables Publications OECD in the News Contact Us Site Map Publication Corporate Governance in Turkey: A Pilot Study An evalution of the extent to which the OECD Principles of Corporate Governance have been implemented in Turkey. Editor's Choice OECD Guidelines on Corporate Governance of State-Owned Enterprises Key Material OECD Principles of Corporate Governance Revised in 2004, adding new recommendations for good practice in corporate behaviour with a view to rebuilding and maintaining public trust in companies and stock markets OECD Online Bookshop Browse or purchase our titles online Contact Us | Help/FAQ | Site Map | Français © OECD. All rights reserved. Terms & Conditions | Privacy Policy Powered by Vignette"
+      "text": "OECD offers guidance for multinationals in “weak governance” zones 12-Jun-2006 Multinational enterprises investing in countries characterised by weak or non-existent government need to take special care in handling a range of risks and ethical dilemmas not usually encountered in countries with stronger governance arrangements. Anew Risk Awareness Tool for Multinational Enterprises in Weak Governance Zones from the OECD is designed to help them. See more news and events... Top"
+    },
+    {
+      "tag": "div",
+      "text": "Don't miss Principles: FAQs Conferences Regional Roundtables Publications OECD in the News Contact Us Site Map"
+    },
+    {
+      "tag": "div",
+      "text": "Publication"
+    },
+    {
+      "tag": "div",
+      "text": "Corporate Governance in Turkey: A Pilot Study An evalution of the extent to which the OECD Principles of Corporate Governance have been implemented in Turkey."
+    },
+    {
+      "tag": "div",
+      "text": "Editor's Choice"
+    },
+    {
+      "tag": "div",
+      "text": "OECD Guidelines on Corporate Governance of State-Owned Enterprises"
+    },
+    {
+      "tag": "div",
+      "text": "Key Material"
+    },
+    {
+      "tag": "div",
+      "text": "OECD Principles of Corporate Governance Revised in 2004, adding new recommendations for good practice in corporate behaviour with a view to rebuilding and maintaining public trust in companies and stock markets"
+    },
+    {
+      "tag": "div",
+      "text": "OECD Online Bookshop"
+    },
+    {
+      "tag": "div",
+      "text": "Browse or purchase our titles online"
+    },
+    {
+      "tag": "div",
+      "text": "Contact Us | Help/FAQ | Site Map | Français © OECD. All rights reserved. Terms & Conditions | Privacy Policy Powered by Vignette"
     }
   ]
 }

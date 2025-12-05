@@ -3,8 +3,8 @@
   "file_number": "677",
   "content_hash": "3a1f8dacecedc2de5568fdbfe0484f70a3b5752baee08fd4cb189b6d34a7da87",
   "total_blocks": 69,
-  "retained_blocks": 25,
-  "ignored_blocks": 44,
+  "retained_blocks": 24,
+  "ignored_blocks": 45,
   "blocks": [
     {
       "tag": "p",
@@ -12,7 +12,7 @@
     },
     {
       "tag": "div",
-      "text": "Text-only version <img src=\"assets/header3.jpg\" width=\"760\" height=\"71\" /><div id=\"rhslogo\"></div> RHS Home About the RHS What's On Plants Advice Learning General Learning Education Publications Research Libraries"
+      "text": "Text-only version RHS Home About the RHS What's On Plants Advice Learning General Learning Education Publications Research Libraries"
     },
     {
       "tag": "h1",
@@ -20,15 +20,11 @@
     },
     {
       "tag": "div",
-      "text": "to add bg to nav   <div class=\"clearer\">&nbsp;</div> Books | Journals | Videos | Speakers and judges | Colour Chart | Plant Bulletins | Plant Registers |"
+      "text": "Books | Journals | Videos | Speakers and judges | Colour Chart | Plant Bulletins | Plant Registers |"
     },
     {
       "tag": "h1",
       "text": "Publications"
-    },
-    {
-      "tag": "div",
-      "text": "InstanceBeginEditable name=\"Content\""
     },
     {
       "tag": "h4",
@@ -104,7 +100,7 @@
     },
     {
       "tag": "div",
-      "text": "InstanceEndEditable Advertise Online Accessibility Help Contact Us Disclaimer SEARCH: © The Royal Horticultural Society 2006  - Registered charity Number 222879"
+      "text": "Advertise Online Accessibility Help Contact Us Disclaimer SEARCH: © The Royal Horticultural Society 2006  - Registered charity Number 222879"
     }
   ]
 }

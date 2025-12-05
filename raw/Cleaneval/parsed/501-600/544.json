@@ -3,8 +3,8 @@
   "file_number": "544",
   "content_hash": "607cce386c3057bf8e00128e9627a1b7730eff23a95f2b07835b88f704d25f91",
   "total_blocks": 105,
-  "retained_blocks": 42,
-  "ignored_blocks": 63,
+  "retained_blocks": 56,
+  "ignored_blocks": 49,
   "blocks": [
     {
       "tag": "h1",
@@ -28,7 +28,59 @@
     },
     {
       "tag": "div",
-      "text": "Glock 26 Kel-Tec P11 Capacity 10+1 10+1 Barrel 3.46 in. 3.1 in. Length 6.29 in. 4.6 in. Height 4.17 in. 4.3 in. Width 1.18 in. 1 in. Weight Empty 19.75 oz 14 oz Street Price $500 $250"
+      "text": "Glock 26 Kel-Tec P11 Capacity"
+    },
+    {
+      "tag": "div",
+      "text": "10+1 10+1"
+    },
+    {
+      "tag": "div",
+      "text": "Barrel"
+    },
+    {
+      "tag": "div",
+      "text": "3.46 in. 3.1 in."
+    },
+    {
+      "tag": "div",
+      "text": "Length"
+    },
+    {
+      "tag": "div",
+      "text": "6.29 in. 4.6 in."
+    },
+    {
+      "tag": "div",
+      "text": "Height"
+    },
+    {
+      "tag": "div",
+      "text": "4.17 in. 4.3 in."
+    },
+    {
+      "tag": "div",
+      "text": "Width"
+    },
+    {
+      "tag": "div",
+      "text": "1.18 in. 1 in."
+    },
+    {
+      "tag": "div",
+      "text": "Weight Empty"
+    },
+    {
+      "tag": "div",
+      "text": "19.75 oz 14 oz"
+    },
+    {
+      "tag": "div",
+      "text": "Street Price"
+    },
+    {
+      "tag": "div",
+      "text": "$500 $250"
     },
     {
       "tag": "p",
@@ -172,7 +224,11 @@
     },
     {
       "tag": "div",
-      "text": "Posted by: Dan Rice at October 31, 2006 01:00 AM Post a comment Name: Email Address: URL: Security Code: Enter the code above: Remember personal info? Yes No Comments: Sponsors Bass Fishing Boats Inflatable Life Jackets Canada Pike Fishing Shakespeare Fishing Tackle Casting Fishing Rods Archives Every post A&E - (155) Best Of - (6) Blogging - (202) Dancing Baloney - (10) Dear Lazyweb - (7) E-commerce - (132) East Tennessee - (211) Economics - (74) Environment - (32) European Union - (36) Family Tree - Moore Side - (4) Food & Drink - (44) Funny Ha-Ha - (120) Guns - (281) Health Care - (25) Home Life - (196) Howard Dean - (32) John Kerry - (89) Johnia Berry - (29) Macular Degeneration - (6) Media Behaving Badly - (30) Middle East - (39) Misc - (53) Municipal Wi-Fi - (12) News - (271) Nifty - (107) Photos - (30) Politics - (26) Polls - (5) Population - (25) PSAs - (5) Quotes - (150) Rocky Top Brigade - (38) Science - (110) Scratch Pad - (5) Seventies - (2) Social Security - (9) Star Wars - (25) Tech - (70) The Usual Suspects - (15) Timothy Treadwell - (6) Travel - (57) True Crime - (53) WEBBOT bot=\"HTMLMarkup\" startspan ALT=\"Site Meter\" Copyright (c)2002 Site Meter WEBBOT bot=\"HTMLMarkup\" Endspan Terms of Use"
+      "text": "Posted by: Dan Rice at October 31, 2006 01:00 AM Post a comment Name: Email Address: URL: Security Code: Enter the code above: Remember personal info? Yes No Comments: Sponsors Bass Fishing Boats Inflatable Life Jackets Canada Pike Fishing Shakespeare Fishing Tackle Casting Fishing Rods Archives Every post A&E - (155) Best Of - (6) Blogging - (202) Dancing Baloney - (10) Dear Lazyweb - (7) E-commerce - (132) East Tennessee - (211) Economics - (74) Environment - (32) European Union - (36) Family Tree - Moore Side - (4) Food & Drink - (44) Funny Ha-Ha - (120) Guns - (281) Health Care - (25) Home Life - (196) Howard Dean - (32) John Kerry - (89) Johnia Berry - (29) Macular Degeneration - (6) Media Behaving Badly - (30) Middle East - (39) Misc - (53) Municipal Wi-Fi - (12) News - (271) Nifty - (107) Photos - (30) Politics - (26) Polls - (5) Population - (25) PSAs - (5) Quotes - (150) Rocky Top Brigade - (38) Science - (110) Scratch Pad - (5) Seventies - (2) Social Security - (9) Star Wars - (25) Tech - (70) The Usual Suspects - (15) Timothy Treadwell - (6) Travel - (57) True Crime - (53)"
+    },
+    {
+      "tag": "div",
+      "text": "Terms of Use"
     }
   ]
 }

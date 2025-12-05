@@ -3,12 +3,24 @@
   "file_number": "424",
   "content_hash": "e1918887a3e928163c57c0b9fe1d9064a2ca3623845999b0ace7a358d31a2c27",
   "total_blocks": 96,
-  "retained_blocks": 3,
-  "ignored_blocks": 93,
+  "retained_blocks": 9,
+  "ignored_blocks": 87,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" Home > Topics > Speech > Overview Overview> By Rodney Smolla Dean, University of Richmond School of Law"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Home > Topics > Speech > Overview"
+    },
+    {
+      "tag": "div",
+      "text": "Overview>"
+    },
+    {
+      "tag": "div",
+      "text": "By Rodney Smolla Dean, University of Richmond School of Law"
     },
     {
       "tag": "p",
@@ -16,7 +28,19 @@
     },
     {
       "tag": "div",
-      "text": "Print Last system update: \r\nTuesday, December 26, 2006 | 09:11:48 SEARCH MORE speech topics > K-12 public school student expression Free speech on public college campuses Internet & First Amendment Arts & First Amendment Personal & public expression Adult entertainment Advertising & First Amendment Flag-burning Campaign finance Libraries & First Amendment"
+      "text": "Print"
+    },
+    {
+      "tag": "div",
+      "text": "Last system update: \r\nTuesday, December 26, 2006 | 09:11:48"
+    },
+    {
+      "tag": "div",
+      "text": "SEARCH MORE speech topics > K-12 public school student expression"
+    },
+    {
+      "tag": "div",
+      "text": "Free speech on public college campuses Internet & First Amendment Arts & First Amendment Personal & public expression Adult entertainment Advertising & First Amendment Flag-burning Campaign finance Libraries & First Amendment"
     }
   ]
 }

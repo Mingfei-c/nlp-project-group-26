@@ -8,15 +8,11 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "header 1 anchor for top of page anchor image for screen readers to jump to content JavaScript Tag // Tag for network 621: ad pepper media // Website: UK-bized.co.uk // Page: Homepage // Placement: bized.co.uk/homepage/468x60 (1126314) // created at: Nov 3, 2006 10:43:45 AM End of JavaScript Tag end of header 1 header 2 (main navigation) Current Topics Learning Materials Data Company Info Virtual Worlds Reference Educators end of header area /htdig_noindex SSI END SSI START -\"/ssi/breadcrumb_top.ssi\" htdig_noindex breadcrumbs You are here: SSI END Home > Educators > Business Studies > Marketing >\r\nMarket Research - Activity SSI START -\"/ssi/breadcrumb_bottom.ssi\" /htdig_noindex SSI END SSI START -\"/ssi/educators/top.ssi\" htdig_noindex content Level 2 Business/Economics » 16-19 Business Studies » A2 » AS » BTEC » Economics » A2 » AS » BTEC Travel and Tourism » HE Resources » Search"
+      "text": "Current Topics Learning Materials Data Company Info Virtual Worlds Reference Educators You are here: Home > Educators > Business Studies > Marketing >\r\nMarket Research - Activity Level 2 Business/Economics » 16-19 Business Studies » A2 » AS » BTEC » Economics » A2 » AS » BTEC Travel and Tourism » HE Resources »"
     },
     {
       "tag": "p",
       "text": "Advanced Search"
-    },
-    {
-      "tag": "div",
-      "text": "SSI START -\"/educators/16-19/business/marketing/activity/research.ssi\" No additional resources SSI END /htdig_noindex SSI END PAGE CONTENT Body of Page"
     },
     {
       "tag": "h2",
@@ -136,7 +132,11 @@
     },
     {
       "tag": "div",
-      "text": "Consider the extent to which this information might be useful to the following companies: Frozen and convenience food manufacturers Supermarket retailers Soft drink manufacturers Potato farmers Health and beauty products retailers (18 Marks) Select one of the companies above and explain what the impact of such information might be on their approach to their marketing strategy. (10 Marks) What other information would a company wish to have before making any firm decisions on changing its marketing approach? (12 Marks) SSI START -\"/ssi/tail.ssi\" © 1996-2006 Biz/ed Contact Us About Us Accessibility Statement Sitemap Links Help"
+      "text": "Consider the extent to which this information might be useful to the following companies: Frozen and convenience food manufacturers Supermarket retailers Soft drink manufacturers Potato farmers Health and beauty products retailers (18 Marks) Select one of the companies above and explain what the impact of such information might be on their approach to their marketing strategy. (10 Marks) What other information would a company wish to have before making any firm decisions on changing its marketing approach? (12 Marks)"
+    },
+    {
+      "tag": "div",
+      "text": "© 1996-2006 Biz/ed Contact Us About Us Accessibility Statement Sitemap Links Help"
     }
   ]
 }

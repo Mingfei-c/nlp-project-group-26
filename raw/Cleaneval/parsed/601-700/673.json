@@ -3,28 +3,12 @@
   "file_number": "673",
   "content_hash": "91b363823f132e29127dc2d2d17954de55145a37f96c749a7310703c860b0d57",
   "total_blocks": 58,
-  "retained_blocks": 7,
-  "ignored_blocks": 51,
+  "retained_blocks": 3,
+  "ignored_blocks": 55,
   "blocks": [
     {
       "tag": "div",
-      "text": "#BeginTemplate \"/Templates/students.dwt\" DW6 #BeginEditable \"doctitle\" #EndEditable Begin Banner Code End Banner Code #BeginEditable \"Heading\" #EndEditable"
-    },
-    {
-      "tag": "p",
-      "text": "BEGIN SEARCH FORM"
-    },
-    {
-      "tag": "div",
       "text": "Search Reslife.net"
-    },
-    {
-      "tag": "p",
-      "text": "END SEARCH FORM #BeginEditable \"Games\" #EndEditable Begin Banner Code End Banner Code"
-    },
-    {
-      "tag": "div",
-      "text": "#BeginEditable \"Body\""
     },
     {
       "tag": "p",
@@ -32,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "#EndEditable #BeginEditable \"CommentsLink\" Comments \n        on this article? Click \n        here . #EndEditable #EndTemplate"
+      "text": "Comments \n        on this article? Click \n        here ."
     }
   ]
 }

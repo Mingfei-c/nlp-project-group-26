@@ -3,12 +3,20 @@
   "file_number": "561",
   "content_hash": "611bf82072bd87d49ee499d766c8c8668826ba7d957396c4572af476e01e8d9c",
   "total_blocks": 305,
-  "retained_blocks": 3,
-  "ignored_blocks": 302,
+  "retained_blocks": 16,
+  "ignored_blocks": 289,
   "blocks": [
     {
       "tag": "div",
-      "text": "Generic PopUp window function for internal use such as calculators and timeless pages. URL and window name must be passed from href in quotes stopindex home | about | careers | contact | site map | --SEARCH-- stopindex startindex --END SEARCH-- -----BANNER---- --banner: background color/image relate to section -- --logo-- --end logo-- --end banner: background color/image relate to section -- --1px horizontal rule-- prepare for life's events: changing/losing a job --1px horizontal rule-- ---END BANNER -- startindex stopindex Changing jobs, even when it's your choice, can be unsettling. Losing a job can be devastating. Regardless of the details, you probably have some doubts about the future. Can you survive financially, and for how long? What do you do with funds from your previous employers retirement plan?"
+      "text": "home | about | careers | contact | site map |"
+    },
+    {
+      "tag": "div",
+      "text": "prepare for life's events: changing/losing a job"
+    },
+    {
+      "tag": "div",
+      "text": "Changing jobs, even when it's your choice, can be unsettling. Losing a job can be devastating. Regardless of the details, you probably have some doubts about the future. Can you survive financially, and for how long? What do you do with funds from your previous employers retirement plan?"
     },
     {
       "tag": "p",
@@ -16,7 +24,51 @@
     },
     {
       "tag": "div",
-      "text": "1 Securities offered through Registered Representatives of MML Investors Services, Inc. stopindex startindex rgb colors for various paths the default is to the Prepare path stopindex select a solution annuities disability income insurance life insurance mutual funds changing/losing a job Select from the solutions on the left to learn how the MassMutual Financial Group companies can help you take stock of your new circumstances. What do you intend to do with your retirement plan assets at this time?  You may want to consider rolling the assets in your qualified plan into an annuity-funded IRA.  While funding your IRA with an annuity offers no additional tax-advantage, there are unique annuity features to consider.  These include multiple investment choices, living benefits, death benefits, and the ability to create a stream of income you can't outlive. 1 Whether you're finally pursuing your real interests or coming back to the work force after some time off, MassMutual's disability income insurance coverage offers the convenience of portability.  No matter where you go or what changes in your life, your policy remains the same and stays with you even when you change jobs. Starting a new job may mean re-examining your insurance needs.  If you're concerned about income replacement, a pay raise will mean you need more life insurance.  Or maybe you've lost group life insurance coverage from your previous job and you need to replace that employee benefit with individual life insurance.  If you find yourself unemployed in the future, owning individual life insurance can provide continued protection. Although you may experience unexpected career developments, your financial goals should remain steady.  Mutual funds offer you the benefits of professional management and asset diversification that may help you reach your long-term financial goals. 1 Guaranteed death benefits, living benefits and payment of lifetime income are contingent upon the claims-paying ability of the issuing company or companies. startindex stopindex contact a financial professional startindex startindex stopindex quick links service contact a financial professional locate an office directions loops and returns data and bullet info related information loops and returns data and bullet info Guide to Investing Out of Work? Insuring the Future Educational Articles COBRA: Continuing Health Care Coverage Ten Ways to Stretch Your Money prepare for life's events changing/losing a job retiring comfortably buying a home getting married starting a business saving for education getting divorced raising a family managing an unexpected windfall establishing an estate plan having an illness/accident losing a loved one providing elder care becoming a grandparent caring for special needs becoming empty nesters loops and returns data and bullet info required plug-in Flash Player #031125-000 05/06 Copyright  2006 Massachusetts Mutual Life Insurance Company. All rights reserved. privacy / legal notice startindex"
+      "text": "1 Securities offered through Registered Representatives of MML Investors Services, Inc. select a solution annuities disability income insurance life insurance mutual funds"
+    },
+    {
+      "tag": "div",
+      "text": "changing/losing a job Select from the solutions on the left to learn how the MassMutual Financial Group companies can help you take stock of your new circumstances. What do you intend to do with your retirement plan assets at this time?  You may want to consider rolling the assets in your qualified plan into an annuity-funded IRA.  While funding your IRA with an annuity offers no additional tax-advantage, there are unique annuity features to consider.  These include multiple investment choices, living benefits, death benefits, and the ability to create a stream of income you can't outlive. 1 Whether you're finally pursuing your real interests or coming back to the work force after some time off, MassMutual's disability income insurance coverage offers the convenience of portability.  No matter where you go or what changes in your life, your policy remains the same and stays with you even when you change jobs. Starting a new job may mean re-examining your insurance needs.  If you're concerned about income replacement, a pay raise will mean you need more life insurance.  Or maybe you've lost group life insurance coverage from your previous job and you need to replace that employee benefit with individual life insurance.  If you find yourself unemployed in the future, owning individual life insurance can provide continued protection. Although you may experience unexpected career developments, your financial goals should remain steady.  Mutual funds offer you the benefits of professional management and asset diversification that may help you reach your long-term financial goals. 1 Guaranteed death benefits, living benefits and payment of lifetime income are contingent upon the claims-paying ability of the issuing company or companies."
+    },
+    {
+      "tag": "div",
+      "text": "contact a financial professional"
+    },
+    {
+      "tag": "div",
+      "text": "quick links"
+    },
+    {
+      "tag": "div",
+      "text": "service contact a financial professional locate an office directions"
+    },
+    {
+      "tag": "div",
+      "text": "related information"
+    },
+    {
+      "tag": "div",
+      "text": "Guide to Investing Out of Work? Insuring the Future Educational Articles COBRA: Continuing Health Care Coverage Ten Ways to Stretch Your Money"
+    },
+    {
+      "tag": "div",
+      "text": "prepare for life's events"
+    },
+    {
+      "tag": "div",
+      "text": "changing/losing a job retiring comfortably buying a home getting married starting a business saving for education getting divorced raising a family managing an unexpected windfall establishing an estate plan having an illness/accident losing a loved one providing elder care becoming a grandparent caring for special needs becoming empty nesters"
+    },
+    {
+      "tag": "div",
+      "text": "required plug-in"
+    },
+    {
+      "tag": "div",
+      "text": "Flash Player"
+    },
+    {
+      "tag": "div",
+      "text": "#031125-000 05/06 Copyright  2006 Massachusetts Mutual Life Insurance Company. All rights reserved. privacy / legal notice"
     }
   ]
 }

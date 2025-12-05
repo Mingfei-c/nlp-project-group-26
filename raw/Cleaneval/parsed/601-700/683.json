@@ -3,12 +3,20 @@
   "file_number": "683",
   "content_hash": "e642f5b3f6c388baee0e9ea5f8cd268c3bdd926d3f53197612425ca6ff406359",
   "total_blocks": 174,
-  "retained_blocks": 3,
-  "ignored_blocks": 171,
+  "retained_blocks": 5,
+  "ignored_blocks": 169,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" Search RTNDA RTNDF //<a href=\"#\" onmousedown=\"doMenu('menu2sub','block');doMenu('menu1sub','none');doMenu('menu5sub','none');doMenu('menu7sub','none');doMenu('menu8sub','none');doMenu('menu10sub','none');doMenu('menu12sub','none');doMenu('menu13sub','none');doMenu('menu14sub','none')\">// //<div id=\"menu2sub\" class=\"sub\">\r\n<a href=\"/asfi/awards/awards.shtml\" class=\"dropdown\">Awards</a><br />\r\n<a href=\"/asfi/scholarships/schol.shtml\" class=\"dropdown\">Scholarships</a><br />\r\n<a href=\"/asfi/fellowships/fellow.shtml\" class=\"dropdown\">Fellowships</a><br />\r\n<a href=\"/asfi/internships/intern.shtml\" class=\"dropdown\">Internships</a>\r\n\r\n</div> // My Communicator Legal Notes Past Issues Online Directories Industry Research Subscribe Advertise Code ofEthics Coverage Guidelines EthicsProject Ethics Workshops VNRs Sunshine Week Access Copyright Covering Courts FCC Issues Hidden Cameras and Microphones Homeland Security HIPAA Libel Reporters Privilege Satellite Imagery Subpoenas Confidential Sources //<a href=\"#\" onmousedown=\"doMenu('menu9sub','block');doMenu('menu1sub','none');doMenu('menu5sub','none');doMenu('menu7sub','none');doMenu('menu8sub','none');doMenu('menu10sub','none');doMenu('menu12sub','none');doMenu('menu13sub','none');doMenu('menu14sub','none')\">// //<div id=\"menu9sub\" class=\"sub\"> \r\n<a href=\"/members/jobs.asp\" class=\"dropdown\">Job Listings</a><br />\r\n<a href=\"/trades/index.shtml\" class=\"dropdown\">Trade Secrets</a><br />\r\n<a href=\"/research/salaries02.shtml\" class=\"dropdown\">Salary Survey</a><br />\r\n<a href=\"/employment/agents.shtml\" class=\"dropdown\">Agents & Consultants</a><br />\r\n<a href=\"/employment/eeo1.shtml\" class=\"dropdown\">EEO Rules</a>\r\n</div>// Join Today! Renew Today! Membership Types Membership Benefits Members Directory Change of Address Community Journalism Diversity Environmental Journalism Future of News High School Journalism Speech Archive News Leadership Political Coverage Terrorism Bioterrorism UN Forum for Journalists Useful Links Salaries Women & Minorities Future of News Staffing Levels Newsroom Profitability News Judgment & Ethics Radio Usage Syndication & Newsfeeds Web Survey Convergence Digital Radio & TV ENG Internet HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" Begin content here"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Search"
+    },
+    {
+      "tag": "div",
+      "text": "RTNDA RTNDF My Communicator Legal Notes Past Issues Online Directories Industry Research Subscribe Advertise Code ofEthics Coverage Guidelines EthicsProject Ethics Workshops VNRs Sunshine Week Access Copyright Covering Courts FCC Issues Hidden Cameras and Microphones Homeland Security HIPAA Libel Reporters Privilege Satellite Imagery Subpoenas Confidential Sources Join Today! Renew Today! Membership Types Membership Benefits Members Directory Change of Address Community Journalism Diversity Environmental Journalism Future of News High School Journalism Speech Archive News Leadership Political Coverage Terrorism Bioterrorism UN Forum for Journalists Useful Links Salaries Women & Minorities Future of News Staffing Levels Newsroom Profitability News Judgment & Ethics Radio Usage Syndication & Newsfeeds Web Survey Convergence Digital Radio & TV ENG Internet HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
     },
     {
       "tag": "p",

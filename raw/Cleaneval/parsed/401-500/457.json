@@ -3,12 +3,12 @@
   "file_number": "457",
   "content_hash": "321d36e2fb8914cb87e956fd9e65d57c337b2c49d3c0ed78b3b64276f870f30e",
   "total_blocks": 62,
-  "retained_blocks": 24,
-  "ignored_blocks": 38,
+  "retained_blocks": 23,
+  "ignored_blocks": 39,
   "blocks": [
     {
       "tag": "div",
-      "text": "John Walsh Walsh glass START Above: glass designed by Clyne Farquharson for John Walsh Walsh (click here for Eric Reynold's book)"
+      "text": "Above: glass designed by Clyne Farquharson for John Walsh Walsh (click here for Eric Reynold's book)"
     },
     {
       "tag": "h1",
@@ -56,19 +56,11 @@
     },
     {
       "tag": "div",
-      "text": "(click here for more information) The Glass of John Walsh Walsh by Eric Reynolds (Jan 2000). Begin my ebay insert"
+      "text": "(click here for more information) The Glass of John Walsh Walsh by Eric Reynolds (Jan 2000)."
     },
     {
       "tag": "p",
-      "text": "If you are looking for glass by John Walsh Walsh, you can often find pieces on offer on ebay. Click here to see John Walsh Walsh glass currently for sale on ebay."
-    },
-    {
-      "tag": "div",
-      "text": "end my ebay insert"
-    },
-    {
-      "tag": "p",
-      "text": "You could also check out our Recommended Books on Glass ."
+      "text": "If you are looking for glass by John Walsh Walsh, you can often find pieces on offer on ebay. Click here to see John Walsh Walsh glass currently for sale on ebay. You could also check out our Recommended Books on Glass ."
     },
     {
       "tag": "h4",
@@ -92,15 +84,19 @@
     },
     {
       "tag": "div",
-      "text": "Enter keywords... Find it on ebay! Try this search box Begin eBay Search Banner code If you have questions or information to share, please post them on the Glass Club Message Board"
-    },
-    {
-      "tag": "p",
-      "text": "INFORMATION about Bagley Glass! At last a book on Bagley Glass. The first edition of this book sold out in a few months. The 2nd Edition is now available and has received a rave response - more information, more and better pictures, new items identified as Bagley for the first time, a helpful index, and more compehensive coverage; - so much so that there is no need for a supporting CD, which brings the price lower! This book is a truly comprehensive guide to help you identify Bagley Glass. Click on the picture for more details. 2nd Edition book US$33.90 plus pp. Copyright © 1997 - 2005 Angela M. Bowey. Web site designed by: Angela M. Bowey. No material from  this website may be copied or reproduced without written permission from Angela M. Bowey. Full acknowledgement of the author and Glass Museum URL MUST be included, and copying any pictures is forbidden. Please respect our copyright. URL to this page: http://www.glass.co.nz/johnwalshwalsh.htm BEGIN LE FASTCOUNTER LINK LE FastCounter END LE FASTCOUNTER LINK"
+      "text": "Enter keywords..."
     },
     {
       "tag": "div",
-      "text": "John Walsh Walsh glass END"
+      "text": "Find it on ebay! Try this search box If you have questions or information to share, please post them on the Glass Club Message Board"
+    },
+    {
+      "tag": "p",
+      "text": "INFORMATION about Bagley Glass! At last a book on Bagley Glass. The first edition of this book sold out in a few months. The 2nd Edition is now available and has received a rave response - more information, more and better pictures, new items identified as Bagley for the first time, a helpful index, and more compehensive coverage; - so much so that there is no need for a supporting CD, which brings the price lower! This book is a truly comprehensive guide to help you identify Bagley Glass. Click on the picture for more details. 2nd Edition book US$33.90 plus pp."
+    },
+    {
+      "tag": "p",
+      "text": "Copyright © 1997 - 2005 Angela M. Bowey. Web site designed by: Angela M. Bowey. No material from  this website may be copied or reproduced without written permission from Angela M. Bowey. Full acknowledgement of the author and Glass Museum URL MUST be included, and copying any pictures is forbidden. Please respect our copyright. URL to this page: http://www.glass.co.nz/johnwalshwalsh.htm LE FastCounter"
     }
   ]
 }

@@ -3,12 +3,20 @@
   "file_number": "611",
   "content_hash": "40e0e8e7b2f0a18ad54545024fb6aa04137cd1b93dde7d7451b5dbcb4dacafbc",
   "total_blocks": 234,
-  "retained_blocks": 38,
-  "ignored_blocks": 196,
+  "retained_blocks": 49,
+  "ignored_blocks": 185,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" stopindex search begins Search for Products Search Entire Site Search Glossary search ends end navigation table end announce banner table home » family law & immigration Immigration & Green Cards end internal breadcrumbs table (with crumbs, and cat name) end outside breadcrumbs table startindex"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Search for Products Search Entire Site Search Glossary"
+    },
+    {
+      "tag": "div",
+      "text": "home » family law & immigration Immigration & Green Cards"
     },
     {
       "tag": "h3",
@@ -16,11 +24,23 @@
     },
     {
       "tag": "p",
-      "text": "by \r\r\n\t\r\r\n\t\t\r\r\n\t\t\r\r\n\r\r\n\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\t\t\t\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\t\t\r\r\n\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\r\r\n\t\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\t\r\r\n\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\t\tAttorney Ilona Bray &\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\t\t\r\r\n\t\t\r\r\n\r\r\n\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\t\t\t\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\t\t\r\r\n\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\r\r\n\t\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\t\r\r\n\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\t\tAttorney Richard A. Boswell Order online or call 1-800-728-3555 Security & Privacy Buy 3, Ship Free! Pub. Date: Nov 2001 Edition: 1st Pages: 304 pp ISBN: 0-87337-789-3 Email to a Friend View Product Details Book Paperback book. Usually ships in 24 hours. View shipping info ."
+      "text": "by \r\r\n\t\r\r\n\t\t\r\r\n\t\t\r\r\n\r\r\n\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\t\t\t\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\t\t\r\r\n\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\r\r\n\t\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\t\r\r\n\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\t\tAttorney Ilona Bray &\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\t\t\r\r\n\t\t\r\r\n\r\r\n\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\t\t\t\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\r\r\n\t\r\r\n\t\r\r\n\t\r\r\n\t\t\r\r\n\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\r\r\n\t\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\t\r\r\n\t\r\r\n\t\r\r\n\r\r\n\r\r\n\r\r\n\t\t\r\r\n\t\t\t\r\r\n\t\t\t\tAttorney Richard A. Boswell Order online or call 1-800-728-3555 Security & Privacy Buy 3, Ship Free!"
+    },
+    {
+      "tag": "p",
+      "text": "Pub. Date: Nov 2001 Edition: 1st Pages: 304 pp ISBN: 0-87337-789-3 Email to a Friend View Product Details"
+    },
+    {
+      "tag": "p",
+      "text": "Book Paperback book. Usually ships in 24 hours. View shipping info ."
     },
     {
       "tag": "div",
-      "text": "List Price: $29.99 Our Price: $25.49 You Save: $4.50 ISTU Summary & Reviews Table of Contents Sample Chapter Updates"
+      "text": "List Price: $29.99 Our Price: $25.49 You Save: $4.50 ISTU"
+    },
+    {
+      "tag": "div",
+      "text": "Summary & Reviews Table of Contents Sample Chapter Updates"
     },
     {
       "tag": "h3",
@@ -88,7 +108,15 @@
     },
     {
       "tag": "p",
-      "text": "Another of the U.S. government's security measures has imposed extra monitoring on certain men who are already in the United States on nonimmigrant visas. Most of the men affected are students and men on extended business or tourist visits. You needed to register at a local USCIS office under Phase II if you are a man who: was born on or before December 2, 1986 is a citizen or national of one of the countries listed below entered the United States on or before certain dates in 2002 (listed below) on a nonimmigrant (temporary) visa, and planned to stay in the United States until at least your required registration date (see below). If you fit this criteria and failed to register by the dates below, the USCIS has the power to deport you. If you find yourself in this position, consult an experienced immigration attorney. Countries Affected. The following countries are affected: Afghanistan Algeria Bahrain Bangladesh Egypt Eritrea Indonesia Iran Iraq Jordan Kuwait Lebanon Libya Morocco North Korea Oman Pakistan Qatar Saudi Arabia Somalia Sudan Syria Tunisia the United Arab Emirates, and Yemen. Registration Dates. Men from Iran, Iraq, Libya, Sudan, and Syria who arrived before September 10, 2002 were required to register by February 7, 2003. Men from Afghanistan, Algeria, Bahrain, Eritrea, Lebanon, Morocco, North Korea, Oman, Qatar, Somalia, Tunisia, the United Arab Emirates, and Yemen who arrived before October 1, 2002 were required to register by February 7, 2003. Men from Pakistan and Saudi Arabia who arrived before October 1, 2002 were required to register by March 21, 2003. Men from Bangladesh, Egypt, Indonesia, Jordan, and Kuwait who arrived before October 1, 2002 were required to register by April 25, 2003. Exceptions. You weren't required to register if you were: a diplomat or other person admitted on an Aor Gvisa a lawful permanent resident (green card holder) or other immigrant alien, such as an approved asylee or refugee, or an asylum applicant who filed before November 22, 2002."
+      "text": "Another of the U.S. government's security measures has imposed extra monitoring on certain men who are already in the United States on nonimmigrant visas. Most of the men affected are students and men on extended business or tourist visits. You needed to register at a local USCIS office under Phase II if you are a man who: was born on or before December 2, 1986 is a citizen or national of one of the countries listed below entered the United States on or before certain dates in 2002 (listed below) on a nonimmigrant (temporary) visa, and planned to stay in the United States until at least your required registration date (see below). If you fit this criteria and failed to register by the dates below, the USCIS has the power to deport you. If you find yourself in this position, consult an experienced immigration attorney. Countries Affected. The following countries are affected:"
+    },
+    {
+      "tag": "p",
+      "text": "Afghanistan Algeria Bahrain Bangladesh Egypt Eritrea Indonesia Iran Iraq Jordan Kuwait Lebanon Libya Morocco North Korea Oman Pakistan Qatar Saudi Arabia Somalia Sudan Syria Tunisia the United Arab Emirates, and Yemen."
+    },
+    {
+      "tag": "p",
+      "text": "Registration Dates. Men from Iran, Iraq, Libya, Sudan, and Syria who arrived before September 10, 2002 were required to register by February 7, 2003. Men from Afghanistan, Algeria, Bahrain, Eritrea, Lebanon, Morocco, North Korea, Oman, Qatar, Somalia, Tunisia, the United Arab Emirates, and Yemen who arrived before October 1, 2002 were required to register by February 7, 2003. Men from Pakistan and Saudi Arabia who arrived before October 1, 2002 were required to register by March 21, 2003. Men from Bangladesh, Egypt, Indonesia, Jordan, and Kuwait who arrived before October 1, 2002 were required to register by April 25, 2003. Exceptions. You weren't required to register if you were: a diplomat or other person admitted on an Aor Gvisa a lawful permanent resident (green card holder) or other immigrant alien, such as an approved asylee or refugee, or an asylum applicant who filed before November 22, 2002."
     },
     {
       "tag": "h4",
@@ -152,11 +180,27 @@
     },
     {
       "tag": "p",
-      "text": "If you're planning to visit the United States using a visa waiver rather than an actual visa, you may need to get a new passport first. Starting October 26, 2005, all visa waiver entrants must present passports containing a digital photograph. By the following year, October 26, 2006, they'll need to have passports containing other biometric information (probably fingerprints), to be announced later. Unfortunately, not all countries whose citizens are eligible for the Visa Waiver Program have the technology to provide this type of passport. If your country doesn't create such passports by the deadline, you'll have to contact your local U.S. embassy and apply for a tourist visa. Back to Top Fianc & Marriage Visas: A Couple's Guide to U.S. Immigration Married or engaged to a U.S. citizen or permanent resident, and need to get a visa? Find everything you need in this book. How to Get a Green Card This essential book gives you all the critical information you need to get a green card. Becoming a U.S. Citizen: A Guide to the Law, Exam & Interview Covering the topics that most immigration guides don't, this book is the most complete resource available today. U.S. Immigration Made Easy Use this do-it-yourself book to enter, live in and work in the U.S. temporarily or permanently."
+      "text": "If you're planning to visit the United States using a visa waiver rather than an actual visa, you may need to get a new passport first. Starting October 26, 2005, all visa waiver entrants must present passports containing a digital photograph. By the following year, October 26, 2006, they'll need to have passports containing other biometric information (probably fingerprints), to be announced later. Unfortunately, not all countries whose citizens are eligible for the Visa Waiver Program have the technology to provide this type of passport. If your country doesn't create such passports by the deadline, you'll have to contact your local U.S. embassy and apply for a tourist visa. Back to Top"
+    },
+    {
+      "tag": "p",
+      "text": "Fianc & Marriage Visas: A Couple's Guide to U.S. Immigration Married or engaged to a U.S. citizen or permanent resident, and need to get a visa? Find everything you need in this book."
+    },
+    {
+      "tag": "p",
+      "text": "How to Get a Green Card This essential book gives you all the critical information you need to get a green card."
+    },
+    {
+      "tag": "p",
+      "text": "Becoming a U.S. Citizen: A Guide to the Law, Exam & Interview Covering the topics that most immigration guides don't, this book is the most complete resource available today."
+    },
+    {
+      "tag": "p",
+      "text": "U.S. Immigration Made Easy Use this do-it-yourself book to enter, live in and work in the U.S. temporarily or permanently."
     },
     {
       "tag": "div",
-      "text": "stopindex End table for body of page: right nav, body, left nav, footer startindex About Nolo | Site Map | Support | Contact | Security & Privacy Disclaimer -- Legal Information Is Not Legal Advice Copyright © 2006 Nolo stopindex end \"border\" table (the table that inserts the vertical grey bars)"
+      "text": "About Nolo | Site Map | Support | Contact | Security & Privacy Disclaimer -- Legal Information Is Not Legal Advice Copyright © 2006 Nolo"
     }
   ]
 }

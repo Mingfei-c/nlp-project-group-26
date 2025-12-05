@@ -3,12 +3,32 @@
   "file_number": "600",
   "content_hash": "68f78ddbb7eebc9aec765177513ddc3fec525f1c74113e289841c2f97c582089",
   "total_blocks": 242,
-  "retained_blocks": 3,
-  "ignored_blocks": 239,
+  "retained_blocks": 9,
+  "ignored_blocks": 233,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n        \"http://www.w3.org/TR/html4/loose.dtd\" <SCRIPT LANGUAGE=\"JavaScript\">\r\n\r\nvar s = 207;\r\nvar url = 'ads.naturalhealthmag.com';\r\n\r\nvar axel = Math.random() + \"\";\r\nvar ord = axel * 1000000000000000000;\r\n// This part of script alleviates a Netscape document.write bug\r\nNS4 = document.layers;\r\nif (NS4) {\r\norigWidth = innerWidth;\r\norigHeight = innerHeight;\r\n}\r\nfunction reDo() {\r\nif (innerWidth != origWidth || innerHeight != origHeight)\r\nlocation.reload();\r\n}\r\nif (NS4) onresize = reDo;\r\n//\r\n</SCRIPT> top ad begin DART for channel: - Ad Dimension:  728 x 90 (ptile=1) end DART  for channel: - Ad Dimension:  728 x 90 top images top navigation &nbsp;&nbsp;&nbsp; <span class=\"issue\">May 2004</span> middle/body left panel search site center google ad begin DART for channel: - Ad Dimension: banner - 468 x 60 (ptile=4) end DART for channel: - Ad Dimension: Wide Skyscraper - 468 x 60 more on your ... slot - Best Foot Forward - Fitter, Faster - Get A Better Body Image - INSTANT YOGA join the body/mind/spirit club slot FREE membership includes: >>Message Boards >>Newsletters >>Special Offers Email Address community slot Need advice? Chat with other Natural Health members and share your experiences. Sign Up Today! Popular Discussion Topics - Health News - Alternative Medicine - Healthy Recipes - Feel-good Fitness center/\"well\"/content The Art of Work Being unhappily employed can ruin your physical and emotional well-being. How do you find the ways to do the job you love and love the job you do? By Ben Kallen Photo by Noel Hendrickson/Masterfile Page 1 | 2"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n        \"http://www.w3.org/TR/html4/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "- Best Foot Forward - Fitter, Faster - Get A Better Body Image - INSTANT YOGA"
+    },
+    {
+      "tag": "div",
+      "text": "FREE membership includes: >>Message Boards >>Newsletters >>Special Offers"
+    },
+    {
+      "tag": "div",
+      "text": "Email Address"
+    },
+    {
+      "tag": "div",
+      "text": "Need advice? Chat with other Natural Health members and share your experiences. Sign Up Today! Popular Discussion Topics - Health News - Alternative Medicine - Healthy Recipes - Feel-good Fitness"
+    },
+    {
+      "tag": "div",
+      "text": "The Art of Work Being unhappily employed can ruin your physical and emotional well-being. How do you find the ways to do the job you love and love the job you do? By Ben Kallen Photo by Noel Hendrickson/Masterfile Page 1 | 2"
     },
     {
       "tag": "p",
@@ -16,7 +36,11 @@
     },
     {
       "tag": "div",
-      "text": "Page 1 | 2 subscription center subscription links begin DART for channel: - Ad Dimension: Skyscraper - 120 x 600 (ptile=2) end DART for channel: - Ad Dimension: Skyscraper - 120 x 600 Home | Your Health | Your Nutrition | Your Energy | Your Spirit | Forums Advertise | Contact Us | Privacy Policy | Terms and Conditions © 2007 Weider Publications, LLC, a subsidiary of American Media, Inc . All Rights Reserved. Visit our other publications online: Health & Fitness: Fit Pregnancy | Flex | iShape | Looking Good Now | Men's Fitness | Muscle & Fitness | Muscle & Fitness Hers | Shape Entertainment: Country Weekly | National Enquirer | Star | Weekly World News begin DART for channel: - Ad Dimension: banner - 468 x 60 (ptile=4) end DART for channel: - Ad Dimension: Wide Skyscraper - 468 x 60 start Vibrant Media IntelliTXT script section end Vibrant Media IntelliTXT script section"
+      "text": "Page 1 | 2"
+    },
+    {
+      "tag": "div",
+      "text": "Home | Your Health | Your Nutrition | Your Energy | Your Spirit | Forums Advertise | Contact Us | Privacy Policy | Terms and Conditions © 2007 Weider Publications, LLC, a subsidiary of American Media, Inc . All Rights Reserved. Visit our other publications online: Health & Fitness: Fit Pregnancy | Flex | iShape | Looking Good Now | Men's Fitness | Muscle & Fitness | Muscle & Fitness Hers | Shape Entertainment: Country Weekly | National Enquirer | Star | Weekly World News"
     }
   ]
 }

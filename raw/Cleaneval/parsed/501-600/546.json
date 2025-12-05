@@ -3,12 +3,24 @@
   "file_number": "546",
   "content_hash": "076ffb0fe73b054be5092595db7a4b5407227d2d5ed2aac33bc40bc0ed8b10b8",
   "total_blocks": 79,
-  "retained_blocks": 14,
-  "ignored_blocks": 65,
+  "retained_blocks": 15,
+  "ignored_blocks": 64,
   "blocks": [
     {
       "tag": "div",
-      "text": "Library about the Library people, administration, policies and plans Skip over navigation show detailed menu hide detailed menu : search : site map ask us Resources Borrowing/accounts Services for... Help/how-to Facilities Resources TRELLIS catalogue · Course reserve Journal indexes · E-journals · E-books · E-reference Archival & special collections Audio-visual · Data · GIS & maps · Government · Newspapers · RefWorks citations · Theses Borrowing/accounts Your account: renewals, fines, etc Borrowing info,  fines, account problems Books & articles from TRELLIS Books & articles from interlibrary loan / document delivery Services for... Undergrads Faculty & grad students Distance & open learning Students with disabilities Uof Gstaff Alumni & visitors Help/how-to Ask us Subject & course guides Research Technology Learning & writing Off campus web access Site map Facilities Hours Directions to the Library Computers, wireless, laptops Printing, scanning, photocopying Study space & offices Locations & building maps #BeginLibraryItem \"/library/breadcrumbs.lbi\" #EndLibraryItem InstanceBeginEditable name=\"body\""
+      "text": "Library about the Library people, administration, policies and plans"
+    },
+    {
+      "tag": "div",
+      "text": "Skip over navigation"
+    },
+    {
+      "tag": "div",
+      "text": "show detailed menu hide detailed menu : search : site map ask us"
+    },
+    {
+      "tag": "div",
+      "text": "Resources Borrowing/accounts Services for... Help/how-to Facilities Resources TRELLIS catalogue · Course reserve Journal indexes · E-journals · E-books · E-reference Archival & special collections Audio-visual · Data · GIS & maps · Government · Newspapers · RefWorks citations · Theses Borrowing/accounts Your account: renewals, fines, etc Borrowing info,  fines, account problems Books & articles from TRELLIS Books & articles from interlibrary loan / document delivery Services for... Undergrads Faculty & grad students Distance & open learning Students with disabilities Uof Gstaff Alumni & visitors Help/how-to Ask us Subject & course guides Research Technology Learning & writing Off campus web access Site map Facilities Hours Directions to the Library Computers, wireless, laptops Printing, scanning, photocopying Study space & offices Locations & building maps"
     },
     {
       "tag": "h1",
@@ -48,19 +60,11 @@
     },
     {
       "tag": "p",
-      "text": "One of the most important elements of the Learning Commons approach is that much of the programming involves students helping other students through the use of peer helpers.  Selected from a range of disciplines through a rigorous process that assesses their academic achievement and communication skills, peer helpers embody the University's commitment to experiential learning. Peer helpers make a difference to their fellow students while at the same time enjoying an opportunity for their own personal growth and development. Their comments on the experience - “an invaluable experience”, “full of learning and laughter”, “the most rewarding part of my undergraduate experience” - reflect the success of this program. The Learning Commons has 78 exceptional learning peers, writing peers and Supported Learning Group peers, each of whom commits an average of 5 to 10 hours per week to helping their fellow students. next article>>"
+      "text": "One of the most important elements of the Learning Commons approach is that much of the programming involves students helping other students through the use of peer helpers.  Selected from a range of disciplines through a rigorous process that assesses their academic achievement and communication skills, peer helpers embody the University's commitment to experiential learning. Peer helpers make a difference to their fellow students while at the same time enjoying an opportunity for their own personal growth and development. Their comments on the experience - “an invaluable experience”, “full of learning and laughter”, “the most rewarding part of my undergraduate experience” - reflect the success of this program. The Learning Commons has 78 exceptional learning peers, writing peers and Supported Learning Group peers, each of whom commits an average of 5 to 10 hours per week to helping their fellow students. next article>> Uof Ghome | Library home | top of this page"
     },
     {
       "tag": "div",
-      "text": "InstanceEndEditable"
-    },
-    {
-      "tag": "p",
-      "text": "Uof Ghome | Library home | top of this page"
-    },
-    {
-      "tag": "div",
-      "text": "Last updated on !--echo var=\"LAST_MODIFIED\" --<br /> comments / contact us"
+      "text": "comments / contact us"
     }
   ]
 }

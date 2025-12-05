@@ -3,12 +3,24 @@
   "file_number": "712",
   "content_hash": "0a717b395267319ac17c61c98b587538c7abc9657d45529af3f56120a6629a8b",
   "total_blocks": 140,
-  "retained_blocks": 9,
-  "ignored_blocks": 131,
+  "retained_blocks": 13,
+  "ignored_blocks": 127,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" - HEADER STARTS HERE - Home >> News Article Archive >> Here's how teens can reduce risk of assault - HEADER ENDS HERE - - Left column starts here - - - News Archive CEO Columns Seasonal Tips Links of Interest - Left column ends here - - Content area starts here - NEWS ARTICLE ARCHIVE Here's how teens can reduce risk of assault By Leslie Vryenhoek, Canadian Red Cross June 7, 2005"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Home >> News Article Archive >> Here's how teens can reduce risk of assault"
+    },
+    {
+      "tag": "div",
+      "text": "News Archive CEO Columns Seasonal Tips Links of Interest NEWS ARTICLE ARCHIVE"
+    },
+    {
+      "tag": "div",
+      "text": "Here's how teens can reduce risk of assault By Leslie Vryenhoek, Canadian Red Cross June 7, 2005"
     },
     {
       "tag": "p",
@@ -40,7 +52,11 @@
     },
     {
       "tag": "div",
-      "text": "Related Links RespectED: Violence & Abuse Prevention, Canadian Red Cross (EXTERNAL LINK) - Content area ends here - FOOTER STARTS HERE TERMS OF USE & DISCLAIMER | PRIVACY POLICY | ACCESSIBILITY POLICY ALL RIGHTS RESERVED FOOTER ENDS HERE"
+      "text": "Related Links RespectED: Violence & Abuse Prevention, Canadian Red Cross (EXTERNAL LINK)"
+    },
+    {
+      "tag": "div",
+      "text": "TERMS OF USE & DISCLAIMER | PRIVACY POLICY | ACCESSIBILITY POLICY ALL RIGHTS RESERVED"
     }
   ]
 }

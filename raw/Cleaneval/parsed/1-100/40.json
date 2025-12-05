@@ -3,12 +3,16 @@
   "file_number": "40",
   "content_hash": "3903b53df6f5ecdc34ee392f783a206a1474f34d008b8295a10b80097cdbf7cc",
   "total_blocks": 136,
-  "retained_blocks": 45,
-  "ignored_blocks": 91,
+  "retained_blocks": 46,
+  "ignored_blocks": 90,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" You are here: About > Business & Finance > Credit / Debt Management Credit / Debt Management Business & Finance Credit / Debt Essentials Debt Collection FAQ's The ABC's of Credit Scoring Repair Your Credit Report Validation of Debts Eliminate Credit Card Debt Topics Credit 101 Credit Reports and Scores Fraud and Scams Debt Management 101 Debt Collection Debt Consolidation Bankruptcy Managing Money Kids and Credit Product Reviews Fast Facts & FAQs Tools Find a Job Get a Quote Mortgage Loans Online Degrees Yellow Pages Forums Most Popular Articles Latest Articles Help gc From Nance Kelly , Your Guide to Credit / Debt Management . FREE Newsletter. Sign Up Now!"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "You are here: About > Business & Finance > Credit / Debt Management Credit / Debt Management Business & Finance Credit / Debt Essentials Debt Collection FAQ's The ABC's of Credit Scoring Repair Your Credit Report Validation of Debts Eliminate Credit Card Debt Topics Credit 101 Credit Reports and Scores Fraud and Scams Debt Management 101 Debt Collection Debt Consolidation Bankruptcy Managing Money Kids and Credit Product Reviews Fast Facts & FAQs Tools Find a Job Get a Quote Mortgage Loans Online Degrees Yellow Pages Forums Most Popular Articles Latest Articles Help From Nance Kelly , Your Guide to Credit / Debt Management . FREE Newsletter. Sign Up Now!"
     },
     {
       "tag": "h2",
@@ -148,7 +152,7 @@
     },
     {
       "tag": "p",
-      "text": "Email to a Friend Display Latest Headlines | | | Read Archives powered by WordPress /gc Important disclaimer information about this About site."
+      "text": "Email to a Friend Display Latest Headlines | | | Read Archives powered by WordPress Important disclaimer information about this About site."
     },
     {
       "tag": "h5",

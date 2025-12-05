@@ -3,12 +3,20 @@
   "file_number": "487",
   "content_hash": "f435153263b139010f688f4274296f52725857fddbc3824857c04df2f4a132e8",
   "total_blocks": 99,
-  "retained_blocks": 15,
-  "ignored_blocks": 84,
+  "retained_blocks": 18,
+  "ignored_blocks": 81,
   "blocks": [
     {
       "tag": "div",
-      "text": "html\n\tPUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" This website is brought to you by TYPO3 - get.content.right\n\tTYPO3 is a free open source Content Management Framework created by Kasper Skaarhoj and licensed under GNU/GPL.\n\tTYPO3 is copyright 1998-2005 of Kasper Skaarhoj. Extensions are copyright of their respective owners.\n\tInformation and contribution at http://www.typo3.com The 1997 General Election ValueClick Media 468x60 and 728x90 Banner CODE for\r\nhistorylearningsite.co.uk ValueClick Media 468x60 and 728x90 Banner CODE for\r\nhistorylearningsite.co.uk google_ad_section_start History Learning Site > British Politics > The 1997 General Election"
+      "text": "html\n\tPUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "The 1997 General Election"
+    },
+    {
+      "tag": "div",
+      "text": "History Learning Site > British Politics > The 1997 General Election"
     },
     {
       "tag": "p",
@@ -52,11 +60,11 @@
     },
     {
       "tag": "p",
-      "text": "Search Site: If you have any enquiries or notice any problems please contact me at enquiries@historylearningsite.co.uk About the Author"
+      "text": "Search Site:"
     },
     {
-      "tag": "div",
-      "text": "google_ad_section_end"
+      "tag": "p",
+      "text": "If you have any enquiries or notice any problems please contact me at enquiries@historylearningsite.co.uk About the Author"
     },
     {
       "tag": "p",
@@ -64,7 +72,11 @@
     },
     {
       "tag": "div",
-      "text": "Related Pages Roman Entertainment Roman Engineering Medieval Church Architecture Abyssinia The Yalta War Conference China in 1900 Important events in public and environmental health in Great Britain 1900\r\nto 1939 The National Health Service Greensboro 1960 The 2001 British General Election © 2000-2006 historylearningsite.co.uk"
+      "text": "Related Pages Roman Entertainment Roman Engineering Medieval Church Architecture Abyssinia The Yalta War Conference China in 1900 Important events in public and environmental health in Great Britain 1900\r\nto 1939 The National Health Service Greensboro 1960 The 2001 British General Election"
+    },
+    {
+      "tag": "div",
+      "text": "© 2000-2006 historylearningsite.co.uk"
     }
   ]
 }

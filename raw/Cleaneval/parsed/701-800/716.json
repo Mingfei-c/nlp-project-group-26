@@ -3,20 +3,16 @@
   "file_number": "716",
   "content_hash": "86285a533d3a53243b4df1017e87768c4e1818c5eb39b93c5e62e8ec2486c249",
   "total_blocks": 197,
-  "retained_blocks": 6,
-  "ignored_blocks": 191,
+  "retained_blocks": 5,
+  "ignored_blocks": 192,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "webbot bot=\"Include\" U-Include=\"navigation-top.htm\" TAG=\"BODY\" startspan"
-    },
     {
       "tag": "p",
       "text": "HOME | MEMBERSHIP | ASSOCIATES | CONTACT US"
     },
     {
       "tag": "div",
-      "text": "webbot bot=\"Include\" i-checksum=\"51092\" endspan webbot bot=\"Include\" U-Include=\"navigation-top-images.htm\" TAG=\"BODY\" startspan webbot bot=\"Include\" i-checksum=\"36426\" endspan webbot bot=\"Include\" U-Include=\"navigation-middle.htm\" TAG=\"BODY\" startspan webbot bot=\"Include\" i-checksum=\"56753\" endspan webbot bot=\"Include\" U-Include=\"navigation-middle-images.htm\" TAG=\"BODY\" startspan webbot bot=\"Include\" i-checksum=\"46117\" endspan South Carolina Bed and Breakfast\r\nAssociation By-Laws"
+      "text": "South Carolina Bed and Breakfast\r\nAssociation By-Laws"
     },
     {
       "tag": "p",
@@ -24,11 +20,11 @@
     },
     {
       "tag": "div",
-      "text": "webbot bot=\"Include\" U-Include=\"navigation-bottom.htm\" TAG=\"BODY\" startspan Find an Inn | Gift Certificates | Specials | Site | Directory | Membership Info | Associates | Links | Contact Us | Home webbot bot=\"Include\" i-checksum=\"12196\" endspan webbot bot=\"Include\" U-Include=\"footer.htm\" TAG=\"BODY\" startspan"
+      "text": "Find an Inn | Gift Certificates | Specials | Site | Directory | Membership Info | Associates | Links | Contact Us | Home"
     },
     {
       "tag": "p",
-      "text": "2006 South Carolina Bed & \r\nBreakfast Association PMB 307, 10120 Two Notch Road Suite 2 Columbia, South Carolina 29223 Email Us Site by AMS Web Services START OF WEBTRENDS LIVE TAG Copyright 2002 NetIQ Corporation For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/wtl_system/privacy_policy.htm END OF WEBTRENDS LIVE TAG webbot bot=\"Include\" i-checksum=\"13114\" endspan"
+      "text": "2006 South Carolina Bed & \r\nBreakfast Association PMB 307, 10120 Two Notch Road Suite 2 Columbia, South Carolina 29223 Email Us Site by AMS Web Services"
     }
   ]
 }

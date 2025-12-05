@@ -3,12 +3,28 @@
   "file_number": "553",
   "content_hash": "48f99edd6eb668ec11d0b4029f939d401f8e5c2f2176b8744fd14f36071d1020",
   "total_blocks": 230,
-  "retained_blocks": 7,
-  "ignored_blocks": 223,
+  "retained_blocks": 12,
+  "ignored_blocks": 218,
   "blocks": [
     {
       "tag": "div",
-      "text": "#BeginTemplate \"/Templates/education.dwt\" DW6 #BeginEditable \"doctitle\" #EndEditable #BeginEditable \"titlegraphic\" #EndEditable Home | About \r\n                    LFA | Mailing \r\n                    List | Chapter \r\n                    Locator | LFA \r\n                    Store | Sitemap www.lupus.org #BeginEditable \"navlevels\" LFA \r\n            Home : Education : Facts \r\n            and Overview : Frequently Asked Questions #EndEditable search: Choose Section -------------------------- - Education - Support - LFA Research - What's New? - LFA In Action - News - Research - Awareness Lupus Disease ---------------------------- - Cutaneous \r\n                (skin) - Drug-Induced - Neonatal - Overlap - Systemic Education Facts \r\n                              & Overview"
+      "text": "Home | About \r\n                    LFA | Mailing \r\n                    List | Chapter \r\n                    Locator | LFA \r\n                    Store | Sitemap"
+    },
+    {
+      "tag": "div",
+      "text": "www.lupus.org LFA \r\n            Home : Education : Facts \r\n            and Overview : Frequently Asked Questions"
+    },
+    {
+      "tag": "div",
+      "text": "search: Choose Section -------------------------- - Education - Support - LFA Research - What's New? - LFA In Action - News - Research - Awareness Lupus Disease ---------------------------- - Cutaneous \r\n                (skin) - Drug-Induced - Neonatal - Overlap - Systemic"
+    },
+    {
+      "tag": "div",
+      "text": "Education"
+    },
+    {
+      "tag": "div",
+      "text": "Facts \r\n                              & Overview"
     },
     {
       "tag": "p",
@@ -16,7 +32,11 @@
     },
     {
       "tag": "div",
-      "text": "Links \r\n                              & Resources Support LFA \r\n                        Research What's \r\n                        New? Lupus Foundation of America, Inc. www.lupus.org 2000 L Street, N.W., Suite 710 Washington, DC 20036 Phone 202-349-1155 Fax 202-349-1156 Contact \r\n                        Us Words \r\n                          of Caution #BeginEditable \"contents\" Frequently Asked \r\n                          Questions About Lupus"
+      "text": "Links \r\n                              & Resources"
+    },
+    {
+      "tag": "div",
+      "text": "Support LFA \r\n                        Research What's \r\n                        New? Lupus Foundation of America, Inc. www.lupus.org 2000 L Street, N.W., Suite 710 Washington, DC 20036 Phone 202-349-1155 Fax 202-349-1156 Contact \r\n                        Us Words \r\n                          of Caution Frequently Asked \r\n                          Questions About Lupus"
     },
     {
       "tag": "p",
@@ -32,7 +52,7 @@
     },
     {
       "tag": "div",
-      "text": "#EndEditable © 2005 Lupus Foundation of America, \r\n      Inc. #EndTemplate"
+      "text": "© 2005 Lupus Foundation of America, \r\n      Inc."
     }
   ]
 }

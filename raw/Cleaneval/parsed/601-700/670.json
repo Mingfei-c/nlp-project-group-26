@@ -3,8 +3,8 @@
   "file_number": "670",
   "content_hash": "9b2a43e92ad091ab36a59d02abeb40ab294ca37525257a435ec5a8c33ae213d4",
   "total_blocks": 122,
-  "retained_blocks": 38,
-  "ignored_blocks": 84,
+  "retained_blocks": 39,
+  "ignored_blocks": 83,
   "blocks": [
     {
       "tag": "div",
@@ -156,7 +156,11 @@
     },
     {
       "tag": "p",
-      "text": "? Doubtful country or sub-country occurrence. [vag] Taxon is a vagrant in the country or sub-country unit. [vag?] Taxon is a doubtful vagrant in the country or sub-country unit. [int] Taxon has been accidentally or deliberately introduced into that country or sub-country unit (the area of introduction was not part of its known historic range). [int?] Taxon has possibly been accidentally or deliberately introduced into that country or sub-country unit (the area of introduction was not part of its known historic range). [re-int] Taxon has been deliberately re-introduced into an area that was formerly part of its known historic range in that country or sub-country unit or a deliberate introduction (termed a 'benign introduction') into an area outside of it historic range specifically for conservation purposes. [re-int?] Taxon has possibly been deliberately re-introduced into an area that was formerly part of its known historic range in that country or sub-country unit or a deliberate introduction (termed a 'benign introduction') into an area outside of it historic range specifically for conservation purposes. [RE] The taxon is 'Regionally Extinct' in the country or sub-country unit. [RE?] The taxon is possibly 'Regionally Extinct' in the country or sub-country unit. © International Union for Conservation \n\t    of Nature and Natural Resources, Contact Information Feedback: If you see any errors or have any questions\n            or suggestions on what is shown on this page, please\n            fill in the feedback form so that we can correct or extend the information provided."
+      "text": "? Doubtful country or sub-country occurrence. [vag] Taxon is a vagrant in the country or sub-country unit. [vag?] Taxon is a doubtful vagrant in the country or sub-country unit. [int] Taxon has been accidentally or deliberately introduced into that country or sub-country unit (the area of introduction was not part of its known historic range). [int?] Taxon has possibly been accidentally or deliberately introduced into that country or sub-country unit (the area of introduction was not part of its known historic range). [re-int] Taxon has been deliberately re-introduced into an area that was formerly part of its known historic range in that country or sub-country unit or a deliberate introduction (termed a 'benign introduction') into an area outside of it historic range specifically for conservation purposes. [re-int?] Taxon has possibly been deliberately re-introduced into an area that was formerly part of its known historic range in that country or sub-country unit or a deliberate introduction (termed a 'benign introduction') into an area outside of it historic range specifically for conservation purposes. [RE] The taxon is 'Regionally Extinct' in the country or sub-country unit. [RE?] The taxon is possibly 'Regionally Extinct' in the country or sub-country unit."
+    },
+    {
+      "tag": "p",
+      "text": "© International Union for Conservation \n\t    of Nature and Natural Resources, Contact Information Feedback: If you see any errors or have any questions\n            or suggestions on what is shown on this page, please\n            fill in the feedback form so that we can correct or extend the information provided."
     }
   ]
 }

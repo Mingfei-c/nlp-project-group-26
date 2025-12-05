@@ -3,12 +3,12 @@
   "file_number": "746",
   "content_hash": "a86671593cfd51d5e31af353c88638b6eb2b3ff2f39788d600e2983290d21895",
   "total_blocks": 203,
-  "retained_blocks": 16,
-  "ignored_blocks": 187,
+  "retained_blocks": 20,
+  "ignored_blocks": 183,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" BEGIN MASTHEAD END MASTHEAD BEGIN MAIN BODY"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\""
     },
     {
       "tag": "h1",
@@ -68,7 +68,23 @@
     },
     {
       "tag": "div",
-      "text": "Email article Print version powered by Google #BeginLibraryItem \"/Library/newsletter.lbi\" Format: html text More info #EndLibraryItem #BeginLibraryItem \"/Library/current_issues.lbi\" Table of Contents Subscribe Online Newsstand Locator #EndLibraryItem END MAIN BODY BEGIN FOOTER Site Map Web Policies Copyright 2006 Bulletin of the Atomic Scientists END FOOTER Start Superstats code version 7.0b.  Copyright 1997-2003 MyComputer.com, Inc. More info available at http://www.mycomputer.com End Superstats tracking code."
+      "text": "Email article Print version"
+    },
+    {
+      "tag": "div",
+      "text": "powered by Google Format: html text More info"
+    },
+    {
+      "tag": "div",
+      "text": "Table of Contents Subscribe Online Newsstand Locator"
+    },
+    {
+      "tag": "div",
+      "text": "Site Map Web Policies"
+    },
+    {
+      "tag": "div",
+      "text": "Copyright 2006 Bulletin of the Atomic Scientists"
     }
   ]
 }

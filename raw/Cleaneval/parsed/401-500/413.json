@@ -3,12 +3,12 @@
   "file_number": "413",
   "content_hash": "2bb65065a4d13fbc512cbaa93838473d6e3894dd0620eee8da05273e1e1d2e2e",
   "total_blocks": 230,
-  "retained_blocks": 50,
-  "ignored_blocks": 180,
+  "retained_blocks": 43,
+  "ignored_blocks": 187,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n         xmlns:trackback=\"http://madskills.com/public/xml/rss/module/trackback/\"\n         xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n<rdf:Description\n    rdf:about=\"http://www.everythingiknowiswrong.com/2004/04/the_torricelli_.html\"\n    trackback:ping=\"http://www.typepad.com/t/trackback/652652\"\n    dc:title=\"The Torricelli Defence\"\n    dc:identifier=\"http://www.everythingiknowiswrong.com/2004/04/the_torricelli_.html\"\n    dc:description=\"I&apos;ve had an eerie feeling for about two days that Democrats are about to come to their senses and realalize that they&apos;re stuck with a complete stiff. John Kerry&apos;s ineptness as a campaigner has been obvious to objective observers all...\"\n    dc:creator=\"Sean\"\n    dc:date=\"2004-04-20T20:48:57-05:00\" />\n</rdf:RDF> banner"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
     },
     {
       "tag": "h1",
@@ -16,15 +16,7 @@
     },
     {
       "tag": "h2",
-      "text": "Jumping into the pool with Demosthenes and Locke."
-    },
-    {
-      "tag": "div",
-      "text": "sidebar1"
-    },
-    {
-      "tag": "h2",
-      "text": "What They're Saying:"
+      "text": "Jumping into the pool with Demosthenes and Locke. What They're Saying:"
     },
     {
       "tag": "div",
@@ -95,16 +87,8 @@
       "text": "The 101st Fighting Keyboards Blogs for Bush"
     },
     {
-      "tag": "div",
-      "text": "content nav"
-    },
-    {
       "tag": "p",
       "text": "« John Kerry Stands By Statment He Didn't Make | Main | No Air for Air America »"
-    },
-    {
-      "tag": "div",
-      "text": "entry"
     },
     {
       "tag": "h2",
@@ -131,24 +115,8 @@
       "text": "Comments"
     },
     {
-      "tag": "div",
-      "text": "comment list"
-    },
-    {
       "tag": "p",
-      "text": "They will enter Jamie S. Gorelick in the \"punt\" portion of the NFL'S Punt, Pass, and Kick competition. Posted by: marc | April 21, 2004 at 03:50 AM Actually, Ithink you are wrong on this one.  Ithink they do not realize how bad it is.  Kerry should remain close in the polls until after the Republican convention.  It won't be apparent to the other side until the debates begin. Now, will they do a \"Torch Maneuver\" atthat point?  That is one for Las Vegas to work out the odds on. Posted by: King of Fools | April 21, 2004 at 10:00 AM King, You are probably right that I'm wrong. It's just that, as a former Democrat, Ican't help but hope that they, too, will wake up to the nonsense that has become their party. Posted by: Sean | April 21, 2004 at 10:41 AM"
-    },
-    {
-      "tag": "div",
-      "text": "comment form"
-    },
-    {
-      "tag": "p",
-      "text": "The comments to this entry are closed."
-    },
-    {
-      "tag": "div",
-      "text": "sidebar2"
+      "text": "They will enter Jamie S. Gorelick in the \"punt\" portion of the NFL'S Punt, Pass, and Kick competition. Posted by: marc | April 21, 2004 at 03:50 AM Actually, Ithink you are wrong on this one.  Ithink they do not realize how bad it is.  Kerry should remain close in the polls until after the Republican convention.  It won't be apparent to the other side until the debates begin. Now, will they do a \"Torch Maneuver\" atthat point?  That is one for Las Vegas to work out the odds on. Posted by: King of Fools | April 21, 2004 at 10:00 AM King, You are probably right that I'm wrong. It's just that, as a former Democrat, Ican't help but hope that they, too, will wake up to the nonsense that has become their party. Posted by: Sean | April 21, 2004 at 10:41 AM The comments to this entry are closed."
     },
     {
       "tag": "h2",
@@ -156,7 +124,11 @@
     },
     {
       "tag": "div",
-      "text": "Sun Mon Tue Wed Thu Fri Sat 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31"
+      "text": "Sun Mon Tue Wed Thu Fri Sat"
+    },
+    {
+      "tag": "div",
+      "text": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31"
     },
     {
       "tag": "h2",
@@ -172,7 +144,7 @@
     },
     {
       "tag": "div",
-      "text": "SiteSearch Google Everything I Know Is Wrong Web SiteSearch Google"
+      "text": "Everything I Know Is Wrong Web"
     },
     {
       "tag": "h2",
@@ -196,7 +168,7 @@
     },
     {
       "tag": "div",
-      "text": "a Start of StatCounter Code End of StatCounter Code webbot bot=\"HTMLMarkup\" startspan ALT=\"Site Meter\""
+      "text": "a"
     },
     {
       "tag": "h2",

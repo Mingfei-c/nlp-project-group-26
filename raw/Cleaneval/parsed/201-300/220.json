@@ -3,12 +3,16 @@
   "file_number": "220",
   "content_hash": "850f7ac92dd8329961707947def8a961fe4949ce3217adc0b0de8bcc9cf4be35",
   "total_blocks": 41,
-  "retained_blocks": 5,
-  "ignored_blocks": 36,
+  "retained_blocks": 6,
+  "ignored_blocks": 35,
   "blocks": [
     {
       "tag": "div",
-      "text": "Converted with Search & Destroy 1998-2003\nWritten by Frank A. Bravo for Embarcadero Publishing Company.\nfbravo@EmbarcaderoPublishing.com Search the Archive: August 11, 2004"
+      "text": "Search the Archive:"
+    },
+    {
+      "tag": "div",
+      "text": "August 11, 2004"
     },
     {
       "tag": "p",

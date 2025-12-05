@@ -16,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "received=\"Mon Apr  2 11:23:33 2001\" isoreceived=\"20010402112333\" sent=\"Mon, 2 Apr 2001 11:23:18 -0400 (EDT)\" isosent=\"20010402152318\" name=\"Drew McDermott\" email=\"drew.mcdermott&#x40;&#0121;&#0097;&#0108;&#0101;&#0046;&#0101;&#0100;&#0117;\" subject=\"Re: DAML+OIL (March 2001) released\" id=\"200104021523.LAA08828@pantheon-po02.its.yale.edu\" charset=\"US-ASCII\" inreplyto=\"006a01c0ba01$da14be20$b17ba8c0&#64;c1457248a.sttls1.wa.home.com\" expires=\"-1\" This message :\n[ Message body ]\n [ Respond ]\n [ More options ] Related messages : unext=\"start\" [ Next message ]\n[ Previous message ] unextthread=\"start\" [ Next in thread ]\n [ Replies ] ureply=\"end\" body=\"start\" From : Drew McDermott < drew.mcdermott@yale.edu > Date : Mon, 2 Apr 2001 11:23:18 -0400 (EDT) Message-Id : <200104021523.LAA08828@pantheon-po02.its.yale.edu> To : seth@robustai.net CC : jonas@rit.se , phayes@ai.uwf.edu , www-rdf-logic@w3.org"
+      "text": "This message :\n[ Message body ]\n [ Respond ]\n [ More options ] Related messages : [ Next message ]\n[ Previous message ] [ Next in thread ]\n [ Replies ] From : Drew McDermott < drew.mcdermott@yale.edu > Date : Mon, 2 Apr 2001 11:23:18 -0400 (EDT) Message-Id : <200104021523.LAA08828@pantheon-po02.its.yale.edu> To : seth@robustai.net CC : jonas@rit.se , phayes@ai.uwf.edu , www-rdf-logic@w3.org"
     },
     {
       "tag": "pre",
@@ -24,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "Received on Monday,  2 April 2001 11:23:33 GMT body=\"end\" This message : [ Message body ] lnext=\"start\" Next message : Deborah McGuinness: \"Re: semantics status of RDF(S)\" Previous message : David Allsopp: \"Re: Question: DAML cardinality restrictions\" lnextthread=\"start\" Next in thread : Seth Russell: \"Can we agree on triples ?\" Reply : Seth Russell: \"Can we agree on triples ?\" Maybe reply : pat hayes: \"Re: DAML+OIL (March 2001) released\" lreply=\"end\" Mail actions : [ respond to this message ] [ mail a new topic ] Contemporary messages sorted : [ by date ] [ by thread ] [ by subject ] [ by author ] Help : [ How to use the archives ] [ Search in the archives ] trailer=\"footer\""
+      "text": "Received on Monday,  2 April 2001 11:23:33 GMT This message : [ Message body ] Next message : Deborah McGuinness: \"Re: semantics status of RDF(S)\" Previous message : David Allsopp: \"Re: Question: DAML cardinality restrictions\" Next in thread : Seth Russell: \"Can we agree on triples ?\" Reply : Seth Russell: \"Can we agree on triples ?\" Maybe reply : pat hayes: \"Re: DAML+OIL (March 2001) released\" Mail actions : [ respond to this message ] [ mail a new topic ] Contemporary messages sorted : [ by date ] [ by thread ] [ by subject ] [ by author ] Help : [ How to use the archives ] [ Search in the archives ]"
     },
     {
       "tag": "p",

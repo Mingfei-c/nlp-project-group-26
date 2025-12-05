@@ -3,8 +3,8 @@
   "file_number": "392",
   "content_hash": "703267a7476c277aaadb422f82bc89d161a5d24fbfc1a55bf9302add9ec0587a",
   "total_blocks": 138,
-  "retained_blocks": 49,
-  "ignored_blocks": 89,
+  "retained_blocks": 48,
+  "ignored_blocks": 90,
   "blocks": [
     {
       "tag": "div",
@@ -32,7 +32,7 @@
     },
     {
       "tag": "div",
-      "text": "end leftblocks div begin content Home » Governance"
+      "text": "Home » Governance"
     },
     {
       "tag": "h1",
@@ -192,15 +192,11 @@
     },
     {
       "tag": "div",
-      "text": "read more first page previous page ... 4 5 6 7 8 9 10 11 12 ... next page last page end content end wrapper end main end inner end container European Digital Rights, 2005. Some Rights Reserved. Site by Floatleft ."
+      "text": "read more first page previous page ... 4 5 6 7 8 9 10 11 12 ... next page last page European Digital Rights, 2005. Some Rights Reserved. Site by Floatleft ."
     },
     {
       "tag": "p",
       "text": "Syndicate:"
-    },
-    {
-      "tag": "div",
-      "text": "end footerblocks end footer wrapper end pagewidth"
     }
   ]
 }

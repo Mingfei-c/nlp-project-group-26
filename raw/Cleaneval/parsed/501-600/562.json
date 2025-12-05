@@ -3,8 +3,8 @@
   "file_number": "562",
   "content_hash": "1e4c2a5c0d8a1438e36fc705f9a04125352c88dbd1bb8977fcd78b169ca6730f",
   "total_blocks": 245,
-  "retained_blocks": 97,
-  "ignored_blocks": 148,
+  "retained_blocks": 100,
+  "ignored_blocks": 145,
   "blocks": [
     {
       "tag": "h1",
@@ -12,7 +12,11 @@
     },
     {
       "tag": "div",
-      "text": "human resources for a technical world set te x t size · site map · contact us · a href=\"/search/\">search</a> &#183; help Log In Matchtech Home Industry Sectors About Us Overview of Matchtech Investor Services Graduates Candidate Services Quick Job Search Advanced Job Search Careers In Recruitment Candidates Register Now Employer Services Search for Candidates Submit a Vacancy Strategic Services"
+      "text": "human resources for a technical world set te x t size · site map · contact us · help"
+    },
+    {
+      "tag": "div",
+      "text": "Log In Matchtech Home Industry Sectors About Us Overview of Matchtech Investor Services Graduates Candidate Services Quick Job Search Advanced Job Search Careers In Recruitment Candidates Register Now Employer Services Search for Candidates Submit a Vacancy Strategic Services"
     },
     {
       "tag": "h3",
@@ -36,7 +40,7 @@
     },
     {
       "tag": "div",
-      "text": "engineering/power-nuclear Architecture Building Services Building Structures Construction Management Environmental Engineering & Science Geotechnical Engineering Highways & Transportation Railway Infrastructure Surveying Aerospace Automotive Controls & Automation Defence Electronics & Software Systems Facilities Maintenance Food & Drink General Design Engineering & FMCG Manufacturing Engineering Marine Offshore & Subsea Overseas Vacancies Petrochemical Pharmaceutical & Biotechnology Power & Nuclear Production & Skilled Trades Production Maintenance Quality Rail Vehicles Telecoms & Broadcast Water IT Home Banking, Finance & Insurance Development ERP & CRM Helpdesk IT Management & Executives IT Sales Support & Training Science Home Clinical Science Environmental Laboratories Food & Drink Petrochemical Pharmaceutical & Biotechnology Physics & Materials Power & Nuclear Water Graduates Human Resources & Personnel Logistics & Distribution Procurement & Supply Chain Public Sector Sales & Marketing"
+      "text": "Architecture Building Services Building Structures Construction Management Environmental Engineering & Science Geotechnical Engineering Highways & Transportation Railway Infrastructure Surveying Aerospace Automotive Controls & Automation Defence Electronics & Software Systems Facilities Maintenance Food & Drink General Design Engineering & FMCG Manufacturing Engineering Marine Offshore & Subsea Overseas Vacancies Petrochemical Pharmaceutical & Biotechnology Power & Nuclear Production & Skilled Trades Production Maintenance Quality Rail Vehicles Telecoms & Broadcast Water IT Home Banking, Finance & Insurance Development ERP & CRM Helpdesk IT Management & Executives IT Sales Support & Training Science Home Clinical Science Environmental Laboratories Food & Drink Petrochemical Pharmaceutical & Biotechnology Physics & Materials Power & Nuclear Water Graduates Human Resources & Personnel Logistics & Distribution Procurement & Supply Chain Public Sector Sales & Marketing"
     },
     {
       "tag": "h2",
@@ -56,7 +60,11 @@
     },
     {
       "tag": "div",
-      "text": "Keywords or Job Id — help Contract or permanent Either Contract Permanent Within Industry sector -- All Sectors -- Architecture Building Services Building Structures Construction Management Environmental Engineering & Science Geotechnical Engineering Highways & Transportation Railway Infrastructure Surveying Aerospace Automotive Controls & Automation Defence Electronics & Software Systems Facilities Maintenance Food & Drink General Design Engineering & FMCG Manufacturing Engineering Marine Offshore & Subsea Overseas Vacancies Petrochemical Pharmaceutical & Biotechnology Power & Nuclear Production & Skilled Trades Production Maintenance Quality Rail Vehicles Telecoms & Broadcast Water All IT Jobs Banking, Finance & Insurance Development ERP & CRM Helpdesk IT Management & Executives IT Sales Support & Training All Science Jobs Clinical Science Environmental Laboratories Food & Drink Petrochemical Pharmaceutical & Biotechnology Physics & Materials Power & Nuclear Water Graduates Human Resources & Personnel Logistics & Distribution Procurement & Supply Chain Public Sector Sales & Marketing Summary of all jobs in this sector"
+      "text": "Keywords or Job Id — help Contract or permanent Either Contract Permanent Within Industry sector -- All Sectors -- Architecture Building Services Building Structures Construction Management Environmental Engineering & Science Geotechnical Engineering Highways & Transportation Railway Infrastructure Surveying Aerospace Automotive Controls & Automation Defence Electronics & Software Systems Facilities Maintenance Food & Drink General Design Engineering & FMCG Manufacturing Engineering Marine Offshore & Subsea Overseas Vacancies Petrochemical Pharmaceutical & Biotechnology Power & Nuclear Production & Skilled Trades Production Maintenance Quality Rail Vehicles Telecoms & Broadcast Water All IT Jobs Banking, Finance & Insurance Development ERP & CRM Helpdesk IT Management & Executives IT Sales Support & Training All Science Jobs Clinical Science Environmental Laboratories Food & Drink Petrochemical Pharmaceutical & Biotechnology Physics & Materials Power & Nuclear Water Graduates Human Resources & Personnel Logistics & Distribution Procurement & Supply Chain Public Sector Sales & Marketing"
+    },
+    {
+      "tag": "div",
+      "text": "Summary of all jobs in this sector"
     },
     {
       "tag": "h2",
@@ -392,7 +400,11 @@
     },
     {
       "tag": "p",
-      "text": "The 20 most recent jobs in this sector are listed above. Please refine your search or click \"Show more\" to see the rest. Show more You can also view all vacancies in this sector. Designed and Developed by Matchtech Group plc © 2002-2006 Matchtech Group plc. Company Registration No.4426336. All rights reserved · Terms of Access · Disclaimer · Privacy Statement"
+      "text": "The 20 most recent jobs in this sector are listed above. Please refine your search or click \"Show more\" to see the rest. Show more You can also view all vacancies in this sector."
+    },
+    {
+      "tag": "p",
+      "text": "Designed and Developed by Matchtech Group plc © 2002-2006 Matchtech Group plc. Company Registration No.4426336. All rights reserved · Terms of Access · Disclaimer · Privacy Statement"
     }
   ]
 }

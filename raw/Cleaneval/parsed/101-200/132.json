@@ -3,12 +3,20 @@
   "file_number": "132",
   "content_hash": "2508b89fd2f7e788392d02694075ce19042b5452c312d2d717b0e850f7530002",
   "total_blocks": 115,
-  "retained_blocks": 4,
-  "ignored_blocks": 111,
+  "retained_blocks": 6,
+  "ignored_blocks": 109,
   "blocks": [
     {
       "tag": "div",
-      "text": "Library E. Phillips Oppenheim The Kingdom of the Blind Online Dictionary | Spelling Center Chapter XXXII prev next"
+      "text": "Library E. Phillips Oppenheim The Kingdom of the Blind Online Dictionary | Spelling Center"
+    },
+    {
+      "tag": "div",
+      "text": "Chapter XXXII"
+    },
+    {
+      "tag": "div",
+      "text": "prev next"
     },
     {
       "tag": "p",

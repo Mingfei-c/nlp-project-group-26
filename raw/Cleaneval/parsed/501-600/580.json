@@ -3,12 +3,12 @@
   "file_number": "580",
   "content_hash": "59184e80891fc72835ae2a3f69094ed3ddd72dfdecd31eb927586cc714f9e239",
   "total_blocks": 94,
-  "retained_blocks": 3,
-  "ignored_blocks": 91,
+  "retained_blocks": 5,
+  "ignored_blocks": 89,
   "blocks": [
     {
       "tag": "div",
-      "text": "@ end @ end Overview Fundraisers Trade \r\n   Shows Company \r\n   Events Back to Main Services Page"
+      "text": "Overview Fundraisers Trade \r\n   Shows Company \r\n   Events Back to Main Services Page"
     },
     {
       "tag": "p",
@@ -16,7 +16,15 @@
     },
     {
       "tag": "div",
-      "text": "Modern Creative has built a reputation for developing and managing a host of successful fundraising events from charity golf tournaments to road races to benefit dinners and beyond. We know the ins and outs of pulling off a great event for a great cause and we're ready to get you started on the road toward a substantial boost to your fundraising bottom line. home services solutions about us news portfolio client login contact client \r\n          login 40 Warren Street, 3rd Floor, Charlestown, MA 02129 E-MAIL site map | privacy policy | ® 2006 Modern Creative, Inc."
+      "text": "Modern Creative has built a reputation for developing and managing a host of successful fundraising events from charity golf tournaments to road races to benefit dinners and beyond. We know the ins and outs of pulling off a great event for a great cause and we're ready to get you started on the road toward a substantial boost to your fundraising bottom line. home services solutions about us news portfolio client login contact"
+    },
+    {
+      "tag": "div",
+      "text": "client \r\n          login"
+    },
+    {
+      "tag": "div",
+      "text": "40 Warren Street, 3rd Floor, Charlestown, MA 02129 E-MAIL site map | privacy policy | ® 2006 Modern Creative, Inc."
     }
   ]
 }

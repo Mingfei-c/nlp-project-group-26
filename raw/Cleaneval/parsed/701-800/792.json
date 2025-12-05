@@ -3,12 +3,16 @@
   "file_number": "792",
   "content_hash": "874478b584c62f20239593c3c5af58928355fb16f2458db8feee7d4a3dc3deec",
   "total_blocks": 38,
-  "retained_blocks": 9,
-  "ignored_blocks": 29,
+  "retained_blocks": 11,
+  "ignored_blocks": 27,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" Guide to York York websites and more information about York."
+      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Guide to York York websites and more information about York."
     },
     {
       "tag": "p",
@@ -40,7 +44,11 @@
     },
     {
       "tag": "div",
-      "text": "Your site not listed? - simply complete the form below.. Site Name URL Your Name Your e-mail Site Description Last modified: Thursday, March 30, 2006"
+      "text": "Your site not listed? - simply complete the form below.. Site Name URL Your Name Your e-mail Site Description"
+    },
+    {
+      "tag": "div",
+      "text": "Last modified: Thursday, March 30, 2006"
     }
   ]
 }

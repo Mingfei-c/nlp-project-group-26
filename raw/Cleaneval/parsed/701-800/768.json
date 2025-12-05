@@ -3,8 +3,8 @@
   "file_number": "768",
   "content_hash": "5a153484e21f15317ac2ad92c5ff5569895303de948424e384c1b5dc3bf37922",
   "total_blocks": 103,
-  "retained_blocks": 8,
-  "ignored_blocks": 95,
+  "retained_blocks": 12,
+  "ignored_blocks": 91,
   "blocks": [
     {
       "tag": "div",
@@ -12,11 +12,19 @@
     },
     {
       "tag": "p",
-      "text": "Delaware SBDC gives small businesses a leg up Scrounge continues tradition as favorite student/staff hangout UD Online Resource Center The welcome mat is out and well-used at UD’s Visitors Center Carpenter Sports Building inspires teamwork Financial aid staffers help college dreams come true University Museums complement educational goals Paint Shop keeps campus fit and trim Animals and staff thrive on UD’s farm Telephone Services team keeps lines of communication open IT-NSS keeps UD communications humming CFIS putting the world at UD’s feet Admissions staff evaluates 21,000 applications to select Class of 2009 ADA office meets varied needs of those with disabilities People helping people at heart of UD’s Wellspring Housing Assignment Services staff creates homes away from home for UD students Faculty and Staff Assistance Program Recruitment and Employment and Training and Career Development Benefits, Classification & Compensation partners in support of UD employees Payroll and Systems Administration Lock Shop works to keep UD safe and secure Every day is like opening day at Vita Nova Academic Enrichment Center offers something for every student Archivists are guardians of UD history and treasures Excellence is the standard at Blue & Gold Club Camaraderie carries staff through football-season-ticket blitz Custodial Services: Responsible for the cleanliness, protection and preservation of UD Nonstop fun, games and hard work at UD's ice arenas UD bus drivers see campus from unique vantage point Teamwork’s critical at Graphic Communications Center The many facets of the University Bookstore UD has grounds for celebration Neither bees nor trombones, keep Campus Mail Services staff from their appointed rounds Parking Services requires patience and good cheer For events big and small, Conference Services handles it all Running student centers is nonstop adventure Running The Bob requires complex game plan Commencement planning is full-time job at UD UD's catering service is efficient, well-oiled machine UDaily is produced by the Office of Public Relations The Academy Building 105 East Main St. Newark, DE 19716-2701 (302) 831-2791 Housing Assignment Services staff creates homes away from home for UD students"
+      "text": "Delaware SBDC gives small businesses a leg up Scrounge continues tradition as favorite student/staff hangout UD Online Resource Center The welcome mat is out and well-used at UD’s Visitors Center Carpenter Sports Building inspires teamwork Financial aid staffers help college dreams come true University Museums complement educational goals Paint Shop keeps campus fit and trim Animals and staff thrive on UD’s farm Telephone Services team keeps lines of communication open IT-NSS keeps UD communications humming CFIS putting the world at UD’s feet Admissions staff evaluates 21,000 applications to select Class of 2009 ADA office meets varied needs of those with disabilities People helping people at heart of UD’s Wellspring Housing Assignment Services staff creates homes away from home for UD students Faculty and Staff Assistance Program Recruitment and Employment and Training and Career Development Benefits, Classification & Compensation partners in support of UD employees Payroll and Systems Administration Lock Shop works to keep UD safe and secure Every day is like opening day at Vita Nova Academic Enrichment Center offers something for every student Archivists are guardians of UD history and treasures Excellence is the standard at Blue & Gold Club Camaraderie carries staff through football-season-ticket blitz Custodial Services: Responsible for the cleanliness, protection and preservation of UD Nonstop fun, games and hard work at UD's ice arenas UD bus drivers see campus from unique vantage point Teamwork’s critical at Graphic Communications Center The many facets of the University Bookstore UD has grounds for celebration Neither bees nor trombones, keep Campus Mail Services staff from their appointed rounds Parking Services requires patience and good cheer For events big and small, Conference Services handles it all Running student centers is nonstop adventure Running The Bob requires complex game plan Commencement planning is full-time job at UD UD's catering service is efficient, well-oiled machine"
+    },
+    {
+      "tag": "p",
+      "text": "UDaily is produced by the Office of Public Relations The Academy Building 105 East Main St. Newark, DE 19716-2701 (302) 831-2791 Housing Assignment Services staff creates homes away from home for UD students"
     },
     {
       "tag": "div",
-      "text": "Ever wonder what keeps UD running smoothly? Up Close & Personnel, a weekly feature, profiles the employees who keep UD ticking around the clock throughout the year. This week, the focus is on Housing Assignment Services. Linda Carey, Ruthie Riale and Jessica Matson 3:55 p.m., Feb. 1, 2005--With a staff of seven and more than 7,200 students living on campus, Housing Assignment Services has a challenging job. All freshmen must live on campus unless they live with their parents or guardians, and all undergraduates who apply and meet application deadlines must be accommodated each year, according to director Linda Carey."
+      "text": "Ever wonder what keeps UD running smoothly? Up Close & Personnel, a weekly feature, profiles the employees who keep UD ticking around the clock throughout the year. This week, the focus is on Housing Assignment Services. Linda Carey, Ruthie Riale and Jessica Matson"
+    },
+    {
+      "tag": "div",
+      "text": "3:55 p.m., Feb. 1, 2005--With a staff of seven and more than 7,200 students living on campus, Housing Assignment Services has a challenging job. All freshmen must live on campus unless they live with their parents or guardians, and all undergraduates who apply and meet application deadlines must be accommodated each year, according to director Linda Carey."
     },
     {
       "tag": "p",
@@ -24,7 +32,11 @@
     },
     {
       "tag": "div",
-      "text": "Martha Bailey, Jolene Moores and Kirsten Brown Jessica Matson, who has been at UD for nine months, is the meeter and greeter at the office—the first person a student or parent sees upon entering the office. She said she enjoys her job even when it gets busy."
+      "text": "Martha Bailey, Jolene Moores and Kirsten Brown"
+    },
+    {
+      "tag": "div",
+      "text": "Jessica Matson, who has been at UD for nine months, is the meeter and greeter at the office—the first person a student or parent sees upon entering the office. She said she enjoys her job even when it gets busy."
     },
     {
       "tag": "p",
@@ -32,7 +44,11 @@
     },
     {
       "tag": "div",
-      "text": "Janette Humphrey Janette Humphrey is responsible for marketing and publications with housing information. From special housing events to brochures to e-mails and letters to parents, Humphrey uses all resources to get the word out about housing options."
+      "text": "Janette Humphrey"
+    },
+    {
+      "tag": "div",
+      "text": "Janette Humphrey is responsible for marketing and publications with housing information. From special housing events to brochures to e-mails and letters to parents, Humphrey uses all resources to get the word out about housing options."
     },
     {
       "tag": "p",

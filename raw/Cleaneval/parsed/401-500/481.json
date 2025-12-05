@@ -3,28 +3,32 @@
   "file_number": "481",
   "content_hash": "67ffb1ff8e98551cbd45efeff79a06a6548703a88ffbd32ad1b9690c1eebc559",
   "total_blocks": 178,
-  "retained_blocks": 7,
-  "ignored_blocks": 171,
+  "retained_blocks": 8,
+  "ignored_blocks": 170,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "AREA: 201x403x186-PAGE LNBSpaceHolder: /hgtv/images Metacategory: Chats / Message Boards HGTV Header"
-    },
     {
       "tag": "p",
       "text": "Can't see the HGTV menu? Download Adobe® Flash Player now for free to view this content. Categories: Home Page | On TV | Decorating | Gardening | Kitchens | Baths | At Home | Remodeling | Real Estate | Dream Home Sections: Designers' Portfolio | Crafts | Best of HGTV.com | Videos | Be on HGTV | Products | Newsletters | Message Boards | Sweepstakes | HGTVPro"
     },
     {
       "tag": "div",
-      "text": "Search on HGTV.com SWF Object BEGIN SERIES OF NESTED TABLES THAT HOLD HORIZONTAL DROP SHADOW UNDER NAV ---ARTICLE_DETAIL_COMPLEX_TEXT_ONLY-299343 BEGIN NS 4.x DUPE TABLE FOR BG IMAGE END NS 4.x DUPE TABLE FOR BG IMAGE END SERIES OF NESTED TABLES THAT HOLD HORIZONTAL DROP SHADOW UNDER NAV BEGIN MAIN BODY CODE BEGIN TABLE THAT HOLDS BODY BG IMAGE BEGIN TABLE THAT HAS BLANK BACKGROUND - NS 4.x DUPE ------------------------------------------------------------------------------- BEGIN CELL FOR LEFT SIDE CONTENT Vignette V6 Thu Jan 05 14:00:19 2006 Begin getVerticalCompnStackHTML start getRowHTMLFromText BE ON HGTV end   getRowHTMLFromText Before \r\n& After Designers' \r\nChallenge Designing \r\nfor the Sexes Ground Rules If Walls Could \r\nTalk MaxSize (2) End getVerticalCompnStackHTML"
-    },
-    {
-      "tag": "p",
-      "text": "Begin getVerticalCompnStackHTML start getRowHTMLFromText STAY CONNECTED end   getRowHTMLFromText Message Boards: Read and share tips on our message boards Meet Your Favorite HGTV Host: Find listings for appearances made by your favorite HGTV hosts . HGTV On Demand: Watch exactly what you want, when you want to watch it. Learn more <a href=\"#\" onclick=\"window.open('http://www.scrippsnetworksondemand.com/home.html','popUp','width=600,height=460,scrollbars=no,status=no,toolbar=no,menubar=no,location=no,resizable=no');\">Learn more</a> MaxSize (4) End getVerticalCompnStackHTML MaxSize (4)"
+      "text": "Search on HGTV.com"
     },
     {
       "tag": "div",
-      "text": "END OF CELL FOR LEFT SIDE CONTENT BEGIN CELL FOR CONTENT AREA Vignette V6 Fri Oct 01 01:30:40 2004 Susan Khalje 6/11/2002"
+      "text": "BE ON HGTV"
+    },
+    {
+      "tag": "div",
+      "text": "Before \r\n& After Designers' \r\nChallenge Designing \r\nfor the Sexes Ground Rules If Walls Could \r\nTalk"
+    },
+    {
+      "tag": "p",
+      "text": "STAY CONNECTED Message Boards: Read and share tips on our message boards Meet Your Favorite HGTV Host: Find listings for appearances made by your favorite HGTV hosts . HGTV On Demand: Watch exactly what you want, when you want to watch it. Learn more"
+    },
+    {
+      "tag": "div",
+      "text": "Susan Khalje 6/11/2002"
     },
     {
       "tag": "p",
@@ -32,7 +36,7 @@
     },
     {
       "tag": "div",
-      "text": "END OF CELL FOR CONTENT GutterWidth: 186 BEGIN CELL THAT HOLDS RIGHT GUTTER INFO Vignette V6 Tue Oct 18 10:45:30 2005 CHATS MaxSize (1) END CELL THAT HOLDS RIGHT GUTTER INFO END TABLE THAT HAS BLANK BACKGROUND - NS 4.x DUPE END TABLE THAT HOLDS BODY BG IMAGE END MAIN BODY CODE ----------------------BEGIN SITE FOOTER LIBRARY ----------------------- --------------------BEGIN FOOTER FF TEXT ELEMENT---------------- HGTV.com Search on HGTV.com Site Sections: Home\r\n\t\t    Page | On\r\n\t\t    TV | Decorating | Gardening | Kitchens | Baths | At\r\n\t\t    Home | Real Estate | Remodeling | Dream Home Services: Videos | Products | About\r\n\t\t\t    Us | Newsletters | Be\r\n\t\t\t    On HGTV | Questions | Advertising | Site\r\n\t\t\t    Map Sister Sites: DIY | Fine\r\n\t\t\t  Living | Food Network | Great\r\n\t\t\t  American Country | HGTVPro Comparison Shop for Home\r\n\t\t    Gifts & Patio\r\n\t\t    Furniture at Shopzilla & BizRate © 2006 Scripps Networks,\r\n\t\t    Inc . All rights reserved. Privacy | Legal MaxSize (1) ----------------------END SITE FOOTER LIBRARY ----------------------- Search Ignite Page Views_tracking_script version 3.1.2 Search Ignite END conversion tracking script  version 3.1.2"
+      "text": "HGTV.com Search on HGTV.com Site Sections: Home\r\n\t\t    Page | On\r\n\t\t    TV | Decorating | Gardening | Kitchens | Baths | At\r\n\t\t    Home | Real Estate | Remodeling | Dream Home Services: Videos | Products | About\r\n\t\t\t    Us | Newsletters | Be\r\n\t\t\t    On HGTV | Questions | Advertising | Site\r\n\t\t\t    Map Sister Sites: DIY | Fine\r\n\t\t\t  Living | Food Network | Great\r\n\t\t\t  American Country | HGTVPro Comparison Shop for Home\r\n\t\t    Gifts & Patio\r\n\t\t    Furniture at Shopzilla & BizRate © 2006 Scripps Networks,\r\n\t\t    Inc . All rights reserved. Privacy | Legal"
     }
   ]
 }

@@ -3,12 +3,32 @@
   "file_number": "265",
   "content_hash": "823fc6b9b60f27e384a982ecb5522b46e6881edf1dd40d690c52c1cd98a62b59",
   "total_blocks": 370,
-  "retained_blocks": 13,
-  "ignored_blocks": 357,
+  "retained_blocks": 22,
+  "ignored_blocks": 348,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" #BeginTemplate \"/Templates/GP_reader_food_review.dwt\" #BeginEditable \"description\" #EndEditable #BeginEditable \"keywords\" #EndEditable #BeginEditable \"postcode\" #EndEditable #BeginEditable \"created\" #EndEditable #BeginEditable \"doctitle\" #EndEditable page layout templates v2.66 GLOBAL NAVIGATION toolbar 1.44 header.page  333399 Home TV Radio Talk Where I Live A-Z Index end toolbar 1.42 27 December 2006 Accessibility help Text only BBC Homepage England » North Yorkshire News Sport Junior Football Travel Weather Entertainment Message \r\nBoard In Pictures Webcams I Love NY Faith Students RaW Blast CSV Interaction BBC Radio York Site Map Contact Us Like this page? Send it to a friend! End of GLOBAL NAVIGATION #BeginEditable \"top\" Plunkets Restaurant, York #EndEditable #BeginEditable \"image and lead text\" Reading \r\n                  this? Why don't you write us a review? Plunkets \r\n                    Restaurant Steve Chris Joe Helen Claire #EndEditable #BeginEditable \"story data\" #EndEditable #BeginEditable \"body of story\" Restaurant Plunketts Snouts Reviewer Steve Date 10-May-2006 Where \r\n                  is it? York What's \r\n                  the number? 01904 \r\n                  637722 What's \r\n                  the grub like, then?"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Home TV Radio Talk Where I Live A-Z Index"
+    },
+    {
+      "tag": "div",
+      "text": "27 December 2006 Accessibility help Text only"
+    },
+    {
+      "tag": "div",
+      "text": "BBC Homepage England » North Yorkshire News Sport Junior Football Travel Weather Entertainment Message \r\nBoard In Pictures Webcams I Love NY Faith Students RaW Blast CSV Interaction BBC Radio York Site Map Contact Us Like this page? Send it to a friend!"
+    },
+    {
+      "tag": "div",
+      "text": "Plunkets Restaurant, York"
+    },
+    {
+      "tag": "div",
+      "text": "Reading \r\n                  this? Why don't you write us a review? Plunkets \r\n                    Restaurant Steve Chris Joe Helen Claire Restaurant Plunketts Snouts Reviewer Steve Date 10-May-2006 Where \r\n                  is it? York What's \r\n                  the number? 01904 \r\n                  637722 What's \r\n                  the grub like, then?"
     },
     {
       "tag": "p",
@@ -48,7 +68,7 @@
     },
     {
       "tag": "div",
-      "text": "What \r\n                  did you drink? House \r\n                  white, very nice. What's \r\n                  the crowd like? We \r\n                  booked for mid afternoon so quiet. Afew couples, work parties. And \r\n                  the vibe? Trendy, \r\n                  Icould go with a partner or friends. Ithink it has the right \r\n                  setting to make the atmosphere what you want. Lots of pictures \r\n                  of famous stars everywhere, great. Anything \r\n                  else you'd like to say? Will \r\n                  definately be going again. Staff were friendly and the food \r\n                  exceptional. Value \r\n                  for money? For \r\n                  7; 3 courses and drinks it came to 180 which was good value \r\n                  for money. Each course was a generous portion only just had \r\n                  enough room for desert. Been \r\n                  inspired? Write a Greedy \r\n                  Pig grub review yourself! #EndEditable Top | Greedy \r\n                  Pig Index | Home"
+      "text": "What \r\n                  did you drink? House \r\n                  white, very nice. What's \r\n                  the crowd like? We \r\n                  booked for mid afternoon so quiet. Afew couples, work parties. And \r\n                  the vibe? Trendy, \r\n                  Icould go with a partner or friends. Ithink it has the right \r\n                  setting to make the atmosphere what you want. Lots of pictures \r\n                  of famous stars everywhere, great. Anything \r\n                  else you'd like to say? Will \r\n                  definately be going again. Staff were friendly and the food \r\n                  exceptional. Value \r\n                  for money? For \r\n                  7; 3 courses and drinks it came to 180 which was good value \r\n                  for money. Each course was a generous portion only just had \r\n                  enough room for desert. Been \r\n                  inspired? Write a Greedy \r\n                  Pig grub review yourself! Top | Greedy \r\n                  Pig Index | Home"
     },
     {
       "tag": "p",
@@ -56,7 +76,23 @@
     },
     {
       "tag": "div",
-      "text": "Greedy Pig All food reviews All pub reviews Write a review Walks York Pen-y-ghent Three Peaks I Love NY Lifestyle History Outdoors Romans Constantine the Great Keeping clean the Roman way What is Eboracum? begin footer if no nav or stretchy but not both About the BBC | Help | Terms of Use | Privacy & Cookies Policy end footer #EndTemplate"
+      "text": "Greedy Pig All food reviews All pub reviews Write a review"
+    },
+    {
+      "tag": "div",
+      "text": "Walks York Pen-y-ghent Three Peaks"
+    },
+    {
+      "tag": "div",
+      "text": "I Love NY Lifestyle History Outdoors"
+    },
+    {
+      "tag": "div",
+      "text": "Romans Constantine the Great Keeping clean the Roman way What is Eboracum?"
+    },
+    {
+      "tag": "div",
+      "text": "About the BBC | Help | Terms of Use | Privacy & Cookies Policy"
     }
   ]
 }

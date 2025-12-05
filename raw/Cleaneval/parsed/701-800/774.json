@@ -3,8 +3,8 @@
   "file_number": "774",
   "content_hash": "a00697643d78865e5f369d2aa008609d19a8d78d91d25f99aa33d70c612ee10d",
   "total_blocks": 83,
-  "retained_blocks": 26,
-  "ignored_blocks": 57,
+  "retained_blocks": 28,
+  "ignored_blocks": 55,
   "blocks": [
     {
       "tag": "div",
@@ -16,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "Navigation bar Home Solutions Products Technologies Contact Content goes here"
+      "text": "Home Solutions Products Technologies Contact"
     },
     {
       "tag": "h2",
@@ -108,7 +108,15 @@
     },
     {
       "tag": "p",
-      "text": "Optional features are designed to enable the efficient integration of the print server \r\nwith certain vendor-specific platforms and technologies. Currently these features \r\ninclude: Advanced support for Xerox VIPP technology Client software for Open VMS Client software for Microsoft Windows The print server provides an extensive support for Xerox VIPP technology that may be \r\nused for traditional host printing and legacy document formats. The print server \r\nperforms all VIPP formatting and resource management, based on the document \r\nrequirements and printer capabilities. For VIPP documents, the print server can perform effectively the resource \r\nmanagement. All available resources (e.g., fonts, forms and images) may be stored in \r\nthe print server database in the centralized way. The server performs the analysis of \r\nthe document and extracts resource requirements. Depending on these requirements \r\nand the printer capabilities, resources needed to render each particular job are included \r\ninto the output stream and transmitted to the target printer. The enhanced support is available for print clients running under Open VMS. \r\nOpen VMS native document formats and job submission methods are supported, \r\nproviding seamless integration into the standard operating system environment. The enhanced client software is available for Microsoft Windows. This software acts \r\nas an integral part of the standard Windows spooling system. Once installed, the \r\nWindows client software automatically becomes available for all applications running \r\non a client system. The Windows client software allows a user submitting a print job \r\nto specify values of required job attributes in the device-independent form, instead of \r\nsetting the various printer-specific features requested by each printer driver. These \r\nattribute values are transmitted to the print server, which is completely responsible for \r\ntheir interpretation depending on the type of the target printer. The client software for \r\nWindows can dramatically reduce number of various printer drivers installed on each \r\nclient system, thus reducing the maintenance cost of the distributed printing \r\nenvironment. Navigation bar Home Solutions Products Technologies Contact Legal Copyright © 2000-2003, Unicorn Enterprises SA. All rights reserved. Legal Notice."
+      "text": "Optional features are designed to enable the efficient integration of the print server \r\nwith certain vendor-specific platforms and technologies. Currently these features \r\ninclude: Advanced support for Xerox VIPP technology Client software for Open VMS Client software for Microsoft Windows The print server provides an extensive support for Xerox VIPP technology that may be \r\nused for traditional host printing and legacy document formats. The print server \r\nperforms all VIPP formatting and resource management, based on the document \r\nrequirements and printer capabilities. For VIPP documents, the print server can perform effectively the resource \r\nmanagement. All available resources (e.g., fonts, forms and images) may be stored in \r\nthe print server database in the centralized way. The server performs the analysis of \r\nthe document and extracts resource requirements. Depending on these requirements \r\nand the printer capabilities, resources needed to render each particular job are included \r\ninto the output stream and transmitted to the target printer. The enhanced support is available for print clients running under Open VMS. \r\nOpen VMS native document formats and job submission methods are supported, \r\nproviding seamless integration into the standard operating system environment. The enhanced client software is available for Microsoft Windows. This software acts \r\nas an integral part of the standard Windows spooling system. Once installed, the \r\nWindows client software automatically becomes available for all applications running \r\non a client system. The Windows client software allows a user submitting a print job \r\nto specify values of required job attributes in the device-independent form, instead of \r\nsetting the various printer-specific features requested by each printer driver. These \r\nattribute values are transmitted to the print server, which is completely responsible for \r\ntheir interpretation depending on the type of the target printer. The client software for \r\nWindows can dramatically reduce number of various printer drivers installed on each \r\nclient system, thus reducing the maintenance cost of the distributed printing \r\nenvironment."
+    },
+    {
+      "tag": "p",
+      "text": "Home Solutions Products Technologies Contact"
+    },
+    {
+      "tag": "p",
+      "text": "Copyright © 2000-2003, Unicorn Enterprises SA. All rights reserved. Legal Notice."
     }
   ]
 }

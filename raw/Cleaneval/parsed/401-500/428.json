@@ -3,12 +3,16 @@
   "file_number": "428",
   "content_hash": "1204bca10144df5077bcd3132c6fe86a638a17041caede8a88ca5f066989b5a2",
   "total_blocks": 48,
-  "retained_blocks": 2,
-  "ignored_blocks": 46,
+  "retained_blocks": 3,
+  "ignored_blocks": 45,
   "blocks": [
     {
       "tag": "div",
-      "text": "Home | News Room Find out more about this mystery corn ."
+      "text": "Home | News Room"
+    },
+    {
+      "tag": "div",
+      "text": "Find out more about this mystery corn ."
     },
     {
       "tag": "p",

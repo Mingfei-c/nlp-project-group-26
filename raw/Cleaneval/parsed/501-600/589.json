@@ -3,12 +3,32 @@
   "file_number": "589",
   "content_hash": "42b0bf4c4a04b93a07abc6d72bf45465ae9cf9cd882eeced7a08d127a6b205fd",
   "total_blocks": 508,
-  "retained_blocks": 9,
-  "ignored_blocks": 499,
+  "retained_blocks": 28,
+  "ignored_blocks": 480,
   "blocks": [
     {
       "tag": "div",
-      "text": "Skip navigation SiteCatalyst code version: G.9. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com Web MSNBC Newsweek Subscribe Now Table of Contents Periscope My Turn National News Politics World News International Ed. War in Iraq Business Enterprise Tech & Science Health Society Education Entertainment Tip Sheet The Boomer Files Columnists Letters & Live Talks Multimedia/Photos Search Archives Video U.S. News Politics World News Business Sports Entertainment Tech / Science Health Weather Travel Blogs Etc. Local News Newsweek Multimedia Most Popular NBC NEWS MSNBC TV Today Show Nightly News Meet the Press Dateline NBC Newsweek Home Health Health For Life Medicine's Next Level With new insight into the mechanisms that help keep your brain sharp, neurological researchers move closer to improving your recall with a 'memory pill' Phillip Toledano for Newsweek Beautiful snail: The aplysia californicus is a smart slug that may unlock the secrets of memory By By Mary Carmichael Newsweek"
+      "text": "Skip navigation"
+    },
+    {
+      "tag": "div",
+      "text": "Web MSNBC"
+    },
+    {
+      "tag": "div",
+      "text": "Newsweek Subscribe Now Table of Contents Periscope My Turn National News Politics World News International Ed. War in Iraq Business Enterprise Tech & Science Health Society Education Entertainment Tip Sheet The Boomer Files Columnists Letters & Live Talks Multimedia/Photos Search Archives Video U.S. News Politics World News Business Sports Entertainment Tech / Science Health Weather Travel Blogs Etc. Local News Newsweek Multimedia Most Popular NBC NEWS MSNBC TV Today Show Nightly News Meet the Press Dateline NBC"
+    },
+    {
+      "tag": "div",
+      "text": "Newsweek Home Health Health For Life"
+    },
+    {
+      "tag": "div",
+      "text": "Medicine's Next Level With new insight into the mechanisms that help keep your brain sharp, neurological researchers move closer to improving your recall with a 'memory pill' Phillip Toledano for Newsweek Beautiful snail: The aplysia californicus is a smart slug that may unlock the secrets of memory"
+    },
+    {
+      "tag": "div",
+      "text": "By By Mary Carmichael Newsweek"
     },
     {
       "tag": "p",
@@ -16,7 +36,47 @@
     },
     {
       "tag": "div",
-      "text": "© 2006 Newsweek, Inc.  | Subscribe to Newsweek Print this Email this MORE FROM NEWSWEEK HEALTH FOR LIFE Why Women Can't Sleep . Why Women Can't Sleep . To Sleep? That's a Dream. . The War on HPV: A 'Cancer Shot'? . Hormones: Is Estrogen for You? . Menopause: Anatomy of a Hot Flash . Leading the Hunt For Cancer Genes . Breast and Ovarian Cancer: New Hopes . Cardiac Health: Take an Aspirin and ... . New Secrets for Youthful Skin . Pregnancy: Not Always 'the Happiest Time' Saddam death sentence upheld Envoy calls for Somalia cease-fire Asia remembers 2004 tsunami Powerful quake hits Taiwan Red Cross: Nigeria fuel blast kills 260 TOP STORIES Gellman: Christians Must Reassert Holocaust Truth Allan Sloan Reviews His 2006 Business Coverage Her Body: How to Make It a Healthy 2007 Satire: Bush's New Year's Resolutions Tech: Welcome, Year of the Widget TALK TRANSCRIPT| What's Next in Health? Geoffrey Cowley joined us for a Live Talk on Thursday, Dec. 2, at noon ET to discuss memory-enhancing drugs, drug policies, bone health and more. Click here to read the transcript. Health For Life: Dec. 6, 2004 issue Medicine's Next Level Welcome to the Stem-Cell States View From the Lab: Harnessing Stem Cells Using Genes as Medicine What You Need to Know About Medical Time Bombs Risk Factors: In Search of Bone Health Web MD: When Less is More Trapping the Superbugs Bird-Flu Challenge Battling the Effects of War To Heal a Shattered Soul Drug Wars Ahead Opinion: A Prescription for Controlling Drug Costs Creating More Paths to Hope The New Face of AIDS Talk Transcript: What's Next in Health?"
+      "text": "© 2006 Newsweek, Inc.  | Subscribe to Newsweek"
+    },
+    {
+      "tag": "div",
+      "text": "Print this Email this MORE FROM NEWSWEEK HEALTH FOR LIFE"
+    },
+    {
+      "tag": "div",
+      "text": "Why Women Can't Sleep"
+    },
+    {
+      "tag": "div",
+      "text": ". Why Women Can't Sleep . To Sleep? That's a Dream. . The War on HPV: A 'Cancer Shot'? . Hormones: Is Estrogen for You? . Menopause: Anatomy of a Hot Flash . Leading the Hunt For Cancer Genes . Breast and Ovarian Cancer: New Hopes . Cardiac Health: Take an Aspirin and ... . New Secrets for Youthful Skin . Pregnancy: Not Always 'the Happiest Time'"
+    },
+    {
+      "tag": "div",
+      "text": "Saddam death sentence upheld Envoy calls for Somalia cease-fire Asia remembers 2004 tsunami Powerful quake hits Taiwan Red Cross: Nigeria fuel blast kills 260"
+    },
+    {
+      "tag": "div",
+      "text": "TOP STORIES"
+    },
+    {
+      "tag": "div",
+      "text": "Gellman: Christians Must Reassert Holocaust Truth Allan Sloan Reviews His 2006 Business Coverage Her Body: How to Make It a Healthy 2007 Satire: Bush's New Year's Resolutions Tech: Welcome, Year of the Widget"
+    },
+    {
+      "tag": "div",
+      "text": "TALK TRANSCRIPT| What's Next in Health?"
+    },
+    {
+      "tag": "div",
+      "text": "Geoffrey Cowley joined us for a Live Talk on Thursday, Dec. 2, at noon ET to discuss memory-enhancing drugs, drug policies, bone health and more. Click here to read the transcript."
+    },
+    {
+      "tag": "div",
+      "text": "Health For Life: Dec. 6, 2004 issue"
+    },
+    {
+      "tag": "div",
+      "text": "Medicine's Next Level Welcome to the Stem-Cell States View From the Lab: Harnessing Stem Cells Using Genes as Medicine What You Need to Know About Medical Time Bombs Risk Factors: In Search of Bone Health Web MD: When Less is More Trapping the Superbugs Bird-Flu Challenge Battling the Effects of War To Heal a Shattered Soul Drug Wars Ahead Opinion: A Prescription for Controlling Drug Costs Creating More Paths to Hope The New Face of AIDS Talk Transcript: What's Next in Health?"
     },
     {
       "tag": "p",
@@ -24,7 +84,11 @@
     },
     {
       "tag": "div",
-      "text": "NEWSWEEK RADIO | 11/28/04 Health-for-Life I: Drugs of the Future"
+      "text": "NEWSWEEK RADIO | 11/28/04"
+    },
+    {
+      "tag": "div",
+      "text": "Health-for-Life I: Drugs of the Future"
     },
     {
       "tag": "p",
@@ -32,7 +96,19 @@
     },
     {
       "tag": "div",
-      "text": "Listen to the audio Listen to the complete show advertisement advertisement bottom navigation for Newsweek Articles Subscribe to Newsweek — Lowest Rate Available"
+      "text": "Listen to the audio Listen to the complete show"
+    },
+    {
+      "tag": "div",
+      "text": "advertisement"
+    },
+    {
+      "tag": "div",
+      "text": "advertisement"
+    },
+    {
+      "tag": "div",
+      "text": "Subscribe to Newsweek — Lowest Rate Available"
     },
     {
       "tag": "p",

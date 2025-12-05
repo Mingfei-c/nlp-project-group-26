@@ -3,8 +3,8 @@
   "file_number": "169",
   "content_hash": "f7c0a5e29d46ec9a1129866d2cc0febe200de616161e530cf3c766d407dba407",
   "total_blocks": 112,
-  "retained_blocks": 63,
-  "ignored_blocks": 49,
+  "retained_blocks": 66,
+  "ignored_blocks": 46,
   "blocks": [
     {
       "tag": "p",
@@ -252,7 +252,19 @@
     },
     {
       "tag": "div",
-      "text": "Ithank the two chiefs who have spoken now for their penetrating\r\ninsights. Ithank the Nuer for listening patiently to the presentation of the\r\nDinka chiefs. Among the speakers from Tonj Country is Sadia . . . and in the\r\nspirit of this conference we would also like to hear the voice of our women. We\r\nwill begin tomorrow at 9:00 again hearing the narratives of the Dinka. We will\r\ngive three hours for the remainder of the presentations from the Dinka. Although\r\nthe time allotted to the representatives from Tong is finished, will give a\r\nbrief opportunity to Sadia to speak. Ithank you all for your participation\r\ntoday. << Previous day Overview page Next day >> Home About How\r\n        to help Issues News Links Lens Photos Contact\r\n        us"
+      "text": "Ithank the two chiefs who have spoken now for their penetrating\r\ninsights. Ithank the Nuer for listening patiently to the presentation of the\r\nDinka chiefs. Among the speakers from Tonj Country is Sadia . . . and in the\r\nspirit of this conference we would also like to hear the voice of our women. We\r\nwill begin tomorrow at 9:00 again hearing the narratives of the Dinka. We will\r\ngive three hours for the remainder of the presentations from the Dinka. Although\r\nthe time allotted to the representatives from Tong is finished, will give a\r\nbrief opportunity to Sadia to speak. Ithank you all for your participation\r\ntoday."
+    },
+    {
+      "tag": "div",
+      "text": "<< Previous day"
+    },
+    {
+      "tag": "div",
+      "text": "Overview page Next day >>"
+    },
+    {
+      "tag": "div",
+      "text": "Home About How\r\n        to help Issues News Links Lens Photos Contact\r\n        us"
     },
     {
       "tag": "p",

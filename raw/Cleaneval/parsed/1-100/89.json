@@ -3,36 +3,20 @@
   "file_number": "89",
   "content_hash": "74a9915c8892129cc2ad6fe7ed3bfa61e1befbec7f1a4fc49f56d085be4b40aa",
   "total_blocks": 103,
-  "retained_blocks": 25,
-  "ignored_blocks": 78,
+  "retained_blocks": 27,
+  "ignored_blocks": 76,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "InstanceBegin template=\"/Templates/Writing.dwt\" codeOutsideHTMLIsLocked=\"false\" InstanceBeginEditable name=\"doctitle\" InstanceEndEditable InstanceBeginEditable name=\"head\" InstanceEndEditable InstanceBeginEditable name=\"Title_IC\""
-    },
     {
       "tag": "h2",
       "text": "Writing a Mechanism Description Analyzing the Function, Appearance and Operation of \r\n    an Object"
     },
     {
-      "tag": "div",
-      "text": "InstanceEndEditable InstanceBeginEditable name=\"NavBar\""
-    },
-    {
       "tag": "p",
-      "text": "> Resources > Writing > Technical >"
+      "text": "> Resources > Writing > Technical > This document describes how to write a mechanism description (also \r\n      called an object description ).  Amechanism description is a short report designed to convey to the \r\n      reader a technical understanding of the function , appearance , \r\n      and operation of a particular object.  In one or two sentences, \r\n      give the reader a quick overview of these three elements, before you lauch \r\n      into the details."
     },
     {
       "tag": "div",
-      "text": "InstanceEndEditable InstanceBeginEditable name=\"Blurb\""
-    },
-    {
-      "tag": "p",
-      "text": "This document describes how to write a mechanism description (also \r\n      called an object description ).  Amechanism description is a short report designed to convey to the \r\n      reader a technical understanding of the function , appearance , \r\n      and operation of a particular object.  In one or two sentences, \r\n      give the reader a quick overview of these three elements, before you lauch \r\n      into the details."
-    },
-    {
-      "tag": "div",
-      "text": "InstanceEndEditable InstanceBeginEditable name=\"Text\" 1998; \r\n        first posted by Dennis \r\n        G. Jerz"
+      "text": "1998; \r\n        first posted by Dennis \r\n        G. Jerz"
     },
     {
       "tag": "p",
@@ -48,7 +32,11 @@
     },
     {
       "tag": "div",
-      "text": "Your introduction should first state the purpose and scope of your \r\n        document .  If your document is longer than a few paragraphs, \r\n        the first paragraph should be a stand-alone summary, which briefly defines \r\n        the object and explains its function, appearance, and operation. Throughout the ages, mankind \r\n              has found many uses for salt.  Ancient tribes used it preserve \r\n              meat; around the world it adds flavor to food; the Bible uses it \r\n              as a symbol of zest for life.  Salt became such an important \r\n              part of people's diet that a way was needed to allow early nomads \r\n              to carry salt with them on their perilous travels; such a device \r\n              ideally also helped ancient gormandizers to distribute portions \r\n              of the precious flavor enhancer onto their foods.  Thus was \r\n              born the salt shaker. Some beginning technical writers, \r\n              who remember using grandiose words to please their high school English \r\n              teachers, mistakenly believe that an introduction should provide \r\n              a sort of cosmic overview. But a technical writer does not need \r\n              to amuse or impress a reader -- somebody who wants to know exactly \r\n              how much this salt shaker weighs does not need an ancient history \r\n              lesson. Just provide the necessary information as efficiently as \r\n              possible. This document provides the manufacturing \r\n              specifications for the entire line of Happy Homemaker \"Praying Cow\" \r\n              salt shakers (Divine Bovine Industries model #00045).  Ahand-painted \r\n              ceramic collector's item, the \"Praying Cow\" salt shaker represents \r\n              a plump, cartoon-like cow, her head bowed as if in prayer.  \r\n              Ablue flower-print skirt is painted onto the body of the animal.  \r\n              The salt is dispensed through the cow's matching bonnet, via a circular \r\n              array of six small holes.  The bonnet twists off to allow the \r\n              consumer to fill the dispenser cavity. Note that this writer correctly begins by introducing \r\n                  the reader to the document .  We can assume that the \r\n                  rest of the document provides the measurements and other technical \r\n                  details, as promised by the opening sentence. The summary paragraph assumes that the reader \r\n                  already knows the definition and function of a salt shaker; \r\n                  this is permissible. In this case, it would not be wise to \r\n                  omit a description of the appearance, and almost unforgivable \r\n                  not to include a picture. Fortunately for civilization as we know it, \r\n                  this product is completely imaginary."
+      "text": "Your introduction should first state the purpose and scope of your \r\n        document .  If your document is longer than a few paragraphs, \r\n        the first paragraph should be a stand-alone summary, which briefly defines \r\n        the object and explains its function, appearance, and operation."
+    },
+    {
+      "tag": "div",
+      "text": "Throughout the ages, mankind \r\n              has found many uses for salt.  Ancient tribes used it preserve \r\n              meat; around the world it adds flavor to food; the Bible uses it \r\n              as a symbol of zest for life.  Salt became such an important \r\n              part of people's diet that a way was needed to allow early nomads \r\n              to carry salt with them on their perilous travels; such a device \r\n              ideally also helped ancient gormandizers to distribute portions \r\n              of the precious flavor enhancer onto their foods.  Thus was \r\n              born the salt shaker. Some beginning technical writers, \r\n              who remember using grandiose words to please their high school English \r\n              teachers, mistakenly believe that an introduction should provide \r\n              a sort of cosmic overview. But a technical writer does not need \r\n              to amuse or impress a reader -- somebody who wants to know exactly \r\n              how much this salt shaker weighs does not need an ancient history \r\n              lesson. Just provide the necessary information as efficiently as \r\n              possible. This document provides the manufacturing \r\n              specifications for the entire line of Happy Homemaker \"Praying Cow\" \r\n              salt shakers (Divine Bovine Industries model #00045).  Ahand-painted \r\n              ceramic collector's item, the \"Praying Cow\" salt shaker represents \r\n              a plump, cartoon-like cow, her head bowed as if in prayer.  \r\n              Ablue flower-print skirt is painted onto the body of the animal.  \r\n              The salt is dispensed through the cow's matching bonnet, via a circular \r\n              array of six small holes.  The bonnet twists off to allow the \r\n              consumer to fill the dispenser cavity. Note that this writer correctly begins by introducing \r\n                  the reader to the document .  We can assume that the \r\n                  rest of the document provides the measurements and other technical \r\n                  details, as promised by the opening sentence. The summary paragraph assumes that the reader \r\n                  already knows the definition and function of a salt shaker; \r\n                  this is permissible. In this case, it would not be wise to \r\n                  omit a description of the appearance, and almost unforgivable \r\n                  not to include a picture. Fortunately for civilization as we know it, \r\n                  this product is completely imaginary."
     },
     {
       "tag": "h3",
@@ -64,7 +52,11 @@
     },
     {
       "tag": "div",
-      "text": "Answer the question, \"What does it look like?\"  You may have to use classification to break the object up into its various components, and describe each \r\n        in sequence. The original Star Trek Enterprise, \r\n              TV's most famous fictional starship, has a saucer shaped primary \r\n              hull, a cigar-shaped secondary hull, and two cylindrical warp pods.  \r\n              Ahorizontal strut suspends the secondary hull behind and below \r\n              the saucer.  At the flat, front of the suspended section is \r\n              the deflector dish, and at the tapered back are clamshell doors \r\n              that open to reveal a shuttle bay.  Each of the two cylindrical \r\n              power units is supported by a long pylon connected near the rear \r\n              of the secondary hull.  The pylons raise the power units above \r\n              the plane of the horizontal dish, and extend them outwards roughly \r\n              to the same width of the saucer.  The pods themselves have \r\n              red semicircular half-spheres on the front, and tapered cylindrical \r\n              fixtures on the rear. The content of the above section is fine, \r\n              but it's a little hard to read.   If you were to go in \r\n              to any more detail, you should break it up into smaller paragraphs... \r\n              If you start to break your object up into multiple nested layers \r\n              of components, you should consider a bulleted list , formatted \r\n              so that your reader can more easily identify the level of detail \r\n              you are describing in any given section. (See below.) The primary hull contains the \r\n              following visible features: The bridge (a circular, domed structure at the center \r\n                  of the upper surface of the saucer). The first pilot episode, \"The Cage\" featured a special \r\n                    effects shot of the camera zooming in on the model to reveal \r\n                    the characters arranged on the bridge; the same shot also \r\n                    appeared as a kind of flashback in the later episode, \"The \r\n                    Menagerie, Part I.\" The set for the bridge on Star Trek: The Next Generation featured a ceiling window that revealed a starry backdrop, \r\n                    but no such window ever appeared in the original series. Lighting effects (including blinking running lights, \r\n                  as well as smaller lights representing windows) Vessel identification (black painted capital letters \r\n                  on the upper and lower surfaces of the saucer, reading \"U.S.S. \r\n                  Enterprise\" and \"NCC-1701\") Phasers and photon torpedoes (usually depicted as \r\n                  emanating from a spot near the center of the underside of the \r\n                  saucer)"
+      "text": "Answer the question, \"What does it look like?\"  You may have to use classification to break the object up into its various components, and describe each \r\n        in sequence."
+    },
+    {
+      "tag": "div",
+      "text": "The original Star Trek Enterprise, \r\n              TV's most famous fictional starship, has a saucer shaped primary \r\n              hull, a cigar-shaped secondary hull, and two cylindrical warp pods.  \r\n              Ahorizontal strut suspends the secondary hull behind and below \r\n              the saucer.  At the flat, front of the suspended section is \r\n              the deflector dish, and at the tapered back are clamshell doors \r\n              that open to reveal a shuttle bay.  Each of the two cylindrical \r\n              power units is supported by a long pylon connected near the rear \r\n              of the secondary hull.  The pylons raise the power units above \r\n              the plane of the horizontal dish, and extend them outwards roughly \r\n              to the same width of the saucer.  The pods themselves have \r\n              red semicircular half-spheres on the front, and tapered cylindrical \r\n              fixtures on the rear. The content of the above section is fine, \r\n              but it's a little hard to read.   If you were to go in \r\n              to any more detail, you should break it up into smaller paragraphs... \r\n              If you start to break your object up into multiple nested layers \r\n              of components, you should consider a bulleted list , formatted \r\n              so that your reader can more easily identify the level of detail \r\n              you are describing in any given section. (See below.) The primary hull contains the \r\n              following visible features: The bridge (a circular, domed structure at the center \r\n                  of the upper surface of the saucer). The first pilot episode, \"The Cage\" featured a special \r\n                    effects shot of the camera zooming in on the model to reveal \r\n                    the characters arranged on the bridge; the same shot also \r\n                    appeared as a kind of flashback in the later episode, \"The \r\n                    Menagerie, Part I.\" The set for the bridge on Star Trek: The Next Generation featured a ceiling window that revealed a starry backdrop, \r\n                    but no such window ever appeared in the original series. Lighting effects (including blinking running lights, \r\n                  as well as smaller lights representing windows) Vessel identification (black painted capital letters \r\n                  on the upper and lower surfaces of the saucer, reading \"U.S.S. \r\n                  Enterprise\" and \"NCC-1701\") Phasers and photon torpedoes (usually depicted as \r\n                  emanating from a spot near the center of the underside of the \r\n                  saucer)"
     },
     {
       "tag": "h3",
@@ -76,11 +68,7 @@
     },
     {
       "tag": "p",
-      "text": "You could also productively think of this section as the conclusion to your paper.  Rarely will you gain anything by writing a \r\n          lame, strained conclusion like, \"Therefore, this paper has shown that \r\n          the PickMaster 2000 Electric Toothpick Dispenser can be an exciting \r\n          part of the environment around the cash register in any restaurant.\" Even if an object does not have an exciting or visible method of operating \r\n          (such as a decorative item or a simple brick), you should still explain how its design helps it to fulfill its function . Fall, 1998 -- written by Dennis G. Jerz 14 Feb 2001 -- posted in ORR 12 Sep 2003 -- minor updates InstanceEndEditable"
-    },
-    {
-      "tag": "div",
-      "text": "InstanceBeginEditable name=\"Sidebar\" InstanceEndEditable InstanceBeginEditable name=\"Comments\" InstanceEndEditable InstanceBeginEditable name=\"NavBar2\""
+      "text": "You could also productively think of this section as the conclusion to your paper.  Rarely will you gain anything by writing a \r\n          lame, strained conclusion like, \"Therefore, this paper has shown that \r\n          the PickMaster 2000 Electric Toothpick Dispenser can be an exciting \r\n          part of the environment around the cash register in any restaurant.\" Even if an object does not have an exciting or visible method of operating \r\n          (such as a decorative item or a simple brick), you should still explain how its design helps it to fulfill its function . Fall, 1998 -- written by Dennis G. Jerz 14 Feb 2001 -- posted in ORR 12 Sep 2003 -- minor updates"
     },
     {
       "tag": "p",
@@ -88,7 +76,31 @@
     },
     {
       "tag": "div",
-      "text": "InstanceEndEditable #BeginLibraryItem \"/Library/DGJerz.lbi\" D.G. \r\n      Jerz Seton \r\n      Hill University Contact About F.A.Q. #EndLibraryItem #BeginLibraryItem \"/Library/Weblog.lbi\" Weblog #EndLibraryItem #BeginLibraryItem \"/Library/teaching.lbi\" Teaching #BeginLibraryItem \"/Library/courses.lbi\" LA100 EL200 EL236 EL405 #EndLibraryItem #EndLibraryItem InstanceBeginEditable name=\"ResMenu\" Resources Writing Design iFiction Lit/Drama InstanceEndEditable On \r\n          Jerz's Site InstanceBeginEditable name=\"HotLinks\" InstanceEndEditable"
+      "text": "D.G. \r\n      Jerz Seton \r\n      Hill University"
+    },
+    {
+      "tag": "div",
+      "text": "Contact About F.A.Q."
+    },
+    {
+      "tag": "div",
+      "text": "Weblog Teaching"
+    },
+    {
+      "tag": "div",
+      "text": "LA100 EL200 EL236 EL405"
+    },
+    {
+      "tag": "div",
+      "text": "Resources"
+    },
+    {
+      "tag": "div",
+      "text": "Writing Design iFiction Lit/Drama"
+    },
+    {
+      "tag": "div",
+      "text": "On \r\n          Jerz's Site"
     },
     {
       "tag": "p",
@@ -101,10 +113,6 @@
     {
       "tag": "p",
       "text": "MLA \r\n          Style Bibliography Builder Taking \r\n          Notes Tips for college \r\n          success. Research Papers Begin with good sources. Timed \r\n          Essays Crunch-time survival tips. Writing \r\n          Tips Active and Passive\r\n          Verbs Show,\r\n          Don't (Just) Tell Thesis Statements MLA Style"
-    },
-    {
-      "tag": "div",
-      "text": "InstanceBeginEditable name=\"HotLinks2\" InstanceEndEditable InstanceEnd"
     }
   ]
 }

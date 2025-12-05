@@ -3,12 +3,28 @@
   "file_number": "118",
   "content_hash": "21c97d8696bf43dd79585f7d108cc2ec6f7aa43c032d2c72f3fb7a5c2e88ee2f",
   "total_blocks": 392,
-  "retained_blocks": 9,
-  "ignored_blocks": 383,
+  "retained_blocks": 14,
+  "ignored_blocks": 378,
   "blocks": [
     {
       "tag": "div",
-      "text": "html public \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\" GENMaps [START]--(( BBCi TOOLBAR )) IFS News CATEGORIES TV RADIO COMMUNICATE WHERE I LIVE INDEX <label for=\"bbcpagesearchbox\"> SEARCH </label> end news toolbar 1.0 END OF BANNER You are in: Scotland News Front Page World UK England N Ireland Scotland Wales Politics Business Entertainment Science/Nature Technology Health Education ------------- Talking Point ------------- Country Profiles In Depth ------------- Programmes ------------- SERVICES Daily E-mail News Ticker Mobile/PDAs ------------- Text Only Feedback Help EDITIONS Change to World Sunday, 8 December, 2002, 13:48 GMT Unique character of medieval town The Royal Mile at the opening of the Scottish Parliament The historic buildings of Edinburgh's Old Town help to mark it out as one of Europe's most beautiful and architecturally important cities."
+      "text": "html public \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "CATEGORIES TV RADIO COMMUNICATE WHERE I LIVE INDEX SEARCH"
+    },
+    {
+      "tag": "div",
+      "text": "You are in: Scotland"
+    },
+    {
+      "tag": "div",
+      "text": "News Front Page World UK England N Ireland Scotland Wales Politics Business Entertainment Science/Nature Technology Health Education ------------- Talking Point ------------- Country Profiles In Depth ------------- Programmes ------------- SERVICES Daily E-mail News Ticker Mobile/PDAs ------------- Text Only Feedback Help EDITIONS Change to World"
+    },
+    {
+      "tag": "div",
+      "text": "Sunday, 8 December, 2002, 13:48 GMT Unique character of medieval town The Royal Mile at the opening of the Scottish Parliament The historic buildings of Edinburgh's Old Town help to mark it out as one of Europe's most beautiful and architecturally important cities."
     },
     {
       "tag": "p",
@@ -32,7 +48,11 @@
     },
     {
       "tag": "div",
-      "text": "WATCH/LISTEN ON THIS STORY The BBC's Nigel Robson \"Thick smoke and sparks swirled over the city centre\" Tom Monro, Lothian and Borders Fire Brigade \"It's been a very difficult, complex fire\" See also: 07 Dec 02 | Scotland Union backs fire strike 08 Dec 02 | Scotland Fire ravages city's historic centre 17 Oct 02 | Scotland Tourist plan for 'haunted' lane 17 Apr 01 | Scotland Castle ghost hunt's 'curious' findings Internet links: Edinburgh Old Town City of Edinburgh Council The BBC is not responsible for the content of external internet sites Top Scotland stories now: Officer faces harbour death hearing Minister grilled on fish catches For Altnaharra read Sahara University seeks to broaden appeal Dancers urged to make the leap Teenagers admit festival violence Court hears 'secret society' claims Programme an auction winner Links to more Scotland stories are at the foot of the page. E-mail this story to a friend Links to more Scotland stories In This Section Officer faces harbour death hearing Minister grilled on fish catches For Altnaharra read Sahara University seeks to broaden appeal Dancers urged to make the leap Teenagers admit festival violence Court hears 'secret society' claims Programme an auction winner Lawyer admits stealing 500,000 Most common surnames revealed Fifth of gay people are parents Man dies after NZ jetty dive Skye gets brand identity Child protection challenge Concern over scrutiny time Call for tougher phone mast rules Elderly sisters in road tragedy BBC Scotland - News On Air BBC Scotland - Politics On Air ^^ Back to top"
+      "text": "WATCH/LISTEN ON THIS STORY The BBC's Nigel Robson \"Thick smoke and sparks swirled over the city centre\" Tom Monro, Lothian and Borders Fire Brigade \"It's been a very difficult, complex fire\""
+    },
+    {
+      "tag": "div",
+      "text": "See also: 07 Dec 02 | Scotland Union backs fire strike 08 Dec 02 | Scotland Fire ravages city's historic centre 17 Oct 02 | Scotland Tourist plan for 'haunted' lane 17 Apr 01 | Scotland Castle ghost hunt's 'curious' findings Internet links: Edinburgh Old Town City of Edinburgh Council The BBC is not responsible for the content of external internet sites Top Scotland stories now: Officer faces harbour death hearing Minister grilled on fish catches For Altnaharra read Sahara University seeks to broaden appeal Dancers urged to make the leap Teenagers admit festival violence Court hears 'secret society' claims Programme an auction winner Links to more Scotland stories are at the foot of the page. E-mail this story to a friend Links to more Scotland stories In This Section Officer faces harbour death hearing Minister grilled on fish catches For Altnaharra read Sahara University seeks to broaden appeal Dancers urged to make the leap Teenagers admit festival violence Court hears 'secret society' claims Programme an auction winner Lawyer admits stealing 500,000 Most common surnames revealed Fifth of gay people are parents Man dies after NZ jetty dive Skye gets brand identity Child protection challenge Concern over scrutiny time Call for tougher phone mast rules Elderly sisters in road tragedy BBC Scotland - News On Air BBC Scotland - Politics On Air ^^ Back to top"
     },
     {
       "tag": "p",

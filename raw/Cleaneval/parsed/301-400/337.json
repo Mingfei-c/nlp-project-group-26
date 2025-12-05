@@ -3,8 +3,8 @@
   "file_number": "337",
   "content_hash": "d84407e4cf608228b47c15ca74deb40f794dc057a2864d78cc8090410ad12180",
   "total_blocks": 86,
-  "retained_blocks": 42,
-  "ignored_blocks": 44,
+  "retained_blocks": 35,
+  "ignored_blocks": 51,
   "blocks": [
     {
       "tag": "div",
@@ -16,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "end #wraplogo Home Projects Writings Events Become a Member About Us Help end #wrapnav end #wraphdr"
+      "text": "Home Projects Writings Events Become a Member About Us Help"
     },
     {
       "tag": "h2",
@@ -27,28 +27,12 @@
       "text": "Sorry, we couldn't find the page you were looking for. \r\n\t\t\t\t\t            You may want to use the search box at left to search for what you were looking for, \r\n\t\t\t\t\t            or browse through our archive of writings."
     },
     {
-      "tag": "div",
-      "text": "end #wrapcontent.pri#wrapmaincont.content end #wrapcontent.pri#wrapmaincont end #wrapcontent.pri end .wrapper <div id=\"wrappagenav\" class=\"highlight\">\r\n\t\t\t<h4>Manage Homepage</h4>\r\n\t\t</div> include virtual=\"/include/left_navigation.inc\" end #wrappagenav.sec.highlight"
-    },
-    {
       "tag": "h4",
       "text": "About the Institute"
     },
     {
       "tag": "p",
-      "text": "The mission of the Claremont Institute is to restore the principles of the American Founding to their rightful, preeminent authority in our national life. Learn more"
-    },
-    {
-      "tag": "div",
-      "text": "end #wrapseccont.divhlt.content"
-    },
-    {
-      "tag": "p",
-      "text": "The Fall 2006 issue is now available, featuring Mark Helprin on the war in Lebanon, Larry P. Arnn on how the GOP is flunking higher education, William Voegeli on liberalism’s lack of big ideas, John Rosenthal on Guantanamo and the Nazis, William F. Buckley, Jr., on friendship, Richard Samuelson on Peter Beinart’s liberal romanticism, John Yoo on Alan Dershowitz’s legal romanticism, R. Shep Melnick on Charles Murray’s welfare plan, plus al-Qaeda’s decline, the folly of foreign aid, Christian politics, remembering great statesmen, literary theory, men’s fashion, baseball, and much more! Subscribe today!"
-    },
-    {
-      "tag": "div",
-      "text": "end #wrapseccont.divhlt.content"
+      "text": "The mission of the Claremont Institute is to restore the principles of the American Founding to their rightful, preeminent authority in our national life. Learn more The Fall 2006 issue is now available, featuring Mark Helprin on the war in Lebanon, Larry P. Arnn on how the GOP is flunking higher education, William Voegeli on liberalism’s lack of big ideas, John Rosenthal on Guantanamo and the Nazis, William F. Buckley, Jr., on friendship, Richard Samuelson on Peter Beinart’s liberal romanticism, John Yoo on Alan Dershowitz’s legal romanticism, R. Shep Melnick on Charles Murray’s welfare plan, plus al-Qaeda’s decline, the folly of foreign aid, Christian politics, remembering great statesmen, literary theory, men’s fashion, baseball, and much more! Subscribe today!"
     },
     {
       "tag": "h4",
@@ -59,10 +43,6 @@
       "text": "Publius Fellowship Each summer, the Claremont Institute brings together some of the best and brightest young conservatives in America. These Publius Fellows meet each day with Claremont Institute Senior Fellows and other distinguished visiting scholars to study American political thought and American politics. The 2007 seminar will run June 22-July 6 at the Island Hotel in Newport Beach, California.  Applications materials are due March 9. Lincoln Fellowship The Claremont Institute offers a week-long seminar on the principles of the American Founding for ambitious, civic-minded professionals who are working in the area of national public policy, and who seek the return of limited constitutional government. The 2007 seminar will run August 4-12 at the Island Hotel in Newport Beach, California. Application materials are due April 28. Internship Opportunities with the Claremont Institute Each year, the Claremont Institute hosts a number of ambitious college students with summer internships at our main office in Claremont, California. Application materials for Summer 2007 are due March 15. Wake Up With Bennett Claremont Institute Washington Fellow Bill Bennett now hosts a nationally syndicated daily radio program. Visit Bill Bennett's Morning in America for more information. Help Us, Help Yourself Did you know you can support the Claremont Institute with gifts other than cash that will allow you to increase discretionary income, eliminate estate and capital gains taxes, and redirect tax dollars to the Claremont Institute? Click here to learn more. The Writings of Harry V. Jaffa Six books by Harry Jaffa have been reprinted by the Claremont Institute."
     },
     {
-      "tag": "div",
-      "text": "end #wrapseccont.divhlt.content"
-    },
-    {
       "tag": "h4",
       "text": "Other Sites"
     },
@@ -71,16 +51,12 @@
       "text": "Missilethreat.com Ballistic Missile Defense: Understanding the Nuclear Threat Founding.com A User's Guide to the Declaration of Independence FoundingFather.com Rediscovering George Washington Vindicating The Founders Race, Sex, Class and Justice in the Origins of America"
     },
     {
-      "tag": "div",
-      "text": "end #wrapseccont.divhlt.content"
-    },
-    {
       "tag": "h4",
       "text": "Search the Site"
     },
     {
       "tag": "div",
-      "text": "Looking for something? Enter any text below to search our content. end #wrapmain.ter.highlight.content end #wrapmain.ter.highlight"
+      "text": "Looking for something? Enter any text below to search our content."
     },
     {
       "tag": "h4",
@@ -88,7 +64,7 @@
     },
     {
       "tag": "div",
-      "text": "Enter your email address below to join Precepts, our free weekly policy watch newsletter. end #wrapmain.sec.highlight.content end #wrapmain.sec.highlight end #wrapcontent.sec"
+      "text": "Enter your email address below to join Precepts, our free weekly policy watch newsletter."
     },
     {
       "tag": "p",
@@ -164,15 +140,11 @@
     },
     {
       "tag": "div",
-      "text": "end #wrapseccont.divhlt.content end #wrapseccont.divhlt end #wrapseccont.divhlt end #wrapseccont.divhlt end #wrapcontent Home Projects Writings Events Become a Member About Us Help"
+      "text": "Home Projects Writings Events Become a Member About Us Help"
     },
     {
       "tag": "p",
       "text": "Copyright © 2002-2006 The Claremont Institute. Technical problems may be brought to the attention of the webmaster ."
-    },
-    {
-      "tag": "div",
-      "text": "end #wrapfooter.content end #wrapfooter end #wrapdoc"
     }
   ]
 }

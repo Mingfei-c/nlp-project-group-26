@@ -3,12 +3,20 @@
   "file_number": "149",
   "content_hash": "90cad0c15d9f1b4f73c819499068740d278af73d42e9244015f03bbec00cf512",
   "total_blocks": 176,
-  "retained_blocks": 13,
-  "ignored_blocks": 163,
+  "retained_blocks": 16,
+  "ignored_blocks": 160,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" Bob Stepno's Other Journalism Weblog Explorations of personal and community journalism online... Weblog front page About Stepno.com Home UT Home Red Liner blog @Harvard.edu AEJMC Newspaper Division Bob's Emerson College cobwebs Bob's UNC Chapel Hill cobwebs Backgrounder: About_Weblogs Web Tools Overview Weblog writing tips Online news writing Weblog picture tips Political reporting links Journalism ethics links What are RSS and that orange 'XML' thing? RSS news aggregators (for PC World) 5 more aggregators"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Bob Stepno's Other Journalism Weblog Explorations of personal and community journalism online..."
+    },
+    {
+      "tag": "div",
+      "text": "Weblog front page About Stepno.com Home UT Home Red Liner blog @Harvard.edu AEJMC Newspaper Division Bob's Emerson College cobwebs Bob's UNC Chapel Hill cobwebs Backgrounder: About_Weblogs Web Tools Overview Weblog writing tips Online news writing Weblog picture tips Political reporting links Journalism ethics links What are RSS and that orange 'XML' thing? RSS news aggregators (for PC World) 5 more aggregators"
     },
     {
       "tag": "p",
@@ -52,7 +60,11 @@
     },
     {
       "tag": "p",
-      "text": "The Media Bloggers Association is organizing a conference at Belmont University in Nashville for May 5-7. Unfortunately, the conference dates are exam (and\r\nexam-grading) week for me at UT in Knoxville, but students or faculty who wrap-up early will be able to go. The \"placeholder\" website, BlogNashville , lists Glenn Reynolds, the UT law professor known online as Instapundit , as chairman of the conference committee building the agenda. Blogger, Belmont Upublic relations guy and journalist Bill Hobbs is on the committee, along with the media bloggers group organizer, Bob Cox, whose blog is The National Debate ,  blogging journalist Ed Cone of Greensboro, N.C.,  and Sybril Bennett of Belmont's journalism program . Cone and Cox, and maybe others from the group, are scheduled to be at Harvard's Blogging, Journalism  & Credibility conference this week, so they should come back full of ideas. The\r\nNashville event plans to borrow the \"unconference\" group-discussion\r\ncentered BloggerCon concept that Dave Winer evolved at Harvard and Stanford events. Speaking of the Harvard conference... a New York Times story has kicked off quite a discussion of the quality of its reporting about Iraqi bloggers. See Cone and Jarvis , and many others in their \"comment\" streams. 12:47:28 PM comment [ ] © Copyright \r\n                  2005\r\n                  Bob Stepno. Last update: \r\n                  2/1/05; 9:59:57 AM."
+      "text": "The Media Bloggers Association is organizing a conference at Belmont University in Nashville for May 5-7. Unfortunately, the conference dates are exam (and\r\nexam-grading) week for me at UT in Knoxville, but students or faculty who wrap-up early will be able to go. The \"placeholder\" website, BlogNashville , lists Glenn Reynolds, the UT law professor known online as Instapundit , as chairman of the conference committee building the agenda. Blogger, Belmont Upublic relations guy and journalist Bill Hobbs is on the committee, along with the media bloggers group organizer, Bob Cox, whose blog is The National Debate ,  blogging journalist Ed Cone of Greensboro, N.C.,  and Sybril Bennett of Belmont's journalism program . Cone and Cox, and maybe others from the group, are scheduled to be at Harvard's Blogging, Journalism  & Credibility conference this week, so they should come back full of ideas. The\r\nNashville event plans to borrow the \"unconference\" group-discussion\r\ncentered BloggerCon concept that Dave Winer evolved at Harvard and Stanford events. Speaking of the Harvard conference... a New York Times story has kicked off quite a discussion of the quality of its reporting about Iraqi bloggers. See Cone and Jarvis , and many others in their \"comment\" streams. 12:47:28 PM comment [ ]"
+    },
+    {
+      "tag": "p",
+      "text": "© Copyright \r\n                  2005\r\n                  Bob Stepno. Last update: \r\n                  2/1/05; 9:59:57 AM."
     },
     {
       "tag": "div",

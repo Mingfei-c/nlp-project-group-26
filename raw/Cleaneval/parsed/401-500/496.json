@@ -3,12 +3,16 @@
   "file_number": "496",
   "content_hash": "e3984b2dd7cd050322a679ca4975f54b02a1e7c19792a95ea0a97676afd54640",
   "total_blocks": 61,
-  "retained_blocks": 4,
-  "ignored_blocks": 57,
+  "retained_blocks": 7,
+  "ignored_blocks": 54,
   "blocks": [
     {
       "tag": "div",
-      "text": "Logo bar Source Code Copyright © 2001 Active Matter, Inc. www.activematter.com - TemplateTopNav.cfm About IASP® Membership Meetings Education Publications Resources Chapters SIGs Contact Us What's New Utility bar Grants | Global Year Against Pain | World Congress on Pain® | Career Opportunities sidenav Print this page Text Only Site Search IASP: Advanced Search Source Code Copyright © 2005 by Advanced Solutions International, Inc."
+      "text": "About IASP® Membership Meetings Education Publications Resources Chapters SIGs Contact Us What's New Grants | Global Year Against Pain | World Congress on Pain® | Career Opportunities Print this page Text Only Site"
+    },
+    {
+      "tag": "div",
+      "text": "Search IASP: Advanced Search"
     },
     {
       "tag": "h1",
@@ -20,7 +24,15 @@
     },
     {
       "tag": "div",
-      "text": "We are the largest multidisciplinary international association in the \r\nfield of pain. Founded in 1973, the International Association for the \r\nStudy of Pain® (IASP) is a non-profit professional organization \r\ndedicated to furthering research on pain and improving the care of \r\npatients with pain. Membership in IASP is open to scientists, physicians, dentists, \r\npsychologists, nurses, physical therapists, and other health \r\nprofessionals actively engaged in pain research and to those who have \r\nspecial interest in the diagnosis and treatment of pain. Currently IASP \r\nhas more than 6,900 members from 106 countries. home login members Source Code Copyright © 2005 by Advanced Solutions International, Inc. Contact Information | Site Index | What's New | Disclaimer © by The International Association for the Study of Pain saved from url=(0022)http://internet.e-mail Source Code Copyright © 2005 by Advanced Solutions International, Inc."
+      "text": "We are the largest multidisciplinary international association in the \r\nfield of pain. Founded in 1973, the International Association for the \r\nStudy of Pain® (IASP) is a non-profit professional organization \r\ndedicated to furthering research on pain and improving the care of \r\npatients with pain. Membership in IASP is open to scientists, physicians, dentists, \r\npsychologists, nurses, physical therapists, and other health \r\nprofessionals actively engaged in pain research and to those who have \r\nspecial interest in the diagnosis and treatment of pain. Currently IASP \r\nhas more than 6,900 members from 106 countries."
+    },
+    {
+      "tag": "div",
+      "text": "home login members"
+    },
+    {
+      "tag": "div",
+      "text": "Contact Information | Site Index | What's New | Disclaimer © by The International Association for the Study of Pain"
     }
   ]
 }

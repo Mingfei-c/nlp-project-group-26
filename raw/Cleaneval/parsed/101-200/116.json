@@ -3,12 +3,16 @@
   "file_number": "116",
   "content_hash": "b8b5d549cba7d9e75371cdd52555abfd3824d5a54205f37a8735ab667058f99d",
   "total_blocks": 108,
-  "retained_blocks": 67,
-  "ignored_blocks": 41,
+  "retained_blocks": 69,
+  "ignored_blocks": 39,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\r\n\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" Masters and Workers - Labour relations in ancient Egypt: The master - a self-image of benevolence, The voice of the workers, The treatment of the corvée workers, Corporal punishment, Abuse and harassment Search (new window) Printout For best results save the whole page (pictures included) onto your hard disk, open the page with Word 97 or higher, edit if necessary and print."
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\r\n\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "Masters and Workers - Labour relations in ancient Egypt: The master - a self-image of benevolence, The voice of the workers, The treatment of the corvée workers, Corporal punishment, Abuse and harassment Search (new window) Printout For best results save the whole page (pictures included) onto your hard disk, open the page with Word 97 or higher, edit if necessary and print."
     },
     {
       "tag": "h1",
@@ -272,7 +276,11 @@
     },
     {
       "tag": "div",
-      "text": "Wages and prices Index of Topics Main Index and Search Page Offsite links (Opening a new window) These are just suggestions for further reading. Ido not assume any responsibility for the availability or content of these websites. [4] Voices from Ancient Egypt Feedback: Please report broken links, mistakes - factual or otherwise, etc. to me .   Thanks. © August 2000 Minor updates: November 2006 November, August, May 2005 November, January 2004 December 2002 WEBBOT bot=\"HTMLMarkup\" startspan alt=\"Site Meter\" Copyright (c) 1999-2000 Site Meter WEBBOT bot=\"HTMLMarkup\" Endspan"
+      "text": "Wages and prices Index of Topics Main Index and Search Page Offsite links (Opening a new window) These are just suggestions for further reading. Ido not assume any responsibility for the availability or content of these websites. [4] Voices from Ancient Egypt Feedback: Please report broken links, mistakes - factual or otherwise, etc. to me .   Thanks."
+    },
+    {
+      "tag": "div",
+      "text": "© August 2000 Minor updates: November 2006 November, August, May 2005 November, January 2004 December 2002"
     }
   ]
 }

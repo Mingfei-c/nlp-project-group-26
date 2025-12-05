@@ -3,8 +3,8 @@
   "file_number": "776",
   "content_hash": "018f16fd1ec85d5085f981a5fbf2e8d95e5f5d63e42238bf57fe8aa524166554",
   "total_blocks": 20,
-  "retained_blocks": 3,
-  "ignored_blocks": 17,
+  "retained_blocks": 4,
+  "ignored_blocks": 16,
   "blocks": [
     {
       "tag": "div",
@@ -16,7 +16,11 @@
     },
     {
       "tag": "div",
-      "text": "UDA\rIdea Workshop Journal Thank you for your interest\rin UDA Ideal Home Plans TM . To learn more, Subscribe to the Free UDA eNewsletter and receive informative\rarticles on Home Design and Planning, as well as updates on New Plan Releases\rand Special Offers. For further information, our DesignConcepts\rCatalog features over 100 Best-Selling Designs, plus innovative ideas\rfor planning your next home. For questions or comments please\rcontact UDA Customer Service at info@uda1.com Sales & Service 1-800-700-UDA1\r(8321) www.uniteddesign.com Copyright © 1996-2001\rUnited Design Associates, Inc. All Rights Reserved."
+      "text": "UDA\rIdea Workshop Journal Thank you for your interest\rin UDA Ideal Home Plans TM . To learn more, Subscribe to the Free UDA eNewsletter and receive informative\rarticles on Home Design and Planning, as well as updates on New Plan Releases\rand Special Offers. For further information, our DesignConcepts\rCatalog features over 100 Best-Selling Designs, plus innovative ideas\rfor planning your next home."
+    },
+    {
+      "tag": "div",
+      "text": "For questions or comments please\rcontact UDA Customer Service at info@uda1.com Sales & Service 1-800-700-UDA1\r(8321) www.uniteddesign.com Copyright © 1996-2001\rUnited Design Associates, Inc. All Rights Reserved."
     }
   ]
 }

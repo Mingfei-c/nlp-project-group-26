@@ -3,12 +3,24 @@
   "file_number": "688",
   "content_hash": "00637c070d02ce976b725c180ab6167840dde27e62fbe7f3294d0ea74910f6d8",
   "total_blocks": 162,
-  "retained_blocks": 13,
-  "ignored_blocks": 149,
+  "retained_blocks": 17,
+  "ignored_blocks": 145,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" Begin Header Section \n// Insert any CFML and HTML for top banner here \nNote this will appear at the top of EVERY page. <img src=\"images/bannerfiller.gif\"> \"Too much of a good thing is wonderful.\" - Mae West HOME ARCHIVES CAREERS FORUMS SEARCH SITE MAP ABOUT US Home -> Archives -> Ed Bugos ->\n   Wall Street Kisses Goldilocks Goodbye Talk Back Printer Friendly eMail Article"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "\"Too much of a good thing is wonderful.\" - Mae West"
+    },
+    {
+      "tag": "div",
+      "text": "HOME ARCHIVES CAREERS FORUMS SEARCH SITE MAP ABOUT US Home -> Archives -> Ed Bugos ->\n   Wall Street Kisses Goldilocks Goodbye"
+    },
+    {
+      "tag": "div",
+      "text": "Talk Back Printer Friendly eMail Article"
     },
     {
       "tag": "p",
@@ -56,7 +68,11 @@
     },
     {
       "tag": "div",
-      "text": "Begin Footer Content // Top of Page Begin Footer Content // Read our DISCLAIMER HOME | ARCHIVES | CAREERS | FORUMS | SEARCH SITE MAP | ABOUT US | LINKS | CONTACT US Copyright © 2000-2006  - SAFEHAVEN.com ColdFusion by COSTAS PILIOTIS Server Admin by DIGITAL ADMIN SafeHaven Web Site FEEDS"
+      "text": "Top of Page Read our DISCLAIMER"
+    },
+    {
+      "tag": "div",
+      "text": "HOME | ARCHIVES | CAREERS | FORUMS | SEARCH SITE MAP | ABOUT US | LINKS | CONTACT US Copyright © 2000-2006  - SAFEHAVEN.com ColdFusion by COSTAS PILIOTIS Server Admin by DIGITAL ADMIN SafeHaven Web Site FEEDS"
     }
   ]
 }

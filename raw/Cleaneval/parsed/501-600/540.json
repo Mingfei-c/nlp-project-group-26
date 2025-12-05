@@ -8,23 +8,19 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" End meta data to be completed Start links to css print css for later <link rel=\"stylesheet\"\r\n   type=\"text/css\"\r\n   media=\"print\" href=\"/css/print-template1.css\" /> End links to css Start links to js End links to js Start all navigation elements Start navigation The National Archives home More resources for teachers search not to be to be activated until after launch <img src=\"/images/menu/dottymenustripe.gif\" alt=\"\" width=\"15\" height=\"27\" border=\"0\" /><a href=\"/search.htm\"><img src=\"/images/menu/search.gif\" alt=\"Search\" width=\"42\" height=\"27\" border=\"0\" /></a> End of search comments End navigation End all navigation elements Start breadcrumbs You are here: Home > Education Service workshops > What is history? End breadcrumbs Start page body content Start page header"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "The National Archives home More resources for teachers You are here: Home > Education Service workshops > What is history?"
     },
     {
       "tag": "h1",
       "text": "Education Service workshops"
     },
     {
-      "tag": "div",
-      "text": "End page header"
-    },
-    {
       "tag": "h2",
       "text": "What is history? An introduction to working with original documents (Key stage 3, years 7 and 9)"
-    },
-    {
-      "tag": "div",
-      "text": "Start body text"
     },
     {
       "tag": "h3",
@@ -76,7 +72,11 @@
     },
     {
       "tag": "p",
-      "text": "Adobe Acrobat Reader is required to view or print PDF documents and can be downloaded free of charge Download Adobe Reader software The materials are provided in Adobe PDF format so that they are easy to print out.  Anyone with a visual impairment who is unable to use PDF documents should visit access.adobe.com for information about converting documents and versions of Adobe Reader with added accessibility features. If you are unable to print out the preparation materials and need us to send you a paper print out, please email education@nationalarchives.gov.uk or call 020 8392 5365 and leave a message stating the title of the workshop you want the materials for, your name, your school's name, and the date of your workshop."
+      "text": "Adobe Acrobat Reader is required to view or print PDF documents and can be downloaded free of charge Download Adobe Reader software"
+    },
+    {
+      "tag": "p",
+      "text": "The materials are provided in Adobe PDF format so that they are easy to print out.  Anyone with a visual impairment who is unable to use PDF documents should visit access.adobe.com for information about converting documents and versions of Adobe Reader with added accessibility features. If you are unable to print out the preparation materials and need us to send you a paper print out, please email education@nationalarchives.gov.uk or call 020 8392 5365 and leave a message stating the title of the workshop you want the materials for, your name, your school's name, and the date of your workshop."
     },
     {
       "tag": "h3",
@@ -140,7 +140,7 @@
     },
     {
       "tag": "div",
-      "text": "The Learning Curve website: www.learningcurve.gov.uk To book a workshop www.nationalarchives.gov.uk/contact/form/educationserviceform.asp?id=7&action=1 To find out more about onsite workshops www.nationalarchives.gov.uk/educationservice/ Start top of page link Top of page End top of page link"
+      "text": "The Learning Curve website: www.learningcurve.gov.uk To book a workshop www.nationalarchives.gov.uk/contact/form/educationserviceform.asp?id=7&action=1 To find out more about onsite workshops www.nationalarchives.gov.uk/educationservice/ Top of page"
     }
   ]
 }

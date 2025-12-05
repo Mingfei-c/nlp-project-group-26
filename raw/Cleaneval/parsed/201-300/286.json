@@ -3,12 +3,12 @@
   "file_number": "286",
   "content_hash": "4bb5dce075bb2a9085c2950a5818cf40ef4e40fc81bb8a78240d99d0e589f286",
   "total_blocks": 90,
-  "retained_blocks": 8,
-  "ignored_blocks": 82,
+  "retained_blocks": 9,
+  "ignored_blocks": 81,
   "blocks": [
     {
       "tag": "div",
-      "text": "Get Started Today! Call 1-800-942-9475 Online Marketing Ecommerce Websites Web Design News Room Portfolio About BizAtomic Contact Us #BeginLibraryItem \"/Library/live-chat.lbi\" #EndLibraryItem #BeginLibraryItem \"/Library/request-omp.lbi\" #EndLibraryItem #BeginLibraryItem \"/Library/call-now.lbi\" #EndLibraryItem InstanceBeginEditable name=\"body\""
+      "text": "Get Started Today! Call 1-800-942-9475 Online Marketing Ecommerce Websites Web Design News Room Portfolio About BizAtomic Contact Us"
     },
     {
       "tag": "h1",
@@ -36,7 +36,11 @@
     },
     {
       "tag": "div",
-      "text": "InstanceEndEditable Questions & Answers Employment ©2005 BizAtomic and its licensors. All rights reserved. Use of this web site constitutes acceptance of the Terms of Use and Privacy Policy . BizAtomic designs, develops, hosts, and maintains websites, Ecommerce catalogs, shopping carts, web databases, and website applications. BizAtomic software and services offer scalability, reliability and security, and are flexible enough to adjust to your every need. If you are ready to take advantage of all BizAtomic has to offer, call us at 1-800-942-9475 or email us today. InstanceBeginEditable name=\"w3c\" InstanceEndEditable"
+      "text": "Questions & Answers Employment"
+    },
+    {
+      "tag": "div",
+      "text": "©2005 BizAtomic and its licensors. All rights reserved. Use of this web site constitutes acceptance of the Terms of Use and Privacy Policy . BizAtomic designs, develops, hosts, and maintains websites, Ecommerce catalogs, shopping carts, web databases, and website applications. BizAtomic software and services offer scalability, reliability and security, and are flexible enough to adjust to your every need. If you are ready to take advantage of all BizAtomic has to offer, call us at 1-800-942-9475 or email us today."
     }
   ]
 }

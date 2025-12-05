@@ -3,12 +3,12 @@
   "file_number": "557",
   "content_hash": "69a7b52b0b1891e55d572ce150c20e2cd5964b0d77d6f2b971713120ed88dfbe",
   "total_blocks": 30,
-  "retained_blocks": 5,
-  "ignored_blocks": 25,
+  "retained_blocks": 4,
+  "ignored_blocks": 26,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd\" saved from url=(0041)http://www.manutd.com/errorRedirector.asp MAIN HEADER main header black bar LEFT HAND SIDE AND MAIN CONTENT LEFT HAND SIDE MAIN NAV skip navigation HOME NEWS & FEATURES FIXTURES & RESULTS PLAYERS & STAFF TICKETS & TRAVEL ONE UNITED FANZONE CLUB OLD TRAFFORD CONFERENCES & EVENTS MUTV MU MOBILE MU FINANCE SHOPPING MATCH CONSOLE end navigation DEVICES"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd\" skip navigation HOME NEWS & FEATURES FIXTURES & RESULTS PLAYERS & STAFF TICKETS & TRAVEL ONE UNITED FANZONE CLUB OLD TRAFFORD CONFERENCES & EVENTS MUTV MU MOBILE MU FINANCE SHOPPING MATCH CONSOLE end navigation"
     },
     {
       "tag": "h3",
@@ -21,10 +21,6 @@
     {
       "tag": "h3",
       "text": "OFFICIAL SPONSORS"
-    },
-    {
-      "tag": "div",
-      "text": "RIGHT HAND SIDE JavaScript Tag // Tag for network 512: Aura Sports Ltd // Website: Man Utd // Page: Home // Placement: Home Skyscraper (1113532) // created at: Sep 5, 2006 10:34:55 AM End of JavaScript Tag FOOTER START Nielsen//NetRatings SiteCensus V5.1 strict XHTML COPYRIGHT 2005 Nielsen//NetRatings END Nielsen//NetRatings SiteCensus V5.1"
     }
   ]
 }

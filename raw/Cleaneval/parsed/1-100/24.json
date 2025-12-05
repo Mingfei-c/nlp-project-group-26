@@ -3,36 +3,36 @@
   "file_number": "24",
   "content_hash": "ac141be122828845a46ebc8da82496153753388bcc98d3e3225cc2b0260c83a3",
   "total_blocks": 257,
-  "retained_blocks": 11,
-  "ignored_blocks": 246,
+  "retained_blocks": 13,
+  "ignored_blocks": 244,
   "blocks": [
     {
       "tag": "div",
-      "text": "<wire_Hertz>This week's To explain a job loss to a future employer, the Job Doc says, prepare a ''reason for leaving'' statement that is truthful and acceptable. Also: IT workers may need to reevaluate careers... Staying, complaining won't help your career... Be upfront about need for flexible schedule.</wire_Hertz>\r\n<wire_header>Job Doc: Explaining loss of positions to a future employer</wire_header>\r\n<wire_date>6/20/2004</wire_date>\r\n<wire_source>By Andrea Wolf, Globe Correspondent</wire_source>\r\n// passthru [an error occurred while processing this directive] passthru Employer Login &nbsp;<a href=\"http://jobs.boston.com/texis/jm/jobPostForm.html?lookid=boston&jp=C\" class=\"lnavemplink\">Post Jobs</a><br />// Post a Job HR Center Media Kit Employer FAQ Post Resume View Profile Email Alerts Search Jobs Top Jobs Top Employers All Employers Jobs Directory Biotechnology Education K-12 Finance Healthcare Higher Ed. Hospitality Legal Retail Technology Career Events Career Fairs <img src=\"http://cache.bostonworks.boston.com/images/facelift/lnav_greenarrow.gif\" width=\"10\" height=\"10\" border=\"0\"> <a href=\"/events/job_fairs/fairs03/bighelpfenway.shtml\" class=\"lnavlinksm\">The Big Help<span class=\"lnavlinknounder\"><br />\r\n<img src=\"http://cache.bostonworks.boston.com/images/spacer.gif\" width=\"14\" height=\"10\" border=\"0\"></span>Job Fair at<span class=\"lnavlinknounder\"><br />\r\n<img src=\"http://cache.bostonworks.boston.com/images/spacer.gif\" width=\"14\" height=\"10\" border=\"0\"></span>Fenway - 9/10</a><br />// <img src=\"http://cache.bostonworks.boston.com/images/facelift/lnav_greenarrow.gif\" width=\"10\" height=\"10\" border=\"0\"> <a href=\"/events/job_fairs/fairs05/jobcity.shtml\" class=\"lnavlinksm\">Job City - 4/27</a><br clear=\"all\" />//\r\n\r\n<img src=\"http://cache.bostonworks.boston.com/images/facelift/lnav_greenarrow.gif\" width=\"10\" height=\"10\" border=\"0\"> <a href=\"http://bostonworks.boston.com/events/job_fairs/fairs06/lifesciences_virtual.shtml\" class=\"lnavlinksm\">Life Sciences <span class=\"lnavlinknounder\"><br />\r\n<img src=\"http://cache.bostonworks.boston.com/images/spacer.gif\" width=\"14\" height=\"10\" border=\"0\"></span>Virtual Career\r\n<span class=\"lnavlinknounder\"><br />\r\n<img src=\"http://cache.bostonworks.boston.com/images/spacer.gif\" width=\"14\" height=\"10\" border=\"0\"></span>Fair - 3/7<span class=\"lnavlinknounder\">\r\n<br /> <img src=\"http://cache.bostonworks.boston.com/images/spacer.gif\" width=\"14\" height=\"10\" border=\"0\"></span>Braintree</a><br />// Open Houses News Employer Info. The Job Blog &nbsp;<a href=\"/careertv/\" class=\"lnavlink\">Career TV</a><br clear=\"all\" />// Planning Resumes Networking Interviewing Salary Coaching Career Dev. & Education Tools"
-    },
-    {
-      "tag": "p",
-      "text": "E-Mail This Article passthru View Archive Articles Explaining loss of positions to a future employer By Andrea Wolf, Globe Correspondent, 6/20/04 At the end of 2000, Iwas laid off from a job that Iloved. The position was rewarding and the company was a great place to work. Iwas devastated and jumped at the first job opportunity that came my way. Iwasn't thrilled with the job but Iworked hard and was rewarded with salary increases, bonuses, and company perks during my three years of employment. Last month, Ifound myself standing in the unemployment line again. Although both layoffs were due to poor business climates and not performance, Ifeel embarrassed and discouraged. Ihave stellar references from both employers, including the managers who made the layoff decisions, but Iam concerned about what future employers may think. Ialso wonder if Imay be in the wrong profession since Ihave been dispensable to two employers. Do you have any suggestions as to how Ican handle the interview process to put a more positive spin on the situation?"
+      "text": "[an error occurred while processing this directive]"
     },
     {
       "tag": "div",
-      "text": "passthru More from BostonWorks begin 00bostonworksmain poll code // end 00bostonworksmain poll code //"
+      "text": "Employer Login Post a Job HR Center Media Kit Employer FAQ Post Resume View Profile Email Alerts Search Jobs Top Jobs Top Employers All Employers Jobs Directory Biotechnology Education K-12 Finance Healthcare Higher Ed. Hospitality Legal Retail Technology Career Events Career Fairs Open Houses News Employer Info. The Job Blog Planning Resumes Networking Interviewing Salary Coaching Career Dev. & Education Tools"
     },
     {
       "tag": "p",
-      "text": "Featured Articles: There are other ways to save"
-    },
-    {
-      "tag": "div",
-      "text": "<p class=\"cornerstonelink\">\r\n<b><span style=\"color:#cc0000;\">A BIG HELP SPECIAL</span><br />Job Hunt 101:</b><br />\r\n&#149; <a href=\"/globe/articles/091105_resume.html\" class=\"cornerstonelink\">Fixing your resume</a><br />\r\n&#149; <a href=\"/globe/articles/091105_resume_rework.html\" class=\"cornerstonelink\">Sample resume fixes</a><br />\r\n&#149; <a href=\"/globe/articles/091105_interview.html\" class=\"cornerstonelink\">Preparing for an interview</a><br />\r\n&#149; <a href=\"/globe/articles/091105_cover_letter.html\" class=\"cornerstonelink\">Great cover letters</a><br />\r\n&#149; <a href=\"/globe/articles/091105_college_advice.html\" class=\"cornerstonelink\">Job advice from recent grads</a><br />\r\n&#149; <a href=\"/globe/articles/091105_perks.html\" class=\"cornerstonelink\">Job perks no longer outrageous</a><br />\r\n&#149; <a href=\"/globe/articles/091105_coaching.html\" class=\"cornerstonelink\">Coaches boost midcareer seekers</a><br />//"
+      "text": "E-Mail This Article"
     },
     {
       "tag": "p",
-      "text": "Balancing Acts Welcome home, dear Climb Have a plan to fight workplace harassment The Corporate Curmudgeon Is anyone really listening? Job Doc Prove that you've changed Transitions Focusing inward View from the Cube Making a case for naps Who's, What, Where This week's promotions The Job Blog Keep up to date with career news from around the web RSS XML Feed ( What's this? )"
+      "text": "View Archive Articles"
+    },
+    {
+      "tag": "p",
+      "text": "Explaining loss of positions to a future employer By Andrea Wolf, Globe Correspondent, 6/20/04 At the end of 2000, Iwas laid off from a job that Iloved. The position was rewarding and the company was a great place to work. Iwas devastated and jumped at the first job opportunity that came my way. Iwasn't thrilled with the job but Iworked hard and was rewarded with salary increases, bonuses, and company perks during my three years of employment. Last month, Ifound myself standing in the unemployment line again. Although both layoffs were due to poor business climates and not performance, Ifeel embarrassed and discouraged. Ihave stellar references from both employers, including the managers who made the layoff decisions, but Iam concerned about what future employers may think. Ialso wonder if Imay be in the wrong profession since Ihave been dispensable to two employers. Do you have any suggestions as to how Ican handle the interview process to put a more positive spin on the situation?"
     },
     {
       "tag": "div",
-      "text": "<p class=\"secondraillg\"><a href=\"http://www.globesanta.org/\" class=\"teasesmallred\" style=\"text-decoration:none;\"><b>Give to Globe Santa</b></a><br />\r\n<a href=\"http://www.globesanta.org/\"><img src=\"/images/facelift/logo_globesanta.gif\" alt=\"Globe Santa\" vspace=\"4\" border=\"0\" align=\"right\" /></a>\r\n<a href=\"http://www.globesanta.org/donation.shtml\" class=\"teasesmallred\">Your donation</a> will provide toys for needy children in the Greater Boston area.</p>//"
+      "text": "More from BostonWorks"
+    },
+    {
+      "tag": "p",
+      "text": "Featured Articles: There are other ways to save Balancing Acts Welcome home, dear Climb Have a plan to fight workplace harassment The Corporate Curmudgeon Is anyone really listening? Job Doc Prove that you've changed Transitions Focusing inward View from the Cube Making a case for naps Who's, What, Where This week's promotions The Job Blog Keep up to date with career news from around the web RSS XML Feed ( What's this? )"
     },
     {
       "tag": "p",
@@ -48,7 +48,15 @@
     },
     {
       "tag": "div",
-      "text": "<script language=\"JavaScript\">\r\n!--\r\nvar email = \"\";\r\nvar hostname = \"\";\r\nvar linktext = email + \"@\" + hostname;\r\ndocument.write('<a href=\"' + 'mail' + 'to:' + email + '@' + hostname + '\">' + linktext + '</a>')\r\n--\r\n</script>\r\n// E-Mail This Article passthru View Archive Articles passthru ---- Begin OAS MJX Ad tag ---- ---- Begin OAS MJX Ad tag ---- ---- Begin OAS MJX Ad tag ---- ---- Begin OAS MJX Ad tag ---- ---- Begin OAS MJX Ad tag ---- ---- Begin OAS MJX Ad tag ---- ---- Begin OAS MJX Ad tag ---- passthru About BostonWorks | Press Releases | Advertise | Copyright 2005 | Help/Feedback | User Agreement | Privacy Policy SiteCatalyst code version: G.5. Copyright 1997-2003 Omniture, Inc. More info available at http://www.omniture.com /DO NOT REMOVE/ End SiteCatalyst code version: G.5. // Begin Tacoda tag// End Tacoda tag//"
+      "text": "E-Mail This Article"
+    },
+    {
+      "tag": "div",
+      "text": "View Archive Articles"
+    },
+    {
+      "tag": "div",
+      "text": "About BostonWorks | Press Releases | Advertise | Copyright 2005 | Help/Feedback | User Agreement | Privacy Policy"
     }
   ]
 }

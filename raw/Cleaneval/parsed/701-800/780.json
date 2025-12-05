@@ -3,12 +3,12 @@
   "file_number": "780",
   "content_hash": "a24808e810c97e43b0e324e80e54fec759647c20412effc443e4185ae231c1e2",
   "total_blocks": 64,
-  "retained_blocks": 3,
-  "ignored_blocks": 61,
+  "retained_blocks": 4,
+  "ignored_blocks": 60,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" start info COPYRIGHT (C) urban75 - all rights reserved Designed and produced by urban75 graphics in London, England Contact Mike Slocombe: head@urban75.com end info start navbar section end navbar section body content"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
     },
     {
       "tag": "p",
@@ -16,7 +16,11 @@
     },
     {
       "tag": "div",
-      "text": "right hand menu » Protest photos » Critical Mass » Mayday 2003 DSEI REPORTS: » DSEi homepage » DSEi report » 'Armless fun' » Media comment LEGAL INFO: » Section 44 » Section 60 » Arrest rights » Legal info » Action/Events FEEDBACK/NEWS: » u75 boards external links CAMPAIGN LINKS: CAAT Disarm DSEi Indymedia CAAT enranger.net EXTERNAL LINKS: BBC background 'Shop for weapons' Arms sale & the law The Arms Trade external links ends Give us some feedback! » Write to us » Post on the boards right hand menu ends footer u75 home - action - mag - photos - rave - drugs - punch - football - brixton - useless - boards - search - help/FAQs - copyright statement - design - contact end footer"
+      "text": "» Protest photos » Critical Mass » Mayday 2003 DSEI REPORTS: » DSEi homepage » DSEi report » 'Armless fun' » Media comment LEGAL INFO: » Section 44 » Section 60 » Arrest rights » Legal info » Action/Events FEEDBACK/NEWS: » u75 boards CAMPAIGN LINKS: CAAT Disarm DSEi Indymedia CAAT enranger.net EXTERNAL LINKS: BBC background 'Shop for weapons' Arms sale & the law The Arms Trade Give us some feedback! » Write to us » Post on the boards"
+    },
+    {
+      "tag": "div",
+      "text": "u75 home - action - mag - photos - rave - drugs - punch - football - brixton - useless - boards - search - help/FAQs - copyright statement - design - contact"
     }
   ]
 }

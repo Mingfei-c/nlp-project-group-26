@@ -3,36 +3,20 @@
   "file_number": "571",
   "content_hash": "0757a7fb70c89d6e5602d947b3daeb2c8c75e7190eabd364e7e4ef9a0356b6d7",
   "total_blocks": 65,
-  "retained_blocks": 16,
-  "ignored_blocks": 49,
+  "retained_blocks": 7,
+  "ignored_blocks": 58,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "msnavigation mstheme"
-    },
     {
       "tag": "p",
       "text": "Contact Greer"
     },
     {
-      "tag": "div",
-      "text": "mstheme msnavigation mstheme"
-    },
-    {
       "tag": "h1",
-      "text": "mstheme KEEPING\r\nTHINGS MOVING: A To Do List and Items to Help You\r\nExecute, Control, and Close Out Your Project mstheme"
+      "text": "KEEPING\r\nTHINGS MOVING: A To Do List and Items to Help You\r\nExecute, Control, and Close Out Your Project"
     },
     {
       "tag": "p",
-      "text": "(This is a sample tool from The\r\nProject Manager's Partner , by Michael Greer.) (Get here by mistake? Return to Michael Greer's Project Management Resources\r\nhome page. )"
-    },
-    {
-      "tag": "div",
-      "text": "msthemeseparator"
-    },
-    {
-      "tag": "p",
-      "text": "Instructions : After your project plan is\r\napproved and you are up and running, you can use the checklist below and related\r\nitems to help you keep things moving according to your plan. Go through this\r\nlist at least weekly for each project you are managing. CHECK YOUR PROJECTS SCOPE. Refresh your memory about your projects goals and\r\nboundaries. In particular, make sure you have a clear picture of what the\r\ndesired results should be at this point relative to deliverables, schedule\r\ncosts, quality, and so on. (See Worksheet: Project Scope Statement* under Action\r\nItem: Describe Project Scope if you dont already have a formal scope\r\nstatement.*) CHECK YOUR DELIVERABLES. Analyze the status of each project deliverable. Are they\r\nevolving as planned? If appropriate: 1. Locate lists of quality criteria that may be applied to\r\ninspect the quality and completeness of the deliverables at this stage of the\r\nproject. 2. Check contractors proposals or contracts to make sure\r\nyou know what they should be supplying at this point. 3. Inspect all project deliverables. 4. Decide whether to accept inspected deliverables or to\r\nrequire rework. (See Worksheet: Project Deliverables Status Analyzer .*) CHECK YOUR SCHEDULE. Examine your milestones, key dates, and critical path. Are you\r\nwhere you need to be? ANALYZE VARIANCES (DEVIATIONS FROM PLAN) BY COMPARING\r\nESTIMATED TO ACTUAL. 1. Are activities taking longer than planned? (Are you\r\nexceeding estimates of duration?) 2. Are you using more resource hours than you planned? 3. Are your actual costs exceeding your estimated costs? 4. If minor variances are discovered (variances that can be\r\nresolved easily without changing the plan or scope), then resolve them. 5. If major variances are discovered (variances that change\r\nthe scope or constitute significant project issues), then handle them as\r\ndescribed in the steps below."
+      "text": "(This is a sample tool from The\r\nProject Manager's Partner , by Michael Greer.) (Get here by mistake? Return to Michael Greer's Project Management Resources\r\nhome page. ) Instructions : After your project plan is\r\napproved and you are up and running, you can use the checklist below and related\r\nitems to help you keep things moving according to your plan. Go through this\r\nlist at least weekly for each project you are managing. CHECK YOUR PROJECTS SCOPE. Refresh your memory about your projects goals and\r\nboundaries. In particular, make sure you have a clear picture of what the\r\ndesired results should be at this point relative to deliverables, schedule\r\ncosts, quality, and so on. (See Worksheet: Project Scope Statement* under Action\r\nItem: Describe Project Scope if you dont already have a formal scope\r\nstatement.*) CHECK YOUR DELIVERABLES. Analyze the status of each project deliverable. Are they\r\nevolving as planned? If appropriate: 1. Locate lists of quality criteria that may be applied to\r\ninspect the quality and completeness of the deliverables at this stage of the\r\nproject. 2. Check contractors proposals or contracts to make sure\r\nyou know what they should be supplying at this point. 3. Inspect all project deliverables. 4. Decide whether to accept inspected deliverables or to\r\nrequire rework. (See Worksheet: Project Deliverables Status Analyzer .*) CHECK YOUR SCHEDULE. Examine your milestones, key dates, and critical path. Are you\r\nwhere you need to be? ANALYZE VARIANCES (DEVIATIONS FROM PLAN) BY COMPARING\r\nESTIMATED TO ACTUAL. 1. Are activities taking longer than planned? (Are you\r\nexceeding estimates of duration?) 2. Are you using more resource hours than you planned? 3. Are your actual costs exceeding your estimated costs? 4. If minor variances are discovered (variances that can be\r\nresolved easily without changing the plan or scope), then resolve them. 5. If major variances are discovered (variances that change\r\nthe scope or constitute significant project issues), then handle them as\r\ndescribed in the steps below."
     },
     {
       "tag": "div",
@@ -44,31 +28,11 @@
     },
     {
       "tag": "div",
-      "text": "Complete evaluation checklists, if applicable, and file them as\r\npart of the official project records. msthemeseparator"
+      "text": "Complete evaluation checklists, if applicable, and file them as\r\npart of the official project records."
     },
     {
       "tag": "p",
-      "text": "* This item is located in The\r\nProject Manager's Partner , by Michael Greer"
-    },
-    {
-      "tag": "div",
-      "text": "msthemeseparator"
-    },
-    {
-      "tag": "p",
-      "text": "Do you like this tool? The  latest edition of The Project Manager's Partner: A Step-by-Step\r\nGuide to Project Management contains 57 tools, checklists, and\r\nguidelines to help project managers. For more information, click on the link above or phone HRD Press at\r\n(800) 822-2801. Would you like a custom-tailored, on-site PM workshop for your organization? Click here to check out the\r\npossibilities or send an e-mail to info@michaelgreer.com ."
-    },
-    {
-      "tag": "div",
-      "text": "msthemeseparator"
-    },
-    {
-      "tag": "p",
-      "text": "(C) Copyright 2004 from Michael\r\nGreer's Project Management Resources web site.\r\n The URL is http://www.michaelgreer.com .\r\nFor more information, send e-mail to info@michaelgreer.com . -- Feel free to copy and distribute for\r\ninformational (not-for-profit) purposes. Return to Michael Greer's Project Management Resources\r\nhome page."
-    },
-    {
-      "tag": "div",
-      "text": "mstheme msnavigation msnavigation"
+      "text": "* This item is located in The\r\nProject Manager's Partner , by Michael Greer Do you like this tool? The  latest edition of The Project Manager's Partner: A Step-by-Step\r\nGuide to Project Management contains 57 tools, checklists, and\r\nguidelines to help project managers. For more information, click on the link above or phone HRD Press at\r\n(800) 822-2801. Would you like a custom-tailored, on-site PM workshop for your organization? Click here to check out the\r\npossibilities or send an e-mail to info@michaelgreer.com . (C) Copyright 2004 from Michael\r\nGreer's Project Management Resources web site.\r\n The URL is http://www.michaelgreer.com .\r\nFor more information, send e-mail to info@michaelgreer.com . -- Feel free to copy and distribute for\r\ninformational (not-for-profit) purposes. Return to Michael Greer's Project Management Resources\r\nhome page."
     }
   ]
 }

@@ -3,13 +3,9 @@
   "file_number": "57",
   "content_hash": "0f763c00e21f43bb011a8b0e5fbcb2c3591abf43de15c7336bb8d8d1ece9b4b0",
   "total_blocks": 124,
-  "retained_blocks": 75,
-  "ignored_blocks": 49,
+  "retained_blocks": 70,
+  "ignored_blocks": 54,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "Begin #content - Centers all content and provides edges for floated columns Blog Header"
-    },
     {
       "tag": "h1",
       "text": "SyriaComment.com"
@@ -19,16 +15,8 @@
       "text": "Thoughts on Syrian politics, history and religion."
     },
     {
-      "tag": "div",
-      "text": "Begin #main - Contains main-column blog content"
-    },
-    {
       "tag": "h2",
       "text": "Tuesday, April 19, 2005"
-    },
-    {
-      "tag": "div",
-      "text": "Begin .post"
     },
     {
       "tag": "h3",
@@ -61,10 +49,6 @@
     {
       "tag": "p",
       "text": "posted by Joshua Landis @ 4/19/2005 02:47:00 AM 22 comments links to this post"
-    },
-    {
-      "tag": "div",
-      "text": "End .post Begin #comments"
     },
     {
       "tag": "h4",
@@ -263,10 +247,6 @@
       "text": "Create a Link << Home"
     },
     {
-      "tag": "div",
-      "text": "End #comments End #main Begin #sidebar Begin #profile-container End #profile Begin .box"
-    },
-    {
       "tag": "h3",
       "text": "Syr Com Home Joshua \n            Landis Home"
     },
@@ -300,7 +280,7 @@
     },
     {
       "tag": "div",
-      "text": "powered by FreeFind End .box End #sidebar"
+      "text": "powered by FreeFind"
     },
     {
       "tag": "p",

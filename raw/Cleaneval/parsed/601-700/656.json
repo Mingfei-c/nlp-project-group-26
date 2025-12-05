@@ -3,12 +3,12 @@
   "file_number": "656",
   "content_hash": "af8bf4ba84acca129e77ac25d54babbe064469ab35f7e8fa0352b0ca98a4570a",
   "total_blocks": 110,
-  "retained_blocks": 36,
-  "ignored_blocks": 74,
+  "retained_blocks": 35,
+  "ignored_blocks": 75,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" START HEADER END HEADER PAGE SPECIFIC STYLE SHEETS END PAGE SPECIFIC STYLE SHEETS PAGE SPECIFIC STYLES END PAGE SPECIFIC STYLES PAGE SPECIFIC JAVASCRIPT END PAGE SPECIFIC JAVASCRIPT START BANNER 728x90 header 728x90 header end END BANNER START Middle column START CENTER CONTENT google_ad_section_start"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\""
     },
     {
       "tag": "h2",
@@ -120,11 +120,7 @@
     },
     {
       "tag": "p",
-      "text": "Faraz Rasheed is the Masters Research student at Kyung Hee University, South Korea and a professional technical writer of Programmers Heaven. He graduated from the University of Karachi, Pakistan. He has a keen interest in the design and development of software systems. He has worked in .Net and Java application development platforms. Currently, he is working for the Ubiquitous Computing Research Project at Real Time & Multimedia Lab of Kyung Hee University ( http://oslab.khu.ac.kr ). He can be accessed via faraz@oslab.khu.ac.kr or frazrasheed@yahoo.com Back Rendering time: 0 Total Rendering time: 0.03125"
-    },
-    {
-      "tag": "div",
-      "text": "google_ad_section_end END CENTER CONTENT START LINKS CONTROL Sponsored links new partners box"
+      "text": "Faraz Rasheed is the Masters Research student at Kyung Hee University, South Korea and a professional technical writer of Programmers Heaven. He graduated from the University of Karachi, Pakistan. He has a keen interest in the design and development of software systems. He has worked in .Net and Java application development platforms. Currently, he is working for the Ubiquitous Computing Research Project at Real Time & Multimedia Lab of Kyung Hee University ( http://oslab.khu.ac.kr ). He can be accessed via faraz@oslab.khu.ac.kr or frazrasheed@yahoo.com Back"
     },
     {
       "tag": "h2",
@@ -132,7 +128,7 @@
     },
     {
       "tag": "div",
-      "text": "Partners ASP Alliance Code Project Developers Dex Developer Fusion DevGuru Planet Source Code Tek-Tips Forums More Partners Cairo hotels Price Comparison Programming discussions Costa Del Sol Property More Partners Web site services Domain Names UK UK Domain Registration end new partners box END LINKS CONTROL END MIDDLE COLUMN START RIGHT COL Right column Right column banner"
+      "text": "Partners ASP Alliance Code Project Developers Dex Developer Fusion DevGuru Planet Source Code Tek-Tips Forums More Partners Cairo hotels Price Comparison Programming discussions Costa Del Sol Property More Partners Web site services Domain Names UK UK Domain Registration"
     },
     {
       "tag": "h2",
@@ -140,7 +136,7 @@
     },
     {
       "tag": "div",
-      "text": "eWeek The essential technology information source for builders of e-business.... subscribe now Right column end END RIGHT CONTROL START LEFT CONTROL Left Column Login Not logged in box start Username Password Auto-login Register Why register? Forgot Password? Not logged in box end Links"
+      "text": "eWeek The essential technology information source for builders of e-business.... subscribe now Username Password Auto-login Register Why register? Forgot Password?"
     },
     {
       "tag": "p",
@@ -148,7 +144,7 @@
     },
     {
       "tag": "div",
-      "text": "Advanced Search Left column banner Newsletter Email More information END LEFT CONTROL START FOOTER Newsletter | Submit Content | About | Advertising | Awards | Contact Us | Link to us | © 1996-2006 128K-Communications Ltd. All rights reserved. Reproduction in whole or in part, in any form or medium without express written permission is prohibited. Violators of this policy may be subject to legal action. Please read Terms Of Use and Privacy Statement for more information. Development by Synchron Data . END FOOTER"
+      "text": "Advanced Search Email More information Newsletter | Submit Content | About | Advertising | Awards | Contact Us | Link to us | © 1996-2006 128K-Communications Ltd. All rights reserved. Reproduction in whole or in part, in any form or medium without express written permission is prohibited. Violators of this policy may be subject to legal action. Please read Terms Of Use and Privacy Statement for more information. Development by Synchron Data ."
     }
   ]
 }

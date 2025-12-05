@@ -3,13 +3,9 @@
   "file_number": "420",
   "content_hash": "571b35096d3abaf75ec05b48e1cc00f1b03996be5c534e3c7f064523a038c08a",
   "total_blocks": 96,
-  "retained_blocks": 42,
-  "ignored_blocks": 54,
+  "retained_blocks": 40,
+  "ignored_blocks": 56,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "PRECISIONCLICK.COM 2006 (C) Ad Format: Pop-Under 1 PRECISIONCLICK.COM 2006 (C) Ad Format: Pop-Under 1 PRECISIONCLICK.COM 2006 (C) Ad Format: Pop-Under 2 PRECISIONCLICK.COM 2006 (C) Ad Format: Pop-Under 2 BEGIN STANDARD TAG CPX - 468 x 60 TOP - filmsite.org: Run-of-site - DO NOT MODIFY END 468x60 TOP TAG"
-    },
     {
       "tag": "h1",
       "text": "The Crowd (1928)"
@@ -169,10 +165,6 @@
     {
       "tag": "p",
       "text": "Created in 1996-2006 © by Tim Dirks. All rights reserved."
-    },
-    {
-      "tag": "blockquote",
-      "text": "BEGIN STANDARD TAG CPX - 468 x 60 BOTTOM - greatestfilms.org: Run-of-site - DO NOT MODIFY END 468x60 BOTTOM TAG"
     }
   ]
 }

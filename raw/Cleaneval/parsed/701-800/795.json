@@ -8,7 +8,7 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "page container contains all other div containers topmenu container hidden for browsers with stylesheet support - contains only skip navigation link Skip Navigation common  navigation Navigation start Home | A-Zindex | FAQ | Accessibility | Site map | Contact us | <a href=\"help.htm\" accesskey=\"6\" title=\"Help\">Help</a> | Text only | Change contrast | Print friendly version Navigation stop two forms side by side - search box and jumpmenu Search homepagecontent container has a bg image for the 4 columns 1st column - leftmenu container Navigation start"
+      "text": "Skip Navigation Home | A-Zindex | FAQ | Accessibility | Site map | Contact us | Text only | Change contrast | Print friendly version Search"
     },
     {
       "tag": "p",
@@ -16,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "Navigation stop <div id=\"mainsections\"> navigation slot was here </div> 2nd column - news container Navigation start Home Navigation stop"
+      "text": "Home"
     },
     {
       "tag": "h1",
@@ -36,7 +36,7 @@
     },
     {
       "tag": "div",
-      "text": "homefeatures footer container for copyright, disclaimer etc Navigation start © Walsall Council 2006 | Copyright | Disclaimer | Privacy statement Navigation stop end homepagecontent"
+      "text": "© Walsall Council 2006 | Copyright | Disclaimer | Privacy statement"
     }
   ]
 }

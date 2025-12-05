@@ -3,12 +3,16 @@
   "file_number": "291",
   "content_hash": "9f1feef23e29c6e2cc2685a69d91bd7ca0bfafb85f9a240ef680a554051b9b7d",
   "total_blocks": 111,
-  "retained_blocks": 18,
-  "ignored_blocks": 93,
+  "retained_blocks": 22,
+  "ignored_blocks": 89,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" Home About \n            Us Products Delivery Contact \n            Us Testaments Discounts Box \n            Clever Moving \n            Tips T&C's View \n            Cart Resellers earn extra cash Removal box quality Site \n            Map"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Home About \n            Us Products Delivery Contact \n            Us Testaments Discounts Box \n            Clever Moving \n            Tips T&C's View \n            Cart Resellers earn extra cash Removal box quality Site \n            Map"
     },
     {
       "tag": "p",
@@ -40,7 +44,11 @@
     },
     {
       "tag": "p",
-      "text": "Make sure that you have informed each of these utilities companies that \n        you are moving home and if possible, see if you can get the account simply \n        changed over rather than having them cut off. This will save your buyers \n        having to pay re-connection charges once they move in. Gas Cable/Satellite TV Water Broadband Connection Electricity Telephone"
+      "text": "Make sure that you have informed each of these utilities companies that \n        you are moving home and if possible, see if you can get the account simply \n        changed over rather than having them cut off. This will save your buyers \n        having to pay re-connection charges once they move in."
+    },
+    {
+      "tag": "p",
+      "text": "Gas Cable/Satellite TV Water Broadband Connection Electricity Telephone"
     },
     {
       "tag": "h2",
@@ -48,7 +56,11 @@
     },
     {
       "tag": "p",
-      "text": "There may be many different companies that service your home and these \n        will also need some action unless for instance you still want all of your \n        post turning up at your old address. Post (Redirection) Cleaner (Cancelled) Milk (Cancelled) Newspapers (Cancelled) Window Cleaner (Cancelled) Other [               ]"
+      "text": "There may be many different companies that service your home and these \n        will also need some action unless for instance you still want all of your \n        post turning up at your old address."
+    },
+    {
+      "tag": "p",
+      "text": "Post (Redirection) Cleaner (Cancelled) Milk (Cancelled) Newspapers (Cancelled) Window Cleaner (Cancelled) Other [               ]"
     },
     {
       "tag": "h2",
@@ -76,7 +88,11 @@
     },
     {
       "tag": "p",
-      "text": "We can't guarantee a smooth ride every step of the way but \n        follow these tips and they will go a long way to helping you avoid a lot \n        of the hassle that moving can create. Happy moving Boxes and Bubbles Ltd. Home | About \n        Us | Products | Delivery | Contact Us | Customer Testaments Discounts | Box Clever | Moving Tips | T&C's | View \n        Cart | Resellers | Removal \n        Box Quality | Sitemap"
+      "text": "We can't guarantee a smooth ride every step of the way but \n        follow these tips and they will go a long way to helping you avoid a lot \n        of the hassle that moving can create. Happy moving Boxes and Bubbles Ltd."
+    },
+    {
+      "tag": "p",
+      "text": "Home | About \n        Us | Products | Delivery | Contact Us | Customer Testaments Discounts | Box Clever | Moving Tips | T&C's | View \n        Cart | Resellers | Removal \n        Box Quality | Sitemap"
     }
   ]
 }

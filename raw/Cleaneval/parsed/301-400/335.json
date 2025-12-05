@@ -3,12 +3,16 @@
   "file_number": "335",
   "content_hash": "8516764a0435ce8106261fb23749c8bb103f39937937698f90498e22dbf77b38",
   "total_blocks": 29,
-  "retained_blocks": 4,
-  "ignored_blocks": 25,
+  "retained_blocks": 7,
+  "ignored_blocks": 22,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 3.2//EN\" T HE C ITY OF N EW Y ORK D EPARTMENT \r\n   OF E NVIRONMENTAL P ROTECTION"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 3.2//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "T HE C ITY OF N EW Y ORK D EPARTMENT \r\n   OF E NVIRONMENTAL P ROTECTION"
     },
     {
       "tag": "h3",
@@ -20,7 +24,15 @@
     },
     {
       "tag": "div",
-      "text": "Last updated #BeginLibraryItem \"/Library/Date.lbi\" #BeginDate format:Am1 June 27, 2005 #EndDate #EndLibraryItem New \r\n   York City's Water Supply The watersheds of the water supply\r\n       system The water quality of your drinking\r\n       water Watershed Maps See the current\r\n          reservoir levels The Groundwater System Ahistory of the water supply system About DEP | Help Center | Education Information | DEP News | Contact Us | DEP Homepage! #BeginLibraryItem \"/Library/NYC.GOV Footer.lbi\" Go to NYC.gov \r\nHome Page Contact \r\nUs | FAQs | Privacy \r\nStatement | Site Map #EndLibraryItem #BeginDate format:Am1 June 27, 2005 #EndDate"
+      "text": "Last updated June 27, 2005 New \r\n   York City's Water Supply The watersheds of the water supply\r\n       system The water quality of your drinking\r\n       water Watershed Maps See the current\r\n          reservoir levels The Groundwater System Ahistory of the water supply system About DEP | Help Center | Education Information | DEP News | Contact Us | DEP Homepage!"
+    },
+    {
+      "tag": "div",
+      "text": "Go to NYC.gov \r\nHome Page Contact \r\nUs | FAQs | Privacy \r\nStatement | Site Map"
+    },
+    {
+      "tag": "div",
+      "text": "June 27, 2005"
     }
   ]
 }

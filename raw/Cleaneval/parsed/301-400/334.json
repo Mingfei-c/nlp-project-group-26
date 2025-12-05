@@ -3,8 +3,8 @@
   "file_number": "334",
   "content_hash": "aabea7849ad05e9cba72ae3e31240e9fe41bbdf5b5742eda76e30ccf20834ac9",
   "total_blocks": 200,
-  "retained_blocks": 41,
-  "ignored_blocks": 159,
+  "retained_blocks": 42,
+  "ignored_blocks": 158,
   "blocks": [
     {
       "tag": "div",
@@ -160,7 +160,11 @@
     },
     {
       "tag": "div",
-      "text": "2006 : December : 5 entries November : 10 entries October : 7 entries September : 11 entries August : 10 entries View entire archive Random Link Obsidian Opera Amazon items I've linked to"
+      "text": "2006 : December : 5 entries November : 10 entries October : 7 entries September : 11 entries August : 10 entries View entire archive"
+    },
+    {
+      "tag": "div",
+      "text": "Random Link Obsidian Opera Amazon items I've linked to"
     },
     {
       "tag": "p",
@@ -168,7 +172,7 @@
     },
     {
       "tag": "div",
-      "text": "Home | Archives | Free Palm eBooks | What's \n\tYour Matrix Name? | My Projects Reading List | The \n\tBrew Site | Hack Bend | Contact Creative Commons License This work is licensed under a Creative Commons License . /Creative Commons License"
+      "text": "Home | Archives | Free Palm eBooks | What's \n\tYour Matrix Name? | My Projects Reading List | The \n\tBrew Site | Hack Bend | Contact This work is licensed under a Creative Commons License ."
     }
   ]
 }

@@ -3,20 +3,20 @@
   "file_number": "224",
   "content_hash": "b644a64e53e96b318d683fc389269efdb212683ba6394989331b1a5d1e015ccc",
   "total_blocks": 287,
-  "retained_blocks": 26,
-  "ignored_blocks": 261,
+  "retained_blocks": 37,
+  "ignored_blocks": 250,
   "blocks": [
     {
       "tag": "div",
-      "text": "--------UPLOAD AS index.htm 012101-----I N   L I S T I N G S     F O L D E R    - -------start scroller here ---------- HTML PUBLIC \"-//W3C//DTD HTML 3.2//EN\" ------------use as standard top of page table---------------- ------------end of  standard top of page table---------------- ------------second section of page----LEFT HAND COLUMN  --- ---begin-----y2k awards notes------------"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 3.2//EN\""
     },
     {
       "tag": "p",
-      "text": "Fort \n\t\t\t\t\tLauderdale Realtor International President's Premier Award Top One Percent of\n      Coldwell Banker Sales Associates Worldwide"
+      "text": "Fort \n\t\t\t\t\tLauderdale Realtor"
     },
     {
-      "tag": "div",
-      "text": "-END-------y2k awards notes------------ ------------second section of page---- END OF LEFT HAND  COLUMN --- ------------second section of page----RIGHT  HAND COLUMN FOR MAIN BODY COPY--  listings---"
+      "tag": "p",
+      "text": "International President's Premier Award Top One Percent of\n      Coldwell Banker Sales Associates Worldwide"
     },
     {
       "tag": "p",
@@ -28,7 +28,35 @@
     },
     {
       "tag": "p",
-      "text": "Waterfront Living as Good as it Gets in Wilton Manors Three Bedrooms, Two Baths, Two Car Garage Private Boat Dock, Lush Landscaping $650,000 click here for waterfront home for sale details Historic Victoria Park 1927 Landmark Mediterranean & Coach House Three Bedrooms, Two \n\t\t\t\tand a Half Baths $1,170,000 click here for details Brand \n\t\t\t\tNew Wilton Station East Exposure in Santa Fe Building Two \n\t\t\t\tBedrooms / Two Baths / Three Terraces Great amenities and Unbeatable Location $530,000 click here for details East \n\t\t\t\t\t\tExposure in 26th Street Lofts Building One Bedroom / Two Baths / Two \n\t\t\t\t\t\tTerraces City Views, Location Amenities & More $350,000 click here for details Brand New Lauderdale One Condominium Two Bedrooms / Two Bathrooms/ Two Parking \n\t\t\t\tSpaces Corner Unit, Great Light, Great Amenities $315,900 click here for details Villages at Sailboat Bend Two Bedrooms Two and a Half Baths $400,000 click here for details Brand New Lauderdale One Condominium Two Bedrooms / Two Bathrooms/ Two Parking \n\t\t\t\tSpaces Corner Unit, Great Light, Great Amenities $315,900 click here for details La Rive Luxury Condo 3 Beds / 3.5 Baths / 2 Terraces $1,075,000 Also available for Lease Pompano Beach Waterfront Ocean Access, No Fixed Bridges Three Bedrooms, Two Baths Totally Renovated $890,000 click here for details New Luxury \n\t\t\t\tIntracoastal Waterfront Condos Riverside Grande New luxury residences on the Intracoastal in Pompano Beach's newest, most private and most exclusive boutique condominium. 8th \n\t\t\t\t\t\tFloor Residence 2 Bedrooms 2 and a half baths East and West \n\t\t\t\t\t\t\tTerraces $875,000 10th Floor Penthouse 2 Bedrooms 2 and a half baths East and \n\t\t\t\t\t\t\tWest Terraces $1,200,000 Luna Ocean Residences Luxury Boutique Condominium Building on the best stretch of beach in Broward County. Two \n\t\tBedrooms Two and a half Baths Two 30' Terraces Ultimate in Exclusivity and Privacy $1.475,000 click here for details"
+      "text": "Waterfront Living as Good as it Gets in Wilton Manors Three Bedrooms, Two Baths, Two Car Garage Private Boat Dock, Lush Landscaping $650,000 click here for waterfront home for sale details"
+    },
+    {
+      "tag": "p",
+      "text": "Historic Victoria Park 1927 Landmark Mediterranean & Coach House Three Bedrooms, Two \n\t\t\t\tand a Half Baths $1,170,000 click here for details"
+    },
+    {
+      "tag": "p",
+      "text": "Brand \n\t\t\t\tNew Wilton Station East Exposure in Santa Fe Building Two \n\t\t\t\tBedrooms / Two Baths / Three Terraces Great amenities and Unbeatable Location $530,000 click here for details East \n\t\t\t\t\t\tExposure in 26th Street Lofts Building One Bedroom / Two Baths / Two \n\t\t\t\t\t\tTerraces City Views, Location Amenities & More $350,000 click here for details"
+    },
+    {
+      "tag": "p",
+      "text": "Brand New Lauderdale One Condominium Two Bedrooms / Two Bathrooms/ Two Parking \n\t\t\t\tSpaces Corner Unit, Great Light, Great Amenities $315,900 click here for details Villages at Sailboat Bend Two Bedrooms Two and a Half Baths $400,000 click here for details Brand New Lauderdale One Condominium Two Bedrooms / Two Bathrooms/ Two Parking \n\t\t\t\tSpaces Corner Unit, Great Light, Great Amenities $315,900 click here for details"
+    },
+    {
+      "tag": "p",
+      "text": "La Rive Luxury Condo 3 Beds / 3.5 Baths / 2 Terraces $1,075,000 Also available for Lease Pompano Beach Waterfront Ocean Access, No Fixed Bridges Three Bedrooms, Two Baths Totally Renovated $890,000 click here for details"
+    },
+    {
+      "tag": "p",
+      "text": "New Luxury \n\t\t\t\tIntracoastal Waterfront Condos Riverside Grande New luxury residences on the Intracoastal in Pompano Beach's newest, most private and most exclusive boutique condominium."
+    },
+    {
+      "tag": "p",
+      "text": "8th \n\t\t\t\t\t\tFloor Residence 2 Bedrooms 2 and a half baths East and West \n\t\t\t\t\t\t\tTerraces $875,000 10th Floor Penthouse 2 Bedrooms 2 and a half baths East and \n\t\t\t\t\t\t\tWest Terraces $1,200,000"
+    },
+    {
+      "tag": "p",
+      "text": "Luna Ocean Residences Luxury Boutique Condominium Building on the best stretch of beach in Broward County. Two \n\t\tBedrooms Two and a half Baths Two 30' Terraces Ultimate in Exclusivity and Privacy $1.475,000 click here for details"
     },
     {
       "tag": "div",
@@ -44,11 +72,23 @@
     },
     {
       "tag": "p",
-      "text": "Waterfront Real Estate in Coral Ridge Country Club Estates Two Bedrooms First Floor Residence IN CONTRACT! click here for details Walk to the Beach Fort Lauderdale Condo for Sale East of Federal Highway One Bedroom / One Bath / Pool $155,000 click here \n\t\tfor this Fort Lauderdale condo for sale Ft Lauderdale Beach 2 Bed / 1 Bath Fully Furnished Private Co-Op Bldg Just Reduced to $ 210,000 New Listing\n    are In The Works! Check Back Soon! 350 Las Olas Place Downtown's \n\t\tHottest Luxury Condo 2 Bedrooms / 2 \n\t\tBaths  / 2 Terraces SOLD Others \n\t\t\t\tavailable for Sale and Lease Jenada Villas in Wilton Manors Sold by Andy Weiser your Wilton Manors Realtor ! Three Bedrooms, Two Baths, Giant Family Room with Wood Beam Cathedral Ceiling Huge Tiled Screen Porch Sold! Sold in Just 8 Days! Coral Ridge Isles / Imperial Point Area Three \n\t\tBedroom, Two Bath Pool House Sold by Andy Wesier, your Coral Ridge \n\tIsles Realtor Coral Ridge Country Club Three Bedrooms, Two Baths, Heated Pool SOLD IN 7 DAYS! Sold by Andy Weiser, \n\t\tyour Coral Ridge Realtor Wilton Manors Townhome \n\t\tfor Sale Sold in One Week! Sold by Andy Weiser, your Wilton Manors \n\t\tRealtor Wilton Manors Waterfront Condo Renovated, 2 Beds / 2 Baths Heated Pool, Tennis Courts SOLD Progresso House for Sale with Pool SOLD! Three Bedroom Pool House in Super-Hot Progresso SOLD! SUB-PENTHOUSE AT PLAZA EAST just north of Galt Ocean Mile Great Beachfront Location Two Bedrooms / Two\n      Baths SOLD! Incredible Le Club\n      Residence Waterfront condominium with yacht docks SOLD!"
+      "text": "Waterfront Real Estate in Coral Ridge Country Club Estates Two Bedrooms First Floor Residence IN CONTRACT! click here for details Walk to the Beach Fort Lauderdale Condo for Sale East of Federal Highway One Bedroom / One Bath / Pool $155,000 click here \n\t\tfor this Fort Lauderdale condo for sale Ft Lauderdale Beach 2 Bed / 1 Bath Fully Furnished Private Co-Op Bldg Just Reduced to $ 210,000 New Listing\n    are In The Works! Check Back Soon! 350 Las Olas Place Downtown's \n\t\tHottest Luxury Condo 2 Bedrooms / 2 \n\t\tBaths  / 2 Terraces SOLD Others \n\t\t\t\tavailable for Sale and Lease Jenada Villas in Wilton Manors Sold by Andy Weiser your Wilton Manors Realtor ! Three Bedrooms, Two Baths, Giant Family Room with Wood Beam Cathedral Ceiling Huge Tiled Screen Porch Sold! Sold in Just 8 Days! Coral Ridge Isles / Imperial Point Area Three \n\t\tBedroom, Two Bath Pool House Sold by Andy Wesier, your Coral Ridge \n\tIsles Realtor Coral Ridge Country Club Three Bedrooms, Two Baths, Heated Pool SOLD IN 7 DAYS! Sold by Andy Weiser, \n\t\tyour Coral Ridge Realtor Wilton Manors Townhome \n\t\tfor Sale Sold in One Week! Sold by Andy Weiser, your Wilton Manors \n\t\tRealtor Wilton Manors Waterfront Condo Renovated, 2 Beds / 2 Baths Heated Pool, Tennis Courts SOLD Progresso House for Sale with Pool SOLD! Three Bedroom Pool House in Super-Hot Progresso SOLD! SUB-PENTHOUSE AT PLAZA EAST just north of Galt Ocean Mile Great Beachfront Location Two Bedrooms / Two\n      Baths SOLD!"
+    },
+    {
+      "tag": "p",
+      "text": "Incredible Le Club\n      Residence Waterfront condominium with yacht docks SOLD!"
     },
     {
       "tag": "div",
-      "text": "Coral\n      Heights Creampuff House for sale with\n      Pool, Three Bedrooms, Two Baths In Contract in 11\n      Days!  SOLD! SOLD! Beautifully Finished\n      Throughout Great Triplex Investment Property SOLD! Middle River Area, Three Units, Each with Two\nBedrooms, One Bath SOLD! HUGE CORNER LOT IN POPULAR\n      CORAL SHORES FORT LAUDERDALE HOME FOR SALE SOLD! SOLD! Fort Lauderdale \n\t\thouse for sale, Three Beds, Two Baths,\n      Enormous Lot SOLD! Fort Lauderdale Townhome \n\t\tfor Sale Three Bedrooms / Two Baths at City View Town Homes SOLD! TWO BEDROOMS ON THE BEACH SOLD! Pompano Beach Condo \n\t\tfor Sale, Two \n\t\tBedroom Condo near the beach SOLD! SOLD! Waterfront Condominium for \n\tSale Port Royale Condominium on the Intracoastal Waterway Two Bed / Two Bath SOLD!"
+      "text": "Coral\n      Heights Creampuff House for sale with\n      Pool, Three Bedrooms, Two Baths In Contract in 11\n      Days!  SOLD! SOLD! Beautifully Finished\n      Throughout"
+    },
+    {
+      "tag": "div",
+      "text": "Great Triplex Investment Property SOLD! Middle River Area, Three Units, Each with Two\nBedrooms, One Bath SOLD!"
+    },
+    {
+      "tag": "div",
+      "text": "HUGE CORNER LOT IN POPULAR\n      CORAL SHORES FORT LAUDERDALE HOME FOR SALE SOLD! SOLD! Fort Lauderdale \n\t\thouse for sale, Three Beds, Two Baths,\n      Enormous Lot SOLD! Fort Lauderdale Townhome \n\t\tfor Sale Three Bedrooms / Two Baths at City View Town Homes SOLD! TWO BEDROOMS ON THE BEACH SOLD! Pompano Beach Condo \n\t\tfor Sale, Two \n\t\tBedroom Condo near the beach SOLD! SOLD! Waterfront Condominium for \n\tSale Port Royale Condominium on the Intracoastal Waterway Two Bed / Two Bath SOLD!"
     },
     {
       "tag": "p",
@@ -103,12 +143,16 @@
       "text": "And check out our Fort Lauderdale Real Estate Neighborhood Guide"
     },
     {
-      "tag": "div",
-      "text": "-------------- e n d  19th tererace   S E C T I O N ----------- ------------second section of page---- END RIGHT  HAND COLUMN FOR MAIN BODY COPY  --- -----------------VERY BOTTOM OF PAGE STUFF----------------"
+      "tag": "p",
+      "text": "Fort \nLauderdale Realtor Andy Weiser Ft \nLauderdale Home for Sale Finder New  \nFort Lauderdale Residential Real Estate Construction Investment Real Estate \nOpportunities Distinguished\nFort Lauderdale Condominium Residences for Sale Mortgages\nand Banking Ft Lauderdale Links Latest\nReal Estate News Fort\nLauderdale Real Estate Home Page Fort \nLauderdale Home Prices Ft Lauderdale Real Estate Ft \nLauderdale Real Estate Prices Fort Lauderdale Home \nPrices and Trends Fort Lauderdale \nReal Estate Fort Lauderdale Homes When is the Bubble Going to Burst? Links Market Timing and Residential Real Estate Prices Coral Ridge Homes For Sale Fort Lauderdale \nCondos For Sale Hillsboro Beach Houses For Sale Las Olas Real Estate Agent Fort Lauderdale Homes and Condos for Sale Fort Lauderdale waterfront luxury condo for \nsale Fort Lauderdale Waterfront \n\t\thome for sale Wilton \n\t\tManors Waterfront \n\t\tTwo Bedroom Condo For Sale from Wilton Manors Realtor Wilton Manors Condo for Sale in Popular \n\t\tManor Grove Victoria Park Condo for Sale Imperial Point Houses for Sale Fort Lauderdale \n\t\tLandings Waterfront Home for Sale Coral Shores House for Sale in Fort Lauderdale Intracoastal Luxury \n\t\tWaterfront Condo Wilton Manors House \n\t\tfor Sale Luxury Condo for sale at Harbourage Lauderdale by the \n\t\tSea Beachfront Luxury Condo for Sale Plaza East \n\t\tBeachfront Condo Fort Lauderdale"
     },
     {
       "tag": "p",
-      "text": "Fort \nLauderdale Realtor Andy Weiser Ft \nLauderdale Home for Sale Finder New  \nFort Lauderdale Residential Real Estate Construction Investment Real Estate \nOpportunities Distinguished\nFort Lauderdale Condominium Residences for Sale Mortgages\nand Banking Ft Lauderdale Links Latest\nReal Estate News Fort\nLauderdale Real Estate Home Page Fort \nLauderdale Home Prices Ft Lauderdale Real Estate Ft \nLauderdale Real Estate Prices Fort Lauderdale Home \nPrices and Trends Fort Lauderdale \nReal Estate Fort Lauderdale Homes When is the Bubble Going to Burst? Links Market Timing and Residential Real Estate Prices Coral Ridge Homes For Sale Fort Lauderdale \nCondos For Sale Hillsboro Beach Houses For Sale Las Olas Real Estate Agent Fort Lauderdale Homes and Condos for Sale Fort Lauderdale waterfront luxury condo for \nsale Fort Lauderdale Waterfront \n\t\thome for sale Wilton \n\t\tManors Waterfront \n\t\tTwo Bedroom Condo For Sale from Wilton Manors Realtor Wilton Manors Condo for Sale in Popular \n\t\tManor Grove Victoria Park Condo for Sale Imperial Point Houses for Sale Fort Lauderdale \n\t\tLandings Waterfront Home for Sale Coral Shores House for Sale in Fort Lauderdale Intracoastal Luxury \n\t\tWaterfront Condo Wilton Manors House \n\t\tfor Sale Luxury Condo for sale at Harbourage Lauderdale by the \n\t\tSea Beachfront Luxury Condo for Sale Plaza East \n\t\tBeachfront Condo Fort Lauderdale Andy Weiser, Broker Associate Andy Weiser, PA Coldwell Banker Residential Real Estate 2400 East Commercial Blvd Ft Lauderdale, FL 33308 954-560-9667 Fort\n      Lauderdale Real Estate E-Mail AndyWeiser@aol.com Original Content on AndyWeiser.com is protected by copyright. Click\n      here for details. All rights reserved. ----------------ADDRESS - CB LOGO AND EMAIL TABLE --------------- ---------------END OF PAGE -ADDRESS - CB LOGO AND EMAIL TABLE --------------- ----------------EQUAL HOUSING SYMBOL--------------- COMMITTED TO EQUAL HOUSING\nOPPORTUNITY Fort Lauderdale Homes for Sale ----updated 08/00-----webmaster link-------- This site has been\ncreated and maintained by edesign-usa.com To view their portfolio of other winning websites, or to find out how they can\nbenefit your company, e-mail Andy's Webmaster."
+      "text": "Andy Weiser, Broker Associate Andy Weiser, PA Coldwell Banker Residential Real Estate 2400 East Commercial Blvd Ft Lauderdale, FL 33308 954-560-9667 Fort\n      Lauderdale Real Estate E-Mail AndyWeiser@aol.com Original Content on AndyWeiser.com is protected by copyright. Click\n      here for details. All rights reserved."
+    },
+    {
+      "tag": "p",
+      "text": "COMMITTED TO EQUAL HOUSING\nOPPORTUNITY Fort Lauderdale Homes for Sale This site has been\ncreated and maintained by edesign-usa.com To view their portfolio of other winning websites, or to find out how they can\nbenefit your company, e-mail Andy's Webmaster."
     }
   ]
 }

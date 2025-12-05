@@ -3,8 +3,8 @@
   "file_number": "652",
   "content_hash": "59e849f1748ad8c102ab67523b9df8a1556c42741c292f4ca4efd6e43be94a3c",
   "total_blocks": 88,
-  "retained_blocks": 14,
-  "ignored_blocks": 74,
+  "retained_blocks": 13,
+  "ignored_blocks": 75,
   "blocks": [
     {
       "tag": "div",
@@ -57,10 +57,6 @@
     {
       "tag": "p",
       "text": "back \r\n                    to top CONTACT US | SITE MAP | SEARCH Copyright 2003 Pennsylvania Resources Council. All rights reserved. Site feedback. Viewed best using IE v 5.5+ and Netscape v 6.0+ using 800 x 600 resolution."
-    },
-    {
-      "tag": "div",
-      "text": "BEGIN WebSTAT Activation Code END WebSTAT Activation Code"
     }
   ]
 }

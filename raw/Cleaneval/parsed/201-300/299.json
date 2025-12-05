@@ -3,8 +3,8 @@
   "file_number": "299",
   "content_hash": "b78896e0b11d4e1b0f353a3935e4575660848b5cf006e16e1df38c92ebf5d249",
   "total_blocks": 95,
-  "retained_blocks": 5,
-  "ignored_blocks": 90,
+  "retained_blocks": 6,
+  "ignored_blocks": 89,
   "blocks": [
     {
       "tag": "p",
@@ -20,11 +20,15 @@
     },
     {
       "tag": "div",
-      "text": "Back to News Page Write to Us ONESTAT SCRIPTCODE START // Modification of this code is not allowed and will permanently disable your account!\n// Account ID : 202572\n// Website URL: \n// Copyright (C) 2002-2004 OneStat.com All Rights Reserved Counter ONESTAT SCRIPTCODE END"
+      "text": "Back to News Page Write to Us"
+    },
+    {
+      "tag": "div",
+      "text": "Counter"
     },
     {
       "tag": "p",
-      "text": "Copyright \n      1999-2004 Brudirect.com All rights reserved. Revised: webbot bot=\"TimeStamp\" S-FORMAT=\"%B %d, %Y\" S-TYPE=\"EDITED\" startspan January 06, 2005 webbot bot=\"TimeStamp\" i-checksum=\"31464\" endspan ."
+      "text": "Copyright \n      1999-2004 Brudirect.com All rights reserved. Revised: January 06, 2005 ."
     }
   ]
 }

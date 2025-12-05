@@ -3,12 +3,28 @@
   "file_number": "474",
   "content_hash": "e28c623a1faea594583a806d36a87facc90edc71dfc84d4f3f14b7874573d8d1",
   "total_blocks": 154,
-  "retained_blocks": 5,
-  "ignored_blocks": 149,
+  "retained_blocks": 10,
+  "ignored_blocks": 144,
   "blocks": [
     {
       "tag": "div",
-      "text": "Home News and Analysis NATFHE unanimous support for Bolivarian Revolution Main Menu Home About us HoV Constitution Contact Us HOV Online Shop News and Analysis Media Watch Labour & Trade Union News Documentaries Flyers Letters from Venezuela Solidarity Solidarity Activities Messages of solidarity Sign the appeal! Signatures Open letter to US trade unionists Audio & Video The Revolution will not be Televised Other languages عربي Dansk Deutsch Ελληνικά فارسی Español Français Italiano Nederlands Norsk בעברית Polski Português Română Русский Svenska Türkçe Venezuelan Radio & TV --- TV --- Telesur (DSL) Telesur (Modem) VTV (Canal 8) Vive TV --- Radio --- Radio Negro Primero RNV Noticias RNV Clasico YVKE Mundial NATFHE unanimous support for Bolivarian Revolution Wednesday, 01 June 2005"
+      "text": "Home News and Analysis NATFHE unanimous support for Bolivarian Revolution"
+    },
+    {
+      "tag": "div",
+      "text": "Main Menu"
+    },
+    {
+      "tag": "div",
+      "text": "Home About us HoV Constitution Contact Us HOV Online Shop News and Analysis Media Watch Labour & Trade Union News Documentaries Flyers Letters from Venezuela Solidarity Solidarity Activities Messages of solidarity Sign the appeal! Signatures Open letter to US trade unionists Audio & Video The Revolution will not be Televised Other languages عربي Dansk Deutsch Ελληνικά فارسی Español Français Italiano Nederlands Norsk בעברית Polski Português Română Русский Svenska Türkçe"
+    },
+    {
+      "tag": "div",
+      "text": "Venezuelan Radio & TV"
+    },
+    {
+      "tag": "div",
+      "text": "--- TV --- Telesur (DSL) Telesur (Modem) VTV (Canal 8) Vive TV --- Radio --- Radio Negro Primero RNV Noticias RNV Clasico YVKE Mundial NATFHE unanimous support for Bolivarian Revolution Wednesday, 01 June 2005"
     },
     {
       "tag": "p",
@@ -16,7 +32,11 @@
     },
     {
       "tag": "div",
-      "text": "[ Back ] Make a donation!"
+      "text": "[ Back ]"
+    },
+    {
+      "tag": "div",
+      "text": "Make a donation!"
     },
     {
       "tag": "p",

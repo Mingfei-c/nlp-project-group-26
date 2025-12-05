@@ -3,13 +3,9 @@
   "file_number": "721",
   "content_hash": "9ea8ecf9f96b2f05d4c0b3503d917415c906aff3221eab8ed927bb87b29a3a2f",
   "total_blocks": 176,
-  "retained_blocks": 33,
-  "ignored_blocks": 143,
+  "retained_blocks": 35,
+  "ignored_blocks": 141,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "[if !mso]>\r\n<style>\r\nv\\:* {behavior:url(#default#VML);}\r\no\\:* {behavior:url(#default#VML);}\r\nw\\:* {behavior:url(#default#VML);}\r\n.shape {behavior:url(#default#VML);}\r\n</style>\r\n<![endif] [if gte mso 9]><xml>\r\n <o:DocumentProperties>\r\n  <o:Author>James Ziegler</o:Author>\r\n  <o:LastAuthor>James Ziegler</o:LastAuthor>\r\n  <o:Revision>22</o:Revision>\r\n  <o:TotalTime>47</o:TotalTime>\r\n  <o:LastPrinted>2001-02-10</o:LastPrinted>\r\n  <o:Created>1994-09-29</o:Created>\r\n  <o:LastSaved>2000-02-10</o:LastSaved>\r\n  <o:Pages>4</o:Pages>\r\n  <o:Words>1541</o:Words>\r\n  <o:Characters>8785</o:Characters>\r\n  <o:Lines>73</o:Lines>\r\n  <o:Paragraphs>17</o:Paragraphs>\r\n  <o:CharactersWithSpaces>10788</o:CharactersWithSpaces>\r\n  <o:Version>9.2720</o:Version>\r\n </o:DocumentProperties>\r\n</xml><![endif] [if gte mso 9]><xml>\r\n <o:shapedefaults v:ext=\"edit\" spidmax=\"1027\"/>\r\n</xml><![endif] [if gte mso 9]><xml>\r\n <o:shapelayout v:ext=\"edit\">\r\n  <o:idmap v:ext=\"edit\" data=\"1\"/>\r\n </o:shapelayout></xml><![endif]"
-    },
     {
       "tag": "h1",
       "text": "PARTICLE INTERACTIONS WITH MATTER"
@@ -24,7 +20,11 @@
     },
     {
       "tag": "h1",
-      "text": "The Stopping and Range of Ions in Matter Software Science"
+      "text": "The Stopping and Range of Ions in Matter"
+    },
+    {
+      "tag": "h1",
+      "text": "Software Science"
     },
     {
       "tag": "p",
@@ -32,7 +32,15 @@
     },
     {
       "tag": "div",
-      "text": "Historical\r\n        Review Download\r\n        SRIM-2006 Details of SRIM-2006"
+      "text": "Historical\r\n        Review"
+    },
+    {
+      "tag": "div",
+      "text": "Download\r\n        SRIM-2006"
+    },
+    {
+      "tag": "div",
+      "text": "Details of SRIM-2006"
     },
     {
       "tag": "p",
@@ -108,7 +116,11 @@
     },
     {
       "tag": "p",
-      "text": "Introduction History Current\r\n        Status (1MB) Neutron\r\n        Sea Level Flux History\r\n        of Accelerated\r\n        Testing Neutron\r\n        Spectrometers Current\r\n        Status Accelerated\r\n        Testing Buttons in Green are not yet active. Although this subject is more about the effects of energetic hadrons on\r\nterrestrial electronics than about ion beams, it is scientifically in a similar\r\nfield (hadrons = protons, neutrons and pions, i.e. particles which respond to\r\nthe nuclear force / strong interaction). The science and technology about\r\ncosmic ray induced soft fails was considered proprietary by IBM for more than\r\n15 years. In 1996, a complete issue of the IBM Journal of Research and\r\nDevelopment was devoted to reviewing this work. Asummary of the issue, and\r\nthe complete first article (the 15 year history of the development of the IBM\r\nscientific understanding of soft fails from radiation) is given\r\nat IBM J. R.& D. The scientific\r\nhistory of  this field is reviewed in detail. The field\r\nis not static because the technology of integrated circuits\r\nis still rapidly changing and the effects of cosmic rays on\r\nintegrated circuits (ICs) show trends which are not well\r\nunderstood. The trends in the sensitivity of ICs to cosmic\r\nrays are reviewed for SRAMs, DRAMs and logic over the last\r\n15 years. Fundamental to\r\nany estimates of the fail rate of ICs is an understanding of\r\nthe ambient flux of cosmic rays in the environment. As this\r\nflux has been investigated over the last 15 years, it has\r\nbecome fuzzier rather than more precise. Previous\r\nmeasurements of the ambient flux which were considered\r\nreliable have been shown to be suspect. New measurements\r\nrarely agree with past measurements. Recent reports of the flux of sea level\r\ncosmic ray hadrons vary by more than 10x, even though they\r\nwere performed by highly competent scientists. The problem will\r\nprobably be resolved by understanding that the immediate\r\nmaterials nearby an experiment can have significant effect\r\non the measured flux. The field of\r\nthe terrestrial flux of cosmic rays will be reviewed. (Return\r\nto Top)"
+      "text": "Introduction History Current\r\n        Status (1MB) Neutron\r\n        Sea Level Flux History\r\n        of Accelerated\r\n        Testing Neutron\r\n        Spectrometers Current\r\n        Status Accelerated\r\n        Testing"
+    },
+    {
+      "tag": "p",
+      "text": "Buttons in Green are not yet active. Although this subject is more about the effects of energetic hadrons on\r\nterrestrial electronics than about ion beams, it is scientifically in a similar\r\nfield (hadrons = protons, neutrons and pions, i.e. particles which respond to\r\nthe nuclear force / strong interaction). The science and technology about\r\ncosmic ray induced soft fails was considered proprietary by IBM for more than\r\n15 years. In 1996, a complete issue of the IBM Journal of Research and\r\nDevelopment was devoted to reviewing this work. Asummary of the issue, and\r\nthe complete first article (the 15 year history of the development of the IBM\r\nscientific understanding of soft fails from radiation) is given\r\nat IBM J. R.& D. The scientific\r\nhistory of  this field is reviewed in detail. The field\r\nis not static because the technology of integrated circuits\r\nis still rapidly changing and the effects of cosmic rays on\r\nintegrated circuits (ICs) show trends which are not well\r\nunderstood. The trends in the sensitivity of ICs to cosmic\r\nrays are reviewed for SRAMs, DRAMs and logic over the last\r\n15 years. Fundamental to\r\nany estimates of the fail rate of ICs is an understanding of\r\nthe ambient flux of cosmic rays in the environment. As this\r\nflux has been investigated over the last 15 years, it has\r\nbecome fuzzier rather than more precise. Previous\r\nmeasurements of the ambient flux which were considered\r\nreliable have been shown to be suspect. New measurements\r\nrarely agree with past measurements. Recent reports of the flux of sea level\r\ncosmic ray hadrons vary by more than 10x, even though they\r\nwere performed by highly competent scientists. The problem will\r\nprobably be resolved by understanding that the immediate\r\nmaterials nearby an experiment can have significant effect\r\non the measured flux. The field of\r\nthe terrestrial flux of cosmic rays will be reviewed. (Return\r\nto Top)"
     },
     {
       "tag": "h1",
@@ -133,10 +145,6 @@
     {
       "tag": "p",
       "text": "Electronic mail :"
-    },
-    {
-      "tag": "div",
-      "text": "==================== Elastic SRIM-2000 ====================="
     }
   ]
 }

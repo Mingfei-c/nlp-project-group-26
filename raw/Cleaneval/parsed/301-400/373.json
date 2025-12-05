@@ -3,12 +3,16 @@
   "file_number": "373",
   "content_hash": "677a842ab1f8ee5f9c3f945604595f5eef6b75b4c798ff9699b491452fa61796",
   "total_blocks": 207,
-  "retained_blocks": 7,
-  "ignored_blocks": 200,
+  "retained_blocks": 8,
+  "ignored_blocks": 199,
   "blocks": [
     {
       "tag": "div",
-      "text": "Franais Contact Us Help Search Canada Site Home Media Room Embassies and Consulates About Us General Nuclear Disarmament and Non-Proliferation Missile Security Biological Weapons Chemical Weapons Space Security Ministerial Statements ISROP Proliferation Security Initiative Links"
+      "text": "Franais Contact Us Help Search Canada Site Home Media Room Embassies and Consulates About Us"
+    },
+    {
+      "tag": "div",
+      "text": "General Nuclear Disarmament and Non-Proliferation Missile Security Biological Weapons Chemical Weapons Space Security Ministerial Statements ISROP Proliferation Security Initiative Links"
     },
     {
       "tag": "h1",

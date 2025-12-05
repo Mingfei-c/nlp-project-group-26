@@ -8,7 +8,7 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "#BeginTemplate \"/Templates/programs-phd_template.dwt\" DW6 #BeginEditable \"doctitle\" #EndEditable fwtable fwsrc=\"Banner_Final2.png\" fwbase=\"Banner_Final2.gif\" fwstyle=\"Dreamweaver\" fwdocid = \"742308039\" fwnested=\"0\" fwtable fwsrc=\"Template_top.png\" fwbase=\"Template_top.gif\" fwstyle=\"Dreamweaver\" fwdocid = \"742308039\" fwnested=\"0\" #BeginEditable \"main content\" Concentrations \n            Offered - Marketing"
+      "text": "Concentrations \n            Offered - Marketing"
     },
     {
       "tag": "p",
@@ -24,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "#EndEditable fwtable fwsrc=\"doctoral_navbar.png\" fwbase=\"doctoral_navbar.gif\" fwstyle=\"Dreamweaver\" fwdocid = \"742308039\" fwnested=\"0\" School \n  of Management at Binghamton University, State University of New York PO Box 6000, Binghamton, New York 13902-6000 E-mail SOM som home l about som l academic \n  programs l student resources l faculty & research executive programs l alumni & development l corporate relations l campus links #EndTemplate"
+      "text": "School \n  of Management at Binghamton University, State University of New York PO Box 6000, Binghamton, New York 13902-6000 E-mail SOM som home l about som l academic \n  programs l student resources l faculty & research executive programs l alumni & development l corporate relations l campus links"
     }
   ]
 }

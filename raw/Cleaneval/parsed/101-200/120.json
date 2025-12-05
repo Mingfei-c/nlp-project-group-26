@@ -3,12 +3,12 @@
   "file_number": "120",
   "content_hash": "d76a129e5332f4bc88f09d061d4179ede08da4806c79b66d0f9cb695ca42a27f",
   "total_blocks": 253,
-  "retained_blocks": 49,
-  "ignored_blocks": 204,
+  "retained_blocks": 57,
+  "ignored_blocks": 196,
   "blocks": [
     {
       "tag": "div",
-      "text": "html public \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\" newsi library v1.11\r\n<script language=\"JavaScript\" src=\"http://newsimg.bbc.co.uk/js/newsi/1_11/newsi.js?1\" type=\"text/javascript\"></script> \r\n<script language=\"JavaScript\" src=\"http://newsimg.bbc.co.uk/js/newsi/1_11/client/client.js?1\" type=\"text/javascript\"></script> \r\n<script language=\"JavaScript\" src=\"http://newsimg.bbc.co.uk/js/newsi/1_11/event/event.js?1\" type=\"text/javascript\"></script> \r\n<script language=\"JavaScript\" src=\"http://newsimg.bbc.co.uk/js/newsi/1_11/html/html.js?1\" type=\"text/javascript\"></script>\r\n<script language=\"JavaScript\" src=\"http://newsimg.bbc.co.uk/js/newsi/1_11/io/io.js?1\" type=\"text/javascript\"></script>\r\n<script language=\"JavaScript\" src=\"http://newsimg.bbc.co.uk/js/newsi/1_11/string/string.js?1\" type=\"text/javascript\"></script>\r\n<script language=\"JavaScript\" src=\"http://newsimg.bbc.co.uk/js/newsi/1_11/utils/utils.js?1\" type=\"text/javascript\"></script>\r\nend newsi library newsi library v1.20 end newsi library bbc toolbar code bbc.co.uk - start live stats logic - - end live stats logic -"
+      "text": "html public \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\" bbc.co.uk"
     },
     {
       "tag": "p",
@@ -24,7 +24,35 @@
     },
     {
       "tag": "div",
-      "text": "Search Home TV Radio Talk Where I Live A-Z Index UK version International version | About the versions Low graphics | Accessibility help BBC News in video and audio News services Your news when you want it News Front Page World UK England Northern Ireland Scotland Wales Business Politics Health Education Science/Nature Technology Entertainment ----------------- Have Your Say Magazine In Pictures Country Profiles Special Reports Programmes RELATED BBC SITES SPORT WEATHER CBBC NEWSROUND ON THIS DAY EDITORS' BLOG Last Updated: Thursday, 30 June, 2005, 13:27 GMT 14:27 UK E-mail this to a friend Printable version Commons Confidential: May-June 2005 S BO S IBYL POLITICAL DIARY By Nick Assinder Political Correspondent, BBC News website E IBYL Daily despatches from the House of Commons 1215 GMT 30 June"
+      "text": "Search Home TV Radio Talk Where I Live A-Z Index UK version International version | About the versions Low graphics | Accessibility help"
+    },
+    {
+      "tag": "div",
+      "text": "BBC News in video and audio News services Your news when you want it"
+    },
+    {
+      "tag": "div",
+      "text": "News Front Page World UK England Northern Ireland Scotland Wales Business Politics Health Education Science/Nature Technology Entertainment ----------------- Have Your Say Magazine In Pictures Country Profiles Special Reports Programmes RELATED BBC SITES SPORT WEATHER CBBC NEWSROUND ON THIS DAY EDITORS' BLOG"
+    },
+    {
+      "tag": "div",
+      "text": "Last Updated: Thursday, 30 June, 2005, 13:27 GMT 14:27 UK"
+    },
+    {
+      "tag": "div",
+      "text": "E-mail this to a friend Printable version"
+    },
+    {
+      "tag": "div",
+      "text": "Commons Confidential: May-June 2005"
+    },
+    {
+      "tag": "div",
+      "text": "POLITICAL DIARY By Nick Assinder Political Correspondent, BBC News website"
+    },
+    {
+      "tag": "div",
+      "text": "Daily despatches from the House of Commons 1215 GMT 30 June"
     },
     {
       "tag": "p",
@@ -36,7 +64,7 @@
     },
     {
       "tag": "p",
-      "text": "Chancellor Gordon Brown made an interesting speech to the Fabian Society at its summer party on the Commons terrace. S IIMA"
+      "text": "Chancellor Gordon Brown made an interesting speech to the Fabian Society at its summer party on the Commons terrace."
     },
     {
       "tag": "div",
@@ -44,7 +72,7 @@
     },
     {
       "tag": "p",
-      "text": "E IIMA After all the usual stuff about Africa, the election, etcetera, etcetera, he suddenly slipped into campaigning mode and started talking about the (for which most read \"his\")  \"historic fourth term\". The Thames boiled, the heavens opened, rent asunder by slashes of lightning and thunderous claps of, er, thunder. What could it all mean?"
+      "text": "After all the usual stuff about Africa, the election, etcetera, etcetera, he suddenly slipped into campaigning mode and started talking about the (for which most read \"his\")  \"historic fourth term\". The Thames boiled, the heavens opened, rent asunder by slashes of lightning and thunderous claps of, er, thunder. What could it all mean?"
     },
     {
       "tag": "div",
@@ -100,7 +128,7 @@
     },
     {
       "tag": "p",
-      "text": "Baroness Margaret Thatcher may not have quite the pulling power she once did - but there are clearly those who still carry the torch. S IIMA"
+      "text": "Baroness Margaret Thatcher may not have quite the pulling power she once did - but there are clearly those who still carry the torch."
     },
     {
       "tag": "div",
@@ -108,7 +136,7 @@
     },
     {
       "tag": "p",
-      "text": "E IIMA One of the events during a dinner to mark the 30th anniversary of her election as Tory leader was an auction to raise cash for the hosts, Conservative Way Forward. Top prize was a cup of tea on the House of Lords' terrace with the great Lady herself. The bids just kept on coming - and ended with the lucky winner pledging a stunning 6,100.00 for the privilege. Do Ihear any bids for a skinny latte with the prime minister?"
+      "text": "One of the events during a dinner to mark the 30th anniversary of her election as Tory leader was an auction to raise cash for the hosts, Conservative Way Forward. Top prize was a cup of tea on the House of Lords' terrace with the great Lady herself. The bids just kept on coming - and ended with the lucky winner pledging a stunning 6,100.00 for the privilege. Do Ihear any bids for a skinny latte with the prime minister?"
     },
     {
       "tag": "div",
@@ -164,7 +192,7 @@
     },
     {
       "tag": "p",
-      "text": "This will either delight or terrify you - but Norman Tebbit has cloned himself. S IIMA"
+      "text": "This will either delight or terrify you - but Norman Tebbit has cloned himself."
     },
     {
       "tag": "div",
@@ -172,7 +200,7 @@
     },
     {
       "tag": "p",
-      "text": "E IIMA The ex Tory Chairman, once branded the \"Chingford skinhead\" and before whom lesser politicians cowered, has stepped into the row over Michael Howard's leadership. Asked who he fancied as the next Tory boss, he revealed he had had himself cloned. The carbon copy Tebbit is currently too young to take over the job, he declared, but his moment would come. So which youngster on the Tory benches has this particular big beast's DNA running through him? Probably not the current MP for Chingford - one Iain Duncan Smith."
+      "text": "The ex Tory Chairman, once branded the \"Chingford skinhead\" and before whom lesser politicians cowered, has stepped into the row over Michael Howard's leadership. Asked who he fancied as the next Tory boss, he revealed he had had himself cloned. The carbon copy Tebbit is currently too young to take over the job, he declared, but his moment would come. So which youngster on the Tory benches has this particular big beast's DNA running through him? Probably not the current MP for Chingford - one Iain Duncan Smith."
     },
     {
       "tag": "div",
@@ -180,7 +208,7 @@
     },
     {
       "tag": "p",
-      "text": "Let's start the new Parliament with a poser. Exactly what is it with Tony Blair and blue frogs? S IIMA"
+      "text": "Let's start the new Parliament with a poser. Exactly what is it with Tony Blair and blue frogs?"
     },
     {
       "tag": "div",
@@ -188,11 +216,15 @@
     },
     {
       "tag": "p",
-      "text": "E IIMA When the prime minister announced election day all those weeks ago he was wearing a rather fetching red tie with blue frog motif. Nothing particularly odd about that. Either he was doing it to win a bet or more likely, as any father will instantly confirm, because it was a present from one of his children - presumably whichever has the most well developed sense of humour. But wait, what's this. The very same tie made another appearance on the day the prime minister was returned to Downing Street for his dreamt of historic third election victory. Is this superstition, does the blue frog have magical powers, is there some hidden symbolism? The most famous, or infamous,  blue frog is the unsurprisingly named blue poison arrow frog found only in a remote area of the South American rain forest. It is known as highly territorial, aggressive and, needless to say, poisonous to its enemies. Or is there a more mundane explanation? Almost certainly. E BO"
+      "text": "When the prime minister announced election day all those weeks ago he was wearing a rather fetching red tie with blue frog motif. Nothing particularly odd about that. Either he was doing it to win a bet or more likely, as any father will instantly confirm, because it was a present from one of his children - presumably whichever has the most well developed sense of humour. But wait, what's this. The very same tie made another appearance on the day the prime minister was returned to Downing Street for his dreamt of historic third election victory. Is this superstition, does the blue frog have magical powers, is there some hidden symbolism? The most famous, or infamous,  blue frog is the unsurprisingly named blue poison arrow frog found only in a remote area of the South American rain forest. It is known as highly territorial, aggressive and, needless to say, poisonous to its enemies. Or is there a more mundane explanation? Almost certainly."
     },
     {
       "tag": "div",
-      "text": "E-mail this to a friend Printable version RELATED INTERNET LINKS: Centre for Social Justice The BBC is not responsible for the content of external internet sites TOP POLITICS STORIES Iran calls in UK envoy over Blair Prescott 'unwell' over Christmas Tories release 'key Britons' list"
+      "text": "E-mail this to a friend Printable version"
+    },
+    {
+      "tag": "div",
+      "text": "RELATED INTERNET LINKS: Centre for Social Justice The BBC is not responsible for the content of external internet sites TOP POLITICS STORIES Iran calls in UK envoy over Blair Prescott 'unwell' over Christmas Tories release 'key Britons' list"
     },
     {
       "tag": "h4",

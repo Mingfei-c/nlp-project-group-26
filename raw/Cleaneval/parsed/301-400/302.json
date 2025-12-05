@@ -3,12 +3,20 @@
   "file_number": "302",
   "content_hash": "99f2ad8ec19bb5ebc5c15906148ca800489cdf1dbae9c33787f5e2cec2b3d6b2",
   "total_blocks": 129,
-  "retained_blocks": 20,
-  "ignored_blocks": 109,
+  "retained_blocks": 25,
+  "ignored_blocks": 104,
   "blocks": [
     {
       "tag": "div",
-      "text": "Home About Participate Store Contact Donate Ato Z | Categorized | Ranked Listing Login/Register"
+      "text": "Home About Participate Store Contact Donate"
+    },
+    {
+      "tag": "div",
+      "text": "Ato Z | Categorized | Ranked Listing"
+    },
+    {
+      "tag": "div",
+      "text": "Login/Register"
     },
     {
       "tag": "p",
@@ -52,7 +60,11 @@
     },
     {
       "tag": "div",
-      "text": "view Summary Information Financials Ratings Take Action! begin content Labor & Human Rights : (1 article) Environment : (0 articles) Employment Equality : (0 articles) Corporate and Social Responsibility : (4 articles) Industry Practices : (0 articles)"
+      "text": "view Summary Information Financials Ratings Take Action!"
+    },
+    {
+      "tag": "div",
+      "text": "Labor & Human Rights : (1 article) Environment : (0 articles) Employment Equality : (0 articles) Corporate and Social Responsibility : (4 articles) Industry Practices : (0 articles)"
     },
     {
       "tag": "h2",
@@ -72,7 +84,15 @@
     },
     {
       "tag": "div",
-      "text": "Active forum discussions. Login to post a new forum topic. Topic Replies Created Last reply BBB Additional Information... from an Insider! 0 1 year 15 weeks ago by Scoopster n/a"
+      "text": "Active forum discussions. Login to post a new forum topic."
+    },
+    {
+      "tag": "div",
+      "text": "Topic Replies Created Last reply"
+    },
+    {
+      "tag": "div",
+      "text": "BBB Additional Information... from an Insider! 0 1 year 15 weeks ago by Scoopster n/a"
     },
     {
       "tag": "p",
@@ -80,7 +100,7 @@
     },
     {
       "tag": "div",
-      "text": "email this page printer friendly version end content"
+      "text": "email this page printer friendly version"
     },
     {
       "tag": "p",

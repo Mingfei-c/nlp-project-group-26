@@ -3,12 +3,24 @@
   "file_number": "463",
   "content_hash": "4bd3c5255e7798780e910d110904b515c9e72b0c2ece3ff77bfbfc39f26f91c2",
   "total_blocks": 289,
-  "retained_blocks": 35,
-  "ignored_blocks": 254,
+  "retained_blocks": 39,
+  "ignored_blocks": 250,
   "blocks": [
     {
       "tag": "div",
-      "text": "News Releases Greek Releases Orthodox Observer Journey of Faith E-mail Listservers Ecumenical Patriarchate SCOBA News For the Media About the Archdiocese Eparchial Synod Metropolises Other Patriarchal Jurisdictions Administration Departments and Ministries Clergy-Laity Affiliated Organizations SCOBA and Related Agencies Institutions Official Documents Yearbook Logo Contact Special Sites Journey of Faith Itinerary Biography Encyclicals Messages Official Visits Publications Photo Gallery Enthronement For the Media Daily Readings and Saints Orthodox Calendar Search for a Saint Learn to Chant Liturgical Texts Live Broadcasts Virtual Reality Introduction Apologetics Art and Architecture Biblical Studies Canon Law Church History Culture and Society Ecumenical Issues Ethical and Social Issues Environment Monasticism Music Saints and Patristics Spirituality Theology Worship Multimedia Higher Education Outreach and Evangelism Marriage and Family Philanthropy Religious Education Youth and Young Adult Ministries Philoptochos Society Saint Basil Academy Saint Michael Home Trinity Children and Family Services Senior Residences IOCC OCMC OCF Audio Video Virtual Reality Live Broadcasts Orthodox Photo Iconograms ISOS Come Receive the Light Icon Gallery Discussion and Chat Preaching Resources Conference Multimedia Icon Gallery and Clip Art Liturgical Services Prayers and Hymns Daily Bible Readings Lives of the Saints Church Fathers Liturgical Music Live Broadcasts Discussion and Chat Youth and Young Adult Ministry Religious Education Internet Ministries Stewardship Etiquette and Protocol Pastoral Resources Social Services Resources and Links HOME -> OUR FAITH ->\n                  The Basic Sources of the Teachings of the Eastern Orthodox Church INTRODUCTION APOLOGETICS ART AND ARCHITECTURE BIBLICAL STUDIES CANON LAW CHURCH HISTORY CULTURE AND SOCIETY ECUMENICAL ISSUES ETHICAL AND SOCIAL ISSUES ENVIRONMENT GREAT LENT AND HOLY PASCHA MONASTICISM MUSIC SACRAMENTS SAINTS AND PATRISTICS SPIRITUALITY THEOLOGY WORSHIP MULTIMEDIA HIGHER EDUCATION The Basic Sources of the Teachings of the Eastern Orthodox Church"
+      "text": "News Releases Greek Releases Orthodox Observer Journey of Faith E-mail Listservers Ecumenical Patriarchate SCOBA News For the Media About the Archdiocese Eparchial Synod Metropolises Other Patriarchal Jurisdictions Administration Departments and Ministries Clergy-Laity Affiliated Organizations SCOBA and Related Agencies Institutions Official Documents Yearbook Logo Contact Special Sites Journey of Faith Itinerary Biography Encyclicals Messages Official Visits Publications Photo Gallery Enthronement For the Media Daily Readings and Saints Orthodox Calendar Search for a Saint Learn to Chant Liturgical Texts Live Broadcasts Virtual Reality Introduction Apologetics Art and Architecture Biblical Studies Canon Law Church History Culture and Society Ecumenical Issues Ethical and Social Issues Environment Monasticism Music Saints and Patristics Spirituality Theology Worship Multimedia Higher Education Outreach and Evangelism Marriage and Family Philanthropy Religious Education Youth and Young Adult Ministries Philoptochos Society Saint Basil Academy Saint Michael Home Trinity Children and Family Services Senior Residences IOCC OCMC OCF Audio Video Virtual Reality Live Broadcasts Orthodox Photo Iconograms ISOS Come Receive the Light Icon Gallery Discussion and Chat Preaching Resources Conference Multimedia Icon Gallery and Clip Art Liturgical Services Prayers and Hymns Daily Bible Readings Lives of the Saints Church Fathers Liturgical Music Live Broadcasts Discussion and Chat Youth and Young Adult Ministry Religious Education Internet Ministries Stewardship Etiquette and Protocol Pastoral Resources Social Services Resources and Links"
+    },
+    {
+      "tag": "div",
+      "text": "HOME -> OUR FAITH ->\n                  The Basic Sources of the Teachings of the Eastern Orthodox Church"
+    },
+    {
+      "tag": "div",
+      "text": "INTRODUCTION APOLOGETICS ART AND ARCHITECTURE BIBLICAL STUDIES CANON LAW CHURCH HISTORY CULTURE AND SOCIETY ECUMENICAL ISSUES ETHICAL AND SOCIAL ISSUES ENVIRONMENT GREAT LENT AND HOLY PASCHA MONASTICISM MUSIC SACRAMENTS SAINTS AND PATRISTICS SPIRITUALITY THEOLOGY WORSHIP MULTIMEDIA HIGHER EDUCATION"
+    },
+    {
+      "tag": "div",
+      "text": "The Basic Sources of the Teachings of the Eastern Orthodox Church"
     },
     {
       "tag": "p",
@@ -144,7 +156,11 @@
     },
     {
       "tag": "div",
-      "text": "RETURN TO THE TOP OF THIS PAGE 2005 Greek Orthodox Archdiocese of America. Terms of Use."
+      "text": "RETURN TO THE TOP OF THIS PAGE"
+    },
+    {
+      "tag": "div",
+      "text": "2005 Greek Orthodox Archdiocese of America. Terms of Use."
     }
   ]
 }

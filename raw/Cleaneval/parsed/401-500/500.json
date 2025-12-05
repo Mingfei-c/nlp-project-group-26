@@ -3,13 +3,9 @@
   "file_number": "500",
   "content_hash": "2bf8fa52eb3e12a5cff2b3582f7ac497ff188fc77247f4abc593bdaba5ab45ce",
   "total_blocks": 163,
-  "retained_blocks": 4,
-  "ignored_blocks": 159,
+  "retained_blocks": 3,
+  "ignored_blocks": 160,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "BLUE LINE BLUE INFORMATION on the right MAIN RED CELL"
-    },
     {
       "tag": "p",
       "text": "New Releases Cal.\n                        Politics & Gov. American Government, \n                        Politics, & Law UC\n                        History & Higher Education History &Biography Urban Studies & Planning Terrorism, National Security & Conflict Studies Casebooks\n                        & Policy BP 3 Classics"

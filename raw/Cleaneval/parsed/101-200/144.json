@@ -3,12 +3,16 @@
   "file_number": "144",
   "content_hash": "3e22d6fda06b7561fb5b720642362acf61e8af222122199c8fa2e5d98058b420",
   "total_blocks": 108,
-  "retained_blocks": 34,
-  "ignored_blocks": 74,
+  "retained_blocks": 36,
+  "ignored_blocks": 72,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" Home Fast Facts Pictures Products Treatments Q&Aboard FAQ General Info Control Search Books Site Map Help Support Site"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Home Fast Facts Pictures Products Treatments Q&Aboard FAQ General Info Control Search Books Site Map Help Support Site"
     },
     {
       "tag": "h1",
@@ -140,7 +144,11 @@
     },
     {
       "tag": "p",
-      "text": "[Top] Special thanks to 1151 Clinch Road Home | Site Map | Feedback © 1999 - 2006 by Jim Dunphy"
+      "text": "[Top]"
+    },
+    {
+      "tag": "p",
+      "text": "Special thanks to 1151 Clinch Road Home | Site Map | Feedback © 1999 - 2006 by Jim Dunphy"
     }
   ]
 }

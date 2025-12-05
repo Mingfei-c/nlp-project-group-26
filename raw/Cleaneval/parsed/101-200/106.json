@@ -3,12 +3,16 @@
   "file_number": "106",
   "content_hash": "7c32b4ec2268a593dc1acbe44ca25468171c6fd1fd91c04626d9950d00ed990c",
   "total_blocks": 83,
-  "retained_blocks": 5,
-  "ignored_blocks": 78,
+  "retained_blocks": 6,
+  "ignored_blocks": 77,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" Office of Medical Public Affairs, Washington University School of Medicine at Washington University Medical Center, Campus Box 8508, 4444 Forest Park Ave., St. Louis MO 63108-2259, (314) 286-0100 FAX: (314) 286-0199"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Office of Medical Public Affairs, Washington University School of Medicine at Washington University Medical Center, Campus Box 8508, 4444 Forest Park Ave., St. Louis MO 63108-2259, (314) 286-0100 FAX: (314) 286-0199"
     },
     {
       "tag": "h1",

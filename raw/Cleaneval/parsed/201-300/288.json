@@ -3,28 +3,12 @@
   "file_number": "288",
   "content_hash": "d5e6b99d777625276ac66318b11f43d94fbd52e83432a8477df514ddd919f3aa",
   "total_blocks": 89,
-  "retained_blocks": 9,
-  "ignored_blocks": 80,
+  "retained_blocks": 5,
+  "ignored_blocks": 84,
   "blocks": [
     {
-      "tag": "div",
-      "text": "START OF SmartSource Data Collector TAG Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. V7.5 $DateTime$ END OF SmartSource Data Collector  TAG BEGIN CO-BRANDING END CO-BRANDING BEGIN BRC HEADER END BRC HEADER"
-    },
-    {
       "tag": "p",
-      "text": "Chapter Two Chapter Three <A HREF=#chapter_xxx>Chapter xxx</A><BR><BR>"
-    },
-    {
-      "tag": "div",
-      "text": "START LEFT-SIDE: WILLIAM LASHNER"
-    },
-    {
-      "tag": "p",
-      "text": "Click here to find more William Lashner on Audible.com . Author Bibliograhy WilliamLashner.com Books by William Lashner MARKED MAN FALLS THE SHADOW PAST DUE FATAL FLAW BITTER TRUTH HOSTILE WITNESS <A HREF=\"../reviews2/FAKExISBN.asp\">BOOKxTITLE</A><BR><BR> <A HREF=\"../reviews/FAKExISBN.asp\">BOOKxTITLE</A><BR><BR>"
-    },
-    {
-      "tag": "div",
-      "text": "<Palign=\"center\"><FONT color=\"#990000\" face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\"><B>Reading Group Guides</B><BR>\r\n<BR>\r\n<FONT face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\">\r\n<A HREF=\"http://www.readinggroupguides.com/guides3/FxNAME1.asp\" target=\"_blank\">BOOKxTITLE</A><BR><BR>\r\n<A HREF=\"http://www.readinggroupguides.com/guides3/FxNAME1.asp\" target=\"_blank\">BOOKxTITLE</A><BR><BR>\r\n</FONT></P> END LEFT-SIDE: WILLIAM LASHNER"
+      "text": "Chapter Two Chapter Three Click here to find more William Lashner on Audible.com . Author Bibliograhy WilliamLashner.com Books by William Lashner MARKED MAN FALLS THE SHADOW PAST DUE FATAL FLAW BITTER TRUTH HOSTILE WITNESS"
     },
     {
       "tag": "p",
@@ -40,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "<p><a name=\"chapter_xxx\"></a><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"2\"><B>Chapter xxx</B><BR>\r\n<BR>\r\nxxxxxxxxxxxxxxx<BR></font></p>\r\n            <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"2\"> </font></p>\r\n            <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\">The foregoing is excerpted from BITTER TRUTH by William Lashner. All rights reserved. No part of this book may be used or reproduced without written permission from HarperCollins Publishers, 10 East 53rd Street, New York, NY 10022<br>\r\n<br>\r\n<font color=\"#990000\">&#149;</font> <font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"2\"><a href=\"http://www.amazon.com/exec/obidos/ASIN/006056038X/thebookreport01\" target=\"popup\">Click here now to buy this book from Amazon</a>.\r\n</font></p>\r\n            <Palign=\"right\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\"><a href=\"#top\">Back to top.</a></p></font> START BRC FOOTER Home - Reviews - Features - Authors - Daily Quote - Books to Movies - Book Clubs - Awards - Coming Soon Search - Contests - Word of Mouth - Bestsellers - New in Paperback - Newsletter - Author Bibliographies - Blog For Librarians - Submitting a Book - Become a Reviewer - FAQ - Contact Us - About Us - Privacy Policy Copyright 1996-2006, Bookreporter.com. All rights reserved. The Book Report, Inc. • 250 West 57th Street • Suite 1228 • New York, NY • 10107 Bookreporter.com • ReadingGroupGuides.com • AuthorsOnTheWeb.com • AuthorYellowPages.com Teenreads.com • Kidsreads.com • FaithfulReader.com END BRC FOOTER AMAZON BEGIN AMAZON END"
+      "text": "Home - Reviews - Features - Authors - Daily Quote - Books to Movies - Book Clubs - Awards - Coming Soon Search - Contests - Word of Mouth - Bestsellers - New in Paperback - Newsletter - Author Bibliographies - Blog For Librarians - Submitting a Book - Become a Reviewer - FAQ - Contact Us - About Us - Privacy Policy Copyright 1996-2006, Bookreporter.com. All rights reserved. The Book Report, Inc. • 250 West 57th Street • Suite 1228 • New York, NY • 10107 Bookreporter.com • ReadingGroupGuides.com • AuthorsOnTheWeb.com • AuthorYellowPages.com Teenreads.com • Kidsreads.com • FaithfulReader.com"
     }
   ]
 }

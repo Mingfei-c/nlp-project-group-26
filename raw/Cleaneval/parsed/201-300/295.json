@@ -3,28 +3,20 @@
   "file_number": "295",
   "content_hash": "f61d6386a49544a5ef0172b97d18669b873320d4576cc3f5f27df597455e41c6",
   "total_blocks": 162,
-  "retained_blocks": 45,
-  "ignored_blocks": 117,
+  "retained_blocks": 42,
+  "ignored_blocks": 120,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" #BeginTemplate \"/Templates/HistoryTemplate.dwt\" DW6 #BeginEditable \"doctitle\" #EndEditable #BeginEditable \"meta\" #EndEditable Department of Historical Studies"
-    },
-    {
-      "tag": "p",
-      "text": "Home Undergraduates Postgraduates Staff Research News"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
     },
     {
       "tag": "div",
-      "text": "#BeginEditable \"picture\" #EndEditable"
+      "text": "Department of Historical Studies"
     },
     {
       "tag": "p",
-      "text": "University of Bristol Dept of Historical Studies 13 Woodland Road Bristol BS8 1TB United Kingdom T: 0117 928 7934/36 F: 0117 928 8276 Webmaste r Updated: #BeginEditable \"date\" #BeginDate format:En2 26-Aug-2005 #EndDate #EndEditable W3C: Valid XHTML 1.0"
-    },
-    {
-      "tag": "div",
-      "text": "#BeginEditable \"central\""
+      "text": "Home Undergraduates Postgraduates Staff Research News University of Bristol Dept of Historical Studies 13 Woodland Road Bristol BS8 1TB United Kingdom T: 0117 928 7934/36 F: 0117 928 8276 Webmaste r Updated: 26-Aug-2005 W3C: Valid XHTML 1.0"
     },
     {
       "tag": "h1",
@@ -181,10 +173,6 @@
     {
       "tag": "p",
       "text": "These guidelines are adapted, with thanks, from those compiled \n              by Marcus Bull for use in the MA in Medieval Studies (Return to top of page)"
-    },
-    {
-      "tag": "div",
-      "text": "#EndEditable #EndTemplate"
     }
   ]
 }

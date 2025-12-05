@@ -3,12 +3,16 @@
   "file_number": "141",
   "content_hash": "21dab7e4d3ec0c8181701ac9996f59ee20ac3f635103d7cddc5a0a8d59c9843c",
   "total_blocks": 42,
-  "retained_blocks": 15,
-  "ignored_blocks": 27,
+  "retained_blocks": 18,
+  "ignored_blocks": 24,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" 5.Jul.99 at 9:00 am About the author Return to Table of Contents Go back to Chapter 1"
+      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" About the author Return to Table of Contents"
+    },
+    {
+      "tag": "div",
+      "text": "Go back to Chapter 1"
     },
     {
       "tag": "h4",
@@ -64,7 +68,15 @@
     },
     {
       "tag": "div",
-      "text": "Go on to Chapter 3 your comments are welcome. < Joe@JoeCobb.com > About the author Return to Table of Contents"
+      "text": "Go on to Chapter 3"
+    },
+    {
+      "tag": "div",
+      "text": "your comments are welcome. < Joe@JoeCobb.com >"
+    },
+    {
+      "tag": "div",
+      "text": "About the author Return to Table of Contents"
     }
   ]
 }

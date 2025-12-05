@@ -3,12 +3,12 @@
   "file_number": "383",
   "content_hash": "3cd1fb0cf00d4c4c26de3af587b5ad113ae2fb8d61a25d8abd83e16f2efef5b4",
   "total_blocks": 56,
-  "retained_blocks": 28,
-  "ignored_blocks": 28,
+  "retained_blocks": 25,
+  "ignored_blocks": 31,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" START SITE WIDE STRUCTURE CUETemplate2.0 DPI&Fstyles primary nav scripts primary nav stylesheet END SITE WIDE STRUCTURE End Site Header Start System Generated End System Generated Start Site Template Header START SITE HEADER AND MASTER NAVIGATION CONTROLS primary nav script keyboard navigation module"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
     },
     {
       "tag": "h1",
@@ -24,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "ACCESS KEYS Access keys | Skip to primary \r\r\n        navigation | Skip \r\r\n        to content | Skip to footer | END ACCESS KEYS BROWSER SUPPORT Problems viewing this site END BROWSER SUPPORT HEADER"
+      "text": "Access keys | Skip to primary \r\r\n        navigation | Skip \r\r\n        to content | Skip to footer | Problems viewing this site"
     },
     {
       "tag": "h3",
@@ -40,7 +40,7 @@
     },
     {
       "tag": "div",
-      "text": "Home | Site map | Contact us | Help | END HEADER PRIME NAV"
+      "text": "Home | Site map | Contact us | Help |"
     },
     {
       "tag": "h2",
@@ -48,7 +48,7 @@
     },
     {
       "tag": "div",
-      "text": "Business & trade Biosecurity Business & trade services Business development Farm business management Industry trends Trade & export Plant industries Field crops & pastures Fruit & vegetables Health, pests, diseases & weeds Lifestyle horticulture Plant industries services Research & development Transporting plant materials Animal industries Beef Dairy Pigs Poultry Sheep Aquaculture Other animals Animal industries services Animal welfare & ethics Health, pests & diseases Research & development Transporting & selling livestock Fisheries Aquaculture Commercial fisheries Recreational fishing Exotic pest fish Fisheries services Habitats Policy & legislation Research & development Species identification Sustainable fishing Forestry Forest industry development Forestry Plantations Queensland Research & development Private hardwood plantations Pests & diseases Timber & its uses Forestry services Services Animal industries services Business & trade services Fisheries services Forestry services Plant industries services Bookshop Conference facilities Email lists Events Library News Newsletters About us The organisation Contact us Research capabilities Employment END PRIME NAV MAIN END HEADER HERE END SITE HEADER AND MASTER NAVIGATION CONTROLS End Site Template Header Start Project Homepage Content Start project header Home > End project header End Project Template Header Start Page Content"
+      "text": "Business & trade Biosecurity Business & trade services Business development Farm business management Industry trends Trade & export Plant industries Field crops & pastures Fruit & vegetables Health, pests, diseases & weeds Lifestyle horticulture Plant industries services Research & development Transporting plant materials Animal industries Beef Dairy Pigs Poultry Sheep Aquaculture Other animals Animal industries services Animal welfare & ethics Health, pests & diseases Research & development Transporting & selling livestock Fisheries Aquaculture Commercial fisheries Recreational fishing Exotic pest fish Fisheries services Habitats Policy & legislation Research & development Species identification Sustainable fishing Forestry Forest industry development Forestry Plantations Queensland Research & development Private hardwood plantations Pests & diseases Timber & its uses Forestry services Services Animal industries services Business & trade services Fisheries services Forestry services Plant industries services Bookshop Conference facilities Email lists Events Library News Newsletters About us The organisation Contact us Research capabilities Employment Home >"
     },
     {
       "tag": "h1",
@@ -104,19 +104,7 @@
     },
     {
       "tag": "p",
-      "text": "Last updated 21 July 2006"
-    },
-    {
-      "tag": "div",
-      "text": "End Page Content Start Project Template Footer End main content area or features Start project footer End project footer End Project Homepage Content Start Site Template Footer BEGIN SITE FOOTER HERE /MAIN FOOTER"
-    },
-    {
-      "tag": "p",
-      "text": "Copyright | Disclaimer | Privacy | Link to us | Access keys | Other languages © The State of Queensland (Department of Primary Industries and Fisheries) 1995 - 2006. Queensland Government"
-    },
-    {
-      "tag": "div",
-      "text": "END SITE FOOTER HERE GOOGLE ANALYTICS JAVASCRIPT - added 2006-10-06 End Site Template Footer"
+      "text": "Last updated 21 July 2006 Copyright | Disclaimer | Privacy | Link to us | Access keys | Other languages © The State of Queensland (Department of Primary Industries and Fisheries) 1995 - 2006. Queensland Government"
     }
   ]
 }

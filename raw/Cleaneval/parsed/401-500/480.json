@@ -3,20 +3,12 @@
   "file_number": "480",
   "content_hash": "d4372c0b0f2af6880f33a88add856ae9226d657a06d75c9db9fe11532c13a7cf",
   "total_blocks": 183,
-  "retained_blocks": 15,
-  "ignored_blocks": 168,
+  "retained_blocks": 14,
+  "ignored_blocks": 169,
   "blocks": [
     {
       "tag": "div",
-      "text": "ValueClick Media POP-UNDER CODE v1.8 for hereinreality.com (12 hour) ValueClick Media POP-UNDER CODE v1.8 for hereinreality.com webbot bot=\"Include\" U-Include=\"pagetop.html\" TAG=\"BODY\" startspan"
-    },
-    {
-      "tag": "p",
-      "text": "ValueClick Media 468x60 and 728x90 Banner CODE for hereinreality.com ValueClick Media 468x60 and 728x90 Banner CODE for hereinreality.com"
-    },
-    {
-      "tag": "div",
-      "text": "SiteSearch Google Web This\nsite SiteSearch Google"
+      "text": "Web This\nsite"
     },
     {
       "tag": "p",
@@ -24,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "webbot bot=\"Include\" endspan i-checksum=\"11045\" They\n                        don't talk about it on TV anymore, but\n                        someone tried to make money with unusual\n                        stock trades right before the terrorist\n                        attacks of September 11.  Who knew\n                        to bet that United Airlines would lose\n                        money?"
+      "text": "They\n                        don't talk about it on TV anymore, but\n                        someone tried to make money with unusual\n                        stock trades right before the terrorist\n                        attacks of September 11.  Who knew\n                        to bet that United Airlines would lose\n                        money?"
     },
     {
       "tag": "p",
@@ -48,7 +40,11 @@
     },
     {
       "tag": "div",
-      "text": "Meet\n                                The Carlyle Group Bush\n                                Family Values Photo Album Suicidal Coincidences Who\n                                Killed John O'Neill? 9-11: \n                                Why did it happen? The\n                                Axis of Corporate Evil New\n                                Ruler of the Information Superhighway Military\n                                Career of our Commander in Chief Inside\n                                a \"Think Tank\" The\n                                Enron Photo Album Meet\n                                Cliff Baxter's Coroner Funeralgate Meet\n                                our Big Brother More\n                        Articles The Carlyle Group/Bin\n                        Laden Connection Amazing coincidence? FBI Told To Back\n                        Off Bin Ladens Special agents told to stop investigating\n                        after President Bush took office The UNOCAL Oil Pipeline and\n                        Afghanistan Bush Hides\n                        Presidential Records What doesn't he want Americans to know? Bush Companies Seized under\n                        Trading With the Enemy Act Bush Timeline Dick Cheney's Business\n                        Dealings in Iraq The sanctions have loopholes our vice\n                        president made millions from. TAF Master 1.4 - 2003/07/28 14:49:52"
+      "text": "Meet\n                                The Carlyle Group Bush\n                                Family Values Photo Album Suicidal Coincidences Who\n                                Killed John O'Neill? 9-11: \n                                Why did it happen? The\n                                Axis of Corporate Evil New\n                                Ruler of the Information Superhighway Military\n                                Career of our Commander in Chief Inside\n                                a \"Think Tank\" The\n                                Enron Photo Album Meet\n                                Cliff Baxter's Coroner Funeralgate Meet\n                                our Big Brother"
+    },
+    {
+      "tag": "div",
+      "text": "More\n                        Articles The Carlyle Group/Bin\n                        Laden Connection Amazing coincidence? FBI Told To Back\n                        Off Bin Ladens Special agents told to stop investigating\n                        after President Bush took office The UNOCAL Oil Pipeline and\n                        Afghanistan Bush Hides\n                        Presidential Records What doesn't he want Americans to know? Bush Companies Seized under\n                        Trading With the Enemy Act Bush Timeline Dick Cheney's Business\n                        Dealings in Iraq The sanctions have loopholes our vice\n                        president made millions from."
     },
     {
       "tag": "p",

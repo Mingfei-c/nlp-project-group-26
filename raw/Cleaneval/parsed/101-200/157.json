@@ -3,12 +3,44 @@
   "file_number": "157",
   "content_hash": "c20fab55993574ba538996983a693f2df8019f4fded52645ae3c17101a1b87f6",
   "total_blocks": 122,
-  "retained_blocks": 1,
-  "ignored_blocks": 121,
+  "retained_blocks": 9,
+  "ignored_blocks": 113,
   "blocks": [
     {
       "tag": "div",
-      "text": "Google Analytics End of Google Analytics Header Happy Holidays from Our Family to Yours 1-800-935-2620 MON-FRI 8AM - 10PM ET | SAT-SUN 9AM - 6PM ET Sign up for Newsletter E-mail: Globus Tours Trafalgar Tours Value World Viking River Cruises Uniworld River Cruises Tauck World Discovery Peter Deilmann Amadeus Waterways American West Brendan River Cruises Delta Queen Imperial River Cruises Intrav Travel Search Advanced Search End of Header Sorry the Itinerary could not be found. You may receive more results if you broaden your search criteria. Or, you may call 1-800-935-2620 to speak to a river cruise specialist. River Cruise specialists are available from 8 AM to 8 PM EST Monday thru Friday and 9 AM to 5 PM EST on Saturday! River Cruise Tools Advanced Search Search by Operator Search by Destination Search by River Current Specials Best Deals River Cruise FAQs Site Map Customer Service Footer Copyright  1994 - 2006 AffordableTours.com. All rights reserved. About Us - Terms and Conditions - Privacy Policy - Contact us 1-800-935-2620 OR 1-281-269-2600 Home - Tours - Cruises Footer"
+      "text": "Happy Holidays from Our Family to Yours"
+    },
+    {
+      "tag": "div",
+      "text": "1-800-935-2620 MON-FRI 8AM - 10PM ET | SAT-SUN 9AM - 6PM ET"
+    },
+    {
+      "tag": "div",
+      "text": "Sign up for Newsletter E-mail:"
+    },
+    {
+      "tag": "div",
+      "text": "Globus Tours Trafalgar Tours Value World Viking River Cruises Uniworld River Cruises Tauck World Discovery Peter Deilmann Amadeus Waterways American West Brendan River Cruises Delta Queen Imperial River Cruises Intrav Travel"
+    },
+    {
+      "tag": "div",
+      "text": "Search Advanced Search"
+    },
+    {
+      "tag": "div",
+      "text": "Sorry the Itinerary could not be found. You may receive more results if you broaden your search criteria. Or, you may call 1-800-935-2620 to speak to a river cruise specialist. River Cruise specialists are available from 8 AM to 8 PM EST Monday thru Friday and 9 AM to 5 PM EST on Saturday!"
+    },
+    {
+      "tag": "div",
+      "text": "River Cruise Tools"
+    },
+    {
+      "tag": "div",
+      "text": "Advanced Search Search by Operator Search by Destination Search by River Current Specials Best Deals River Cruise FAQs Site Map Customer Service"
+    },
+    {
+      "tag": "div",
+      "text": "Copyright  1994 - 2006 AffordableTours.com. All rights reserved. About Us - Terms and Conditions - Privacy Policy - Contact us 1-800-935-2620 OR 1-281-269-2600 Home - Tours - Cruises"
     }
   ]
 }

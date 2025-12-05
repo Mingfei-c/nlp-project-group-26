@@ -3,12 +3,28 @@
   "file_number": "69",
   "content_hash": "e6c4383eca5a2bd6fa427a9e4069fba15f91cd48e6e962d7c103e0173f2c4f51",
   "total_blocks": 253,
-  "retained_blocks": 17,
-  "ignored_blocks": 236,
+  "retained_blocks": 23,
+  "ignored_blocks": 230,
   "blocks": [
     {
       "tag": "div",
-      "text": "﻿ HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" <meta name=\"product_service_name\" content=\"ENTER_PRODUCT_SPECIFICATION\"> Enter theme color in the variable below.  Please select from the following colors: For use with white text: #990000,#CC0066,#336666,#003366,#000000,#666666,#336633,#EB5F01,#0066FF,#4FAF00 For use with black text: #FFCC00 stopindex Begin Top Navigation Area Welcome, 123456789012345678901234567890... &raquo;&nbsp;<a href=\"Insert_Link_Here\" class=\"small\">Sign-out</a>&nbsp;<span class=\"color666666\">|</span>&nbsp;&raquo;&nbsp;<a href=\"Insert_Link_Here\" class=\"small\">Edit your profile</a> Deutschland-Deutsch End Top Navigation Area Begin Search Area » Activate Contact Link Here Kontakt zu HP End Activate Contact Link Here COPY AND PASTE CONTEXTUAL SEARCH CODE FROM SEARCH BUILDER HERE\n\t\t\t\t\t\t\tto implement your search, see build guide section 3.6:   http://www.hp.com/hpweb/buildguide/search.htm Suchen: <img src=\"http://welcome.hp-ww.com/img/s.gif\" width=\"13\" height=\"1\" alt=\"\" border=\"0\"><a href=\"ENTER HERE\" class=\"udrlinesmall\">More options</a> BEGIN SEARCH HPL TAG Öffentlicher Sektor, Gesundheit & Bildung Nur in HP Deutschland suchen END SEARCH HPL TAG End Search Area startindex Begin Page Title Area Public Sector, Health & Education > Defence & Security"
+      "text": "﻿ HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "Deutschland-Deutsch"
+    },
+    {
+      "tag": "div",
+      "text": "» Kontakt zu HP"
+    },
+    {
+      "tag": "div",
+      "text": "Suchen: Öffentlicher Sektor, Gesundheit & Bildung Nur in HP Deutschland suchen"
+    },
+    {
+      "tag": "div",
+      "text": "Public Sector, Health & Education > Defence & Security"
     },
     {
       "tag": "h1",
@@ -16,7 +32,7 @@
     },
     {
       "tag": "div",
-      "text": "stopindex End Page Title Area Begin Left Navigation and Content Area.  To increase width of content area, modify width of table below. Start Left Navigation »"
+      "text": "»"
     },
     {
       "tag": "h2",
@@ -40,7 +56,7 @@
     },
     {
       "tag": "div",
-      "text": "» Bestellstatus Übersicht End Left Navigation Begin Gutter Cell 10px Wide End Gutter Cell 10px Wide startindex Start Content Area.  To increase width of content area, modify width of table cell below."
+      "text": "» Bestellstatus Übersicht"
     },
     {
       "tag": "h2",
@@ -72,7 +88,15 @@
     },
     {
       "tag": "div",
-      "text": "» Servers » Networking » Notebooks & Tablet PCs » All enterprise products End Content Area stopindex End Left Navigation and Content Area Begin Printable Version Printable version End Printable Version Begin Footer Area Datenschutzerklärung Impressum Mit der Benutzung dieser Website erklären Sie sich mit den entsprechenden Nutzungsbedingungen einverstanden Activate Feedback Link Here a href=\"Insert_Link_Here\" class=\"udrlinesmall\">Feedback to [site name]</a End Activate Feedback Link Here © 2006 Hewlett-Packard Development Company, L.P. End Footer Area Begin METRICS Javascript End METRICS Javascript"
+      "text": "» Servers » Networking » Notebooks & Tablet PCs » All enterprise products"
+    },
+    {
+      "tag": "div",
+      "text": "Printable version"
+    },
+    {
+      "tag": "div",
+      "text": "Datenschutzerklärung Impressum Mit der Benutzung dieser Website erklären Sie sich mit den entsprechenden Nutzungsbedingungen einverstanden © 2006 Hewlett-Packard Development Company, L.P."
     }
   ]
 }

@@ -3,12 +3,16 @@
   "file_number": "566",
   "content_hash": "4279d21f7b2f38f05e0d1a05cf4673a010254ac7050d87da0a4611814f45f7b1",
   "total_blocks": 286,
-  "retained_blocks": 24,
-  "ignored_blocks": 262,
+  "retained_blocks": 40,
+  "ignored_blocks": 246,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" mediabistro.com: career and community for media professionals Log in to view your personal and community options. Register for FREE or Join AvantGuild"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "mediabistro.com: career and community for media professionals Log in to view your personal and community options. Register for FREE or Join AvantGuild"
     },
     {
       "tag": "h1",
@@ -80,7 +84,11 @@
     },
     {
       "tag": "div",
-      "text": "Back to Home > Content > Excerpt: Attacks on the Press in 2002 Mail Print"
+      "text": "Back to Home > Content > Excerpt: Attacks on the Press in 2002"
+    },
+    {
+      "tag": "div",
+      "text": "Mail Print"
     },
     {
       "tag": "h1",
@@ -100,7 +108,63 @@
     },
     {
       "tag": "div",
-      "text": "> Have a comment? Send a letter to the editor. > Read more in our archives mb \r\n        offers nyc course women's magazines Write for women's magazines ! Learn what kind of articles are in demand, which editors to target, and more. Starts Jan. 22 . l.a. workshop your first book Learn how to write, edit, and sell your first book from author Susan Shapiro ( Lighting Up, Five Men Who Broke My Heart ). Jan. 13 . nyc course advanced copyediting Sharpen your copyediting skills! With veteran copy editor Abby Tannenbaum ( Food & Wine , Elle , Glamour ). Starts Jan. 17 . nyc course food writing We can help you publish your food stories , whether you're an experienced journalist or you've never written before. Intro - Jan. 16 Advanced - Jan. 18 nyc workshop sitcom writing Learn all about sitcom writing from one of the writers of The Simpsons in this \"Excellent\" workshop. Jan. 20-21 . l.a. workshop food-travel writing Turn your culinary travel adventures into great magazine pieces . Learn how from Bon Appetit managing editor Laurie Buckle. Jan. 20 . Home l Site Map l Help l Advertising/Sponsorships l Store l About Us mediabistro.com inc., call (212) 929-2588 or email us PRIVACY \r\n\tPOLICY Copyright © 2006 mediabistro.com inc. All rights reserved. MEDIA BISTRO is a registered trademark of Laurel Touby. Member Benefits l Jobs l Freelance Marketplace l Courses l Events l Forums l Content"
+      "text": "> Have a comment? Send a letter to the editor. > Read more in our archives"
+    },
+    {
+      "tag": "div",
+      "text": "mb \r\n        offers"
+    },
+    {
+      "tag": "div",
+      "text": "nyc course women's magazines"
+    },
+    {
+      "tag": "div",
+      "text": "Write for women's magazines ! Learn what kind of articles are in demand, which editors to target, and more. Starts Jan. 22 ."
+    },
+    {
+      "tag": "div",
+      "text": "l.a. workshop your first book"
+    },
+    {
+      "tag": "div",
+      "text": "Learn how to write, edit, and sell your first book from author Susan Shapiro ( Lighting Up, Five Men Who Broke My Heart ). Jan. 13 ."
+    },
+    {
+      "tag": "div",
+      "text": "nyc course advanced copyediting"
+    },
+    {
+      "tag": "div",
+      "text": "Sharpen your copyediting skills! With veteran copy editor Abby Tannenbaum ( Food & Wine , Elle , Glamour ). Starts Jan. 17 ."
+    },
+    {
+      "tag": "div",
+      "text": "nyc course food writing"
+    },
+    {
+      "tag": "div",
+      "text": "We can help you publish your food stories , whether you're an experienced journalist or you've never written before. Intro - Jan. 16 Advanced - Jan. 18"
+    },
+    {
+      "tag": "div",
+      "text": "nyc workshop sitcom writing"
+    },
+    {
+      "tag": "div",
+      "text": "Learn all about sitcom writing from one of the writers of The Simpsons in this \"Excellent\" workshop. Jan. 20-21 ."
+    },
+    {
+      "tag": "div",
+      "text": "l.a. workshop food-travel writing"
+    },
+    {
+      "tag": "div",
+      "text": "Turn your culinary travel adventures into great magazine pieces . Learn how from Bon Appetit managing editor Laurie Buckle. Jan. 20 ."
+    },
+    {
+      "tag": "div",
+      "text": "Home l Site Map l Help l Advertising/Sponsorships l Store l About Us mediabistro.com inc., call (212) 929-2588 or email us PRIVACY \r\n\tPOLICY Copyright © 2006 mediabistro.com inc. All rights reserved. MEDIA BISTRO is a registered trademark of Laurel Touby. Member Benefits l Jobs l Freelance Marketplace l Courses l Events l Forums l Content"
     }
   ]
 }

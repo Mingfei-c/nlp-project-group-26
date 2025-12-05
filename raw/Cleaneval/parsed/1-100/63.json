@@ -3,20 +3,16 @@
   "file_number": "63",
   "content_hash": "10ba6e9c0dc9029e590ed5624aefd47d0e5a1d58ac48f59462c44798a6e3691a",
   "total_blocks": 138,
-  "retained_blocks": 87,
-  "ignored_blocks": 51,
+  "retained_blocks": 85,
+  "ignored_blocks": 53,
   "blocks": [
     {
       "tag": "div",
-      "text": "start: new header start: navbar Home Archive Columnists Video Blogs Discuss About Search Donate start: body beg body start: subscribe box Get AlterNet in your mailbox! Advertisement Advertisement Advertisement Advertisement Advertisement AlterNet Your turn"
+      "text": "Home Archive Columnists Video Blogs Discuss About Search Donate Get AlterNet in your mailbox! Advertisement Advertisement Advertisement Advertisement Advertisement AlterNet Your turn"
     },
     {
       "tag": "p",
       "text": "Support AlterNet Do you value the information you're getting from  AlterNet? Please show your support with a tax-deductible donation . Feedback Tell us how we're doing ."
-    },
-    {
-      "tag": "div",
-      "text": "start: search box"
     },
     {
       "tag": "h3",
@@ -28,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "<p><b>What's Being Talked About</b></p>\r\n\r\n<p>Interested in what people are talking about? Check out the 40 stories and blog posts most commented on in the past week.</p> Published between: Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 2005 2006 to Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 2005 2006"
+      "text": "Published between: Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 2005 2006 to Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 2005 2006"
     },
     {
       "tag": "h3",
@@ -344,15 +340,11 @@
     },
     {
       "tag": "div",
-      "text": "start: footer Home Top Stories Columnists Video Blogs Discuss RSS/XML About Search Donate Contact Us Advertise"
+      "text": "Home Top Stories Columnists Video Blogs Discuss RSS/XML About Search Donate Contact Us Advertise"
     },
     {
       "tag": "p",
       "text": "Reproduction of material from any AlterNet pages without written permission is strictly prohibited. © 2006 Independent Media Institute. All rights reserved."
-    },
-    {
-      "tag": "div",
-      "text": "start: footer shadow"
     }
   ]
 }

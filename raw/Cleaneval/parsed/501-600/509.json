@@ -3,12 +3,12 @@
   "file_number": "509",
   "content_hash": "53ca4ed8220b38cb9b7bc43d0d1378b824e0994223f70d7d05fca5c1276f4d2c",
   "total_blocks": 86,
-  "retained_blocks": 19,
-  "ignored_blocks": 67,
+  "retained_blocks": 20,
+  "ignored_blocks": 66,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd\" begin header begin title (if one exists) end title (if one exists) end header Skip to main content Home About us Contact us Online services Site map Help » Practitioner Zone businesses & corporations employers individuals & employees begin original content"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd\" Skip to main content Home About us Contact us Online services Site map Help » Practitioner Zone businesses & corporations employers individuals & employees"
     },
     {
       "tag": "h1",
@@ -76,11 +76,15 @@
     },
     {
       "tag": "p",
-      "text": "The overnight batch process will update all the voucher and\r\n\r\nstock on hand records. This will have the effect of reducing the\r\n\r\nminimum stock level of vouchers held by the subcontractor and,\r\n\r\nunless there is a system stop on voucher issue, trigger automatic\r\n\r\nreplenishment. CIS forms Glossary Where am I? Quick links index- CIS0100 Home | Main Contents | Manual Contents Previous Page | Next Page | Top"
+      "text": "The overnight batch process will update all the voucher and\r\n\r\nstock on hand records. This will have the effect of reducing the\r\n\r\nminimum stock level of vouchers held by the subcontractor and,\r\n\r\nunless there is a system stop on voucher issue, trigger automatic\r\n\r\nreplenishment. CIS forms Glossary Where am I? Quick links index- CIS0100"
+    },
+    {
+      "tag": "p",
+      "text": "Home | Main Contents | Manual Contents Previous Page | Next Page | Top"
     },
     {
       "tag": "div",
-      "text": "end original content End centre & left © Crown Copyright | Terms & conditions | Privacy policy | Accessibility"
+      "text": "© Crown Copyright | Terms & conditions | Privacy policy | Accessibility"
     }
   ]
 }

@@ -3,20 +3,12 @@
   "file_number": "417",
   "content_hash": "889c177fad8e318302a67e33ee6e10e3018b464d6e929e474e45c97a8dc361c7",
   "total_blocks": 129,
-  "retained_blocks": 18,
-  "ignored_blocks": 111,
+  "retained_blocks": 16,
+  "ignored_blocks": 113,
   "blocks": [
     {
       "tag": "h1",
-      "text": "Lessons In Electric Circuits -- Volume III Chapter 9"
-    },
-    {
-      "tag": "div",
-      "text": "Modified 04/27/2002 - 04/28/2002 (TK) -- Began writing \"Computational Circuits\" section. Modified 05/01/2002 (TK) -- Added some comments, and one illustration, to the \"Computational Circuits\" section, regarding noise errors and drift errors. Modified 06/23/2002 (TK) -- Minor editing. Modified 06/29/2002 (TK) -- Modified image markup to new SubML standard (version 0.94), whereby HTML-compatible filename extensions are included within the \"image\" tags, not just the file name itself.  This new markup standard allows for more flexibility in image file formats for HTML output. Modified 08/23/2002 (TK) -- Added Warren Young's (modified) text as the first installment of a new \"Power Supplies\" section. Modified 12/09/2002 (TK) -- Corrected error in image 03335, with incorrect feedback resistor value (it was 2000 ohms and it should have been 1000 ohms)."
-    },
-    {
-      "tag": "h1",
-      "text": "PRACTICAL ANALOG SEMICONDUCTOR CIRCUITS"
+      "text": "Lessons In Electric Circuits -- Volume III Chapter 9 PRACTICAL ANALOG SEMICONDUCTOR CIRCUITS"
     },
     {
       "tag": "p",

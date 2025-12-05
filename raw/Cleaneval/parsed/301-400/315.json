@@ -3,12 +3,16 @@
   "file_number": "315",
   "content_hash": "3c972370fe8ad94266f6fe99e09d9475d81cb12179e56f5fb19c6ad0e39fcaf3",
   "total_blocks": 102,
-  "retained_blocks": 3,
-  "ignored_blocks": 99,
+  "retained_blocks": 4,
+  "ignored_blocks": 98,
   "blocks": [
     {
       "tag": "div",
-      "text": "Begin Top Navigation End Top Navigation Begin Left Side Navigation AEROSPACE JOBS >> End Left Side Navigation Bargaining > Bargaining by \r                                    Company > Starbucks > CAW Local 3000 Members At Starbucks"
+      "text": "AEROSPACE JOBS >>"
+    },
+    {
+      "tag": "div",
+      "text": "Bargaining > Bargaining by \r                                    Company > Starbucks > CAW Local 3000 Members At Starbucks"
     },
     {
       "tag": "p",
@@ -16,7 +20,7 @@
     },
     {
       "tag": "div",
-      "text": "Begin Bottom Border for Content and Right Navigation Back to Top End Bottom Border for Content and Right Navigation"
+      "text": "Back to Top"
     }
   ]
 }

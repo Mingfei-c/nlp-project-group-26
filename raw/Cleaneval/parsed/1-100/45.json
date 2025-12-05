@@ -3,12 +3,24 @@
   "file_number": "45",
   "content_hash": "16857e4368f267fe35cfaca49717c5f8368371f149073aec9c25bfe16276282e",
   "total_blocks": 359,
-  "retained_blocks": 47,
-  "ignored_blocks": 312,
+  "retained_blocks": 55,
+  "ignored_blocks": 304,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"  \"http://www.w3.org/TR/html4/loose.dtd\" stopindex Begin Top Navigation Area Jump to content End Top Navigation Area Begin Search Area » Contact HP Search: DRC All of HP US END SEARCH HPL TAG End Search Area startindex Begin Page Title Area"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"  \"http://www.w3.org/TR/html4/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "Jump to content"
+    },
+    {
+      "tag": "div",
+      "text": "» Contact HP"
+    },
+    {
+      "tag": "div",
+      "text": "Search: DRC All of HP US"
     },
     {
       "tag": "h1",
@@ -16,7 +28,11 @@
     },
     {
       "tag": "div",
-      "text": "Notes from a presentation given at BEA dev2dev Days 2004. stopindex End Page Title Area Start Left Navigation »"
+      "text": "Notes from a presentation given at BEA dev2dev Days 2004."
+    },
+    {
+      "tag": "div",
+      "text": "»"
     },
     {
       "tag": "h2",
@@ -24,7 +40,11 @@
     },
     {
       "tag": "div",
-      "text": "» Downloads index » Topic index » HP OpenView » HP OpenCall » Linux » Ask the experts » Explore management technologies » Integration stories » Forums » Blogs » Invent Online webcasts » Get software support » Newsletter » Events » About us » Site map Gutter Cell content End Left Navigation startindex BEGIN MAIN CONTENT HERE by Justin Murray, Chris Peltz, & Claire Rogers, HP"
+      "text": "» Downloads index » Topic index » HP OpenView » HP OpenCall » Linux » Ask the experts » Explore management technologies » Integration stories » Forums » Blogs » Invent Online webcasts » Get software support » Newsletter » Events » About us » Site map"
+    },
+    {
+      "tag": "div",
+      "text": "by Justin Murray, Chris Peltz, & Claire Rogers, HP"
     },
     {
       "tag": "h2",
@@ -112,7 +132,11 @@
     },
     {
       "tag": "p",
-      "text": "Isolating the performance problem using HP OpenView Transaction Analyzer Let's take a look at how we can isolate an application performance problem in our application using OVTA. In this particular scenario, an IT operator or the application owner is monitoring the application for availability and response time. They might be using a product such as HP OpenView Internet Service (OVIS) to monitor the application from end-to-end to determine overall availability and performance. Here, we see a screenshot of this product indicating that the response time of our application is not in an acceptable state. As the operator or support specialist does some quick root cause analysis, he finds that it is your application that isn't performing up to defined service levels. He contacts you immediately and asks you to look at a problem that is occurring with your application. He doesn't tell you much except that your application transaction response time rate is twice the accepted rate. So how are you going to solve this problem? Let's now take a look at this problem through the perspective of OVTA."
+      "text": "Isolating the performance problem using HP OpenView Transaction Analyzer"
+    },
+    {
+      "tag": "p",
+      "text": "Let's take a look at how we can isolate an application performance problem in our application using OVTA. In this particular scenario, an IT operator or the application owner is monitoring the application for availability and response time. They might be using a product such as HP OpenView Internet Service (OVIS) to monitor the application from end-to-end to determine overall availability and performance. Here, we see a screenshot of this product indicating that the response time of our application is not in an acceptable state. As the operator or support specialist does some quick root cause analysis, he finds that it is your application that isn't performing up to defined service levels. He contacts you immediately and asks you to look at a problem that is occurring with your application. He doesn't tell you much except that your application transaction response time rate is twice the accepted rate. So how are you going to solve this problem? Let's now take a look at this problem through the perspective of OVTA."
     },
     {
       "tag": "h2",
@@ -192,7 +216,15 @@
     },
     {
       "tag": "div",
-      "text": "Try out HP OpenView Transaction Analyzer » Download Gain some experience with JMX technology » Visit HP Dev Resource Central Complete developer tutorials on JMX » Learn more about HP OpenView and BEA application management solutions Find more developer events » Events END MAIN CONTENT HERE End Content Area stopindex Begin Leftover Area End Leftover Area Begin Printable Version Printable version End Printable Version Begin Footer Area Privacy statement Using this site means you accept its terms Trademark acknowledgment Feedback to Dev Resource Central © 2006 Hewlett-Packard Development Company, L.P. End Footer Area Begin METRICS Javascript End METRICS Javascript"
+      "text": "Try out HP OpenView Transaction Analyzer » Download Gain some experience with JMX technology » Visit HP Dev Resource Central Complete developer tutorials on JMX » Learn more about HP OpenView and BEA application management solutions Find more developer events » Events"
+    },
+    {
+      "tag": "div",
+      "text": "Printable version"
+    },
+    {
+      "tag": "div",
+      "text": "Privacy statement Using this site means you accept its terms Trademark acknowledgment Feedback to Dev Resource Central © 2006 Hewlett-Packard Development Company, L.P."
     }
   ]
 }

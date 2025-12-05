@@ -8,7 +8,7 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "html \r\n    PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \r\n    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" 2"
+      "text": "html \r\n    PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \r\n    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
     },
     {
       "tag": "p",

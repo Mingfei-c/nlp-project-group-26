@@ -3,20 +3,16 @@
   "file_number": "308",
   "content_hash": "1ed1a983634cde1698af2777e831cca6a72f1303cd183b56cfb614042f065642",
   "total_blocks": 251,
-  "retained_blocks": 40,
-  "ignored_blocks": 211,
+  "retained_blocks": 38,
+  "ignored_blocks": 213,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "head"
-    },
     {
       "tag": "h1",
       "text": "Canadian Democratic Movement"
     },
     {
       "tag": "div",
-      "text": "Alternative News Media on Democracy, Politics, Trade, Environment, Military and Money in Canada head end - middle (main content) column begin Start Center Block End Center Block Start Center Block End Center Block BEGIN: Default Theme Article"
+      "text": "Alternative News Media on Democracy, Politics, Trade, Environment, Military and Money in Canada"
     },
     {
       "tag": "h2",
@@ -32,7 +28,7 @@
     },
     {
       "tag": "div",
-      "text": "Note: With China now making moves in the Canadian energy sector, it is important that we know the larger issues at hand.  They will all play off one another. Posted by Admin on Friday, January 14, 2005 9 Comments END: Default Theme Article"
+      "text": "Note: With China now making moves in the Canadian energy sector, it is important that we know the larger issues at hand.  They will all play off one another. Posted by Admin on Friday, January 14, 2005 9 Comments"
     },
     {
       "tag": "h3",
@@ -40,7 +36,11 @@
     },
     {
       "tag": "div",
-      "text": "Author Comment Anonymous Subject: Re: Will Washington Tolerate A Chinese-Venezuelan Petro Pact? posted: Jan 14, 2005 - 09:47 PM Idon't find it surprising at all that America might find a problem with a potential adversary seeking out oil in what America deems to be its backyard.  Yet, as China continues to modernize, we should expect some type of conflict over what oil is left.  Not neccessarily war, but certainly some animosity between the two. As for Venezuala, they are just looking out for themselves. Besides, what a better way to stick it to America than to form partnerships with countries like China?  Chavez of course was almost deposed because of an American backed coup attempt.  Only one nation accepted the leaders of the coup - America.  The people obviously want to continue with Chavez as he has won in a fair open election, and in a referendum on his actions.  His country has been exporting oil for 100 years and its only now that the people in the countryside as starting to benefit. That is surely going to chaff the elites of the nation that were so used to getting the vast majority of the oil wealth for themselves only. Canada too may draw the ire of the US if we too open up to the Chinese. Canada is a central part to the US policy on energy security and Chinese involvement certainly threatens that hegemony to some level. Anonymous Subject: Re: Will Washington Tolerate A Chinese-Venezuelan Petro Pact? posted: Jan 14, 2005 - 09:51 PM"
+      "text": "Author Comment"
+    },
+    {
+      "tag": "div",
+      "text": "Anonymous Subject: Re: Will Washington Tolerate A Chinese-Venezuelan Petro Pact? posted: Jan 14, 2005 - 09:47 PM Idon't find it surprising at all that America might find a problem with a potential adversary seeking out oil in what America deems to be its backyard.  Yet, as China continues to modernize, we should expect some type of conflict over what oil is left.  Not neccessarily war, but certainly some animosity between the two. As for Venezuala, they are just looking out for themselves. Besides, what a better way to stick it to America than to form partnerships with countries like China?  Chavez of course was almost deposed because of an American backed coup attempt.  Only one nation accepted the leaders of the coup - America.  The people obviously want to continue with Chavez as he has won in a fair open election, and in a referendum on his actions.  His country has been exporting oil for 100 years and its only now that the people in the countryside as starting to benefit. That is surely going to chaff the elites of the nation that were so used to getting the vast majority of the oil wealth for themselves only. Canada too may draw the ire of the US if we too open up to the Chinese. Canada is a central part to the US policy on energy security and Chinese involvement certainly threatens that hegemony to some level. Anonymous Subject: Re: Will Washington Tolerate A Chinese-Venezuelan Petro Pact? posted: Jan 14, 2005 - 09:51 PM"
     },
     {
       "tag": "p",
@@ -72,23 +72,15 @@
     },
     {
       "tag": "div",
-      "text": "Add a new Comment Subject Comment - middle (main content) column end - left column begin BEGIN: New Left Sidebox"
+      "text": "Add a new Comment Subject Comment"
     },
     {
       "tag": "h2",
-      "text": "Search"
+      "text": "Search Choose Language"
     },
     {
       "tag": "div",
-      "text": "END: New Left Sidebox BEGIN: New Left Sidebox"
-    },
-    {
-      "tag": "h2",
-      "text": "Choose Language"
-    },
-    {
-      "tag": "div",
-      "text": "Preferred language: END: New Left Sidebox BEGIN: Main Menu Sidebox"
+      "text": "Preferred language:"
     },
     {
       "tag": "h2",
@@ -96,31 +88,15 @@
     },
     {
       "tag": "div",
-      "text": "Home ADVERTISE HERE About the CDM Book Reviews Contact Us Encyclopedia FAQ Forum Newsletter Sign-up Recommend Us Search This Site Sections Site Map Submit News Topics Web Links END: Main Menu Sidebox BEGIN: New Left Sidebox"
+      "text": "Home ADVERTISE HERE About the CDM Book Reviews Contact Us Encyclopedia FAQ Forum Newsletter Sign-up Recommend Us Search This Site Sections Site Map Submit News Topics Web Links"
     },
     {
       "tag": "h2",
-      "text": "Sponsors"
+      "text": "Sponsors Related Items CDM Newsletter"
     },
     {
       "tag": "div",
-      "text": "END: New Left Sidebox - left column end - right column begin BEGIN: New Special Template"
-    },
-    {
-      "tag": "h2",
-      "text": "Related Items"
-    },
-    {
-      "tag": "div",
-      "text": "END: New Special Template BEGIN: New Special Template"
-    },
-    {
-      "tag": "h2",
-      "text": "CDM Newsletter"
-    },
-    {
-      "tag": "div",
-      "text": "Subscribe to the CDM Newsletter END: New Special Template BEGIN: New Special Template"
+      "text": "Subscribe to the CDM Newsletter"
     },
     {
       "tag": "h2",
@@ -128,7 +104,7 @@
     },
     {
       "tag": "div",
-      "text": "Read about World Issues Axis of Logic More about World Issues News by Admin Most-read story in World Issues: Will Washington Tolerate A Chinese-Venezuelan Petro Pact? END: New Special Template BEGIN: New Special Template"
+      "text": "Read about World Issues Axis of Logic More about World Issues News by Admin Most-read story in World Issues: Will Washington Tolerate A Chinese-Venezuelan Petro Pact?"
     },
     {
       "tag": "h2",
@@ -136,7 +112,7 @@
     },
     {
       "tag": "div",
-      "text": "User name Password Remember me Log in Problems? New User? Sign Up! END: New Special Template BEGIN: New Special Template"
+      "text": "User name Password Remember me Log in Problems? New User? Sign Up!"
     },
     {
       "tag": "h2",
@@ -144,7 +120,23 @@
     },
     {
       "tag": "div",
-      "text": "Last Link: Democracy Now! Democracy Now! is a national, daily, independent, award-winning news program airing on over 450 stat... hits:972 more last Links: Democracy Now! Wendy's Thoughts Matthew Nguyen Support Site Canada 2020 The Atlantica Party [ Go to Web-Links ] [ Add ] END: New Special Template BEGIN: New Special Template"
+      "text": "Last Link: Democracy Now! Democracy Now! is a national, daily, independent, award-winning news program airing on over 450 stat... hits:972 more last Links: Democracy Now!"
+    },
+    {
+      "tag": "div",
+      "text": "Wendy's Thoughts"
+    },
+    {
+      "tag": "div",
+      "text": "Matthew Nguyen Support Site"
+    },
+    {
+      "tag": "div",
+      "text": "Canada 2020"
+    },
+    {
+      "tag": "div",
+      "text": "The Atlantica Party [ Go to Web-Links ] [ Add ]"
     },
     {
       "tag": "h2",
@@ -152,7 +144,7 @@
     },
     {
       "tag": "div",
-      "text": "Search this site directly from your Mozilla Firefox browser by using the link below. Get CDM Search Plugin END: New Special Template BEGIN: New Special Template"
+      "text": "Search this site directly from your Mozilla Firefox browser by using the link below. Get CDM Search Plugin"
     },
     {
       "tag": "h2",
@@ -160,11 +152,11 @@
     },
     {
       "tag": "div",
-      "text": "World Countries END: New Special Template - right column end footer begin"
+      "text": "World Countries"
     },
     {
       "tag": "p",
-      "text": "All logos and trademarks in this site are property of their respective owner. The comments are property of their posters, and as such do not reflect the opinion of the Canadian Democratic Movement. Some articles and other materials are copyright of their respective owner. We strive to make material here available for further use. The Canadian Democratic Movement does not always agree with the submissions we publish. We publish so you can decide. Please observe, much of the material here is covered by Creative Commons License The Encyclopedia and other parts of this website including some images, may contain works derived in part from Wikipedia. As such, entries are under the terms of the GNU Free Doc License All the rest  2000-5 by Canadian Democratic Movement (CDM). View our privacy policy . You can syndicate our news using the file backend.php Free articles Article Distribution - Publish an article Sponsors: Laws | Finance | Administration | Education | Travel | E-Marketing Montreal | footer end"
+      "text": "All logos and trademarks in this site are property of their respective owner. The comments are property of their posters, and as such do not reflect the opinion of the Canadian Democratic Movement. Some articles and other materials are copyright of their respective owner. We strive to make material here available for further use. The Canadian Democratic Movement does not always agree with the submissions we publish. We publish so you can decide. Please observe, much of the material here is covered by The Encyclopedia and other parts of this website including some images, may contain works derived in part from Wikipedia. As such, entries are under the terms of the GNU Free Doc License All the rest  2000-5 by Canadian Democratic Movement (CDM). View our privacy policy . You can syndicate our news using the file backend.php Free articles Article Distribution - Publish an article Sponsors: Laws | Finance | Administration | Education | Travel | E-Marketing Montreal |"
     }
   ]
 }

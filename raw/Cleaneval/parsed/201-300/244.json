@@ -3,20 +3,12 @@
   "file_number": "244",
   "content_hash": "616001042db004d0cab0686322df63b8a5bd24a48c08dde734438e77cfe23460",
   "total_blocks": 52,
-  "retained_blocks": 21,
-  "ignored_blocks": 31,
+  "retained_blocks": 19,
+  "ignored_blocks": 33,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "- START TOP BAR -"
-    },
     {
       "tag": "p",
       "text": "Street to School - Tomorrow Site Visit Report Dec 2003 Site Visit Report Status: current / ongoing Dec 2003"
-    },
-    {
-      "tag": "div",
-      "text": "- END TOP BAR -"
     },
     {
       "tag": "h2",
@@ -80,7 +72,7 @@
     },
     {
       "tag": "div",
-      "text": "For more information contact Venkata Pingali, Asha-USC (pingali@isi.edu) Site visit from Dec. 18-21, 2003 - ========================== END Documents Template 12/2002 ============================= -"
+      "text": "For more information contact Venkata Pingali, Asha-USC (pingali@isi.edu) Site visit from Dec. 18-21, 2003"
     },
     {
       "tag": "p",
@@ -88,7 +80,7 @@
     },
     {
       "tag": "div",
-      "text": "Project Views: By Chapter/Year | By Funding | By State | By Category Definitions: Project Type | Status | Focus Asha Star Info: Asha Star Document/Report Info: Document | Document Type Footer begins here Home | Info | Our Chapters | Projects | Get Involved | Contact Us green line as dividing graphic with footer details This table cell and the following has the footer details, \n     modification date, address etc. Asha for Education P.O. Box 322 New York, NY - 10024-0322 webmaster@ashanet.org © Copyright 1991-2004"
+      "text": "Project Views: By Chapter/Year | By Funding | By State | By Category Definitions: Project Type | Status | Focus Asha Star Info: Asha Star Document/Report Info: Document | Document Type Home | Info | Our Chapters | Projects | Get Involved | Contact Us Asha for Education P.O. Box 322 New York, NY - 10024-0322 webmaster@ashanet.org © Copyright 1991-2004"
     }
   ]
 }

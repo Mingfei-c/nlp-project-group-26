@@ -3,12 +3,24 @@
   "file_number": "521",
   "content_hash": "a43f6ecbe3a651910ddbb108531be53f405d60b3375efe3d2d31b8ad782ba29c",
   "total_blocks": 109,
-  "retained_blocks": 3,
-  "ignored_blocks": 106,
+  "retained_blocks": 6,
+  "ignored_blocks": 103,
   "blocks": [
     {
       "tag": "div",
-      "text": "link href=\"/css/exhibition-site.css\" rel=stylesheet type=\"text/css\" LEFT COLUMN general information product sections why exhibit? accompanying events exhibition venue how to book exhibition team press releases event programme freight & customs accommodation & visas list of exhibitors 2006 results 2005 Search the Site: // LEFT COLUMN CENTRAL PART <a href=\"/divisions.en.html\" class=\"exhibition-navigation\">exhibition sectors</a> <img src=\"/images/blank.gif\" width=13 height=8><a href=\"/calendar.en.html\" class=\"exhibition-navigation\">calendar of events</a> // russian EXHIBITION SITE HERE. TABLE WIDTH NO GREATER THAN 578 PRESS RELEASES Insert text here"
+      "text": "general information product sections why exhibit? accompanying events exhibition venue how to book exhibition team press releases event programme freight & customs accommodation & visas list of exhibitors 2006 results 2005"
+    },
+    {
+      "tag": "div",
+      "text": "Search the Site:"
+    },
+    {
+      "tag": "div",
+      "text": "russian"
+    },
+    {
+      "tag": "div",
+      "text": "PRESS RELEASES"
     },
     {
       "tag": "h1",

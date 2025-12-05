@@ -3,12 +3,16 @@
   "file_number": "734",
   "content_hash": "ad045eeda62b656712c65e7e470e491a6355c8c71086d833bc43597400745a67",
   "total_blocks": 40,
-  "retained_blocks": 12,
-  "ignored_blocks": 28,
+  "retained_blocks": 14,
+  "ignored_blocks": 26,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" What is Hoya? The History of Hoya The Nature of Hoyas Hoya Culture Hoya Pests A Few Favourite Hoya Species Picture Gallery Hoya Links Text by Christine M. Burton"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "What is Hoya? The History of Hoya The Nature of Hoyas Hoya Culture Hoya Pests A Few Favourite Hoya Species Picture Gallery Hoya Links Text by Christine M. Burton"
     },
     {
       "tag": "h2",
@@ -52,7 +56,11 @@
     },
     {
       "tag": "div",
-      "text": "TOP The Nature of Hoyas Hoya Culture Asclepiad Page What is Hoya? Hoya History Hoya Pests SITE MAP Favourite Hoya Species Hoya Picture Gallery Hoya Links Email: Webmaster This page is © copyright R.J. Hodgkiss 2004 Last update: 15th October 2004"
+      "text": "TOP The Nature of Hoyas Hoya Culture Asclepiad Page What is Hoya? Hoya History Hoya Pests SITE MAP Favourite Hoya Species Hoya Picture Gallery Hoya Links Email: Webmaster"
+    },
+    {
+      "tag": "div",
+      "text": "This page is © copyright R.J. Hodgkiss 2004 Last update: 15th October 2004"
     }
   ]
 }

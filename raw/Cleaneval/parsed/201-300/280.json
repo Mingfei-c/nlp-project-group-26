@@ -3,12 +3,40 @@
   "file_number": "280",
   "content_hash": "6f80376fdbf695f0a621d218a19c69dc54b6d60f196bbcb8d0cb759aacf575c9",
   "total_blocks": 575,
-  "retained_blocks": 13,
-  "ignored_blocks": 562,
+  "retained_blocks": 26,
+  "ignored_blocks": 549,
   "blocks": [
     {
       "tag": "div",
-      "text": "Welcome University of Leeds 27-Dec-2006 ---- OAS SETUP begin ---- ');\n//--> ---- OAS SETUP end ---- ---- OAS AD 'Top' begin ---- ---- OAS AD end ---- BMC Bioinformatics Volume 6 Suppl 1 Viewing options : • Abstract • Full text • PDF (276KB) Associated material: • Readers' comments • PubMed record Related literature: • Articles citing this article on BioMed Central on Google Scholar on ISI Web of Science on PubMed Central Other articles by authors Fundel K Güttler D Zimmer R Apostolakis J • Similar articles (PubMed) Tools: • E-mail to a friend • Download references • Post a comment • Order reprints Key : E-mail Corresponding author Report <rdf:RDF xmlns:cc=\"http://web.resource.org/cc/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:prism=\"http://prismstandard.org/namespaces/1.2/basic/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\">\r\n<cc:Work rdf:about=\"\">\r\n<cc:license rdf:resource=\"http://creativecommons.org/licenses/by/2.0/\"/>\r\n</cc:Work>\r\n<cc:License rdf:about=\"http://creativecommons.org/licenses/by/2.0/\">\r\n<cc:permits rdf:resource=\"http://web.resource.org/cc/Reproduction\"/>\r\n<cc:permits rdf:resource=\"http://web.resource.org/cc/Distribution\"/>\r\n<cc:requires rdf:resource=\"http://web.resource.org/cc/Notice\"/>\r\n<cc:requires rdf:resource=\"http://web.resource.org/cc/Attribution\"/>\r\n<cc:permits rdf:resource=\"http://web.resource.org/cc/DerivativeWorks\"/>\r\n</cc:License>\r\n<item rdf:about=\"\">\r\n<title>Asimple approach for protein name identification: prospects and limits</title>\r\n<dc:title>Asimple approach for protein name identification: prospects and limits</dc:title>\r\n<dc:creator>Fundel, Katrin</dc:creator>\r\n<dc:creator>G&#252;ttler, Daniel</dc:creator>\r\n<dc:creator>Zimmer, Ralf</dc:creator>\r\n<dc:creator>Apostolakis, Joannis</dc:creator>\r\n<dc:identifier>info:doi/10.1186/1471-2105-6-S1-S15</dc:identifier>\r\n<dc:identifier>info:pmid/15960827</dc:identifier>\r\n<dc:source>BMC Bioinformatics 2005, 6:S15</dc:source>\r\n<dc:date>2005-05-24</dc:date>\r\n<prism:publicationName>BMC Bioinformatics</prism:publicationName>\r\n<prism:publicationDate>2005-05-24</prism:publicationDate>\r\n<prism:volume>6</prism:volume>\r\n<prism:number>Suppl 1</prism:number>\r\n<prism:section>Report</prism:section>\r\n<prism:startingPage>S15</prism:startingPage>\r\n</item>\r\n</rdf:RDF> . Asimple approach for protein name identification: prospects and limits Katrin Fundel , Daniel Güttler , Ralf Zimmer and Joannis Apostolakis Institut für Informatik, Ludwig-Maximilians-Universität München, Amalienstrasse 17, 80333 München, Germany BMC Bioinformatics 2005, 6 (Suppl 1) : S15     doi:10.1186/1471-2105-6-S1-S15 Published 24 May 2005 ©\r\n\t\t\t\t\t\t 2006 Fundel et al; licensee BioMed Central Ltd This is an open access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Outline Abstract Abstract Background Methods Results and Discussion Conclusion Acknowledgements References"
+      "text": "Welcome University of Leeds 27-Dec-2006 ');\n//-->"
+    },
+    {
+      "tag": "div",
+      "text": "BMC Bioinformatics Volume 6 Suppl 1"
+    },
+    {
+      "tag": "div",
+      "text": "Viewing options : • Abstract • Full text • PDF (276KB) Associated material: • Readers' comments • PubMed record Related literature: • Articles citing this article on BioMed Central on Google Scholar on ISI Web of Science on PubMed Central Other articles by authors Fundel K Güttler D Zimmer R Apostolakis J • Similar articles (PubMed) Tools: • E-mail to a friend • Download references • Post a comment • Order reprints Key : E-mail Corresponding author"
+    },
+    {
+      "tag": "div",
+      "text": "Report ."
+    },
+    {
+      "tag": "div",
+      "text": "Asimple approach for protein name identification: prospects and limits Katrin Fundel , Daniel Güttler , Ralf Zimmer and Joannis Apostolakis Institut für Informatik, Ludwig-Maximilians-Universität München, Amalienstrasse 17, 80333 München, Germany BMC Bioinformatics 2005, 6 (Suppl 1) : S15     doi:10.1186/1471-2105-6-S1-S15"
+    },
+    {
+      "tag": "div",
+      "text": "Published 24 May 2005"
+    },
+    {
+      "tag": "div",
+      "text": "©\r\n\t\t\t\t\t\t 2006 Fundel et al; licensee BioMed Central Ltd This is an open access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Outline Abstract"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Background Methods Results and Discussion Conclusion Acknowledgements References"
     },
     {
       "tag": "p",
@@ -16,7 +44,11 @@
     },
     {
       "tag": "div",
-      "text": "Outline Background Abstract Background Methods Results and Discussion Conclusion Acknowledgements References"
+      "text": "Outline Background"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Background Methods Results and Discussion Conclusion Acknowledgements References"
     },
     {
       "tag": "p",
@@ -24,7 +56,11 @@
     },
     {
       "tag": "div",
-      "text": "Outline Methods Abstract Background Methods Results and Discussion Conclusion Acknowledgements References"
+      "text": "Outline Methods"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Background Methods Results and Discussion Conclusion Acknowledgements References"
     },
     {
       "tag": "p",
@@ -32,7 +68,11 @@
     },
     {
       "tag": "div",
-      "text": "Outline Results and Discussion Abstract Background Methods Results and Discussion Conclusion Acknowledgements References Figures Figure 1 Yeast results Figure 2 Mouse results Figure 3 Fly results Tables Table 1 Results in BioCreAtIvE Task 1B: Our results compared to results with highest overall F-measure. For mouse and fly the highest F-measure is achieved by ProMiner. Our yeast result was obtained by exact matching of the curated list, no post filter was applied. Mouse(1) is the exact search with the curated list. Mouse(2) was additionally filtered with the rule-based post filter. Our fly results were obtained as post-evaluation by exact matching of the curated list and application of the SVM-based post filter. Table 2 False positive matches: Types of errors and samples. Synonyms are marked in italics . The synonyms and matches are correct but the context reveals that they should not have been reported for BioCreAtIvE task 1B. Table 3 Rule-based post filter: Samples of false positive matches, mostly short names and abbreviations of protein names which have different meanings, and the effect of the rule-based post filter on these matches. Table 4 Samples of false negative matches: closest synonyms in synonym list, occurrence in text, and type of error."
+      "text": "Outline Results and Discussion"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Background Methods Results and Discussion Conclusion Acknowledgements References Figures Figure 1 Yeast results Figure 2 Mouse results Figure 3 Fly results Tables Table 1 Results in BioCreAtIvE Task 1B: Our results compared to results with highest overall F-measure. For mouse and fly the highest F-measure is achieved by ProMiner. Our yeast result was obtained by exact matching of the curated list, no post filter was applied. Mouse(1) is the exact search with the curated list. Mouse(2) was additionally filtered with the rule-based post filter. Our fly results were obtained as post-evaluation by exact matching of the curated list and application of the SVM-based post filter. Table 2 False positive matches: Types of errors and samples. Synonyms are marked in italics . The synonyms and matches are correct but the context reveals that they should not have been reported for BioCreAtIvE task 1B. Table 3 Rule-based post filter: Samples of false positive matches, mostly short names and abbreviations of protein names which have different meanings, and the effect of the rule-based post filter on these matches. Table 4 Samples of false negative matches: closest synonyms in synonym list, occurrence in text, and type of error."
     },
     {
       "tag": "p",
@@ -40,7 +80,11 @@
     },
     {
       "tag": "div",
-      "text": "Outline Conclusion Abstract Background Methods Results and Discussion Conclusion Acknowledgements References"
+      "text": "Outline Conclusion"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Background Methods Results and Discussion Conclusion Acknowledgements References"
     },
     {
       "tag": "p",
@@ -56,7 +100,15 @@
     },
     {
       "tag": "div",
-      "text": "Outline References Abstract Background Methods Results and Discussion Conclusion Acknowledgements References 1. Bunescu R,  Ge R,  Kate R,  Mooney R,  Wong Y,  Marcotte E,  Ramani A: Learning to Extract Proteins and their Interactions from Medline Abstracts. Proceedings of ICML-2003 Workshop on Machine Learning in Bioinformatics 2003, 46-53. Return to citation in text:  [ 1 ] 2. Chang JT,  Schutze H,  Altman RB: GAPSCORE: finding gene and protein names one word at a time. Bioinformatics 2004, 20 (2) : 216-225. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 3. Kazama J,  Makino T,  Ohta Y,  Tsujii J: Tuning Support Vector Machines for Biomedical Named Entity Recognition. Proceedings of the Natural Language Processing in the Biomedical Domain (ACL 2002) 2002, 1-8. Return to citation in text:  [ 1 ] 4. Takeuchi K,  Collier N: Bio-Medical Entity Extraction using Support Vector Machines. In Proceedings of the ACL 2003 Workshop on Natural Language Processing in Biomedicine Edited by: Ananiadou S, Tsujii J.  2003, 57-64. Return to citation in text:  [ 1 ] 5. Tanabe L,  Wilbur WJ: Tagging gene and protein names in biomedical text. Bioinformatics 2002, 18 (8) : 1124-1132. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 6. Hanisch D,  Fluck J,  Mevissen H,  Zimmer R: Playing Biology's Name Game: Identifying Protein Names in Scientific Text. Pacific Symposium on Biocomputing 2003, 8 : 403-414. Return to citation in text:  [ 1 ] [ 2 ] [ 3 ] [ 4 ] [ 5 ] 7. Koike A,  Takagi T: Gene/Protein/Family Name Recognition in Biomedical Literature. Proceedings of BioLink 2004 Workshop: Linking Biological Literature, Ontologies and Databases: Tools for Users 2004. Return to citation in text:  [ 1 ] 8. Ono T,  Hishigaki H,  Tanigami A,  Takagi T: Automated extraction of information on protein-protein interactions from the biological literature. Bioinformatics 2001, 17 (2) : 155-161. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 9. Tsuruoka Y,  Tsujii J: Boosting Precision and Recall of Dictionary-Based Protein Name Recognition. In Proceedings of the ACL 2003 Workshop on Natural Language Processing in Biomedicine Edited by: Ananiadou S, Tsujii J.  2003, 41-48. Return to citation in text:  [ 1 ] 10. Hirschman L,  Morgan AA,  Yeh AS: Rutabaga by any other name: extracting biological names. Journal of Biomedical Informatics 2002, 35 (4) : 247-259. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 11. Hirschman L,  Colosimo M,  Morgan AA,  Yeh AS: Overview of BioCreAtIvE task 1B: Normalized Gene Lists. BMC Bioinformatics 2005, 6 (Suppl 1) : S11. [ PubMed Abstract ]\r\n\t\t\t\t\t[ BioMed Central Full Text ] Return to citation in text:  [ 1 ] 12. Hanisch D,  Fundel K,  Mevissen H,  Zimmer R,  Fluck J: ProMiner: Rule-based protein and gene entity recognition. BMC Bionformatics 2005, 6 (Suppl 1) : S14. \r\n\t\t\t\t\t[ BioMed Central Full Text ] Return to citation in text:  [ 1 ] [ 2 ] [ 3 ] [ 4 ] 13. Dolinski K,  Balakrishnan R,  Christie KR,  Costanzo MC,  Dwight SS,  Engel SR,  Fisk DG,  Hirschman JE,  Hong EL,  Issel-Tarver L,  Sethuraman A,  Theesfeld CL,  Binkley G,  Lane C,  Schroeder M,  Dong S,  Weng S,  Andrada R,  Bostein D,  Cherry JM: Saccharomyces Genome Database. [ http://www.yeastgenome.org/ ] Return to citation in text:  [ 1 ] 14. Blake J,  Richardson J,  Bult C,  Kadin J,  Eppig J, the members of the Mouse Genome Database Group: MGD: The Mouse Genome Database. [ http://www.informatics.jax.org/ ] Nucleic Acids Res 2003, 31 : 193-195. [ PubMed Abstract ] [ Publisher Full Text ]\r\n[ PubMed Central Full Text ] Return to citation in text:  [ 1 ] 15. The FlyBase Consortium: The FlyBase database of the Drosophila genome projects and community literature. [ http://flybase.org/ ] Nucleic Acids Res 2003, 31 : 172-175. [ PubMed Abstract ] [ Publisher Full Text ]\r\n[ PubMed Central Full Text ] Return to citation in text:  [ 1 ] 16. Boeckmann B,  Bairoch A,  Apweiler R,  Blatter MC,  Estreicher A,  Gasteiger E,  Martin M,  Michoud K,  O'Donovan C,  Phan I,  Pilbout S,  M S: the SWISS-PROT protein knowledgebase and its supplement TrEMBL in 2003. [ http://www.expasy.org/sprot/sprot-top.html ] Nucleic Acids Res 2003, 31 : 365-370. [ PubMed Abstract ] [ Publisher Full Text ]\r\n[ PubMed Central Full Text ] Return to citation in text:  [ 1 ] 17. Wain HM,  Lush MJ,  Ducluzeau F,  Khodiyar VK,  Povey S: Genew: the Human Gene Nomenclature Database, 2004 updates. [ http://www.gene.ucl.ac.uk/nomenclature/ ] Nucl Acids Res 2004, 32 (90001) : D255-257. [ PubMed Abstract ] [ Publisher Full Text ]\r\n[ PubMed Central Full Text ] Return to citation in text:  [ 1 ] 18. Chang CC,  Lin CJ: LIBSVM: a library for support vector machines. 2001. Return to citation in text:  [ 1 ] 19. Brill E: Asimple rule-based part of speech tagger. Proceedings of the Third Conference on Applied Natural Language Processing, Trento, Italy 1992. Return to citation in text:  [ 1 ] [ 2 ] Have\r\n        something to say? Post a comment on this article! ---- OAS AD 'Bottom' begin ---- ---- OAS AD end ---- Terms and Conditions Privacy statement Information for advertisers Jobs at BMC Contact us © 1999-2006 BioMed Central Ltd unless otherwise stated"
+      "text": "Outline References"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Background Methods Results and Discussion Conclusion Acknowledgements References 1. Bunescu R,  Ge R,  Kate R,  Mooney R,  Wong Y,  Marcotte E,  Ramani A: Learning to Extract Proteins and their Interactions from Medline Abstracts. Proceedings of ICML-2003 Workshop on Machine Learning in Bioinformatics 2003, 46-53. Return to citation in text:  [ 1 ] 2. Chang JT,  Schutze H,  Altman RB: GAPSCORE: finding gene and protein names one word at a time. Bioinformatics 2004, 20 (2) : 216-225. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 3. Kazama J,  Makino T,  Ohta Y,  Tsujii J: Tuning Support Vector Machines for Biomedical Named Entity Recognition. Proceedings of the Natural Language Processing in the Biomedical Domain (ACL 2002) 2002, 1-8. Return to citation in text:  [ 1 ] 4. Takeuchi K,  Collier N: Bio-Medical Entity Extraction using Support Vector Machines. In Proceedings of the ACL 2003 Workshop on Natural Language Processing in Biomedicine Edited by: Ananiadou S, Tsujii J.  2003, 57-64. Return to citation in text:  [ 1 ] 5. Tanabe L,  Wilbur WJ: Tagging gene and protein names in biomedical text. Bioinformatics 2002, 18 (8) : 1124-1132. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 6. Hanisch D,  Fluck J,  Mevissen H,  Zimmer R: Playing Biology's Name Game: Identifying Protein Names in Scientific Text. Pacific Symposium on Biocomputing 2003, 8 : 403-414. Return to citation in text:  [ 1 ] [ 2 ] [ 3 ] [ 4 ] [ 5 ] 7. Koike A,  Takagi T: Gene/Protein/Family Name Recognition in Biomedical Literature. Proceedings of BioLink 2004 Workshop: Linking Biological Literature, Ontologies and Databases: Tools for Users 2004. Return to citation in text:  [ 1 ] 8. Ono T,  Hishigaki H,  Tanigami A,  Takagi T: Automated extraction of information on protein-protein interactions from the biological literature. Bioinformatics 2001, 17 (2) : 155-161. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 9. Tsuruoka Y,  Tsujii J: Boosting Precision and Recall of Dictionary-Based Protein Name Recognition. In Proceedings of the ACL 2003 Workshop on Natural Language Processing in Biomedicine Edited by: Ananiadou S, Tsujii J.  2003, 41-48. Return to citation in text:  [ 1 ] 10. Hirschman L,  Morgan AA,  Yeh AS: Rutabaga by any other name: extracting biological names. Journal of Biomedical Informatics 2002, 35 (4) : 247-259. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 11. Hirschman L,  Colosimo M,  Morgan AA,  Yeh AS: Overview of BioCreAtIvE task 1B: Normalized Gene Lists. BMC Bioinformatics 2005, 6 (Suppl 1) : S11. [ PubMed Abstract ]\r\n\t\t\t\t\t[ BioMed Central Full Text ] Return to citation in text:  [ 1 ] 12. Hanisch D,  Fundel K,  Mevissen H,  Zimmer R,  Fluck J: ProMiner: Rule-based protein and gene entity recognition. BMC Bionformatics 2005, 6 (Suppl 1) : S14. \r\n\t\t\t\t\t[ BioMed Central Full Text ] Return to citation in text:  [ 1 ] [ 2 ] [ 3 ] [ 4 ] 13. Dolinski K,  Balakrishnan R,  Christie KR,  Costanzo MC,  Dwight SS,  Engel SR,  Fisk DG,  Hirschman JE,  Hong EL,  Issel-Tarver L,  Sethuraman A,  Theesfeld CL,  Binkley G,  Lane C,  Schroeder M,  Dong S,  Weng S,  Andrada R,  Bostein D,  Cherry JM: Saccharomyces Genome Database. [ http://www.yeastgenome.org/ ] Return to citation in text:  [ 1 ] 14. Blake J,  Richardson J,  Bult C,  Kadin J,  Eppig J, the members of the Mouse Genome Database Group: MGD: The Mouse Genome Database. [ http://www.informatics.jax.org/ ] Nucleic Acids Res 2003, 31 : 193-195. [ PubMed Abstract ] [ Publisher Full Text ]\r\n[ PubMed Central Full Text ] Return to citation in text:  [ 1 ] 15. The FlyBase Consortium: The FlyBase database of the Drosophila genome projects and community literature. [ http://flybase.org/ ] Nucleic Acids Res 2003, 31 : 172-175. [ PubMed Abstract ] [ Publisher Full Text ]\r\n[ PubMed Central Full Text ] Return to citation in text:  [ 1 ] 16. Boeckmann B,  Bairoch A,  Apweiler R,  Blatter MC,  Estreicher A,  Gasteiger E,  Martin M,  Michoud K,  O'Donovan C,  Phan I,  Pilbout S,  M S: the SWISS-PROT protein knowledgebase and its supplement TrEMBL in 2003. [ http://www.expasy.org/sprot/sprot-top.html ] Nucleic Acids Res 2003, 31 : 365-370. [ PubMed Abstract ] [ Publisher Full Text ]\r\n[ PubMed Central Full Text ] Return to citation in text:  [ 1 ] 17. Wain HM,  Lush MJ,  Ducluzeau F,  Khodiyar VK,  Povey S: Genew: the Human Gene Nomenclature Database, 2004 updates. [ http://www.gene.ucl.ac.uk/nomenclature/ ] Nucl Acids Res 2004, 32 (90001) : D255-257. [ PubMed Abstract ] [ Publisher Full Text ]\r\n[ PubMed Central Full Text ] Return to citation in text:  [ 1 ] 18. Chang CC,  Lin CJ: LIBSVM: a library for support vector machines. 2001. Return to citation in text:  [ 1 ] 19. Brill E: Asimple rule-based part of speech tagger. Proceedings of the Third Conference on Applied Natural Language Processing, Trento, Italy 1992. Return to citation in text:  [ 1 ] [ 2 ]"
+    },
+    {
+      "tag": "div",
+      "text": "Have\r\n        something to say? Post a comment on this article! Terms and Conditions Privacy statement Information for advertisers Jobs at BMC Contact us © 1999-2006 BioMed Central Ltd unless otherwise stated"
     }
   ]
 }

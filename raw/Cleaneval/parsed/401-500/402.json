@@ -3,20 +3,28 @@
   "file_number": "402",
   "content_hash": "873c7cede1d7523f0ff0d5b3c5a3b83e335e440bf56adf2cb509bf41e3f8b6d0",
   "total_blocks": 280,
-  "retained_blocks": 97,
-  "ignored_blocks": 183,
+  "retained_blocks": 61,
+  "ignored_blocks": 219,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n\n\t\"http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd\" #BeginTemplate \"/Templates/wtc.dwt\" EPA Template Version 2.1.1 - 03/22/02 #BeginEditable \"doctitle\" #EndEditable #BeginEditable \"PageStyleReference\" #EndEditable #BeginEditable \"HeaderJavaScript\" Insert Header Javascript if any #EndEditable START EPA SEAL END EPA SEAL START EPA NAME END EPA NAME START AREA NAME EPA Response to September 11 END AREA NAME BEGIN GLOBAL LINKS AND SEARCH BEGIN REGION'S STATES AND TERRITORIES END REGION'S STATES AND TERRITORIES START SEARCH CONTROLS See http://www.epa.gov/epafiles/searchcode.html \tfor instructions on coding the search box THE REMAINING HIDDEN INPUTS ARE USED BY THE SEARCH ENGINE - DO NOT EDIT END SEARCH CONTROLS START AREA SPECIFIC LINKING #BeginLibraryItem \"/region2_web/Library/wtc_recent_addition_contact_us.lbi\" Recent Additions | Contact \nUs | #EndLibraryItem END AREA SPECIFIC LINKING LINK FOR PRINT VERSION CHARACTERS NEED TO APPEAR EXACTLY LIKE THIS - DO NOT EDIT Print \n                    Version END PRINT VERSION Search: BEGIN BREADCRUMBS #BeginEditable \"breadcrumbs\" #BeginLibraryItem \"/Library/wtc_generic_breadcrumb.lbi\" EPA Home > Response \nto 911 #EndLibraryItem > News Releases > Oh My \n                    God, Look at That Plane! #EndEditable END BREADCRUMBS END GLOBAL LINKS AND SEARCH @@@startprint@@@ #BeginLibraryItem \"/Library/left_navbar_wtc.lbi\" WTC Home Outdoor \n    Monitoring Indoor Programs Expert Technical \n    Review Panel WTC \n  Contacts Documents The \n    EPA Experience News \n    Releases Other \n\t\t\t\t\t\t\tMonitoring Data #BeginLibraryItem \"/library/ExitEPA.lbi\" #EndLibraryItem New \n\t\t\t\t\t\t\tYork State DEC New \n\t\t\t\t\t\t\tYork City DEP New \n\t\t\t\t\t\t\tJersey DEP OSHA END SIDEBAR NAVIGATION #EndLibraryItem @@@endprint@@@ BEGIN HORIZONTAL TASKBAR If using a horizontal taskbar, put the code here END HORIZONTAL TASKBAR BEGIN PAGE NAME"
-    },
-    {
-      "tag": "h1",
-      "text": "If using a right-aligned image next to the page name, insert it here \n\t\t\t- remember to include the align=\"right\" attribute in the IMG tag #BeginEditable \"PageName\" It is sometimes \n        easy to forget that EPA Region 2 employees, working virtually in the shadow \n        of the World Trade Center, were as personally affected by the collapse \n        of the towers as anyone in lower Manhattan. \"Oh My God, Look at That Plane!\" #EndEditable"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n\n\t\"http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd\""
     },
     {
       "tag": "div",
-      "text": "END PAGE NAME BEGIN CONTENT AREA #BeginEditable \"content\""
+      "text": "EPA Response to September 11"
+    },
+    {
+      "tag": "div",
+      "text": "Recent Additions | Contact \nUs | Print \n                    Version Search: EPA Home > Response \nto 911 > News Releases > Oh My \n                    God, Look at That Plane!"
+    },
+    {
+      "tag": "div",
+      "text": "WTC Home Outdoor \n    Monitoring Indoor Programs Expert Technical \n    Review Panel WTC \n  Contacts Documents The \n    EPA Experience News \n    Releases Other \n\t\t\t\t\t\t\tMonitoring Data New \n\t\t\t\t\t\t\tYork State DEC New \n\t\t\t\t\t\t\tYork City DEP New \n\t\t\t\t\t\t\tJersey DEP OSHA"
+    },
+    {
+      "tag": "h1",
+      "text": "It is sometimes \n        easy to forget that EPA Region 2 employees, working virtually in the shadow \n        of the World Trade Center, were as personally affected by the collapse \n        of the towers as anyone in lower Manhattan. \"Oh My God, Look at That Plane!\""
     },
     {
       "tag": "p",
@@ -60,19 +68,7 @@
     },
     {
       "tag": "p",
-      "text": "Later that day, after the buildings collapsed, EPA sent crews from \n\t\t\t\tits Environmental Response Team (ERT), also located in Edison, \n\t\t\t\tto Brooklyn and Liberty State Park, just across from lower Manhattan. \n\t\t\t\tThe Brooklyn crew gathered dust and air samples, the New Jersey \n\t\t\t\tteam only air samples, \"because the wind wasn't blowing there,\" \n\t\t\t\tMuszynski remembers. Three Region 2 employees lost family members in the attacks that \n\t\t\t\tday. Many others, including OSC Steve Touw, lost dear friends. \"Father Mychal Judge (the New York City Fire Department chaplain \n\t\t\t\tlisted as the first casualty of the World Trade Center attacks) \n\t\t\t\tactually married my wife and I,\" Touw explains. \"He \n\t\t\t\thad been the parish priest at our church when my wife was in high \n\t\t\t\tschool and was very actively involved in the parish. So when we \n\t\t\t\tgot engaged, we immediately called Father Mychal and asked him \n\t\t\t\tto come back and do the wedding. When Iwas driving home on the \n\t\t\t\tnight of the 11th, Igot hold of my wife on the phone and she \n\t\t\t\ttold me she had heard on the news that Father Mychal was killed. \n\t\t\t\tSo Itook this response very personally.\""
-    },
-    {
-      "tag": "div",
-      "text": "#BeginLibraryItem \"/library/top.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "Top of Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem"
+      "text": "Later that day, after the buildings collapsed, EPA sent crews from \n\t\t\t\tits Environmental Response Team (ERT), also located in Edison, \n\t\t\t\tto Brooklyn and Liberty State Park, just across from lower Manhattan. \n\t\t\t\tThe Brooklyn crew gathered dust and air samples, the New Jersey \n\t\t\t\tteam only air samples, \"because the wind wasn't blowing there,\" \n\t\t\t\tMuszynski remembers. Three Region 2 employees lost family members in the attacks that \n\t\t\t\tday. Many others, including OSC Steve Touw, lost dear friends. \"Father Mychal Judge (the New York City Fire Department chaplain \n\t\t\t\tlisted as the first casualty of the World Trade Center attacks) \n\t\t\t\tactually married my wife and I,\" Touw explains. \"He \n\t\t\t\thad been the parish priest at our church when my wife was in high \n\t\t\t\tschool and was very actively involved in the parish. So when we \n\t\t\t\tgot engaged, we immediately called Father Mychal and asked him \n\t\t\t\tto come back and do the wedding. When Iwas driving home on the \n\t\t\t\tnight of the 11th, Igot hold of my wife on the phone and she \n\t\t\t\ttold me she had heard on the news that Father Mychal was killed. \n\t\t\t\tSo Itook this response very personally.\" Top of Page"
     },
     {
       "tag": "h3",
@@ -96,23 +92,7 @@
     },
     {
       "tag": "p",
-      "text": "Along with its critical role in protecting public health and safety, \n\t\t\t\tEPA took part in helping Wall Street get up and running. On September \n\t\t\t\t12, EPA began vacuuming the streets, using specially equipped \n\t\t\t\ttrucks to remove dust and debris from lower Manhattan's financial \n\t\t\t\tdistrict. Over the next few days, with help from the Coast Guard, \n\t\t\t\tEPA also escorted financial district executives back to their \n\t\t\t\toffices to retrieve backup computer system files. OSC Andy Confortini explains: \"The Bond Market Association \n\t\t\t\twould fax over a list of the firms that needed to get into their \n\t\t\t\tbuildings. We would set up a schedule to meet up with them outside \n\t\t\t\tthe Ground Zero perimeter, get them onto our vehicles, take them \n\t\t\t\tdown to their buildings, give them a mask and take them where \n\t\t\t\tthey had to be to get their backup systems and files. The Coast \n\t\t\t\tGuard would go there the day before to evaluate the building for \n\t\t\t\t‘immediately dangerous to life and health' conditions – \n\t\t\t\tcombustible gas, low oxygen, high CO2, any kind of volatile organics. \n\t\t\t\tThey would do that recon and report back to me. There were a lot \n\t\t\t\tof natural gas leaks, but there was only one building that we \n\t\t\t\tnever got into (the Deutsche Bank building adjacent to the WTC \n\t\t\t\tsite) because of structural concerns and because of gas leaks.\""
-    },
-    {
-      "tag": "div",
-      "text": "#BeginLibraryItem \"/library/top.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "Top of Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem"
-    },
-    {
-      "tag": "p",
-      "text": "EPA Administrator Whitman toured Ground Zero on September 13, accompanied \n\t\t\t\tby Muszynski. \"There was a concern that one or two of the \n\t\t\t\tbuildings had the danger of collapsing,\" Muszynski recalls. \n\t\t\t\t\"As we were walking down there they had one or two alarms. \n\t\t\t\tCan you imagine evacuating and saying, no, it's OK to go back \n\t\t\t\tto work, and you go back to work and the alarm goes off and you \n\t\t\t\thave to evacuate again? To think about the courage people had \n\t\t\t\tto go back in those conditions and still search for survivors, \n\t\t\t\tit was incredible.\" Over the first week of the response, as police, fire fighters, \n\t\t\t\tand rescue workers searched for victims amid the rubble and battled \n\t\t\t\tthe fires that would burn for months within the pile, EPA expanded \n\t\t\t\tits ambient environmental monitoring activities, increasing both \n\t\t\t\tthe number of fixed stations and the contaminants to be probed. \n\t\t\t\tOn-scene coordinators were also assigned to monitor conditions \n\t\t\t\tat the Fresh Kills landfill, where debris from the World Trade \n\t\t\t\tCenter was transported for sifting by federal crime investigators, \n\t\t\t\tincluding members of EPA's Criminal Investigation Division."
+      "text": "Along with its critical role in protecting public health and safety, \n\t\t\t\tEPA took part in helping Wall Street get up and running. On September \n\t\t\t\t12, EPA began vacuuming the streets, using specially equipped \n\t\t\t\ttrucks to remove dust and debris from lower Manhattan's financial \n\t\t\t\tdistrict. Over the next few days, with help from the Coast Guard, \n\t\t\t\tEPA also escorted financial district executives back to their \n\t\t\t\toffices to retrieve backup computer system files. OSC Andy Confortini explains: \"The Bond Market Association \n\t\t\t\twould fax over a list of the firms that needed to get into their \n\t\t\t\tbuildings. We would set up a schedule to meet up with them outside \n\t\t\t\tthe Ground Zero perimeter, get them onto our vehicles, take them \n\t\t\t\tdown to their buildings, give them a mask and take them where \n\t\t\t\tthey had to be to get their backup systems and files. The Coast \n\t\t\t\tGuard would go there the day before to evaluate the building for \n\t\t\t\t‘immediately dangerous to life and health' conditions – \n\t\t\t\tcombustible gas, low oxygen, high CO2, any kind of volatile organics. \n\t\t\t\tThey would do that recon and report back to me. There were a lot \n\t\t\t\tof natural gas leaks, but there was only one building that we \n\t\t\t\tnever got into (the Deutsche Bank building adjacent to the WTC \n\t\t\t\tsite) because of structural concerns and because of gas leaks.\" Top of Page EPA Administrator Whitman toured Ground Zero on September 13, accompanied \n\t\t\t\tby Muszynski. \"There was a concern that one or two of the \n\t\t\t\tbuildings had the danger of collapsing,\" Muszynski recalls. \n\t\t\t\t\"As we were walking down there they had one or two alarms. \n\t\t\t\tCan you imagine evacuating and saying, no, it's OK to go back \n\t\t\t\tto work, and you go back to work and the alarm goes off and you \n\t\t\t\thave to evacuate again? To think about the courage people had \n\t\t\t\tto go back in those conditions and still search for survivors, \n\t\t\t\tit was incredible.\" Over the first week of the response, as police, fire fighters, \n\t\t\t\tand rescue workers searched for victims amid the rubble and battled \n\t\t\t\tthe fires that would burn for months within the pile, EPA expanded \n\t\t\t\tits ambient environmental monitoring activities, increasing both \n\t\t\t\tthe number of fixed stations and the contaminants to be probed. \n\t\t\t\tOn-scene coordinators were also assigned to monitor conditions \n\t\t\t\tat the Fresh Kills landfill, where debris from the World Trade \n\t\t\t\tCenter was transported for sifting by federal crime investigators, \n\t\t\t\tincluding members of EPA's Criminal Investigation Division."
     },
     {
       "tag": "div",
@@ -120,19 +100,7 @@
     },
     {
       "tag": "p",
-      "text": "The chief purpose of EPA's monitoring was to assess health risks \n\t\t\t\tfor the workers at Ground Zero and for those who would soon return \n\t\t\t\tto work and live in lower Manhattan. EPA labs and private labs \n\t\t\t\tunder contract to the Agency analyzed air and dust samples for \n\t\t\t\tasbestos and a host of other contaminants, then turned the data \n\t\t\t\tover to an interagency team of scientists. The team included Dore \n\t\t\t\tLaPosta, then acting director of the region's Division of Environmental \n\t\t\t\tScience and Assessment (DESA). The challenge was to determine at which level each contaminant \n\t\t\t\tposed a health concern, so that the data could be reported meaningfully. \n\t\t\t\tHealth-based benchmarks had never been established for many contaminants \n\t\t\t\tbeing monitored. For example, no outdoor standards existed for airborne asbestos \n\t\t\t\texposure, which more commonly occurs indoors. Asbestos, a heat-resistant \n\t\t\t\tmaterial used as fire-proofing in part of the World Trade Center, \n\t\t\t\tis known to cause lung cancer and asbestosis. EPA turned to a \n\t\t\t\tnationally accepted standard for asbestos that is based on long-term \n\t\t\t\tindoor exposure: the Asbestos Hazard Emergency Response Act (AHERA) \n\t\t\t\tstandard of 70 structures per square millimeter, which is used \n\t\t\t\tto determine whether children may re-enter a school building after \n\t\t\t\tasbestos removal or abatement. \"Once we got the data,\" says LaPosta, \"we had to \n\t\t\t\tstart judging and evaluating it against whatever we came up with \n\t\t\t\tas the best parameters. We had to work with the risk assessment \n\t\t\t\tpeople and other people in the field to figure out, for instance, \n\t\t\t\twhether the AHERA standard is the right standard and what does \n\t\t\t\tthat mean from a risk perspective? And what do we do about dioxin \n\t\t\t\t– do we use a 30-year removal number, do we use a one-year \n\t\t\t\tnumber, or do we use an OSHA (Occupational Safety and Health Administration) \n\t\t\t\tnumber? These criteria issues became a data management and assessment \n\t\t\t\tproblem we had to work through.\" Sampling quickly extended from air and dust to water. After a \n\t\t\t\theavy rain prompted concerns that hazardous material from the \n\t\t\t\tcollapsed buildings was seeping into water supplies, EPA sampled \n\t\t\t\tdrinking water at 13 distribution points in New York City as well \n\t\t\t\tas water pumped out of the Port Authority Trans-Hudson (PATH) \n\t\t\t\ttrain tunnels that flooded after the collapse. Drinking water \n\t\t\t\tsampling results showed no contamination and, in fact, the only \n\t\t\t\timpact on water detected by EPA was a small amount of temporarily \n\t\t\t\televated levels of asbestos and other compounds in storm-drain \n\t\t\t\trunoff in the Hudson River."
-    },
-    {
-      "tag": "div",
-      "text": "#BeginLibraryItem \"/library/top.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "Top of Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem"
+      "text": "The chief purpose of EPA's monitoring was to assess health risks \n\t\t\t\tfor the workers at Ground Zero and for those who would soon return \n\t\t\t\tto work and live in lower Manhattan. EPA labs and private labs \n\t\t\t\tunder contract to the Agency analyzed air and dust samples for \n\t\t\t\tasbestos and a host of other contaminants, then turned the data \n\t\t\t\tover to an interagency team of scientists. The team included Dore \n\t\t\t\tLaPosta, then acting director of the region's Division of Environmental \n\t\t\t\tScience and Assessment (DESA). The challenge was to determine at which level each contaminant \n\t\t\t\tposed a health concern, so that the data could be reported meaningfully. \n\t\t\t\tHealth-based benchmarks had never been established for many contaminants \n\t\t\t\tbeing monitored. For example, no outdoor standards existed for airborne asbestos \n\t\t\t\texposure, which more commonly occurs indoors. Asbestos, a heat-resistant \n\t\t\t\tmaterial used as fire-proofing in part of the World Trade Center, \n\t\t\t\tis known to cause lung cancer and asbestosis. EPA turned to a \n\t\t\t\tnationally accepted standard for asbestos that is based on long-term \n\t\t\t\tindoor exposure: the Asbestos Hazard Emergency Response Act (AHERA) \n\t\t\t\tstandard of 70 structures per square millimeter, which is used \n\t\t\t\tto determine whether children may re-enter a school building after \n\t\t\t\tasbestos removal or abatement. \"Once we got the data,\" says LaPosta, \"we had to \n\t\t\t\tstart judging and evaluating it against whatever we came up with \n\t\t\t\tas the best parameters. We had to work with the risk assessment \n\t\t\t\tpeople and other people in the field to figure out, for instance, \n\t\t\t\twhether the AHERA standard is the right standard and what does \n\t\t\t\tthat mean from a risk perspective? And what do we do about dioxin \n\t\t\t\t– do we use a 30-year removal number, do we use a one-year \n\t\t\t\tnumber, or do we use an OSHA (Occupational Safety and Health Administration) \n\t\t\t\tnumber? These criteria issues became a data management and assessment \n\t\t\t\tproblem we had to work through.\" Sampling quickly extended from air and dust to water. After a \n\t\t\t\theavy rain prompted concerns that hazardous material from the \n\t\t\t\tcollapsed buildings was seeping into water supplies, EPA sampled \n\t\t\t\tdrinking water at 13 distribution points in New York City as well \n\t\t\t\tas water pumped out of the Port Authority Trans-Hudson (PATH) \n\t\t\t\ttrain tunnels that flooded after the collapse. Drinking water \n\t\t\t\tsampling results showed no contamination and, in fact, the only \n\t\t\t\timpact on water detected by EPA was a small amount of temporarily \n\t\t\t\televated levels of asbestos and other compounds in storm-drain \n\t\t\t\trunoff in the Hudson River. Top of Page"
     },
     {
       "tag": "h3",
@@ -140,19 +108,7 @@
     },
     {
       "tag": "p",
-      "text": "As the financial district returned to operation, EPA continued \n\t\t\t\tits vacuuming activities. Bulk dust sampling in and around Ground \n\t\t\t\tZero had indicated an uneven spread of asbestos-containing dust \n\t\t\t\tin the area; the Agency decided to vacuum all public spaces throughout \n\t\t\t\tlower Manhattan. Coordinated by OSC Dan Harkay, 10 vacuum trucks \n\t\t\t\tremoved dust from streets and sidewalks, open areas such as parks \n\t\t\t\tand sandboxes, and federal building lobbies (including 290 Broadway) \n\t\t\t\tinto which response workers had carried dust on their shoes. With the lower Manhattan cleanup progressing quickly, EPA set \n\t\t\t\ta return date of September 24 for employees working at 290 Broadway. \n\t\t\t\tIn the interim, Muszynski and Assistant Regional Administrator \n\t\t\t\tHerb Barrack worked with EPA headquarters to restore the facility's \n\t\t\t\tcommunications capabilities, which were lost when a major telephone \n\t\t\t\tswitching station was inundated with water following the World \n\t\t\t\tTrade Center collapse. They also arranged through EPA headquarters \n\t\t\t\tto provide trauma counseling for Region 2 employees, enlisting \n\t\t\t\ta Massachusetts-based group with broad experience in counseling \n\t\t\t\tdisaster victims. \"The question was,\" Barrack says, \"should we bring \n\t\t\t\temployees right to the regional office or transition by another \n\t\t\t\tlocation first, where they wouldn't be immediately confronted \n\t\t\t\twith going back to the horrors that they experienced? We reached \n\t\t\t\tconsensus that it was better to do it offsite.\" The voluntary session, held at the Grand Hyatt in mid-town Manhattan, \n\t\t\t\tdrew more than 600 employees – about three-quarters of the \n\t\t\t\tregion's workforce. The trauma group also provided counselors \n\t\t\t\tfor EPA employees re-entering their lower Manhattan offices on \n\t\t\t\tSeptember 24."
-    },
-    {
-      "tag": "div",
-      "text": "#BeginLibraryItem \"/library/top.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "Top of Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem"
+      "text": "As the financial district returned to operation, EPA continued \n\t\t\t\tits vacuuming activities. Bulk dust sampling in and around Ground \n\t\t\t\tZero had indicated an uneven spread of asbestos-containing dust \n\t\t\t\tin the area; the Agency decided to vacuum all public spaces throughout \n\t\t\t\tlower Manhattan. Coordinated by OSC Dan Harkay, 10 vacuum trucks \n\t\t\t\tremoved dust from streets and sidewalks, open areas such as parks \n\t\t\t\tand sandboxes, and federal building lobbies (including 290 Broadway) \n\t\t\t\tinto which response workers had carried dust on their shoes. With the lower Manhattan cleanup progressing quickly, EPA set \n\t\t\t\ta return date of September 24 for employees working at 290 Broadway. \n\t\t\t\tIn the interim, Muszynski and Assistant Regional Administrator \n\t\t\t\tHerb Barrack worked with EPA headquarters to restore the facility's \n\t\t\t\tcommunications capabilities, which were lost when a major telephone \n\t\t\t\tswitching station was inundated with water following the World \n\t\t\t\tTrade Center collapse. They also arranged through EPA headquarters \n\t\t\t\tto provide trauma counseling for Region 2 employees, enlisting \n\t\t\t\ta Massachusetts-based group with broad experience in counseling \n\t\t\t\tdisaster victims. \"The question was,\" Barrack says, \"should we bring \n\t\t\t\temployees right to the regional office or transition by another \n\t\t\t\tlocation first, where they wouldn't be immediately confronted \n\t\t\t\twith going back to the horrors that they experienced? We reached \n\t\t\t\tconsensus that it was better to do it offsite.\" The voluntary session, held at the Grand Hyatt in mid-town Manhattan, \n\t\t\t\tdrew more than 600 employees – about three-quarters of the \n\t\t\t\tregion's workforce. The trauma group also provided counselors \n\t\t\t\tfor EPA employees re-entering their lower Manhattan offices on \n\t\t\t\tSeptember 24. Top of Page"
     },
     {
       "tag": "h3",
@@ -168,19 +124,11 @@
     },
     {
       "tag": "p",
-      "text": "EPA on-scene coordinators pumped approximately 600,000 gallons \n\t\t\t\tof oil from the World Trade Center sub-basements and removed a \n\t\t\t\thost of other hazardous materials, such as dry cleaning fluids, \n\t\t\t\tfire extinguishers, and underground fuel tanks. They also monitored \n\t\t\t\tfor Freon R-22 leaks from the trade center's enormous refrigeration \n\t\t\t\tsystem, especially when city officials posed the possibility (later \n\t\t\t\tdisproved) that this particular form of Freon, when combusted, \n\t\t\t\twould form the poison gas phosgene. Throughout EPA's response, asbestos monitoring remained a top \n\t\t\t\tpriority. Twice each day, OSCs collected samples from more than \n\t\t\t\t20 different fixed continuous air monitoring locations in and \n\t\t\t\taround Ground Zero. Of the more than 9,500 samples eventually \n\t\t\t\tcollected, only 21 measured above the 70-structures-per-square-millimeter \n\t\t\t\tlevel of concern. Even those 21 samples did not reflect a significant \n\t\t\t\tlong-term health risk. Asbestos exposure generally becomes a health \n\t\t\t\tconcern when high concentrations of asbestos fibers are inhaled \n\t\t\t\tover a long period. Illness is very unlikely to result from a \n\t\t\t\tsingle, high-level exposure, or from a short period of exposure \n\t\t\t\tto lower levels."
+      "text": "EPA on-scene coordinators pumped approximately 600,000 gallons \n\t\t\t\tof oil from the World Trade Center sub-basements and removed a \n\t\t\t\thost of other hazardous materials, such as dry cleaning fluids, \n\t\t\t\tfire extinguishers, and underground fuel tanks. They also monitored \n\t\t\t\tfor Freon R-22 leaks from the trade center's enormous refrigeration \n\t\t\t\tsystem, especially when city officials posed the possibility (later \n\t\t\t\tdisproved) that this particular form of Freon, when combusted, \n\t\t\t\twould form the poison gas phosgene. Throughout EPA's response, asbestos monitoring remained a top \n\t\t\t\tpriority. Twice each day, OSCs collected samples from more than \n\t\t\t\t20 different fixed continuous air monitoring locations in and \n\t\t\t\taround Ground Zero. Of the more than 9,500 samples eventually \n\t\t\t\tcollected, only 21 measured above the 70-structures-per-square-millimeter \n\t\t\t\tlevel of concern. Even those 21 samples did not reflect a significant \n\t\t\t\tlong-term health risk. Asbestos exposure generally becomes a health \n\t\t\t\tconcern when high concentrations of asbestos fibers are inhaled \n\t\t\t\tover a long period. Illness is very unlikely to result from a \n\t\t\t\tsingle, high-level exposure, or from a short period of exposure \n\t\t\t\tto lower levels. Top of Page"
     },
     {
       "tag": "div",
-      "text": "#BeginLibraryItem \"/library/top.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "Top of Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem Air monitor near debris pile Larger Picture"
+      "text": "Air monitor near debris pile Larger Picture"
     },
     {
       "tag": "p",
@@ -192,19 +140,11 @@
     },
     {
       "tag": "p",
-      "text": "While OSHA and New York City, which controlled the site, had responsibility \n\t\t\t\tfor enforcing safety standards at Ground Zero, EPA on-scene coordinators \n\t\t\t\tdid all they could to encourage rescue workers to wear respirators \n\t\t\t\tand other personal protection equipment. EPA contributed tens \n\t\t\t\tof thousands of respirators and other equipment, using the Agency's \n\t\t\t\town stock and new orders from vendors. Nevertheless, many rescue \n\t\t\t\tworkers opted not to use the safety equipment. \"From day one, we said you gotta wear respirators,\" \n\t\t\t\tSprague recalls, \"and we supplied a lot of equipment. ... \n\t\t\t\tThe issue became very frustrating.\" Jimenez says, \"Guys would be sitting near a huge plume of \n\t\t\t\tsmoke with no respirator on, and you'd look at them and say, listen, \n\t\t\t\tyou should be putting your respirator on. We put out press releases \n\t\t\t\t(advising that Ground Zero workers wear respirators). Having said \n\t\t\t\tthat, a building falls, the building's on fire, it is made with \n\t\t\t\tplastics and fuel oils, it doesn't take a bit of common sense \n\t\t\t\tto realize that you should probably have a respirator on.\" Norrell is philosophical about it. \"There was absolutely \n\t\t\t\tnothing anyone could have said – whether you're EPA or any \n\t\t\t\tother agency or person – that was going to stop anybody from \n\t\t\t\tdoing what they were doing,\" he said in March. \"Certainly \n\t\t\t\tnot during the first couple of days and probably even not now. \n\t\t\t\tFiremen are still down there finding their brothers. The only \n\t\t\t\tthing we could have done is exactly what we did, which was identify \n\t\t\t\tthe need for everybody who was working here to wear a respirator, \n\t\t\t\tand then do the best we could in conjunction with other folks.\""
+      "text": "While OSHA and New York City, which controlled the site, had responsibility \n\t\t\t\tfor enforcing safety standards at Ground Zero, EPA on-scene coordinators \n\t\t\t\tdid all they could to encourage rescue workers to wear respirators \n\t\t\t\tand other personal protection equipment. EPA contributed tens \n\t\t\t\tof thousands of respirators and other equipment, using the Agency's \n\t\t\t\town stock and new orders from vendors. Nevertheless, many rescue \n\t\t\t\tworkers opted not to use the safety equipment. \"From day one, we said you gotta wear respirators,\" \n\t\t\t\tSprague recalls, \"and we supplied a lot of equipment. ... \n\t\t\t\tThe issue became very frustrating.\" Jimenez says, \"Guys would be sitting near a huge plume of \n\t\t\t\tsmoke with no respirator on, and you'd look at them and say, listen, \n\t\t\t\tyou should be putting your respirator on. We put out press releases \n\t\t\t\t(advising that Ground Zero workers wear respirators). Having said \n\t\t\t\tthat, a building falls, the building's on fire, it is made with \n\t\t\t\tplastics and fuel oils, it doesn't take a bit of common sense \n\t\t\t\tto realize that you should probably have a respirator on.\" Norrell is philosophical about it. \"There was absolutely \n\t\t\t\tnothing anyone could have said – whether you're EPA or any \n\t\t\t\tother agency or person – that was going to stop anybody from \n\t\t\t\tdoing what they were doing,\" he said in March. \"Certainly \n\t\t\t\tnot during the first couple of days and probably even not now. \n\t\t\t\tFiremen are still down there finding their brothers. The only \n\t\t\t\tthing we could have done is exactly what we did, which was identify \n\t\t\t\tthe need for everybody who was working here to wear a respirator, \n\t\t\t\tand then do the best we could in conjunction with other folks.\" Top of Page"
     },
     {
       "tag": "div",
-      "text": "#BeginLibraryItem \"/library/top.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "Top of Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem Personal wash stations for recovery workers Larger Picture"
+      "text": "Personal wash stations for recovery workers Larger Picture"
     },
     {
       "tag": "p",
@@ -224,19 +164,7 @@
     },
     {
       "tag": "p",
-      "text": "\"There were definitely things here that Inever thought I'd \n\t\t\t\thave to see, never thought I'd have to deal with,\" Norrell \n\t\t\t\trecalls. \"The hardest part is when they were bringing families \n\t\t\t\t(of victims) through. You realize that a wife who lost a husband, \n\t\t\t\tor a husband who lost a wife, they're going to look at this big \n\t\t\t\tdusty pile of steel that has some smoke coming out, and that's \n\t\t\t\tit. That's the only closure they're ever going to have.\""
-    },
-    {
-      "tag": "div",
-      "text": "#BeginLibraryItem \"/library/top.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "Top of Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem"
+      "text": "\"There were definitely things here that Inever thought I'd \n\t\t\t\thave to see, never thought I'd have to deal with,\" Norrell \n\t\t\t\trecalls. \"The hardest part is when they were bringing families \n\t\t\t\t(of victims) through. You realize that a wife who lost a husband, \n\t\t\t\tor a husband who lost a wife, they're going to look at this big \n\t\t\t\tdusty pile of steel that has some smoke coming out, and that's \n\t\t\t\tit. That's the only closure they're ever going to have.\" Top of Page"
     },
     {
       "tag": "h3",
@@ -252,19 +180,11 @@
     },
     {
       "tag": "p",
-      "text": "EPA was one of many federal, local, state, and nonprofit agencies \n\t\t\t\tsupporting the police work at Fresh Kills. The landfill, officially \n\t\t\t\tclosed to garbage disposal just a few months earlier, became a \n\t\t\t\tsifting area for investigators hunting for evidence from the World \n\t\t\t\tTrade Center rubble. Mountains of debris were hauled by barge \n\t\t\t\tfrom Manhattan to the landfill during the cleanup at Ground Zero; \n\t\t\t\ta separate area at the landfill was dedicated to evidence from \n\t\t\t\tBuilding Seven, which housed FBI files, weapons, and other highly \n\t\t\t\tsensitive federal government items. Just as at Ground Zero, EPA provided wash stations for workers \n\t\t\t\tand vehicles, monitored air and dust for asbestos and other contaminants, \n\t\t\t\tand removed hazardous materials. At the landfill EPA also inspected \n\t\t\t\tthe washing and vacuuming of cars crushed in the collapse and \n\t\t\t\tthe washing of New York City Department of Sanitation barges. \n\t\t\t\tMost of the cars were decontaminated and eventually sent off-site \n\t\t\t\tfor recycling. EPA on-scene coordinators initially set up 10 air sampling locations \n\t\t\t\tat the landfill – eight around the perimeter and two within \n\t\t\t\tthe sifting areas. They later added three off-site locations to \n\t\t\t\tmake sure the winds weren't carrying contaminants into the surrounding \n\t\t\t\tcommunities. During the course of the landfill operations, EPA \n\t\t\t\ttook more than 5,200 air samples, finding asbestos above the AHERA \n\t\t\t\tstandard in less than 1 percent of the samples. \"We never hit the OSHA Permissible Exposure Limit,\" \n\t\t\t\tDeAngelis points out, referring to the federal standard for asbestos \n\t\t\t\texposure under OSHA (.1 fiber per cubic centimeter averaged over \n\t\t\t\tan eight-hour day), designed to protect workers on the job. The \n\t\t\t\tdiscrepancy between the AHERA and OSHA standards caused confusion \n\t\t\t\tamong some workers, according to DeAngelis. \"When we would \n\t\t\t\tcome up with a hit on (the AHERA) standard, but the OSHA standards \n\t\t\t\twasn't coming up with a hit because it was less than their level \n\t\t\t\tof concern, in the workers' minds somebody was lying to them.\""
+      "text": "EPA was one of many federal, local, state, and nonprofit agencies \n\t\t\t\tsupporting the police work at Fresh Kills. The landfill, officially \n\t\t\t\tclosed to garbage disposal just a few months earlier, became a \n\t\t\t\tsifting area for investigators hunting for evidence from the World \n\t\t\t\tTrade Center rubble. Mountains of debris were hauled by barge \n\t\t\t\tfrom Manhattan to the landfill during the cleanup at Ground Zero; \n\t\t\t\ta separate area at the landfill was dedicated to evidence from \n\t\t\t\tBuilding Seven, which housed FBI files, weapons, and other highly \n\t\t\t\tsensitive federal government items. Just as at Ground Zero, EPA provided wash stations for workers \n\t\t\t\tand vehicles, monitored air and dust for asbestos and other contaminants, \n\t\t\t\tand removed hazardous materials. At the landfill EPA also inspected \n\t\t\t\tthe washing and vacuuming of cars crushed in the collapse and \n\t\t\t\tthe washing of New York City Department of Sanitation barges. \n\t\t\t\tMost of the cars were decontaminated and eventually sent off-site \n\t\t\t\tfor recycling. EPA on-scene coordinators initially set up 10 air sampling locations \n\t\t\t\tat the landfill – eight around the perimeter and two within \n\t\t\t\tthe sifting areas. They later added three off-site locations to \n\t\t\t\tmake sure the winds weren't carrying contaminants into the surrounding \n\t\t\t\tcommunities. During the course of the landfill operations, EPA \n\t\t\t\ttook more than 5,200 air samples, finding asbestos above the AHERA \n\t\t\t\tstandard in less than 1 percent of the samples. \"We never hit the OSHA Permissible Exposure Limit,\" \n\t\t\t\tDeAngelis points out, referring to the federal standard for asbestos \n\t\t\t\texposure under OSHA (.1 fiber per cubic centimeter averaged over \n\t\t\t\tan eight-hour day), designed to protect workers on the job. The \n\t\t\t\tdiscrepancy between the AHERA and OSHA standards caused confusion \n\t\t\t\tamong some workers, according to DeAngelis. \"When we would \n\t\t\t\tcome up with a hit on (the AHERA) standard, but the OSHA standards \n\t\t\t\twasn't coming up with a hit because it was less than their level \n\t\t\t\tof concern, in the workers' minds somebody was lying to them.\" Top of Page"
     },
     {
       "tag": "div",
-      "text": "#BeginLibraryItem \"/library/top.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "Top of Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem Sifting debris at Fresh Kills landfill Larger Picture"
+      "text": "Sifting debris at Fresh Kills landfill Larger Picture"
     },
     {
       "tag": "p",
@@ -276,19 +196,7 @@
     },
     {
       "tag": "p",
-      "text": "Fresh Kills also served as a staging ground for the final disposal \n\t\t\t\tof the 1.6 million tons of debris from the World Trade Center. \n\t\t\t\tThanks to concerted efforts by the city and EPA, much of the debris \n\t\t\t\twas recycled – including heavy steel, light steel, compressed \n\t\t\t\tgas cylinders, crushed cars, batteries, and flourescent light \n\t\t\t\tballasts. Hazardous materials were set aside for proper disposal. \"Some of the recycling,\" DeAngelis says, \"was done \n\t\t\t\twith the eye that we didn't want materials to show up on eBay \n\t\t\t\tas souvenir items. We needed to make sure, when we got certain \n\t\t\t\titems like SCBA (self-contained breathing apparatus) bottles, \n\t\t\t\tthat they were crushed and cut to where they couldn't be sold \n\t\t\t\tthat way, and then either recycled or disposed of.\""
-    },
-    {
-      "tag": "div",
-      "text": "#BeginLibraryItem \"/library/top.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "Top of Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem"
+      "text": "Fresh Kills also served as a staging ground for the final disposal \n\t\t\t\tof the 1.6 million tons of debris from the World Trade Center. \n\t\t\t\tThanks to concerted efforts by the city and EPA, much of the debris \n\t\t\t\twas recycled – including heavy steel, light steel, compressed \n\t\t\t\tgas cylinders, crushed cars, batteries, and flourescent light \n\t\t\t\tballasts. Hazardous materials were set aside for proper disposal. \"Some of the recycling,\" DeAngelis says, \"was done \n\t\t\t\twith the eye that we didn't want materials to show up on eBay \n\t\t\t\tas souvenir items. We needed to make sure, when we got certain \n\t\t\t\titems like SCBA (self-contained breathing apparatus) bottles, \n\t\t\t\tthat they were crushed and cut to where they couldn't be sold \n\t\t\t\tthat way, and then either recycled or disposed of.\" Top of Page"
     },
     {
       "tag": "h3",
@@ -308,19 +216,7 @@
     },
     {
       "tag": "p",
-      "text": "With assistance from the headquarters Information Technology team, \n\t\t\t\tEPA established a computer database tied to the agency's Geographic \n\t\t\t\tImaging System (GIS) to gather and report monitoring results for \n\t\t\t\tall the contaminants being sampled. Daily monitoring summaries \n\t\t\t\twere posted on the EPA Web site and made available to the press \n\t\t\t\tthroughout the recovery operations. Each day, EPA brought the \n\t\t\t\tFire Department and other responding agencies its latest sampling \n\t\t\t\tdata on volatile organic compounds so that recovery workers could \n\t\t\t\ttake appropriate precautions. \"The monitoring system was something EPA can be really proud \n\t\t\t\tof,\" says Callahan, whom Regional Administrator Jane M. Kenny \n\t\t\t\tplaced in charge of the response's day-to-day operations. Callahan \n\t\t\t\tworked on the monitoring data system with LaPosta and EPA staffers \n\t\t\t\tincluding Joe Cosentino, Nick Magriples, and Mark Gallo, along \n\t\t\t\twith city, state, and federal agencies. \"It was collaborative \n\t\t\t\tand forthright,\" Callahan says. \"Everyone just kept \n\t\t\t\ttalking and working together.\" In addition to responding to the flood of press inquiries – \n\t\t\t\tMears estimates that Region 2 handled upwards of 100 press calls \n\t\t\t\ta day in the first week of the response – EPA also reported \n\t\t\t\ton its monitoring results at numerous public meetings around the \n\t\t\t\tcity and in testimony before city, state, and federal committees."
-    },
-    {
-      "tag": "div",
-      "text": "#BeginLibraryItem \"/library/top.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "Top of Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem"
+      "text": "With assistance from the headquarters Information Technology team, \n\t\t\t\tEPA established a computer database tied to the agency's Geographic \n\t\t\t\tImaging System (GIS) to gather and report monitoring results for \n\t\t\t\tall the contaminants being sampled. Daily monitoring summaries \n\t\t\t\twere posted on the EPA Web site and made available to the press \n\t\t\t\tthroughout the recovery operations. Each day, EPA brought the \n\t\t\t\tFire Department and other responding agencies its latest sampling \n\t\t\t\tdata on volatile organic compounds so that recovery workers could \n\t\t\t\ttake appropriate precautions. \"The monitoring system was something EPA can be really proud \n\t\t\t\tof,\" says Callahan, whom Regional Administrator Jane M. Kenny \n\t\t\t\tplaced in charge of the response's day-to-day operations. Callahan \n\t\t\t\tworked on the monitoring data system with LaPosta and EPA staffers \n\t\t\t\tincluding Joe Cosentino, Nick Magriples, and Mark Gallo, along \n\t\t\t\twith city, state, and federal agencies. \"It was collaborative \n\t\t\t\tand forthright,\" Callahan says. \"Everyone just kept \n\t\t\t\ttalking and working together.\" In addition to responding to the flood of press inquiries – \n\t\t\t\tMears estimates that Region 2 handled upwards of 100 press calls \n\t\t\t\ta day in the first week of the response – EPA also reported \n\t\t\t\ton its monitoring results at numerous public meetings around the \n\t\t\t\tcity and in testimony before city, state, and federal committees. Top of Page"
     },
     {
       "tag": "h3",
@@ -336,19 +232,7 @@
     },
     {
       "tag": "p",
-      "text": "In May, responding to the Task Force's recommendations, Regional \n\t\t\t\tAdministrator Kenny announced a cleanup plan for residences in \n\t\t\t\tlower Manhattan in conjunction with the city, FEMA, OSHA, and \n\t\t\t\tNew York State. She said in announcing the program, \"While \n\t\t\t\tthe scientific data about any immediate health risks from indoor \n\t\t\t\tair is reassuring, people should not have to live with uncertainty \n\t\t\t\tabout their futures.\" The voluntary program gives lower Manhattan residents the option \n\t\t\t\tof either having their units tested for asbestos or cleaned and \n\t\t\t\tthen tested by professional cleaners on contract with the government. \n\t\t\t\tResidents can also request free HEPA vacuum cleaners through the \n\t\t\t\tprogram. During the summer, EPA tested various cleanup techniques in a \n\t\t\t\tstill-unoccupied building near the World Trade Center site. Testing \n\t\t\t\tbegan on a limited number of the more than 800 units at which \n\t\t\t\tresidents requested testing only, and EPA anticipates that cleaning \n\t\t\t\tof the more than 3,000 units requesting cleaning and testing will \n\t\t\t\tbegin in the next few weeks."
-    },
-    {
-      "tag": "div",
-      "text": "#BeginLibraryItem \"/library/top.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "Top of Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem"
+      "text": "In May, responding to the Task Force's recommendations, Regional \n\t\t\t\tAdministrator Kenny announced a cleanup plan for residences in \n\t\t\t\tlower Manhattan in conjunction with the city, FEMA, OSHA, and \n\t\t\t\tNew York State. She said in announcing the program, \"While \n\t\t\t\tthe scientific data about any immediate health risks from indoor \n\t\t\t\tair is reassuring, people should not have to live with uncertainty \n\t\t\t\tabout their futures.\" The voluntary program gives lower Manhattan residents the option \n\t\t\t\tof either having their units tested for asbestos or cleaned and \n\t\t\t\tthen tested by professional cleaners on contract with the government. \n\t\t\t\tResidents can also request free HEPA vacuum cleaners through the \n\t\t\t\tprogram. During the summer, EPA tested various cleanup techniques in a \n\t\t\t\tstill-unoccupied building near the World Trade Center site. Testing \n\t\t\t\tbegan on a limited number of the more than 800 units at which \n\t\t\t\tresidents requested testing only, and EPA anticipates that cleaning \n\t\t\t\tof the more than 3,000 units requesting cleaning and testing will \n\t\t\t\tbegin in the next few weeks. Top of Page"
     },
     {
       "tag": "h3",
@@ -364,35 +248,7 @@
     },
     {
       "tag": "p",
-      "text": "\"Are there things we could have done better along the way? \n\t\t\t\tYes, as anyone would expect,\" says Barbara Finazzo, who was \n\t\t\t\tActing Deputy Regional Administrator last September. \"But \n\t\t\t\tIfirmly believe we responded in the best way that we knew how. \n\t\t\t\tIwill always stand by the fact that I'm very proud of what we \n\t\t\t\tall did.\" \"There was a lot of dedication, a lot of serious consideration \n\t\t\t\tof science issues, a lot of reaching out to people beyond our \n\t\t\t\tagency who could provide information about the issues we were \n\t\t\t\tdealing with, and a tireless effort,\" says LaPosta. \"I'm proud of the fact,\" Mears says, \"that a whole \n\t\t\t\tgroup of people from this agency pulled together in a hurry despite \n\t\t\t\tbeing traumatized on all different levels and turned our attention \n\t\t\t\tto whether the people in and around lower Manhattan were safe. \n\t\t\t\t(And) I'm really proudest of the people who actually went out \n\t\t\t\tthere day after day after day, on that pile, taking samples, not \n\t\t\t\tbecause they were worried about their own health but because they \n\t\t\t\twanted to make sure we were protecting the health of the people \n\t\t\t\tof New York.\" Norrell may have summed it up best for his fellow OSCs – \n\t\t\t\tand, indeed, all EPA staff involved – when he explained the \n\t\t\t\tprivilege he felt at taking part in the response. \"Everybody \n\t\t\t\tin the world wanted to do something, and Iwas getting the chance \n\t\t\t\tto do something.\" **** True to its mission to safeguard public health and protect the \n\t\t\t\tenvironment, the U.S. Environmental Protection Agency (EPA) has \n\t\t\t\tbeen playing a key role in the nation's response to the September \n\t\t\t\t11, 2001 terrorist attacks on the World Trade Center. With much \n\t\t\t\thelp from EPA headquarters and other regions, more than 200 employees \n\t\t\t\tfrom EPA's Region 2 offices in lower Manhattan and Edison, New \n\t\t\t\tJersey, have engaged in the response at Ground Zero and the Staten \n\t\t\t\tIsland landfill where debris was brought for evidence-gathering. \n\t\t\t\tTheir major activities have included: • monitoring air, water, and dust for potential environmental \n\t\t\t\thazards • vacuuming dust and debris from streets and other outdoor \n\t\t\t\tspaces in lower Manhattan • removing and disposing of hazardous wastes from the sites • creating an online database to report monitoring results \n\t\t\t\tto the press and the public • setting up wash stations and providing protective equipment \n\t\t\t\tfor recovery workers • developing a cleaning and testing program for indoor residences \n\t\t\t\tin lower Manhattan \"We were just doing our part,\" says Deputy Regional \n\t\t\t\tAdministrator Muszynski. \"We were doing our part, just as \n\t\t\t\tthe Red Cross was doing its part, the way so many support groups \n\t\t\t\twere, the way the Corps of Engineers was doing its part, the way \n\t\t\t\ttruck drivers were moving material out and doing their part.\" \"Beyond the science and the regulation, beyond the standards \n\t\t\t\tand the benchmarks, EPA is at heart about helping people,\" \n\t\t\t\tsays Regional Administrator Kenny. \"Our employees proved \n\t\t\t\tthat every day of this response.\""
-    },
-    {
-      "tag": "div",
-      "text": "#BeginLibraryItem \"/library/top.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "Top of Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem #EndEditable END CONTENT AREA #BeginLibraryItem \"/Library/wtc_footer.lbi\" BEGIN AREA FOOTER ADD LINKS AND TEXT FOR AREA FOOTER WITHIN THIS PARAGRAPH TAG"
-    },
-    {
-      "tag": "p",
-      "text": "#BeginLibraryItem \"/Library/R2_generic_bottom_navbar.lbi\" #EndLibraryItem"
-    },
-    {
-      "tag": "div",
-      "text": "END AREA FOOTER BEGIN FOOTER IMAGE END FOOTER IMAGE BEGIN GLOBAL FOOTER END AREA COMMENTS LINK #BeginLibraryItem \"/Library/wtc_privacy_contact_links.lbi\""
-    },
-    {
-      "tag": "p",
-      "text": "EPA Home | Privacy and Security Notice | Contact Us"
-    },
-    {
-      "tag": "div",
-      "text": "#EndLibraryItem END GLOBAL FOOTER #EndLibraryItem #EndTemplate"
+      "text": "\"Are there things we could have done better along the way? \n\t\t\t\tYes, as anyone would expect,\" says Barbara Finazzo, who was \n\t\t\t\tActing Deputy Regional Administrator last September. \"But \n\t\t\t\tIfirmly believe we responded in the best way that we knew how. \n\t\t\t\tIwill always stand by the fact that I'm very proud of what we \n\t\t\t\tall did.\" \"There was a lot of dedication, a lot of serious consideration \n\t\t\t\tof science issues, a lot of reaching out to people beyond our \n\t\t\t\tagency who could provide information about the issues we were \n\t\t\t\tdealing with, and a tireless effort,\" says LaPosta. \"I'm proud of the fact,\" Mears says, \"that a whole \n\t\t\t\tgroup of people from this agency pulled together in a hurry despite \n\t\t\t\tbeing traumatized on all different levels and turned our attention \n\t\t\t\tto whether the people in and around lower Manhattan were safe. \n\t\t\t\t(And) I'm really proudest of the people who actually went out \n\t\t\t\tthere day after day after day, on that pile, taking samples, not \n\t\t\t\tbecause they were worried about their own health but because they \n\t\t\t\twanted to make sure we were protecting the health of the people \n\t\t\t\tof New York.\" Norrell may have summed it up best for his fellow OSCs – \n\t\t\t\tand, indeed, all EPA staff involved – when he explained the \n\t\t\t\tprivilege he felt at taking part in the response. \"Everybody \n\t\t\t\tin the world wanted to do something, and Iwas getting the chance \n\t\t\t\tto do something.\" **** True to its mission to safeguard public health and protect the \n\t\t\t\tenvironment, the U.S. Environmental Protection Agency (EPA) has \n\t\t\t\tbeen playing a key role in the nation's response to the September \n\t\t\t\t11, 2001 terrorist attacks on the World Trade Center. With much \n\t\t\t\thelp from EPA headquarters and other regions, more than 200 employees \n\t\t\t\tfrom EPA's Region 2 offices in lower Manhattan and Edison, New \n\t\t\t\tJersey, have engaged in the response at Ground Zero and the Staten \n\t\t\t\tIsland landfill where debris was brought for evidence-gathering. \n\t\t\t\tTheir major activities have included: • monitoring air, water, and dust for potential environmental \n\t\t\t\thazards • vacuuming dust and debris from streets and other outdoor \n\t\t\t\tspaces in lower Manhattan • removing and disposing of hazardous wastes from the sites • creating an online database to report monitoring results \n\t\t\t\tto the press and the public • setting up wash stations and providing protective equipment \n\t\t\t\tfor recovery workers • developing a cleaning and testing program for indoor residences \n\t\t\t\tin lower Manhattan \"We were just doing our part,\" says Deputy Regional \n\t\t\t\tAdministrator Muszynski. \"We were doing our part, just as \n\t\t\t\tthe Red Cross was doing its part, the way so many support groups \n\t\t\t\twere, the way the Corps of Engineers was doing its part, the way \n\t\t\t\ttruck drivers were moving material out and doing their part.\" \"Beyond the science and the regulation, beyond the standards \n\t\t\t\tand the benchmarks, EPA is at heart about helping people,\" \n\t\t\t\tsays Regional Administrator Kenny. \"Our employees proved \n\t\t\t\tthat every day of this response.\" Top of Page EPA Home | Privacy and Security Notice | Contact Us"
     }
   ]
 }

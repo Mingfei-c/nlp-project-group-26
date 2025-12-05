@@ -3,8 +3,8 @@
   "file_number": "358",
   "content_hash": "83004a19b0eca11ec7c6101170cebde246344271b49043dbb8bb1a65a407f787",
   "total_blocks": 83,
-  "retained_blocks": 6,
-  "ignored_blocks": 77,
+  "retained_blocks": 8,
+  "ignored_blocks": 75,
   "blocks": [
     {
       "tag": "div",
@@ -24,11 +24,19 @@
     },
     {
       "tag": "div",
-      "text": "\"Purity \n                      is the opposite of integrity—the cruelest thing you \n                      can do to a person is make her ashamed of her own complexity. \n                      The stories of our lives have no morals. Any single conclusion \n                      drawn would be false; the episodes, taken together, are \n                      untranslatable, incomparable. If we are to conclude at all, \n                      we can only conclude against conclusions.\" -an excerpt \n                      from Fighting \n                      For Our Lives poems \n                                          from prison by raegan butcher"
+      "text": "\"Purity \n                      is the opposite of integrity—the cruelest thing you \n                      can do to a person is make her ashamed of her own complexity. \n                      The stories of our lives have no morals. Any single conclusion \n                      drawn would be false; the episodes, taken together, are \n                      untranslatable, incomparable. If we are to conclude at all, \n                      we can only conclude against conclusions.\" -an excerpt \n                      from Fighting \n                      For Our Lives"
+    },
+    {
+      "tag": "div",
+      "text": "poems \n                                          from prison by raegan butcher"
     },
     {
       "tag": "p",
-      "text": "the \n                                    book | the poems | the \n                                    author | crimethinc letters series | order book this \n                                        is the inaugural book in the CrimethInc. Letters series . . . This is not the third 'CrimethInc. \n                                        book,' rather, it is the first CrimethInc. Letters book. This is not \n                                        direct propaganda, nor is it similar in \n                                        most regards to previous CrimethInc. publications. \n                                        This is a new voice, a new form, a new \n                                        idea, but born of the same fires. These \n                                        are our letters—to the universe. \n                                        To each other. This is where we re-write \n                                        our histories and create our own cultures \n                                        without the mediation of corporations. \n                                        When we are too far away from one another \n                                        for campfire storytelling, we use our \n                                        own voices here, and we use them to call \n                                        out across the distance. Authors in the Letters series receive \n                                        10-20% (a sliding scale based on their \n                                        financial situation) of the gross revenue \n                                        for the book as payment: this is our effort \n                                        to actually build sustainability into \n                                        our pricing structure rather than nurture \n                                        yet another generation of victimized, \n                                        starving artists."
+      "text": "the \n                                    book | the poems | the \n                                    author | crimethinc letters series | order book"
+    },
+    {
+      "tag": "p",
+      "text": "this \n                                        is the inaugural book in the CrimethInc. Letters series . . . This is not the third 'CrimethInc. \n                                        book,' rather, it is the first CrimethInc. Letters book. This is not \n                                        direct propaganda, nor is it similar in \n                                        most regards to previous CrimethInc. publications. \n                                        This is a new voice, a new form, a new \n                                        idea, but born of the same fires. These \n                                        are our letters—to the universe. \n                                        To each other. This is where we re-write \n                                        our histories and create our own cultures \n                                        without the mediation of corporations. \n                                        When we are too far away from one another \n                                        for campfire storytelling, we use our \n                                        own voices here, and we use them to call \n                                        out across the distance. Authors in the Letters series receive \n                                        10-20% (a sliding scale based on their \n                                        financial situation) of the gross revenue \n                                        for the book as payment: this is our effort \n                                        to actually build sustainability into \n                                        our pricing structure rather than nurture \n                                        yet another generation of victimized, \n                                        starving artists."
     }
   ]
 }

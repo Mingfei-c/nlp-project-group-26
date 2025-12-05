@@ -3,8 +3,8 @@
   "file_number": "625",
   "content_hash": "b5727ce0d4d891e54b895c23a8abd9e03605ec8b5306ff9132baf9155f93df3d",
   "total_blocks": 91,
-  "retained_blocks": 26,
-  "ignored_blocks": 65,
+  "retained_blocks": 28,
+  "ignored_blocks": 63,
   "blocks": [
     {
       "tag": "div",
@@ -44,7 +44,15 @@
     },
     {
       "tag": "div",
-      "text": "No problemo. Tennessee is a very beautiful state, almost makes me want to move there, hope you have a successful trip and carry safetly. <hr> about packing.org | disclaimer | mark solomon homepage copyright © 1996-2006 mark solomon middlecontent middle state ccw info license tool news events gun ranges gun talk links Dec 26, 2006 Jump to State Alabama Alaska All of Canada All of Mexico All United States Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York New York City North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas US Virgin Islands Utah Vermont Virginia Washington Washington DC West Virginia Wisconsin Wyoming Old news | Old talk Submit bug report"
+      "text": "No problemo. Tennessee is a very beautiful state, almost makes me want to move there, hope you have a successful trip and carry safetly. about packing.org | disclaimer | mark solomon homepage copyright © 1996-2006 mark solomon state ccw info license tool news events gun ranges gun talk links"
+    },
+    {
+      "tag": "div",
+      "text": "Dec 26, 2006"
+    },
+    {
+      "tag": "div",
+      "text": "Jump to State Alabama Alaska All of Canada All of Mexico All United States Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York New York City North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas US Virgin Islands Utah Vermont Virginia Washington Washington DC West Virginia Wisconsin Wyoming Old news | Old talk Submit bug report"
     },
     {
       "tag": "h3",
@@ -52,7 +60,7 @@
     },
     {
       "tag": "div",
-      "text": "Commercial flying & guns: How to obey the law on commercial flights cached by Mcache::get from Dec 26, 2006 @ 07:44 pm begin ad"
+      "text": "Commercial flying & guns: How to obey the law on commercial flights"
     },
     {
       "tag": "h1",
@@ -60,7 +68,7 @@
     },
     {
       "tag": "div",
-      "text": "In the Gravest Extreme Role of the Firearm Really good book by Massad F. Ayoob (Amazon) About ads container end ad cached by Mcache::get from Dec 26, 2006 @ 07:20 pm"
+      "text": "In the Gravest Extreme Role of the Firearm Really good book by Massad F. Ayoob (Amazon) About ads"
     },
     {
       "tag": "h3",
@@ -73,10 +81,6 @@
     {
       "tag": "h1",
       "text": "Packing.org mug"
-    },
-    {
-      "tag": "div",
-      "text": "cached by Mcache::get from Dec 26, 2006 @ 07:45 pm"
     },
     {
       "tag": "h3",
@@ -92,7 +96,7 @@
     },
     {
       "tag": "div",
-      "text": "The Gun Digest Book of the 1911 cached by Mcache::get from Dec 26, 2006 @ 07:44 pm begin ad"
+      "text": "The Gun Digest Book of the 1911"
     },
     {
       "tag": "h1",
@@ -100,7 +104,7 @@
     },
     {
       "tag": "div",
-      "text": "Cheap Shots, Ambushes, And Other Lessons on Amazon: A Down And Dirty Book On Streetfighting and Survival About ads container end ad cached by Mcache::get from Dec 26, 2006 @ 07:40 pm"
+      "text": "Cheap Shots, Ambushes, And Other Lessons on Amazon: A Down And Dirty Book On Streetfighting and Survival About ads"
     },
     {
       "tag": "h3",
@@ -108,7 +112,11 @@
     },
     {
       "tag": "div",
-      "text": "Q: Which of the following statements best describes your opinion on the issue of \"Stopping Power\"? 1.  Big and slow is best! 2. Small and Fast is best! 3. Shot placement means the most! 4. Iam not sure! 5. None of the above! See results <a href=\"http://www.amazon.com/exec/obidos/ASIN/031600023X/concealedca0f-20\">Worse than watergate</a> This link is provided for address collecting robots. Fight spam! leftcontent left <a href=\"http://www.amazon.com/exec/obidos/ASIN/031600023X/concealedca0f-20\">Worse than watergate</a> body"
+      "text": "Q: Which of the following statements best describes your opinion on the issue of \"Stopping Power\"? 1.  Big and slow is best! 2. Small and Fast is best! 3. Shot placement means the most! 4. Iam not sure! 5. None of the above! See results"
+    },
+    {
+      "tag": "div",
+      "text": "This link is provided for address collecting robots. Fight spam!"
     }
   ]
 }

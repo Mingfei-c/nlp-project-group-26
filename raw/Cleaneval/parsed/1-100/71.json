@@ -3,12 +3,12 @@
   "file_number": "71",
   "content_hash": "6ac4533899f4dad958670275317ea06c608672d7558189d88ac1cb77f76efdb5",
   "total_blocks": 158,
-  "retained_blocks": 41,
-  "ignored_blocks": 117,
+  "retained_blocks": 44,
+  "ignored_blocks": 114,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" [if lt IE 7]>\n<link rel=\"stylesheet\" href=\"/css/patches-ie.css\" type=\"text/css\" media=\"print ,screen, projection\" />\n<![endif] script type=\"text/javascript\" src=\"/scripts/errorlog.js\"></script /end #print-banner Search HBS Working Knowledge: HBS Home HBS Index /end #brand /end #nav-top /end #header start #content"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" Search HBS Working Knowledge: HBS Home HBS Index"
     },
     {
       "tag": "p",
@@ -44,7 +44,7 @@
     },
     {
       "tag": "div",
-      "text": "More Working Knowledge from Ramon Casadesus-Masanell Ramon Casadesus-Masanell - Faculty Research Page /end .block"
+      "text": "More Working Knowledge from Ramon Casadesus-Masanell Ramon Casadesus-Masanell - Faculty Research Page"
     },
     {
       "tag": "h3",
@@ -56,7 +56,7 @@
     },
     {
       "tag": "div",
-      "text": "More Working Knowledge from Pankaj Ghemawat Pankaj Ghemawat - Faculty Research Page /end .block"
+      "text": "More Working Knowledge from Pankaj Ghemawat Pankaj Ghemawat - Faculty Research Page"
     },
     {
       "tag": "p",
@@ -92,7 +92,7 @@
     },
     {
       "tag": "p",
-      "text": "To the motivations of independent developers to contribute to Linux, we have to add the important support that the free operating system receives from companies and governments. As long as the motives that induce these organizations to back Linux persist, Linux will not go away. Finally, and as we mentioned above, having a free operating system is central to the mission of the Free Software Foundation, Richard Stallman, and Linus Torvalds. It is thus hard to see how Microsoft can \"persuade\" Stallman or Torvalds to cave. And even if it did… Linux is no longer Stallman's or Torvalds' property. The project is dispersed and there is no \"owner\" of the code. Thus, someone else can take the lead. Q: What's next for the both of you for future research projects? A: There are several ways in which our work on Linux can be extended. One avenue would be to empirically estimate the difference in demand-side learning between Linux and Windows. This would allow us to make educated guesses on the chances of survival of Windows and make managerial and policy recommendations to OSS advocates, Microsoft, and administrations. In its present form, the paper models the organization of Linux's development in a very stylized way. Having a closer look at issues of effort coordination may help us better understand how to deal with code forking, one of OSS's biggest potential problems. Asecond organizational issue that could also benefit from formal analysis is that of incentives to contribute to OSS. While most research on this issue has been sociological in nature, the economic approach may shed light on why supposedly rational individuals are willing to spend valuable time and effort without extrinsic, financial incentives. Afinal question that we believe is of utmost importance but that has not attracted much attention thus far (at least among academics) is: What are the drivers of adoption of OSS? Aside from its empirical relevance for both individuals and organizations, it is an interesting question from a theoretical point of view, too. The presence of network effects and demand-side learning make this a non-trivial problem. We conjecture that there are multiple equilibria and that the use of FUD to mold perceptions about future value becomes crucial. end of body text"
+      "text": "To the motivations of independent developers to contribute to Linux, we have to add the important support that the free operating system receives from companies and governments. As long as the motives that induce these organizations to back Linux persist, Linux will not go away. Finally, and as we mentioned above, having a free operating system is central to the mission of the Free Software Foundation, Richard Stallman, and Linus Torvalds. It is thus hard to see how Microsoft can \"persuade\" Stallman or Torvalds to cave. And even if it did… Linux is no longer Stallman's or Torvalds' property. The project is dispersed and there is no \"owner\" of the code. Thus, someone else can take the lead. Q: What's next for the both of you for future research projects? A: There are several ways in which our work on Linux can be extended. One avenue would be to empirically estimate the difference in demand-side learning between Linux and Windows. This would allow us to make educated guesses on the chances of survival of Windows and make managerial and policy recommendations to OSS advocates, Microsoft, and administrations. In its present form, the paper models the organization of Linux's development in a very stylized way. Having a closer look at issues of effort coordination may help us better understand how to deal with code forking, one of OSS's biggest potential problems. Asecond organizational issue that could also benefit from formal analysis is that of incentives to contribute to OSS. While most research on this issue has been sociological in nature, the economic approach may shed light on why supposedly rational individuals are willing to spend valuable time and effort without extrinsic, financial incentives. Afinal question that we believe is of utmost importance but that has not attracted much attention thus far (at least among academics) is: What are the drivers of adoption of OSS? Aside from its empirical relevance for both individuals and organizations, it is an interesting question from a theoretical point of view, too. The presence of network effects and demand-side learning make this a non-trivial problem. We conjecture that there are multiple equilibria and that the use of FUD to mold perceptions about future value becomes crucial."
     },
     {
       "tag": "h3",
@@ -100,7 +100,23 @@
     },
     {
       "tag": "div",
-      "text": "Topics: Economics , Managing Innovation , Computers and Software , Technology Adoption Industries: Software , Technology The Organizational Model for Open Source The Secret of How Microsoft Stays on Top The Simple Economics of Open Source"
+      "text": "Topics:"
+    },
+    {
+      "tag": "div",
+      "text": "Economics , Managing Innovation , Computers and Software , Technology Adoption"
+    },
+    {
+      "tag": "div",
+      "text": "Industries:"
+    },
+    {
+      "tag": "div",
+      "text": "Software , Technology"
+    },
+    {
+      "tag": "div",
+      "text": "The Organizational Model for Open Source The Secret of How Microsoft Stays on Top The Simple Economics of Open Source"
     },
     {
       "tag": "h3",
@@ -152,7 +168,7 @@
     },
     {
       "tag": "div",
-      "text": "/end #content /end #content-wrap Business History Entrepreneurship Finance Globalization Leadership & Management Marketing Operations Organizations Social Enterprise & Nonprofit Strategy – Other Topics – Consumer Products Entertainment & Leisure Financial Services Healthcare Manufacturing Retail & Wholesale Technology Transportation – Other Industries – – All Regions – – All Faculty – – All Articles by Date – Faculty Q&A First Look Lessons from the Classroom Op-Ed Report from the Field Research & Ideas Views on News What Do YOU Think? Working Papers"
+      "text": "Business History Entrepreneurship Finance Globalization Leadership & Management Marketing Operations Organizations Social Enterprise & Nonprofit Strategy – Other Topics – Consumer Products Entertainment & Leisure Financial Services Healthcare Manufacturing Retail & Wholesale Technology Transportation – Other Industries – – All Regions – – All Faculty – – All Articles by Date – Faculty Q&A First Look Lessons from the Classroom Op-Ed Report from the Field Research & Ideas Views on News What Do YOU Think? Working Papers"
     },
     {
       "tag": "h4",
@@ -160,15 +176,11 @@
     },
     {
       "tag": "div",
-      "text": "Grooming Next-Generation Leaders Fixing Price Tag Confusion Investors Hurt by Dual-Track Tax Reporting The Money Connection—Understanding VC Networks First Look: December 19, 2006 /end div.popular /end #navigation Linking Policy Privacy Policy"
+      "text": "Grooming Next-Generation Leaders Fixing Price Tag Confusion Investors Hurt by Dual-Track Tax Reporting The Money Connection—Understanding VC Networks First Look: December 19, 2006 Linking Policy Privacy Policy"
     },
     {
       "tag": "p",
       "text": "Copyright © 2006 President and Fellows of Harvard College"
-    },
-    {
-      "tag": "div",
-      "text": "/end #container /end #outerright /end #outerleft"
     }
   ]
 }

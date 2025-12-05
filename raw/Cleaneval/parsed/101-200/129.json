@@ -3,12 +3,12 @@
   "file_number": "129",
   "content_hash": "d8afa9d8efd2f4ce2d5ce222db242749ae95581ce6acfb964ce3570abdee9923",
   "total_blocks": 75,
-  "retained_blocks": 29,
-  "ignored_blocks": 46,
+  "retained_blocks": 24,
+  "ignored_blocks": 51,
   "blocks": [
     {
       "tag": "div",
-      "text": "Notify Blogger about objectionable content. What does this mean? BlogThis! Outer Dark Brown Container / Centers Content Top Paper Graphic Blog Header"
+      "text": "Notify Blogger about objectionable content. What does this mean? BlogThis!"
     },
     {
       "tag": "h1",
@@ -17,10 +17,6 @@
     {
       "tag": "p",
       "text": "Idon't understand the answer, but Imay have some ideas on the question..."
-    },
-    {
-      "tag": "div",
-      "text": "End Blog Header Begin #profile-container"
     },
     {
       "tag": "h2",
@@ -36,7 +32,7 @@
     },
     {
       "tag": "div",
-      "text": "End #profile Main Content Area (This shows background image) Begin #sidebar :: left column :: blog archives, links Creative Commons License This work is licensed under a Creative Commons License . /Creative Commons License <rdf:RDF xmlns=\"http://web.resource.org/cc/\"\n    xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n<Work rdf:about=\"\">\n   <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/Text\" />\n   <license rdf:resource=\"http://creativecommons.org/licenses/by-nd/2.0/\" />\n</Work>\n\n<License rdf:about=\"http://creativecommons.org/licenses/by-nd/2.0/\">\n   <permits rdf:resource=\"http://web.resource.org/cc/Reproduction\" />\n   <permits rdf:resource=\"http://web.resource.org/cc/Distribution\" />\n   <requires rdf:resource=\"http://web.resource.org/cc/Notice\" />\n   <requires rdf:resource=\"http://web.resource.org/cc/Attribution\" />\n</License>\n\n</rdf:RDF> The Cast of Characters Today I'm feeling: a bit of culture, a bit of music Boyfriends vs boy friends \"we don’t think clients are God\" child support my heart's desire advocacy skills Intolerable tollerance lessons birthday parties, girly nights and refugee benefits Women in Docs getting where you're going"
+      "text": "This work is licensed under a Creative Commons License . The Cast of Characters Today I'm feeling: a bit of culture, a bit of music Boyfriends vs boy friends \"we don’t think clients are God\" child support my heart's desire advocacy skills Intolerable tollerance lessons birthday parties, girly nights and refugee benefits Women in Docs getting where you're going"
     },
     {
       "tag": "h2",
@@ -44,7 +40,7 @@
     },
     {
       "tag": "div",
-      "text": "Any Resemblance Diary of an Average Australian Kangaroo Court Stay of Execution START Women of Oz Code ‹‹ # Women \n    of Oz ? ›› END Women of Oz Code Who Links Here <p>This is a paragraph of text that could go in the sidebar.</p> Begin #main :: right column :: blog entry content Begin .post"
+      "text": "Any Resemblance Diary of an Average Australian Kangaroo Court Stay of Execution ‹‹ # Women \n    of Oz ? ›› Who Links Here"
     },
     {
       "tag": "h3",
@@ -61,10 +57,6 @@
     {
       "tag": "p",
       "text": "posted by OLS | \n                        Wednesday, June 15, 2005 | 9:37 AM"
-    },
-    {
-      "tag": "div",
-      "text": "End .post Begin #comments"
     },
     {
       "tag": "h4",
@@ -109,18 +101,6 @@
     {
       "tag": "p",
       "text": "Post a Comment << Home"
-    },
-    {
-      "tag": "div",
-      "text": "End #comments Begin #footer :: bottom area"
-    },
-    {
-      "tag": "p",
-      "text": "Copyright &copy; 2004 [Your name] (plus any additional footer info)"
-    },
-    {
-      "tag": "div",
-      "text": "End #main-content Bottom Paper Graphic WEBBOT bot=\"HTMLMarkup\" startspan ALT=\"Site Meter\" WEBBOT bot=\"HTMLMarkup\" Endspan Start of StatCounter Code End of StatCounter Code"
     }
   ]
 }

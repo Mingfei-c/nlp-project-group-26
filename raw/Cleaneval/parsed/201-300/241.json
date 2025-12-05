@@ -7,10 +7,6 @@
   "ignored_blocks": 98,
   "blocks": [
     {
-      "tag": "div",
-      "text": "NOTES:  All artist's images should be stored in this path:  \"../art/*ARTIST LAST NAME/IMAGE FILENAME.jpg\".\n\t\tThis template shows three thumbnails and one full image in the body of the text. This may vary\n\t\tThe presence and number of footnotes may vary and the copyright attritution to previous publication.\n\t\tChange the variables in the javascript for pop-up window box title and the image permission line.\n\t\tIf the image persmission line is unique for each image, leave the global variable blank and add it to the Image Description text in the hyperlink."
-    },
-    {
       "tag": "h4",
       "text": "IN OPPOSITION TO THE STATE: THE SOVIET NEOAVANT-GARDE AND EAST GERMAN AESTHETICISM IN THE 1980s"
     },
@@ -24,7 +20,11 @@
     },
     {
       "tag": "div",
-      "text": "Sokolina, Anna. Traditions in East German Architecture 1945-1990 .  Diss. Authoreferat. 18.00.01. Moscow: VNIITAG (All-Russian Academic Research Institute for the Theory of Architecture and Urban Design), 1991. p.17. In Russian . Paper Architecture New Projects from the Soviet Union .  Ed. Heinrich Klotz.  New York: Rizzoli, 1990. Baumbach, Peter, and Kaufman, Erich. Bauen im innerstdtishen Bereich. Beitrge zur Geschichte der Stadt Rostock .  ICOMOS '84.  Neue Folge. Heft 3. Rostock: Ostsee Druck, 1983. pp. 44-56. In German. Sokolina, Anna. \"The Long Crisis in Russian Architecture.\" Kommune, Forum for Policy, Economy , Culture, 10 (1992): 73-75. Frankfurt/Main. In German. Sokolina, Anna. \"From Paper Architecture to Joint Venture.\" Bauwelt 48, 28 Dec. (1992): 2733-2741. p. 2734. In German. New Sustainable Settlements . Vortrag / lecture 3 & 4.  \"Anna Sokolina: Paper Architects and Secret Architecture.\"  EA.UE (European Academy of the Urban Environment) Report.  Berlin: EA.UE, 1993. pp. 1-8. Flierl, Bruno, and Sokolina, Anna.  \"East Germany: High-rise Building Concept in Urban Design.\" Modern Foreign Architecture: Aesthetic Problems .  Moscow:  VNIITAG, 1989. 63-74. p. 73. In Russian . Flierl, Bruno. Nachdenken ueber mich und meine Zeit. Gebaute DDR . Berlin: Verlag fuer Bauwesen.1998.  p.208. In German. Niebergall, Ralf. Letter to A. Sokolina from 10.5.2000. p.1. Niebergall, Ralf. Ibid. p.3. www.ivorytowermedia.com"
+      "text": "Sokolina, Anna. Traditions in East German Architecture 1945-1990 .  Diss. Authoreferat. 18.00.01. Moscow: VNIITAG (All-Russian Academic Research Institute for the Theory of Architecture and Urban Design), 1991. p.17. In Russian . Paper Architecture New Projects from the Soviet Union .  Ed. Heinrich Klotz.  New York: Rizzoli, 1990. Baumbach, Peter, and Kaufman, Erich. Bauen im innerstdtishen Bereich. Beitrge zur Geschichte der Stadt Rostock .  ICOMOS '84.  Neue Folge. Heft 3. Rostock: Ostsee Druck, 1983. pp. 44-56. In German. Sokolina, Anna. \"The Long Crisis in Russian Architecture.\" Kommune, Forum for Policy, Economy , Culture, 10 (1992): 73-75. Frankfurt/Main. In German. Sokolina, Anna. \"From Paper Architecture to Joint Venture.\" Bauwelt 48, 28 Dec. (1992): 2733-2741. p. 2734. In German. New Sustainable Settlements . Vortrag / lecture 3 & 4.  \"Anna Sokolina: Paper Architects and Secret Architecture.\"  EA.UE (European Academy of the Urban Environment) Report.  Berlin: EA.UE, 1993. pp. 1-8. Flierl, Bruno, and Sokolina, Anna.  \"East Germany: High-rise Building Concept in Urban Design.\" Modern Foreign Architecture: Aesthetic Problems .  Moscow:  VNIITAG, 1989. 63-74. p. 73. In Russian . Flierl, Bruno. Nachdenken ueber mich und meine Zeit. Gebaute DDR . Berlin: Verlag fuer Bauwesen.1998.  p.208. In German. Niebergall, Ralf. Letter to A. Sokolina from 10.5.2000. p.1. Niebergall, Ralf. Ibid. p.3."
+    },
+    {
+      "tag": "div",
+      "text": "www.ivorytowermedia.com"
     },
     {
       "tag": "p",

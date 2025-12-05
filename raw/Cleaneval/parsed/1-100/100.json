@@ -16,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "received=\"Fri Sep 15 17:53:45 2000\" isoreceived=\"20000915175345\" sent=\"Fri, 15 Sep 2000 14:52:03 -0700 (PDT)\" isosent=\"20000915215203\" name=\"James P. Salsman\" email=\"bovik&#x40;&#0098;&#0101;&#0115;&#0116;&#0046;&#0099;&#0111;&#0109;\" subject=\"Re: Mobile Multimedia Messaging Service\" id=\"200009152152.OAA28455@shell9.ba.best.com\" charset=\"US-ASCII\" inreplyto=\"Mobile Multimedia Messaging Service\" expires=\"-1\" This message :\n[ Message body ]\n [ Respond ]\n [ More options ] Related messages : unext=\"start\" [ Next message ]\n[ Previous message ] unextthread=\"start\" [ Next in thread ]\n [ Replies ] ureply=\"end\" body=\"start\" From : James P. Salsman < bovik@best.com > Date : Fri, 15 Sep 2000 14:52:03 -0700 (PDT) Message-Id : <200009152152.OAA28455@shell9.ba.best.com> To : Jim.Mathis@Motorola.com , ned.freed@innosoft.com , paf@cisco.com Cc : discuss@apps.ietf.org , ietf-mmms@imc.org , ietf@ietf.org"
+      "text": "This message :\n[ Message body ]\n [ Respond ]\n [ More options ] Related messages : [ Next message ]\n[ Previous message ] [ Next in thread ]\n [ Replies ] From : James P. Salsman < bovik@best.com > Date : Fri, 15 Sep 2000 14:52:03 -0700 (PDT) Message-Id : <200009152152.OAA28455@shell9.ba.best.com> To : Jim.Mathis@Motorola.com , ned.freed@innosoft.com , paf@cisco.com Cc : discuss@apps.ietf.org , ietf-mmms@imc.org , ietf@ietf.org"
     },
     {
       "tag": "pre",
@@ -24,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "Received on Friday, 15 September 2000 17:53:45 GMT body=\"end\" This message : [ Message body ] lnext=\"start\" Next message : Patrik Fältström : \"Re: Mobile Multimedia Messaging Service\" Previous message : comunicado@elcultural.com: \"Noticias de actualidad\" lnextthread=\"start\" Next in thread : Patrik Fältström : \"Re: Mobile Multimedia Messaging Service\" Reply : Patrik Fältström : \"Re: Mobile Multimedia Messaging Service\" Reply : Leslie Daigle: \"Re: Mobile Multimedia Messaging Service\" Maybe reply : James P. Salsman: \"Re: Mobile Multimedia Messaging Service\" lreply=\"end\" Mail actions : [ respond to this message ] [ mail a new topic ] Contemporary messages sorted : [ by date ] [ by thread ] [ by subject ] [ by author ] Help : [ How to use the archives ] [ Search in the archives ] trailer=\"footer\""
+      "text": "Received on Friday, 15 September 2000 17:53:45 GMT This message : [ Message body ] Next message : Patrik Fältström : \"Re: Mobile Multimedia Messaging Service\" Previous message : comunicado@elcultural.com: \"Noticias de actualidad\" Next in thread : Patrik Fältström : \"Re: Mobile Multimedia Messaging Service\" Reply : Patrik Fältström : \"Re: Mobile Multimedia Messaging Service\" Reply : Leslie Daigle: \"Re: Mobile Multimedia Messaging Service\" Maybe reply : James P. Salsman: \"Re: Mobile Multimedia Messaging Service\" Mail actions : [ respond to this message ] [ mail a new topic ] Contemporary messages sorted : [ by date ] [ by thread ] [ by subject ] [ by author ] Help : [ How to use the archives ] [ Search in the archives ]"
     },
     {
       "tag": "p",

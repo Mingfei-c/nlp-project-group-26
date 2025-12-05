@@ -3,12 +3,16 @@
   "file_number": "754",
   "content_hash": "89cfb9a8574a695d22b645172dd12a8f668bf3833a11b6ec584b0916e1b8d6ca",
   "total_blocks": 252,
-  "retained_blocks": 5,
-  "ignored_blocks": 247,
+  "retained_blocks": 12,
+  "ignored_blocks": 240,
   "blocks": [
     {
       "tag": "div",
-      "text": "Start of Header End of Header HOME PRODUCTS ANNUITIES FORMS NEWSLETTER COMPANY Start of Breadcrumbs Home > Products > Newsletter \r\n      - Imploding UL's End of Breadcrumbs Start of Left Navigation TheUSBroker \r\n                  Home Annuity \r\n                    Rate & Commission Info Products MoneyGuard \r\n                  - UL & LTC Allianz \r\n                  Life LTCi Refund \r\n                  Term - ROP Life \r\n                  Settlements Americo Mort Protection Senior \r\n                  Protection Life Lincoln \r\n                  PRO Term Lincoln \r\n                  GTO Term : E-Ticket AIG \r\n                  Horizon Fixed Annuities Chase Insurance Life VA Recovery Program NEW Annuity \r\n                  Appointment Grid SPIAs - hot products! Aviva \r\n                  Life - Top Annuities Allianz Life Equity Indexed Annuities Allianz Life Annuities F&G Life Loyalty Rewards - 12% \r\n                  Bonus & 8% comp BonusDex \r\n                  Elite AIG \r\n                  UltraMYG Deferred Annuity USFMG \r\n                  Annuity Search Engine & Forms High Net Worth Clients Services Lead \r\n                  Generation Services Broker \r\n                  Product Kits Licensing \r\n                  & Applications Insurance \r\n                  Web Links Tax \r\n                  Advice: Bean Counter Newsletter Current \r\n                  Newsletter Archived \r\n                  Newsletters Company About \r\n                  Us Management \r\n                  Team Contact \r\n                  Info End of Left Navigation Start of Content Area Imploding UL's - A Big Problem and Big Opportunity for Whole Life By: Ted Kowal, jtkowal@ftlife.com Farmers and Traders Life Insurance Company of New York"
+      "text": "HOME PRODUCTS ANNUITIES FORMS NEWSLETTER COMPANY Home > Products > Newsletter \r\n      - Imploding UL's"
+    },
+    {
+      "tag": "div",
+      "text": "TheUSBroker \r\n                  Home Annuity \r\n                    Rate & Commission Info Products MoneyGuard \r\n                  - UL & LTC Allianz \r\n                  Life LTCi Refund \r\n                  Term - ROP Life \r\n                  Settlements Americo Mort Protection Senior \r\n                  Protection Life Lincoln \r\n                  PRO Term Lincoln \r\n                  GTO Term : E-Ticket AIG \r\n                  Horizon Fixed Annuities Chase Insurance Life VA Recovery Program NEW Annuity \r\n                  Appointment Grid SPIAs - hot products! Aviva \r\n                  Life - Top Annuities Allianz Life Equity Indexed Annuities Allianz Life Annuities F&G Life Loyalty Rewards - 12% \r\n                  Bonus & 8% comp BonusDex \r\n                  Elite AIG \r\n                  UltraMYG Deferred Annuity USFMG \r\n                  Annuity Search Engine & Forms High Net Worth Clients Services Lead \r\n                  Generation Services Broker \r\n                  Product Kits Licensing \r\n                  & Applications Insurance \r\n                  Web Links Tax \r\n                  Advice: Bean Counter Newsletter Current \r\n                  Newsletter Archived \r\n                  Newsletters Company About \r\n                  Us Management \r\n                  Team Contact \r\n                  Info Imploding UL's - A Big Problem and Big Opportunity for Whole Life By: Ted Kowal, jtkowal@ftlife.com Farmers and Traders Life Insurance Company of New York"
     },
     {
       "tag": "p",
@@ -24,7 +28,31 @@
     },
     {
       "tag": "div",
-      "text": "Start of Content Area Start of Right-Hand Column Email Newsletter Subscribe to TheUSBroker newsletter to be updated monthly on industry trends and new products. E-mail: Name: Privacy Policy Contracting TheUSBroker provides instant access and full-service capabilities for contracting and future policy utilization. To find out more information\r\n\t\t\t\t\t\t\t\t\tcomplete our online form and one of our agents will contact you. Archived Newsletters Long Term \r\n                  Care Annuity: A Marriage of Two Good Ideas Successful \r\n                  Marketing with MoneyGuard's Long Term Care Life MEC/Annuity \r\n                  Alternative - Expanded Inheritance MoneyGuard Alternative \r\n                  - Medically Underwritten Immediate Annuity Long-Term \r\n                  Care - The Brave New World Approaches MEC - \r\n                  A Wealth Transfer Product For The Senior Market Brave \r\n                  New World of Long Term Care Life Senior \r\n                  Settlements - Sell Your Life Insurance Term \r\n                  Wars - Agents Fight Back with Refund Term End of Right-Hand Column Start of Footer 2006  TheUSBroker, All Rights Reserved Contact Info | Privacy Policy End of Footer"
+      "text": "Email Newsletter"
+    },
+    {
+      "tag": "div",
+      "text": "Subscribe to TheUSBroker newsletter to be updated monthly on industry trends and new products. E-mail: Name: Privacy Policy"
+    },
+    {
+      "tag": "div",
+      "text": "Contracting"
+    },
+    {
+      "tag": "div",
+      "text": "TheUSBroker provides instant access and full-service capabilities for contracting and future policy utilization. To find out more information\r\n\t\t\t\t\t\t\t\t\tcomplete our online form and one of our agents will contact you."
+    },
+    {
+      "tag": "div",
+      "text": "Archived Newsletters"
+    },
+    {
+      "tag": "div",
+      "text": "Long Term \r\n                  Care Annuity: A Marriage of Two Good Ideas Successful \r\n                  Marketing with MoneyGuard's Long Term Care Life MEC/Annuity \r\n                  Alternative - Expanded Inheritance MoneyGuard Alternative \r\n                  - Medically Underwritten Immediate Annuity Long-Term \r\n                  Care - The Brave New World Approaches MEC - \r\n                  A Wealth Transfer Product For The Senior Market Brave \r\n                  New World of Long Term Care Life Senior \r\n                  Settlements - Sell Your Life Insurance Term \r\n                  Wars - Agents Fight Back with Refund Term"
+    },
+    {
+      "tag": "div",
+      "text": "2006  TheUSBroker, All Rights Reserved Contact Info | Privacy Policy"
     }
   ]
 }

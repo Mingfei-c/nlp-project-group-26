@@ -3,16 +3,12 @@
   "file_number": "321",
   "content_hash": "9fb6856c53943dbd115775de60afc65f5b2d7fc8df7b570e0e9a083205d6bc49",
   "total_blocks": 30,
-  "retained_blocks": 10,
-  "ignored_blocks": 20,
+  "retained_blocks": 8,
+  "ignored_blocks": 22,
   "blocks": [
     {
-      "tag": "div",
-      "text": "webbot bot=\"ImageMap\" rectangle=\"(293,1) (332,16) ../index.htm\" rectangle=\"(248,0) (285,16) ../search.htm\" rectangle=\"(188,0) (238,17) ../pastcon.htm\" rectangle=\"(98,1) (176,17) ../upcoming.htm\" rectangle=\"(24,1) (90,17) ../current.htm\" src=\"nav-m.gif\" alt=\"Current Issue | Upcoming Issue | Past Issue | Search | Home (1779 bytes)\" border=\"0\" startspan webbot bot=\"ImageMap\" endspan i-checksum=\"52187\""
-    },
-    {
       "tag": "p",
-      "text": "webbot bot=\"ImageMap\" rectangle=\" (133,4) (183, 19)  ftp://ftp.cdc.gov/pub/EID/vol4no3/ascii/hopk.txt\" rectangle=\" (133,3) (183, 20)  \" rectangle=\" (253,1) (298, 17)  ftp://ftp.cdc.gov/pub/EID/vol4no3/postscript/hopkins.ps\" rectangle=\" (188,3) (247, 19)  ftp://ftp.cdc.gov/pub/EID/vol4no3/adobe/hopkins.pdf\" rectangle=\" (252,4) (297, 18)  \" rectangle=\" (190,4) (245, 17)  \" rectangle=\" (5,4) (86, 18)  \" rectangle=\" (132,3) (184, 18)  \" src=\"../images/downloadb.gif\" alt=\"Download Article - | ASCII Text | PDF | Postscript (1016 bytes)\" border=\"0\" startspan webbot bot=\"ImageMap\" endspan i-checksum=\"13773\" Special Issue"
+      "text": "Special Issue"
     },
     {
       "tag": "h2",
@@ -41,10 +37,6 @@
     {
       "tag": "h5",
       "text": "Emerging Infectious Diseases National Center for Infectious Diseases Centers for Disease Control and Prevention Atlanta, GA"
-    },
-    {
-      "tag": "div",
-      "text": "#################################### BEGIN SiteCatalyst/Omniture code here Version 1.2: Date Created: 08/04/2004 /DO NOT REMOVE/ END SiteCatalyst/Omniture code here ####################################"
     }
   ]
 }

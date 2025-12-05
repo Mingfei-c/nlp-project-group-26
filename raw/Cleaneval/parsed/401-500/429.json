@@ -3,12 +3,12 @@
   "file_number": "429",
   "content_hash": "8dd5fb47e21af1694f21bb8a16f53a54908e5bccff2d6945ea874a003186c609",
   "total_blocks": 179,
-  "retained_blocks": 3,
-  "ignored_blocks": 176,
+  "retained_blocks": 4,
+  "ignored_blocks": 175,
   "blocks": [
     {
       "tag": "div",
-      "text": "^Cgoi[Jn ^Cgoi[I {fB[Jn Kenya;the \n          Sondu-Miriu Hydropower Project Letter from Argwings Odera to Prime Minister Mori \n          (January 08,2001)"
+      "text": "Kenya;the \n          Sondu-Miriu Hydropower Project Letter from Argwings Odera to Prime Minister Mori \n          (January 08,2001)"
     },
     {
       "tag": "p",
@@ -16,7 +16,11 @@
     },
     {
       "tag": "div",
-      "text": "@ @ Go \n                to the Index on this Project {fB[Ij[Jn FoEJ \n        HOME PROGRAM \n        HOME SITEMAP LINK EMAIL j[I"
+      "text": "@ @ Go \n                to the Index on this Project"
+    },
+    {
+      "tag": "div",
+      "text": "FoEJ \n        HOME PROGRAM \n        HOME SITEMAP LINK EMAIL"
     }
   ]
 }

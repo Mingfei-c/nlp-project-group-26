@@ -3,12 +3,12 @@
   "file_number": "490",
   "content_hash": "4a81d8c64f9878e6093038f19022745dcf642384690c889be9841f2ef77b731a",
   "total_blocks": 34,
-  "retained_blocks": 7,
-  "ignored_blocks": 27,
+  "retained_blocks": 6,
+  "ignored_blocks": 28,
   "blocks": [
     {
       "tag": "div",
-      "text": "xml version=\"1.0\" encoding=\"iso-8859-1\"? html\n     PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n     \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" ULCC has set-up this content mangement system using the TYPO3 development environment ULCC supports Open Source Software\n\n\tThis website is brought to you by TYPO3 - get.content.right\n\tTYPO3 is a free open source Content Management Framework created by Kasper Skaarhoj and licensed under GNU/GPL.\n\tTYPO3 is copyright 1998-2005 of Kasper Skaarhoj. Extensions are copyright of their respective owners.\n\tInformation and contribution at http://www.typo3.com"
+      "text": "xml version=\"1.0\" encoding=\"iso-8859-1\"? html\n     PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n     \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
     },
     {
       "tag": "p",
@@ -16,15 +16,11 @@
     },
     {
       "tag": "div",
-      "text": "hide next line to remove banner ad and rename style above - Steve You are here: Home » Who is this site for? Search our Housing Database Links to registered letting agents Find a Flatmate Are you a landlord or a letting agent? Housing advice Property Management Unit Short term housing Area Guide Housing Links The London Student Housing Guide ###search_1### begin ###search_1### end CONTENT ELEMENT, uid:604/text [begin] Header: [begin]"
+      "text": "You are here: Home » Who is this site for? Search our Housing Database Links to registered letting agents Find a Flatmate Are you a landlord or a letting agent? Housing advice Property Management Unit Short term housing Area Guide Housing Links The London Student Housing Guide"
     },
     {
       "tag": "h1",
       "text": "Page not found"
-    },
-    {
-      "tag": "div",
-      "text": "Header: [end] Text: [begin]"
     },
     {
       "tag": "p",
@@ -32,7 +28,7 @@
     },
     {
       "tag": "div",
-      "text": "Text: [end] CONTENT ELEMENT, uid:604/text [end] © University of London Housing Services, University of London Union, \r\n    Malet Street, London, WC1E 7HY Tel: 020 7862 8880 e-mail: housing@lon.ac.uk Last Updated: 29/03/2006"
+      "text": "© University of London Housing Services, University of London Union, \r\n    Malet Street, London, WC1E 7HY Tel: 020 7862 8880 e-mail: housing@lon.ac.uk Last Updated: 29/03/2006"
     }
   ]
 }

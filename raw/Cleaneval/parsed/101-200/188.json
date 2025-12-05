@@ -3,20 +3,28 @@
   "file_number": "188",
   "content_hash": "2327b180d89d7f0555b45e0d690144e0a631c273bf2f33d5e3b11997618de667",
   "total_blocks": 124,
-  "retained_blocks": 6,
-  "ignored_blocks": 118,
+  "retained_blocks": 10,
+  "ignored_blocks": 114,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" for survey top banner image and search areas, no top navigation top banner image and search areas, no top navigation 8/2/2006 search form BEGIN 8/2/2006 search form END Advanced Search/Archive php include '/iip/content/usia/usia/web/docs/usinfo/header.inc'; ? top nav header with swapouts Español | Français | Pycckuú | | | section header and date main part of products document pages"
+      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Advanced Search/Archive"
+    },
+    {
+      "tag": "div",
+      "text": "php include '/iip/content/usia/usia/web/docs/usinfo/header.inc'; ?"
+    },
+    {
+      "tag": "div",
+      "text": "Español | Français | Pycckuú | | |"
     },
     {
       "tag": "p",
       "text": "You Are In: USINFO > Products > Washfile"
-    },
-    {
-      "tag": "div",
-      "text": "startprint"
     },
     {
       "tag": "h3",
@@ -28,7 +36,15 @@
     },
     {
       "tag": "div",
-      "text": "Created:15 Jun 2005      Updated: 15 Jun 2005 stopprint Page Tools: Print this article E-mail this article footer footer global_ft USINFO delivers information about current U.S. foreign policy and about American life and culture. \nThis site is produced and maintained by the U.S. Department of State's Bureau of International \nInformation Programs. Links to other internet sites should not be construed as an endorsement of the views contained \ntherein. Home | About USINFO | Site Index | Contact Us | Privacy Topics | Regions | Resource Tools | Products end global ft tag php include '/iip/content/usia/usia/web/docs/usinfo/footer.inc'; ?"
+      "text": "Created:15 Jun 2005      Updated: 15 Jun 2005 Page Tools: Print this article E-mail this article"
+    },
+    {
+      "tag": "div",
+      "text": "USINFO delivers information about current U.S. foreign policy and about American life and culture. \nThis site is produced and maintained by the U.S. Department of State's Bureau of International \nInformation Programs. Links to other internet sites should not be construed as an endorsement of the views contained \ntherein. Home | About USINFO | Site Index | Contact Us | Privacy Topics | Regions | Resource Tools | Products"
+    },
+    {
+      "tag": "div",
+      "text": "php include '/iip/content/usia/usia/web/docs/usinfo/footer.inc'; ?"
     }
   ]
 }

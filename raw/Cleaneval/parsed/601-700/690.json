@@ -3,12 +3,48 @@
   "file_number": "690",
   "content_hash": "57a86d954ef17217c571652581b56d7f0567311f859ff73c4aec6339f3ceab3b",
   "total_blocks": 291,
-  "retained_blocks": 1,
-  "ignored_blocks": 290,
+  "retained_blocks": 10,
+  "ignored_blocks": 281,
   "blocks": [
     {
       "tag": "div",
-      "text": "Parodia v6 license: ITPEOPLE-2963-01 Parodia 1999-2005 Cactusoft Ltd. - www.parodia.net HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" Home Job \r\n                  Search Contact \r\n                  Us 8361 \r\n                  Sales People Registered Search \r\n1420\r\nsales jobs in... IT/Telecoms Bank/Insurance/Finance B2B FMCG Food and Non Food Medical/Pharma/Health Construction/Ind/Manuf Media/Design/Print Hotels/Travel/Leisure Auto/Electrical/Eng Security/Property Recruitment Retail Call centre Sales Admin Other Location: (Hold Ctrl for multiple) Dublin Cork Limerick Galway East Ireland South Ireland West Ireland North Ireland Midlands Nationwide United Kingdom International Keywords: (e.g. \r\n                      Sales Manager) Principle Job Responsibilities\r\n- Create new busin >> Find Out More Search for Sales Jobs in Dublin, Cork \r\n                  , Galway all levels in Ireland. Your sales recruitment site for all jobs advertised by sales agencies and companies in Ireland. Media/Design/Print B2B Banking/Insurance/Finance FMCG Security/Property Recruitment Construction/Ind/Manuf IT/Telecoms Hotels/Travel/Leisure Auto/Electrical/Eng Medical/Pharma/Bio/Health Terms \r\n            & Conditions Privacy FAQ Pricing Site \r\n            Map Links Contact \r\n            Us Copyright © 2006 SalesJobs.ie. Powered \r\n            by Parodia. Designed by Onus \r\n            Ltd."
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Home Job \r\n                  Search Contact \r\n                  Us 8361 \r\n                  Sales People Registered"
+    },
+    {
+      "tag": "div",
+      "text": "Search \r\n1420\r\nsales jobs in..."
+    },
+    {
+      "tag": "div",
+      "text": "IT/Telecoms Bank/Insurance/Finance B2B FMCG Food and Non Food Medical/Pharma/Health Construction/Ind/Manuf Media/Design/Print Hotels/Travel/Leisure Auto/Electrical/Eng Security/Property Recruitment Retail Call centre Sales Admin Other"
+    },
+    {
+      "tag": "div",
+      "text": "Location: (Hold Ctrl for multiple)"
+    },
+    {
+      "tag": "div",
+      "text": "Dublin Cork Limerick Galway East Ireland South Ireland West Ireland North Ireland Midlands Nationwide United Kingdom International"
+    },
+    {
+      "tag": "div",
+      "text": "Keywords: (e.g. \r\n                      Sales Manager)"
+    },
+    {
+      "tag": "div",
+      "text": "Principle Job Responsibilities\r\n- Create new busin >> Find Out More Search for Sales Jobs in Dublin, Cork \r\n                  , Galway all levels in Ireland. Your sales recruitment site for all jobs advertised by sales agencies and companies in Ireland."
+    },
+    {
+      "tag": "div",
+      "text": "Media/Design/Print B2B Banking/Insurance/Finance FMCG Security/Property Recruitment Construction/Ind/Manuf IT/Telecoms Hotels/Travel/Leisure Auto/Electrical/Eng Medical/Pharma/Bio/Health"
+    },
+    {
+      "tag": "div",
+      "text": "Terms \r\n            & Conditions Privacy FAQ Pricing Site \r\n            Map Links Contact \r\n            Us Copyright © 2006 SalesJobs.ie. Powered \r\n            by Parodia. Designed by Onus \r\n            Ltd."
     }
   ]
 }

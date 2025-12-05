@@ -3,8 +3,8 @@
   "file_number": "379",
   "content_hash": "aa62a56beab5ea935ef53ed63ee218898475d2286bdb9431afa532482691b6cf",
   "total_blocks": 105,
-  "retained_blocks": 38,
-  "ignored_blocks": 67,
+  "retained_blocks": 40,
+  "ignored_blocks": 65,
   "blocks": [
     {
       "tag": "div",
@@ -16,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "Sitemap | Contact Us <label for=\"searchGadget\" class=\"hiddenStructure\">Search</label> <input id=\"searchGadget\" name=\"SearchableText\"\n      type=\"text\" size=\"25\" value=\"\" alt=\"Search\"\n      title=\"Search\" accesskey=\"accesskeys-search\"\n      class=\"visibility:visible\" value=\"search\"\n      tabindex=\"30001\" /> <input class=\"searchButton\" type=\"submit\"\n      value=\"Search\" accesskey=\"accesskeys-search\"\n      tabindex=\"30002\" /> You are here: Home » States » Colorado » Top 10 Myths About Common Law Marriage The wrapper table. It contains the three columns. There's a table-less\n           alternative in the plone_tableless skin layer that you can use if you\n           prefer layouts that don't use tables. start of the left (by default at least) column"
+      "text": "Sitemap | Contact Us You are here: Home » States » Colorado » Top 10 Myths About Common Law Marriage"
     },
     {
       "tag": "h5",
@@ -24,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "<a href=\"http://www1.divorcenet.com/bbs6/\"><img src=\"http://www.divorcenet.com/site_icon.gif\"> Community Forums</a>\n                <br/> Colorado Community Forum DivorceNet States Colorado"
+      "text": "Colorado Community Forum DivorceNet States Colorado"
     },
     {
       "tag": "h5",
@@ -40,7 +40,7 @@
     },
     {
       "tag": "div",
-      "text": "Customized \n                Online Divorce Forms: Fast, Affordable and Easy end of the left (by default at least) column start of main content block"
+      "text": "Customized \n                Online Divorce Forms: Fast, Affordable and Easy"
     },
     {
       "tag": "h1",
@@ -132,7 +132,11 @@
     },
     {
       "tag": "div",
-      "text": "If you are an authenticated member, you can view the creation date of this article Last modified:  March 17, 2005 - 01:39 PM View author's page Send this article Print this article <p tal:define=\"staffname python: 'DivorceNet Staff';\n\t\t       author_is_staff here/authorIsStaff;\n                       author here/getAuthor;\">\n<b tal:condition=\"not:author_is_staff\">\n<i>Visit This Author's Page:</i><br>\n<img src=\"link_icon.gif\" alt=\"Divorcenet.com Member\"> <a href=\"PLACEHOLDER\" style=\"text-decoration:underline\" tal:define=\"\n                          username author/Title;\n                          url string:${here/portal_url}/Members/${author/getId}\"\n           tal:attributes=\"href url\" \n           tal:content=\"username\" />\n</b></p> <p>\n<b><i>Divorcenet Tools:</i></b><br>\n> <a href=\"http://www1.divorcenet.com:8000/ss?click&1&3e2d9fd4\" target=\"_blank\">\nCustomized online divorce documents: fast, affordable and easy</a><br>\n> <a href=\"http://divorcenet.uslegalforms.com/\">Over 36,000 online legal forms</a><br>\n> <a href=\"http://www.divorcenet.com/states/new_jersey/planning/books/predivorcelist\">\nFind hidden income: Pre-Divorce Document Checklist</a><br>\n> <a href=\"http://www.divorcenet.com/states/new_jersey/planning/books/divfinancialsheet\">\nGet organized: Divorce Financial Worksheet</a>\n</p> <tal:allowed condition=\"python:isDiscussionAllowed and isViewTemplate\"> end of main content block start of right (by default at least) column"
+      "text": "Last modified:  March 17, 2005 - 01:39 PM"
+    },
+    {
+      "tag": "div",
+      "text": "View author's page Send this article Print this article"
     },
     {
       "tag": "h5",
@@ -156,7 +160,11 @@
     },
     {
       "tag": "div",
-      "text": "Find Hidden Income: Pre-Divorce Document Checklist Get Organized: Divorce \n        Financial Worksheet DNA Paternity Testing end of the right (by default at least) column end column wrapper advertise with us | about us | disclaimer | privacy statement | © Lawtek 1995- 2006 | powered by plone START OF SmartSource Data Collector TAG © 1999-2004 NetIQ Corporation. All rights reserved. V7.0 $DateTime: 2003/10/28 16:26:23 $ END OF SmartSource Data Collector  TAG Google Analytics END OF GOOGLE ANALYTICS"
+      "text": "Find Hidden Income: Pre-Divorce Document Checklist Get Organized: Divorce \n        Financial Worksheet DNA Paternity Testing"
+    },
+    {
+      "tag": "div",
+      "text": "advertise with us | about us | disclaimer | privacy statement | © Lawtek 1995- 2006 | powered by plone"
     }
   ]
 }

@@ -3,24 +3,12 @@
   "file_number": "393",
   "content_hash": "3f8d38484cd88b8440d7bda1790649f5c344896854b3853dfd16a312413f8936",
   "total_blocks": 64,
-  "retained_blocks": 9,
-  "ignored_blocks": 55,
+  "retained_blocks": 5,
+  "ignored_blocks": 59,
   "blocks": [
     {
-      "tag": "div",
-      "text": "msnavigation"
-    },
-    {
       "tag": "p",
-      "text": "[ Start ] [ Omhoog ] [ Water Management System ] [ Macro Design ] [ Micro Design ] [ Water Control ] [ Model Areas ] [ Institutions ] [ Agriculture ] [ Information system ]"
-    },
-    {
-      "tag": "div",
-      "text": "msnavigation msnavigation msnavigation"
-    },
-    {
-      "tag": "p",
-      "text": "Water Control Operation\r\nmanuals for the control structures and the recommended water management are\r\navailable with the Ministry of Public Works. Areas are grouped in Water Management Zones.\r\nFor each Water Management Zone in a Scheme there is a detailed description for operation\r\ndepending on the crops grown, their growth stage and a number of physical \r\ncharacteristics. Factors having an\r\ninfluence on the soil and water management:"
+      "text": "[ Start ] [ Omhoog ] [ Water Management System ] [ Macro Design ] [ Micro Design ] [ Water Control ] [ Model Areas ] [ Institutions ] [ Agriculture ] [ Information system ] Water Control Operation\r\nmanuals for the control structures and the recommended water management are\r\navailable with the Ministry of Public Works. Areas are grouped in Water Management Zones.\r\nFor each Water Management Zone in a Scheme there is a detailed description for operation\r\ndepending on the crops grown, their growth stage and a number of physical \r\ncharacteristics. Factors having an\r\ninfluence on the soil and water management:"
     },
     {
       "tag": "div",
@@ -37,10 +25,6 @@
     {
       "tag": "p",
       "text": "Gate operation : Objectives for soil/water management are fulfilled by\r\nthe operation of the control gates . Agate\r\nusually consist of a sliding gate and stoplogs. Four types of operation are defined for\r\nthe Tidal Swamp Schemes: Retention, Controlled Drainage, Supply and Maximum Drainage. Of\r\nthese operations the Controlled Drainage is the most important operation which will be\r\nfunctioning for most of the time in Indonesia. The operation of the gates has been practiced\r\nand monitored in the Model areas. It proves that the most difficult operation is water\r\nsupply, because it requires frequent visits to the gates and careful watch of the tides\r\nfor a good result. For that reason water supply operation should be preferable carried out\r\nnear the home-stead's. (SPD secondary canal). Controlled drainage is the most easy\r\noperation and should be preferable carried out on the other side (SDU secondary canal).\r\nSee Design Macro . Adescription of the operation guidelines is\r\ngiven in WebPage Model Area . Back to Top See also Table of Contents."
-    },
-    {
-      "tag": "div",
-      "text": "msnavigation msnavigation"
     }
   ]
 }

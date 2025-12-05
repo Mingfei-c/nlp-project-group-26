@@ -3,12 +3,16 @@
   "file_number": "748",
   "content_hash": "db6f357c5f033153e0318624030da2921c2a5f1a543f41633b49afca75a44b83",
   "total_blocks": 116,
-  "retained_blocks": 9,
-  "ignored_blocks": 107,
+  "retained_blocks": 11,
+  "ignored_blocks": 105,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n\t\t\t\t\t\"http://www.w3.org/TR/html4/loose.dtd\" Donate Now |   Contact |   Subscribe"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n\t\t\t\t\t\"http://www.w3.org/TR/html4/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "Donate Now |   Contact |   Subscribe"
     },
     {
       "tag": "h2",
@@ -24,7 +28,11 @@
     },
     {
       "tag": "div",
-      "text": "Princeton University img src=\"/new/media/images/foundation.gif\" alt=\"\" width=\"167\" height=\"34\" border=\"0\" /><ul>\n\t\t\t\t<li><a href=\"/index.php/article/4851.html?PHPSESSID=23a1aef43957db3b4fd2772055933ebe\">About FIRE</a></li>\n\t\t\t\t<li><a href=\"/index.php/staff/?PHPSESSID=23a1aef43957db3b4fd2772055933ebe\">FIRE's Senior Staff</a></li>\n\t\t\t\t<li><a href=\"/index.php/board/?PHPSESSID=23a1aef43957db3b4fd2772055933ebe\">Board of Directors</a></li>\n\t\t\t\t<li><a href=\"/index.php/advisors/?PHPSESSID=23a1aef43957db3b4fd2772055933ebe\">Board of Advisors</a></li>\t\t\t\t\n\t\t\t\t<li><a href=\"/index.php/news/?PHPSESSID=23a1aef43957db3b4fd2772055933ebe\">In The News</a></li>\n\t\t\t\t<li><a href=\"/index.php/article/4859.html?PHPSESSID=23a1aef43957db3b4fd2772055933ebe\">Contact Us</a></li>\n\t\t\t\t<li><a href=\"/index.php/article/4862.html?PHPSESSID=23a1aef43957db3b4fd2772055933ebe\">Support Us</a></li>\n\t\t\t</ul img src=\"/new/media/images/cases.gif\" alt=\"\" width=\"167\" height=\"34\" border=\"0\" /><ul>\n\t\t\t\t<li><a href=\"/index.php/case/?PHPSESSID=23a1aef43957db3b4fd2772055933ebe\">Case Archive</a></li>\n\t\t\t\t<li><a href=\"/case.submit.php?PHPSESSID=23a1aef43957db3b4fd2772055933ebe\">Submit a Case</a></li>\n\t\t\t</ul Happy Holidays from FIRE Bollinger Releases Statement on Octobers Minutemen Protest Bellevue Community College Professor Still Waiting for Justice Summer 2007 Internships"
+      "text": "Princeton University"
+    },
+    {
+      "tag": "div",
+      "text": "Happy Holidays from FIRE Bollinger Releases Statement on Octobers Minutemen Protest Bellevue Community College Professor Still Waiting for Justice Summer 2007 Internships"
     },
     {
       "tag": "h1",

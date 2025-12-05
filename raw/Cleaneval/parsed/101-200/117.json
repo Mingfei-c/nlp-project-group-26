@@ -3,12 +3,16 @@
   "file_number": "117",
   "content_hash": "80c80768247c017e58281cb7355c3ef7f5e5e589688bc2b4e0156b94eec8fa7f",
   "total_blocks": 63,
-  "retained_blocks": 2,
-  "ignored_blocks": 61,
+  "retained_blocks": 3,
+  "ignored_blocks": 60,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//IETF//DTD HTML//EN\" Stanford\n        Report, January 31, 2001"
+      "text": "HTML PUBLIC \"-//IETF//DTD HTML//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Stanford\n        Report, January 31, 2001"
     },
     {
       "tag": "p",

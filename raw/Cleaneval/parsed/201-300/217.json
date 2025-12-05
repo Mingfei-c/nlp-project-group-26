@@ -3,8 +3,8 @@
   "file_number": "217",
   "content_hash": "18d253f68c5aac0b40bd8b8e36f37a53f85333ebbe2bb0cf75410664ac3ac974",
   "total_blocks": 104,
-  "retained_blocks": 21,
-  "ignored_blocks": 83,
+  "retained_blocks": 22,
+  "ignored_blocks": 82,
   "blocks": [
     {
       "tag": "p",
@@ -24,7 +24,11 @@
     },
     {
       "tag": "div",
-      "text": "As the magnitude of war increased, the need for political control over\r\n    the initiation, the extent, and the cessation of hostilities also increased. Today . . . with truly cosmic forces harnessed to the machines of war, we have a\r\n  situation for the first time in history where the opening event by which a great nation\r\n  enters a war--an event which must reflect the preparations it has made or failed to make\r\n  beforehand--can decide irretrievably whether or not it will continue to exist. Obviously,\r\n  therefore, we cannot go on blithely letting one group of specialists decide how to wage\r\n  war and another decide when and to what purpose, with only the most casual and spasmodic\r\n  communication between them. 2"
+      "text": "As the magnitude of war increased, the need for political control over\r\n    the initiation, the extent, and the cessation of hostilities also increased."
+    },
+    {
+      "tag": "div",
+      "text": "Today . . . with truly cosmic forces harnessed to the machines of war, we have a\r\n  situation for the first time in history where the opening event by which a great nation\r\n  enters a war--an event which must reflect the preparations it has made or failed to make\r\n  beforehand--can decide irretrievably whether or not it will continue to exist. Obviously,\r\n  therefore, we cannot go on blithely letting one group of specialists decide how to wage\r\n  war and another decide when and to what purpose, with only the most casual and spasmodic\r\n  communication between them. 2"
     },
     {
       "tag": "blockquote",

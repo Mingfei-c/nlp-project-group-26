@@ -3,20 +3,16 @@
   "file_number": "348",
   "content_hash": "6401cb697ae9bb2c31ca7714a572a8c6e5691829f1e747908b6c37b18209f1b7",
   "total_blocks": 27,
-  "retained_blocks": 14,
-  "ignored_blocks": 13,
+  "retained_blocks": 12,
+  "ignored_blocks": 15,
   "blocks": [
     {
       "tag": "div",
-      "text": "skip to: Main menu | Content | footer (site information) Legal Note Legal Notice :The information in this website is subject to a disclaimer and a copyright notice. Banner starts here End banner Path starts here"
+      "text": "skip to: Main menu | Content | footer (site information) Legal Notice :The information in this website is subject to a disclaimer and a copyright notice."
     },
     {
       "tag": "p",
       "text": "You are here: Homepage | MSCOOP Home | How to apply?"
-    },
-    {
-      "tag": "div",
-      "text": "CONTENT STARTS HERE"
     },
     {
       "tag": "h1",
@@ -24,7 +20,7 @@
     },
     {
       "tag": "div",
-      "text": "MSCOOP Home How to apply Call progress and status of proposals How to manage your project FAQs end globalLinks"
+      "text": "MSCOOP Home How to apply Call progress and status of proposals How to manage your project FAQs"
     },
     {
       "tag": "h1",
@@ -57,10 +53,6 @@
     {
       "tag": "p",
       "text": "All legal entities, identified either as natural or legal persons considered under national, Community of international law, having legal personality and being entitled to have rights and obligations of any kind in its own name. This might include researchers, research organisations, academia, businesses, public authorities, schools, science museums, parents and teachers associations, private organisations, foundations, and the media. More information describing this action and the specific eligibility criteria \r\n      in detail is available from the Marie \r\n      Curie site on the Europa server and the CORDIS \r\n      call page"
-    },
-    {
-      "tag": "div",
-      "text": "end middlecontent CONTENT ENDS HERE"
     }
   ]
 }

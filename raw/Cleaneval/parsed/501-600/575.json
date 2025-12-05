@@ -3,12 +3,12 @@
   "file_number": "575",
   "content_hash": "6eac95f4360b08ab974c68a898ebadd20ec1e4b4e6b1c079aec5478932e98938",
   "total_blocks": 67,
-  "retained_blocks": 9,
-  "ignored_blocks": 58,
+  "retained_blocks": 12,
+  "ignored_blocks": 55,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" Site created using Evolve Merchant Software Manufactured by Lynx Internet Solutions www.lynxinternet.com start show-hide layers script end show-hide layers script start of netscape resize fixer end of netscape resize fixer start date creator end date creator start jimi styles end jimi styles ------------------THE HEADER----------------------------------------------"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
     },
     {
       "tag": "p",
@@ -16,7 +16,11 @@
     },
     {
       "tag": "div",
-      "text": "Select currency BEFORE shopping (0) items ------------------MAIN TABLE BENEATH THE HEADER ------------------ ------------------NOW THE MAIN CONTENTS---------------------------- ----------------SITEPAGE-----------------"
+      "text": "Select currency BEFORE shopping"
+    },
+    {
+      "tag": "div",
+      "text": "(0) items"
     },
     {
       "tag": "p",
@@ -40,7 +44,15 @@
     },
     {
       "tag": "div",
-      "text": "------------------SIDEBAR - Common to all pages------------ -----------MAIN FOOTER-------------------- Useful links | FAQ | Glossary | Site Map | Help | Register/Login | Contact Us | Privacy Policy | Terms 2004 MindWeavers Limited. All Rights Reserved. Web MindWeavers SiteSearch Google E-commerce powered by the Evolve shopping cart"
+      "text": "Useful links | FAQ | Glossary | Site Map | Help | Register/Login | Contact Us | Privacy Policy | Terms 2004 MindWeavers Limited. All Rights Reserved."
+    },
+    {
+      "tag": "div",
+      "text": "Web MindWeavers"
+    },
+    {
+      "tag": "div",
+      "text": "E-commerce powered by the Evolve shopping cart"
     }
   ]
 }

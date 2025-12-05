@@ -3,8 +3,8 @@
   "file_number": "182",
   "content_hash": "da8bbbd722b8efb4ad62564c91a188c5d9b64760319550bfccf6606091e2396a",
   "total_blocks": 505,
-  "retained_blocks": 16,
-  "ignored_blocks": 489,
+  "retained_blocks": 19,
+  "ignored_blocks": 486,
   "blocks": [
     {
       "tag": "h1",
@@ -12,7 +12,15 @@
     },
     {
       "tag": "div",
-      "text": "Enter Keywords in field and click Go International Travel Home Passports Home Visas Home Children & Family Home News and Updates Laws, Regulation & Public Policy About The Bureau of Consular Affairs External URLs International Travel Home Traveling to the Caribbean, Bermuda, Panama, Mexico, or Canada? International Travel Information Travel Warnings Consular Information Sheets Public Announcements Avian Flu Fact Sheet Tips for Traveling Abroad Registration with Embassies Plan Your Trip Regional Information Safety Issues Health Issues Emergencies and Crises Family and Children's Issues U.S. Embassies and Consulates Travel Brochures Document Requirements Living Abroad Tips Residing Abroad Drugs Abroad Studying Abroad Teaching Abroad Benefits for Students & Teachers Additional Resources About Overseas Citizens’ Services Who We Are How to Contact Us Home > International Travel Home > Tips for Traveling Abroad inner asb outer print email"
+      "text": "Enter Keywords in field and click Go International Travel Home Passports Home Visas Home Children & Family Home News and Updates Laws, Regulation & Public Policy About The Bureau of Consular Affairs External URLs"
+    },
+    {
+      "tag": "div",
+      "text": "International Travel Home Traveling to the Caribbean, Bermuda, Panama, Mexico, or Canada? International Travel Information Travel Warnings Consular Information Sheets Public Announcements Avian Flu Fact Sheet Tips for Traveling Abroad Registration with Embassies Plan Your Trip Regional Information Safety Issues Health Issues Emergencies and Crises Family and Children's Issues U.S. Embassies and Consulates Travel Brochures Document Requirements Living Abroad Tips Residing Abroad Drugs Abroad Studying Abroad Teaching Abroad Benefits for Students & Teachers Additional Resources About Overseas Citizens’ Services Who We Are How to Contact Us"
+    },
+    {
+      "tag": "div",
+      "text": "Home > International Travel Home > Tips for Traveling Abroad print email"
     },
     {
       "tag": "h3",
@@ -20,7 +28,11 @@
     },
     {
       "tag": "p",
-      "text": "March 2006 An increasing number of countries require that foreigners be tested for Human Immunodeficiency Virus (HIV) prior to entry. \n                                 It is usually required as part of a medical exam for long-term visitors, i.e. students and workers.  The following list of\n                                 country requirements is based on information available as of March 2006 and is subject to change.  Before traveling abroad,\n                                 check with the embassy of the country to be visited to learn about entry requirements and specifically whether AIDS testing\n                                 is a requirement.  If the list indicates U.S. test results are acceptable and the word “Yes” appears with an asterisk beside\n                                 it  (Yes*) in a particular country, prospective travelers should inquire at the embassy of that country for details (e.g.\n                                 which laboratories in the United States may perform tests and where to have results certified and authenticated) before departing\n                                 the United States. Country Test Required For U.S Test Accepted?"
+      "text": "March 2006 An increasing number of countries require that foreigners be tested for Human Immunodeficiency Virus (HIV) prior to entry. \n                                 It is usually required as part of a medical exam for long-term visitors, i.e. students and workers.  The following list of\n                                 country requirements is based on information available as of March 2006 and is subject to change.  Before traveling abroad,\n                                 check with the embassy of the country to be visited to learn about entry requirements and specifically whether AIDS testing\n                                 is a requirement.  If the list indicates U.S. test results are acceptable and the word “Yes” appears with an asterisk beside\n                                 it  (Yes*) in a particular country, prospective travelers should inquire at the embassy of that country for details (e.g.\n                                 which laboratories in the United States may perform tests and where to have results certified and authenticated) before departing\n                                 the United States."
+    },
+    {
+      "tag": "p",
+      "text": "Country Test Required For U.S Test Accepted?"
     },
     {
       "tag": "div",
@@ -56,7 +68,7 @@
     },
     {
       "tag": "div",
-      "text": "* Atest performed in the U.S. may be accepted under certain conditions.  Check with the destination country’s embassy or\n                              representative office in Washington, D.C. for detailed requirements. DEFAULT SLOT TEMPLATE"
+      "text": "* Atest performed in the U.S. may be accepted under certain conditions.  Check with the destination country’s embassy or\n                              representative office in Washington, D.C. for detailed requirements."
     },
     {
       "tag": "h4",

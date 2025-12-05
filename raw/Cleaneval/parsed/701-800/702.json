@@ -3,12 +3,16 @@
   "file_number": "702",
   "content_hash": "8fb44ce9e2ff74d059ffcaa94b77e42ba9cecab22ece78691442d0fc509a6b75",
   "total_blocks": 168,
-  "retained_blocks": 8,
-  "ignored_blocks": 160,
+  "retained_blocks": 9,
+  "ignored_blocks": 159,
   "blocks": [
     {
       "tag": "div",
-      "text": "Home Index By\nSubject By\nYear Biographies The\nGift Shop San Francisco built, \nand continues to build, a high pressure water system to \nprotect the city from fires following earthquake."
+      "text": "Home Index By\nSubject By\nYear Biographies The\nGift Shop"
+    },
+    {
+      "tag": "div",
+      "text": "San Francisco built, \nand continues to build, a high pressure water system to \nprotect the city from fires following earthquake."
     },
     {
       "tag": "p",

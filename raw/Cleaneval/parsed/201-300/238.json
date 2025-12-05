@@ -3,12 +3,40 @@
   "file_number": "238",
   "content_hash": "7fe23036d98280f9e1634489673a664ed4a893ceec73a98dc3a49a473097aa32",
   "total_blocks": 202,
-  "retained_blocks": 5,
-  "ignored_blocks": 197,
+  "retained_blocks": 12,
+  "ignored_blocks": 190,
   "blocks": [
     {
       "tag": "div",
-      "text": "MAIN CONTAINER TABLE begin TOP NAV begin Home About ACA Become A Member Subscribe To ACT Employment (6) Internships Contact Us TOP NAV end ACA LOGOS/IMAGES begin ACA LOGOS/IMAGES end MIDDLE begin SEARCH begin <input type=\"hidden\" name=\"index\" value=\"101347\"> http://www.picosearch.com/cgi-bin/ts.pl Search <FORM method=GET action=http://www.google.com/custom>\r\n\t\t\t<INPUT TYPE=text name=q size=31 maxlength=255 value=\"\">\r\n\t\t\t<INPUT type=submit name=sa VALUE=\"Google Search\">\r\n\t\t\t<INPUT type=hidden name=cof VALUE=\"S:http://www.armscontrol.org;AH:center;L:http://www.armscontrol.org/images/hd01.gif;AWFID:417b00634810283b;\">\r\n\t\t\t<input type=hidden name=domains value=\"armscontrol.org\"><br /><input type=radio name=sitesearch value=\"\"> %(domain)s <input type=radio name=sitesearch value=\"armscontrol.org\" checked> %(domain)s\r\n\t\t\t</form> SEARCH end SIDE NAV begin Arms Control Today Current Issue Archived Issues Subscribe Submissions & Letters Advertising Permission/Reprint Requests Subject Resources Country Resources Fact Sheets Treaties ACA Events Press Room Interviews Projects \r\n              & Reports BEGIN ACPRINT SECTION Arms Control in Print END ACPRINT SECTION Links SIDE NAV end JOIN LIST begin Register for Arms Control Association e-mail \r\n        updates JOIN LIST end CONTENT begin Arms Control Today December 2003 Printer Friendly"
+      "text": "Home About ACA Become A Member Subscribe To ACT Employment (6) Internships Contact Us"
+    },
+    {
+      "tag": "div",
+      "text": "Search"
+    },
+    {
+      "tag": "div",
+      "text": "Arms Control Today"
+    },
+    {
+      "tag": "div",
+      "text": "Current Issue Archived Issues Subscribe Submissions & Letters Advertising Permission/Reprint Requests"
+    },
+    {
+      "tag": "div",
+      "text": "Subject Resources Country Resources Fact Sheets Treaties ACA Events Press Room Interviews Projects \r\n              & Reports Arms Control in Print Links"
+    },
+    {
+      "tag": "div",
+      "text": "Register for Arms Control Association e-mail \r\n        updates"
+    },
+    {
+      "tag": "div",
+      "text": "Arms Control Today December 2003"
+    },
+    {
+      "tag": "div",
+      "text": "Printer Friendly"
     },
     {
       "tag": "h1",
@@ -24,7 +52,7 @@
     },
     {
       "tag": "div",
-      "text": "CONTENT end MIDDLE end MAIN CONTAINER end NOSEARCHSTART FOOT begin The Arms Control Association is a non-profit, membership-based organization. If you find our resources useful, please consider joining or making a contribution . Arms Control Today encourages reprint of its articles with permission of the Editor. © 1997-2006 Arms Control Association, 1150 Connecticut Avenue, NW, Suite 620 Washington, DC 20036 Tel: (202) 463-8270 | Fax: (202) 463-8273 FOOT end NOSEARCHEND"
+      "text": "The Arms Control Association is a non-profit, membership-based organization. If you find our resources useful, please consider joining or making a contribution . Arms Control Today encourages reprint of its articles with permission of the Editor. © 1997-2006 Arms Control Association, 1150 Connecticut Avenue, NW, Suite 620 Washington, DC 20036 Tel: (202) 463-8270 | Fax: (202) 463-8273"
     }
   ]
 }

@@ -3,12 +3,20 @@
   "file_number": "239",
   "content_hash": "10fec916c7c2a7cc279086b5b3a0db09a20038fec0c84ccf857c03b2485bb2d8",
   "total_blocks": 46,
-  "retained_blocks": 4,
-  "ignored_blocks": 42,
+  "retained_blocks": 6,
+  "ignored_blocks": 40,
   "blocks": [
     {
       "tag": "div",
-      "text": "MAIN CONTAINER TABLE begin TOP NAV begin Home About ACA Become A Member Subscribe To ACT Employment (6) Internships Contact Us TOP NAV end ACA LOGOS/IMAGES begin ACA LOGOS/IMAGES end MIDDLE begin CONTENT begin Arms Control Today May 2005 Back to Normal"
+      "text": "Home About ACA Become A Member Subscribe To ACT Employment (6) Internships Contact Us"
+    },
+    {
+      "tag": "div",
+      "text": "Arms Control Today May 2005"
+    },
+    {
+      "tag": "div",
+      "text": "Back to Normal"
     },
     {
       "tag": "h1",
@@ -20,7 +28,7 @@
     },
     {
       "tag": "div",
-      "text": "CONTENT end MIDDLE end MAIN CONTAINER end NOSEARCHSTART FOOT begin The Arms Control Association is a non-profit, membership-based organization. If you find our resources useful, please consider joining or making a contribution . Arms Control Today encourages reprint of its articles with permission of the Editor. © 1997-2006 Arms Control Association, 1150 Connecticut Avenue, NW, Suite 620 Washington, DC 20036 Tel: (202) 463-8270 | Fax: (202) 463-8273 FOOT end NOSEARCHEND"
+      "text": "The Arms Control Association is a non-profit, membership-based organization. If you find our resources useful, please consider joining or making a contribution . Arms Control Today encourages reprint of its articles with permission of the Editor. © 1997-2006 Arms Control Association, 1150 Connecticut Avenue, NW, Suite 620 Washington, DC 20036 Tel: (202) 463-8270 | Fax: (202) 463-8273"
     }
   ]
 }

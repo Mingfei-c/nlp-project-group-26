@@ -3,8 +3,8 @@
   "file_number": "596",
   "content_hash": "0a39f230d0843d5a89305ec748d0df2320f5c9c9d01363a6f3b66c303564d8a8",
   "total_blocks": 130,
-  "retained_blocks": 10,
-  "ignored_blocks": 120,
+  "retained_blocks": 13,
+  "ignored_blocks": 117,
   "blocks": [
     {
       "tag": "div",
@@ -20,7 +20,11 @@
     },
     {
       "tag": "p",
-      "text": "Result Listen OnlineSpeeches Appeal for Help :: I NTRODUCTION :: Courses of Study The Darul Uloom provides education at all stages ranging from the primary to the university stage in the theological branches of learning and Arabic Literature. In all it covers a period of sixteen years. Asummary of the curriculum followed at the Nadwatul 'Ulama is given at the end of this brochure. The institution and its branches normally have 4000 students on its rolls every year. No fee is charged from the students and a large number of them are provided free board and lodging. In addition, about 1000, students are awarded stipends valued at Rs. 25 to Rs. 100. The academic year begins from the 6th of Shawwal and lasts upto 25th of Sha'aban followed by the vacation of Ramadhan . The Darul Uloom has at present 131 well-qualified teachers on its staff. The number of non-teaching staff is 103. The Primary Stage It covers a period of six years (including pre-primary classes) and provides elementary instruction in Urdu, Hindi and English as well as Arithmetic, Geography, General Science, etc., which covers the entire field of primary education as prescribed for secular schools besides giving a sound religious bias to it. The primary classes normally have more than 2500 students in an academic year. Arrangements have also been made for holding special classes for the students desirous of committing the holy Quran to their memory. Huffaz have been appointed to impart instruction to such students whose number varies between 200 to 250. The Secondary Stage This is a three-year course. Besides English, this stage provides for a thorough grounding in Persian as well as Arabic Grammar, Literature and Composition. Higher Secondary Stage The two-year course comprising ninth and tenth year of the curriculum imparts instruction in Arabic, Persian and English besides religious sciences and Islamic history. Graduation (Alimiyat) Stage The four-year course, which is equivalent to the graduation course under western system of education offers instruction in the commentary of the Qur'an (Tafsir), Traditions (Hadith), Islamic Jurisprudence (Fiqh) besides Arabic literature and other branches of Islamic learning. Higher efficiency in Arabic literature and the knowledge of English equivalent to the Intermediate standard of the U. P. Board of High School and Intermediate Education, are the special features of this stage. The number of students studying in these classes is between 150 to 200 during an academic year. Post-Graduate (Fazilat) Stage This is a two-year course providing instruction in Arabic literature and Islamic branches of learning, The latter comprise Tafsir, Hadith, Fiqah and Shari'ah, of which one subject has to be offered by the students for intensive study. The students have also to submit a thesis in the subject of their choice. Two more courses viz. Comparative Religions and Islamic D'awah have been started shortly. TOP The standard of instruction imparted at the Fazilat stage compares with the Master's Degree in these subjects in the Universities of the Arab countries. The number of the students in the Fazilat classes is about 50 in an academic year. Takmil"
+      "text": "Result Listen OnlineSpeeches Appeal for Help"
+    },
+    {
+      "tag": "p",
+      "text": ":: I NTRODUCTION :: Courses of Study The Darul Uloom provides education at all stages ranging from the primary to the university stage in the theological branches of learning and Arabic Literature. In all it covers a period of sixteen years. Asummary of the curriculum followed at the Nadwatul 'Ulama is given at the end of this brochure. The institution and its branches normally have 4000 students on its rolls every year. No fee is charged from the students and a large number of them are provided free board and lodging. In addition, about 1000, students are awarded stipends valued at Rs. 25 to Rs. 100. The academic year begins from the 6th of Shawwal and lasts upto 25th of Sha'aban followed by the vacation of Ramadhan . The Darul Uloom has at present 131 well-qualified teachers on its staff. The number of non-teaching staff is 103. The Primary Stage It covers a period of six years (including pre-primary classes) and provides elementary instruction in Urdu, Hindi and English as well as Arithmetic, Geography, General Science, etc., which covers the entire field of primary education as prescribed for secular schools besides giving a sound religious bias to it. The primary classes normally have more than 2500 students in an academic year. Arrangements have also been made for holding special classes for the students desirous of committing the holy Quran to their memory. Huffaz have been appointed to impart instruction to such students whose number varies between 200 to 250. The Secondary Stage This is a three-year course. Besides English, this stage provides for a thorough grounding in Persian as well as Arabic Grammar, Literature and Composition. Higher Secondary Stage The two-year course comprising ninth and tenth year of the curriculum imparts instruction in Arabic, Persian and English besides religious sciences and Islamic history. Graduation (Alimiyat) Stage The four-year course, which is equivalent to the graduation course under western system of education offers instruction in the commentary of the Qur'an (Tafsir), Traditions (Hadith), Islamic Jurisprudence (Fiqh) besides Arabic literature and other branches of Islamic learning. Higher efficiency in Arabic literature and the knowledge of English equivalent to the Intermediate standard of the U. P. Board of High School and Intermediate Education, are the special features of this stage. The number of students studying in these classes is between 150 to 200 during an academic year. Post-Graduate (Fazilat) Stage This is a two-year course providing instruction in Arabic literature and Islamic branches of learning, The latter comprise Tafsir, Hadith, Fiqah and Shari'ah, of which one subject has to be offered by the students for intensive study. The students have also to submit a thesis in the subject of their choice. Two more courses viz. Comparative Religions and Islamic D'awah have been started shortly. TOP The standard of instruction imparted at the Fazilat stage compares with the Master's Degree in these subjects in the Universities of the Arab countries. The number of the students in the Fazilat classes is about 50 in an academic year. Takmil"
     },
     {
       "tag": "div",
@@ -40,7 +44,15 @@
     },
     {
       "tag": "div",
-      "text": "Back << English Main Page | Home | Site-Map | Contact us"
+      "text": "Back"
+    },
+    {
+      "tag": "div",
+      "text": "<< English"
+    },
+    {
+      "tag": "div",
+      "text": "Main Page | Home | Site-Map | Contact us"
     },
     {
       "tag": "p",

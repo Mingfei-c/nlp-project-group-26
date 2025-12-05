@@ -3,8 +3,8 @@
   "file_number": "602",
   "content_hash": "01f79a0684c98aaca2050f1ee6234f3e7905001af71a495e91cf9989b6db40d4",
   "total_blocks": 119,
-  "retained_blocks": 40,
-  "ignored_blocks": 79,
+  "retained_blocks": 41,
+  "ignored_blocks": 78,
   "blocks": [
     {
       "tag": "h1",
@@ -20,11 +20,15 @@
     },
     {
       "tag": "p",
-      "text": "www.NAHB.org Week of \r\n                                July 21, 2003 Front Page President's Message"
+      "text": "www.NAHB.org Week of \r\n                                July 21, 2003"
+    },
+    {
+      "tag": "p",
+      "text": "Front Page President's Message"
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * Editorials Attacking Fannie Mae and Freddie Mac Are Seriously Misguided articleend"
+      "text": "* Editorials Attacking Fannie Mae and Freddie Mac Are Seriously Misguided"
     },
     {
       "tag": "p",
@@ -32,7 +36,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * Builders Are Working to Develop a Brownfields Cleanup Standard articleend articlestart * For Every Family, A Home articleend"
+      "text": "* Builders Are Working to Develop a Brownfields Cleanup Standard * For Every Family, A Home"
     },
     {
       "tag": "p",
@@ -40,7 +44,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * Roadless Rule Exemption Could Increase Logging in U.S. Forests articleend"
+      "text": "* Roadless Rule Exemption Could Increase Logging in U.S. Forests"
     },
     {
       "tag": "p",
@@ -48,7 +52,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * Housing Starts Remain Strong in June articleend articlestart * Builders Remain Bullish About Home Sales articleend"
+      "text": "* Housing Starts Remain Strong in June * Builders Remain Bullish About Home Sales"
     },
     {
       "tag": "p",
@@ -56,7 +60,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * Multifamily Builders Councils Can Expand HBA Membership articleend"
+      "text": "* Multifamily Builders Councils Can Expand HBA Membership"
     },
     {
       "tag": "p",
@@ -64,7 +68,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * Infrastructure Studies Save Time and Money articleend"
+      "text": "* Infrastructure Studies Save Time and Money"
     },
     {
       "tag": "p",
@@ -72,7 +76,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * An Effective Purchase Order System Enhances Efficiency articleend"
+      "text": "* An Effective Purchase Order System Enhances Efficiency"
     },
     {
       "tag": "p",
@@ -80,7 +84,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * Las Vegas Builders Lead Water Conservation Landscaping Efforts articleend articlestart * Organization Seeks to Stop Eco-Violence articleend"
+      "text": "* Las Vegas Builders Lead Water Conservation Landscaping Efforts * Organization Seeks to Stop Eco-Violence"
     },
     {
       "tag": "p",
@@ -88,7 +92,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * Homestore Agreement With MSN Expands Consumer Reach articleend articlestart * Profile of Home Buyers Finds Growing Internet Use articleend articlestart * A Merchandising Story Spells Success articleend"
+      "text": "* Homestore Agreement With MSN Expands Consumer Reach * Profile of Home Buyers Finds Growing Internet Use * A Merchandising Story Spells Success"
     },
     {
       "tag": "p",
@@ -96,7 +100,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * Active Adults Want Homes They've Always Dreamed About articleend"
+      "text": "* Active Adults Want Homes They've Always Dreamed About"
     },
     {
       "tag": "p",
@@ -104,7 +108,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * Three Essential Steps to Marketing Your Credentials articleend"
+      "text": "* Three Essential Steps to Marketing Your Credentials"
     },
     {
       "tag": "p",
@@ -112,7 +116,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * Deadline Extended for Student Chapter Awards articleend"
+      "text": "* Deadline Extended for Student Chapter Awards"
     },
     {
       "tag": "p",
@@ -120,7 +124,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * U.S. Gypsum Works to Address Moisture Concerns articleend"
+      "text": "* U.S. Gypsum Works to Address Moisture Concerns"
     },
     {
       "tag": "p",
@@ -128,7 +132,7 @@
     },
     {
       "tag": "blockquote",
-      "text": "articlestart * Building Homes of Our Own Rated Highly in Spring Survey articleend articlestart * Philadelphia Builder Makes Giving a Family Tradition articleend articlestart * Boost Your Marketing Through These Awards Programs articleend"
+      "text": "* Building Homes of Our Own Rated Highly in Spring Survey * Philadelphia Builder Makes Giving a Family Tradition * Boost Your Marketing Through These Awards Programs"
     },
     {
       "tag": "p",

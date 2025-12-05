@@ -8,7 +8,11 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" HEADER HEADER MAIN B.C. Home British Columbia Budgets CONTENTS tab end tab END CONTENTS OTHER LINKS tab end tab END OTHER LINKS RESOURCES tab end tab END RESOURCES BODY TEXT"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "B.C. Home British Columbia Budgets"
     },
     {
       "tag": "h3",
@@ -17,10 +21,6 @@
     {
       "tag": "p",
       "text": "The file “\r\nhttp://www.bcbudget.gov.bc.ca/annualreports/wlap/Report_on_Performance.htm\r\n” is no longer available at that location. Visit the British Columbia Budgets’ home page to locate the appropriate file."
-    },
-    {
-      "tag": "div",
-      "text": "END BODY TEXT END MAIN"
     }
   ]
 }

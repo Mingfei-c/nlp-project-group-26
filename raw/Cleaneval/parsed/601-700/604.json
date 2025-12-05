@@ -3,8 +3,8 @@
   "file_number": "604",
   "content_hash": "45942136047e0d9ba375c337c311da01dad734725a87024f121cc6e88b8843fa",
   "total_blocks": 79,
-  "retained_blocks": 20,
-  "ignored_blocks": 59,
+  "retained_blocks": 21,
+  "ignored_blocks": 58,
   "blocks": [
     {
       "tag": "h2",
@@ -84,7 +84,11 @@
     },
     {
       "tag": "div",
-      "text": "Chris Castle CAERDYDD/CARDIFF Cji-castle@cymru.new.labour.org.uk End You are reading the Welsh Fabian Essays"
+      "text": "Chris Castle CAERDYDD/CARDIFF Cji-castle@cymru.new.labour.org.uk End"
+    },
+    {
+      "tag": "div",
+      "text": "You are reading the Welsh Fabian Essays"
     }
   ]
 }

@@ -3,12 +3,16 @@
   "file_number": "770",
   "content_hash": "8a3b01d2e575e7729c64b8b7dfc59bdabcaef9888b1db9f13ef4022b631456b3",
   "total_blocks": 56,
-  "retained_blocks": 25,
-  "ignored_blocks": 31,
+  "retained_blocks": 28,
+  "ignored_blocks": 28,
   "blocks": [
     {
       "tag": "div",
-      "text": "CLICK HERE TO GO TO NEWER 2000-2001 EDITION 98-99 Handbook Contents ... UMSL Govt. Docs ... UMSL Libraries ... UMSL Home ..."
+      "text": "CLICK HERE TO GO TO NEWER 2000-2001 EDITION"
+    },
+    {
+      "tag": "div",
+      "text": "98-99 Handbook Contents ... UMSL Govt. Docs ... UMSL Libraries ... UMSL Home ..."
     },
     {
       "tag": "h2",
@@ -104,7 +108,15 @@
     },
     {
       "tag": "p",
-      "text": "Kristina Shelley Bureau of Labor Statistics Shelley_T@bls.gov Last modified: January 15, 1998 URL: http://stats/bls.gov/oco/ocos168.htm Cite: Occupational Outlook Handbook , 1998-99, UM-St. Louis Libraries Edition, derived and modified by Raleigh Muns April 14, 1998, from http://stats.bls.gov/ocohome.htm 98-99 Handbook Contents ... UMSL Govt. Docs ... UMSL Libraries ... UMSL Home ... Contact Maintainers"
+      "text": "Kristina Shelley Bureau of Labor Statistics Shelley_T@bls.gov Last modified: January 15, 1998 URL: http://stats/bls.gov/oco/ocos168.htm Cite: Occupational Outlook Handbook , 1998-99, UM-St. Louis Libraries Edition, derived and modified by Raleigh Muns April 14, 1998, from http://stats.bls.gov/ocohome.htm"
+    },
+    {
+      "tag": "p",
+      "text": "98-99 Handbook Contents ... UMSL Govt. Docs ... UMSL Libraries ... UMSL Home ..."
+    },
+    {
+      "tag": "p",
+      "text": "Contact Maintainers"
     }
   ]
 }

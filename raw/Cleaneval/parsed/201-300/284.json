@@ -3,12 +3,48 @@
   "file_number": "284",
   "content_hash": "21d50e7a0a70da0f0c11da0f5804a149f24b9240fe66c2013e15e085d2053987",
   "total_blocks": 448,
-  "retained_blocks": 5,
-  "ignored_blocks": 443,
+  "retained_blocks": 21,
+  "ignored_blocks": 427,
   "blocks": [
     {
       "tag": "div",
-      "text": "Print-friendly | E-mail alert | FAQ | Contact Advanced search | Go xml version=\"1.0\" encoding=\"UTF-8\"? About BIS Central bank hub Monetary & financial stability Banking services Publications & research Statistics Press & speeches Overview | Organisation | Activities | History | Legal information | Representative offices | Recruitment | Contact Overview | Central bank websites | Central bankers speeches | Research hub | International Journal of Central Banking Overview | Basel II | Basel Committee on Banking Supervision | Committee on the Global Financial System | Committee on Payment and Settlement Systems | Financial Stability Institute | Other BIS-hosted organisations Bank for central banks | Products and services | Balance sheet Research at BIS | Annual Report | Quarterly Review | BIS Papers | Working Papers | Committee publications | Conference proceedings | Other publications About BIS statistics | Banking | Securities | Derivatives | Effective exchange rates | Foreign exchange | External debt | Payment systems Overview | Press releases | BIS management speeches | Central bankers speeches | BIS photo gallery | Embargo area | News archive xml version=\"1.0\" encoding=\"UTF-8\"? Committee on Payment and Settlement Systems Background information Fact sheet Payment system information Payment statistics Glossary of Terms Index of Spanish translations Contact CPSS Publications by year Select Latest 2005-2006 2003-2004 2001-2002 1999-2000 1997-1998 1995-1996 1993-1994 1991-1992 1989-1990 Publications by category Core principles / standards Foreign exchange settlement Large-value payment systems Payment Systems in general Principles, recommendations and oversight Red Book: CPSS countries Red Book: various countries Retail payments and electronic money Securities and derivatives settlement BIS home Monetary & financial stability Committee on Payment and Settlement Systems"
+      "text": "Print-friendly | E-mail alert | FAQ | Contact Advanced search | Go"
+    },
+    {
+      "tag": "div",
+      "text": "xml version=\"1.0\" encoding=\"UTF-8\"?"
+    },
+    {
+      "tag": "div",
+      "text": "About BIS Central bank hub Monetary & financial stability Banking services Publications & research Statistics Press & speeches"
+    },
+    {
+      "tag": "div",
+      "text": "Overview | Organisation | Activities | History | Legal information | Representative offices | Recruitment | Contact Overview | Central bank websites | Central bankers speeches | Research hub | International Journal of Central Banking Overview | Basel II | Basel Committee on Banking Supervision | Committee on the Global Financial System | Committee on Payment and Settlement Systems | Financial Stability Institute | Other BIS-hosted organisations Bank for central banks | Products and services | Balance sheet Research at BIS | Annual Report | Quarterly Review | BIS Papers | Working Papers | Committee publications | Conference proceedings | Other publications About BIS statistics | Banking | Securities | Derivatives | Effective exchange rates | Foreign exchange | External debt | Payment systems Overview | Press releases | BIS management speeches | Central bankers speeches | BIS photo gallery | Embargo area | News archive"
+    },
+    {
+      "tag": "div",
+      "text": "xml version=\"1.0\" encoding=\"UTF-8\"?"
+    },
+    {
+      "tag": "div",
+      "text": "Committee on Payment and Settlement Systems"
+    },
+    {
+      "tag": "div",
+      "text": "Background information Fact sheet Payment system information Payment statistics Glossary of Terms Index of Spanish translations Contact CPSS"
+    },
+    {
+      "tag": "div",
+      "text": "Publications by year Select Latest 2005-2006 2003-2004 2001-2002 1999-2000 1997-1998 1995-1996 1993-1994 1991-1992 1989-1990 Publications by category"
+    },
+    {
+      "tag": "div",
+      "text": "Core principles / standards Foreign exchange settlement Large-value payment systems Payment Systems in general Principles, recommendations and oversight Red Book: CPSS countries Red Book: various countries Retail payments and electronic money Securities and derivatives settlement"
+    },
+    {
+      "tag": "div",
+      "text": "BIS home Monetary & financial stability Committee on Payment and Settlement Systems"
     },
     {
       "tag": "h3",
@@ -24,7 +60,35 @@
     },
     {
       "tag": "div",
-      "text": "xml version=\"1.0\" encoding=\"UTF-8\"? Full text PDF61pages, 329kb Other languages Executive summary (Spanish) Press release 9 May 2005 Terms and conditions of use | Copyright and permissions | Disclaimers | Privacy policy"
+      "text": "xml version=\"1.0\" encoding=\"UTF-8\"?"
+    },
+    {
+      "tag": "div",
+      "text": "Full text"
+    },
+    {
+      "tag": "div",
+      "text": "PDF61pages, 329kb"
+    },
+    {
+      "tag": "div",
+      "text": "Other languages"
+    },
+    {
+      "tag": "div",
+      "text": "Executive summary (Spanish)"
+    },
+    {
+      "tag": "div",
+      "text": "Press release"
+    },
+    {
+      "tag": "div",
+      "text": "9 May 2005"
+    },
+    {
+      "tag": "div",
+      "text": "Terms and conditions of use | Copyright and permissions | Disclaimers | Privacy policy"
     }
   ]
 }

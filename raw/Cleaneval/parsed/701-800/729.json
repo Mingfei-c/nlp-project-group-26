@@ -3,8 +3,8 @@
   "file_number": "729",
   "content_hash": "6ab4f994ba0cbe6c6dd23bfee3583f539a34e52cb849329314c7c8bd618bcddc",
   "total_blocks": 52,
-  "retained_blocks": 21,
-  "ignored_blocks": 31,
+  "retained_blocks": 16,
+  "ignored_blocks": 36,
   "blocks": [
     {
       "tag": "div",
@@ -16,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "Home About Us Jobs Contact Donate to Share Our Strength Search What We Do How We Fight Hunger & Poverty Take Action end headwrap, headwide, header Overview Taste of the Nation The Great American Bake Sale Operation Frontline Dinner Series Our Partners end subnav end headline"
+      "text": "Home About Us Jobs Contact Donate to Share Our Strength Search What We Do How We Fight Hunger & Poverty Take Action Overview Taste of the Nation The Great American Bake Sale Operation Frontline Dinner Series Our Partners"
     },
     {
       "tag": "h3",
@@ -56,15 +56,7 @@
     },
     {
       "tag": "p",
-      "text": "Download the latest Real  Player or Windows Media players."
-    },
-    {
-      "tag": "div",
-      "text": "end col-m end col1"
-    },
-    {
-      "tag": "p",
-      "text": "Find information about grant recipients, restaurants, and events in your area. Enter ZIP Code or City, State"
+      "text": "Download the latest Real  Player or Windows Media players. Find information about grant recipients, restaurants, and events in your area. Enter ZIP Code or City, State"
     },
     {
       "tag": "h3",
@@ -76,19 +68,7 @@
     },
     {
       "tag": "p",
-      "text": "Find out how Operation Frontline is impacting your community ."
-    },
-    {
-      "tag": "div",
-      "text": "end col2"
-    },
-    {
-      "tag": "p",
-      "text": "Back to top More to see » Read Bill Shore’s letters , check our latest news or join our community . © Share Our Strength 1730 M Street NW, Suite 700, Washington, DC 20036 Media Center | Jobs at SOS | Donate/Support Our Work | Contact Us | Privacy Policy"
-    },
-    {
-      "tag": "div",
-      "text": "end footer end content end wrapper"
+      "text": "Find out how Operation Frontline is impacting your community . Back to top More to see » Read Bill Shore’s letters , check our latest news or join our community . © Share Our Strength 1730 M Street NW, Suite 700, Washington, DC 20036 Media Center | Jobs at SOS | Donate/Support Our Work | Contact Us | Privacy Policy"
     }
   ]
 }

@@ -3,12 +3,16 @@
   "file_number": "92",
   "content_hash": "2468473a26534e17700485539c9e5778b371c4d20e7bc3225a88585ec3bad367",
   "total_blocks": 84,
-  "retained_blocks": 17,
-  "ignored_blocks": 67,
+  "retained_blocks": 19,
+  "ignored_blocks": 65,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" <body onLoad=\"audioOn=true; MM_preloadImages('/image/kidnav/dealing_with_feelings2.gif','/image/kidnav/staying_healthy2.gif','/image/kidnav/recipes2.gif','/image/kidnav/everyday_illnesses2.gif','/image/kidnav/my_body2.gif','/image/kidnav/growing_up2.gif','/image/kidnav/kids_talk2.gif','/image/kidnav/people_places2.gif','/image/kidnav/watch_out2.gif','/image/kidnav/game_closet2.gif','/image/kidnav/health_problems2.gif','/image/kidnav/word2.gif','/image/kidnav/grownups_2.gif','/image/kidnav/espanol_2.gif')\"> THE MAIN MENU FOR THE CATAGORIES GOES HERE <a href=\"/misc/popup/K_squarebanner.html\" target=_blank><img src=\"/images/kidnav/K_squarebanner.gif\" width=\"153\" height=\"126\" border=\"0\" ></a> <object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0\" width=\"153\" height=\"126\">\n\t\t  <param name=movie value=\"/updates/K_squarebanner.swf\">\n\t\t  <param name=quality value=high>\n\t\t  <embed src=\"/updates/K_squarebanner.swf\" quality=high pluginspage=\"http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash\" type=\"application/x-shockwave-flash\" width=\"153\" height=\"126\"></embed>\n\t</object> KidsHealth > Kids > Dealing With Feelings > My Emotions & Behaviors >\n\t\tDealing With Anger"
+      "text": "HTML PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "KidsHealth > Kids > Dealing With Feelings > My Emotions & Behaviors >\n\t\tDealing With Anger"
     },
     {
       "tag": "p",
@@ -72,7 +76,11 @@
     },
     {
       "tag": "div",
-      "text": "Printer -friendly version Email this article to a friend Send email to us About Us / Contact Us / Partners / Editorial Policy / Privacy \n        Policy & Terms of Use Note: All information on KidsHealth is for educational purposes only. For specific medical advice, diagnoses, and treatment, consult your doctor. ©1995-2006 The Nemours Foundation.  All rights reserved."
+      "text": "Printer -friendly version Email this article to a friend Send email to us"
+    },
+    {
+      "tag": "div",
+      "text": "About Us / Contact Us / Partners / Editorial Policy / Privacy \n        Policy & Terms of Use Note: All information on KidsHealth is for educational purposes only. For specific medical advice, diagnoses, and treatment, consult your doctor. ©1995-2006 The Nemours Foundation.  All rights reserved."
     }
   ]
 }

@@ -3,12 +3,16 @@
   "file_number": "18",
   "content_hash": "ef3ffcc1624103b57baff4ec075f9cc85e5d7ac718c7f3065dbf26e66e5590ea",
   "total_blocks": 235,
-  "retained_blocks": 40,
-  "ignored_blocks": 195,
+  "retained_blocks": 43,
+  "ignored_blocks": 192,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\" GIHEDSTRT You are here: About > Sports > Bicycling Bicycling Sports Bicycling Essentials Tour de France Ride A Century Fall Riding Beginning Bicycling Bike Club Directory Topics Training Where to Ride Racing Beginning Cycling Weight Loss Famous Cyclists Womens Cycling Equipment MaintenanceRepair Cycling Culture Advocacy Family Bicycling Doping Drug Use Nutrition Safety Buyer's Guide Cycling Gloves Bike Pumps Top Pedals Bike Tools Bike Trailers Tools Buy Tickets Compare Prices Travel Booking Yellow Pages Forums Most Popular Articles Latest Articles Help gc"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "You are here: About > Sports > Bicycling Bicycling Sports Bicycling Essentials Tour de France Ride A Century Fall Riding Beginning Bicycling Bike Club Directory Topics Training Where to Ride Racing Beginning Cycling Weight Loss Famous Cyclists Womens Cycling Equipment MaintenanceRepair Cycling Culture Advocacy Family Bicycling Doping Drug Use Nutrition Safety Buyer's Guide Cycling Gloves Bike Pumps Top Pedals Bike Tools Bike Trailers Tools Buy Tickets Compare Prices Travel Booking Yellow Pages Forums Most Popular Articles Latest Articles Help"
     },
     {
       "tag": "h3",
@@ -20,7 +24,11 @@
     },
     {
       "tag": "p",
-      "text": "The World Cup consists of 10 races in the spring and fall.  Competition will be amongst racers in the 22 first division\r\nteams, as determined by the Union Cycliste Internationale (UCI), including the U.S. Postal Service team.  Each team may\r\nhave up to eight riders participate per race.  To qualify for a final World Cup standing, a rider must compete in at least six\r\nout of the ten races, and his team must start at least eight of the races.  Points are awarded to the top 25 finishers in each\r\nevent.  First place receives 100 points, down to 1 point for 25 th place. Last year's (1998) winners were: (1 st ) Michele Bartoli, (2 nd ) Leon Van Bon, (3 rd ) Andrea Tafi. Here are this year's (1999) events: Milan-San Remo, Italy Distance: 183 mi (294km) When: Sat, March 20 Course: From Milan to San Remo on the Mediterranean sea. Contains two major climbs - Cipressa (790ft) and Poggio\r\n(530ft) in the latter part of the race. Poggio's descent is followed by a flat 3.3km to the finish. 1998 Winner: Erik Zabel 1997 Winner: Erik Zabel Tour Of Flanders, Belgium"
+      "text": "The World Cup consists of 10 races in the spring and fall.  Competition will be amongst racers in the 22 first division\r\nteams, as determined by the Union Cycliste Internationale (UCI), including the U.S. Postal Service team.  Each team may\r\nhave up to eight riders participate per race.  To qualify for a final World Cup standing, a rider must compete in at least six\r\nout of the ten races, and his team must start at least eight of the races.  Points are awarded to the top 25 finishers in each\r\nevent.  First place receives 100 points, down to 1 point for 25 th place. Last year's (1998) winners were: (1 st ) Michele Bartoli, (2 nd ) Leon Van Bon, (3 rd ) Andrea Tafi. Here are this year's (1999) events:"
+    },
+    {
+      "tag": "p",
+      "text": "Milan-San Remo, Italy Distance: 183 mi (294km) When: Sat, March 20 Course: From Milan to San Remo on the Mediterranean sea. Contains two major climbs - Cipressa (790ft) and Poggio\r\n(530ft) in the latter part of the race. Poggio's descent is followed by a flat 3.3km to the finish. 1998 Winner: Erik Zabel 1997 Winner: Erik Zabel Tour Of Flanders, Belgium"
     },
     {
       "tag": "div",
@@ -104,7 +112,11 @@
     },
     {
       "tag": "p",
-      "text": "Riding in December bicycle jumping is it good or bad Bicycle shopping question Subscribe to the  Newsletter Name Email /gc"
+      "text": "Riding in December bicycle jumping is it good or bad Bicycle shopping question"
+    },
+    {
+      "tag": "p",
+      "text": "Subscribe to the  Newsletter Name Email"
     },
     {
       "tag": "div",

@@ -3,12 +3,20 @@
   "file_number": "797",
   "content_hash": "f39f81609eb41f866b27ffb3a2e6371110014037b66207e457b8abc60b2952a0",
   "total_blocks": 474,
-  "retained_blocks": 25,
-  "ignored_blocks": 449,
+  "retained_blocks": 26,
+  "ignored_blocks": 448,
   "blocks": [
     {
       "tag": "div",
-      "text": "****************** Article Top SSI ****************** *** NEEDED FOR REG *** *** /NEEDED FOR REG *** *** HEADER TOP *** Hello Change Preferences | Sign Out Sign In | Register Now Print Edition | Subscribe *** /HEADER TOP *** *** DROPDOWN NAVIGATION *** Politics Business Education Real Estate Nation Technology KidsPost Obituaries World Entertainment Religion Corrections Metro Health Post Magazine Archives Politics Blog Congress Polls Elections House/Senate Votes Federal Page Key Races White House In Depth <tr>\n\t\t\t\t<td colspan=\"3\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> Columns & Blogs Feedback Cartoons & Videos Outlook Editorials Message Boards Redskins D.C. United Columns/Blogs NBA Nationals Capitals College Football NHL Wizards High Schools Local Colleges NFL <tr>\n\t\t\t\t<td colspan=\"4\" class=\"adbox\">old ad <a href=\"http://midatlantic.comcastsportsnet.com\" target=\"_blank\" onClick=\"sa_onclick('http://www.washingtonpost.com/wp-adv/tracking/textlink/homepage/comcast');\">Ad: SportsNite 10pm Comcast SportsNet</a></td>\n\t\t\t</tr> Style Movies Travel Fashion & Beauty Horoscopes City Guide Television Books Home & Garden Comics Entertainment News Food & Dining Museums Theater & Dance Crosswords Ad: Click here for Travel Specials & Deals Tues., Jan. 2, All Times ET K Street, 1 NFL Insider, 11 Today's Schedule Life at Work, 11 Post Politics, 11 Weekly Schedule Media Backtalk, 12 Opinion, 1 Transcripts START OF EXTRA STUFF \n<tr>\n<td><a href='http://www.washingtonpost.com/wp-dyn/content/discussion/2006/12/22/DI2006122200365.html?nav=topnav'><nobr>Lean Plate Club, 1 p.m.</nobr></a></td>\n<td><a href='http://www.washingtonpost.com/wp-dyn/content/discussion/2006/12/22/DI2006122200629.html?nav=topnav'><nobr>D.C., Maryland and Virginia Politics, 2 p.m.</nobr></a></td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href='http://www.washingtonpost.com/wp-dyn/content/discussion/2006/12/19/DI2006121901073.html?nav=topnav'><nobr>Freedom Rock, 2 p.m.</nobr></a></td>\n\nEND OF EXTRA STUFF Multimedia: Being A Black Man Day in Photos Photos:   Eye On Entertainment News Video Videos: A Living HIV Quilt Documentary Video *** KEEP AD LINK ROW BELOW COMMENTED OUT WHEN NOT USED *** <tr>\n\t\t\t\t<td colspan=\"2\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> Search D.C.-area events and locations. Find movies, restaurants, bars and clubs. <tr>\n\t\t\t\t<td colspan=\"1\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> Merchandise Pets Death Notices Personals Rentals Legal Notices <tr>\n\t\t\t\t<td colspan=\"3\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> Find a Job Post a Job News & Advice Employer Login <tr>\n\t\t\t\t<td colspan=\"2\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> Buy a Car Experts & Advice Dealer Specials Sell a Car Coupons <tr>\n\t\t\t\t<td colspan=\"3\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> Buy a Home Sell a Home Property Values Find a Rental Rent Your Place Rentals Section <tr>\n\t\t\t\t<td colspan=\"3\" class=\"adbox\"><a href=\"\">Ad: Link Goes Here</a></td>\n\t\t\t</tr> *** /DROPDOWN NAVIGATION *** *** SEARCH *** SEARCH: washingtonpost.com Web <div class=\"sponsor\"><img src=\"http://www.washingtonpost.com/wp-srv/yahoo/articleIcon_yahoo_165x15.gif\" border=\"0\" width=\"202\" height=\"15\" alt=\"Powered by Yahoo! Search\"/></div> | Search Archives *** /SEARCH *** SUPER BANNER BEGINS HERE SUPER BANNER ENDS HERE washingtonpost.com > Politics > Special Reports > Gay Marriage begin: toolbox top Print This Article E-Mail This Article end: toolbox top begin: toolbox top"
+      "text": "Hello Change Preferences | Sign Out Sign In | Register Now Print Edition | Subscribe"
+    },
+    {
+      "tag": "div",
+      "text": "Politics Business Education Real Estate Nation Technology KidsPost Obituaries World Entertainment Religion Corrections Metro Health Post Magazine Archives Politics Blog Congress Polls Elections House/Senate Votes Federal Page Key Races White House In Depth Columns & Blogs Feedback Cartoons & Videos Outlook Editorials Message Boards Redskins D.C. United Columns/Blogs NBA Nationals Capitals College Football NHL Wizards High Schools Local Colleges NFL Style Movies Travel Fashion & Beauty Horoscopes City Guide Television Books Home & Garden Comics Entertainment News Food & Dining Museums Theater & Dance Crosswords Ad: Click here for Travel Specials & Deals Tues., Jan. 2, All Times ET K Street, 1 NFL Insider, 11 Today's Schedule Life at Work, 11 Post Politics, 11 Weekly Schedule Media Backtalk, 12 Opinion, 1 Transcripts Multimedia: Being A Black Man Day in Photos Photos:   Eye On Entertainment News Video Videos: A Living HIV Quilt Documentary Video Search D.C.-area events and locations. Find movies, restaurants, bars and clubs. Merchandise Pets Death Notices Personals Rentals Legal Notices Find a Job Post a Job News & Advice Employer Login Buy a Car Experts & Advice Dealer Specials Sell a Car Coupons Buy a Home Sell a Home Property Values Find a Rental Rent Your Place Rentals Section"
+    },
+    {
+      "tag": "div",
+      "text": "SEARCH: washingtonpost.com Web | Search Archives washingtonpost.com > Politics > Special Reports > Gay Marriage Print This Article E-Mail This Article"
     },
     {
       "tag": "h2",
@@ -16,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "Top News Gay Marriage What is RSS? | All RSS Feeds end: rss toolbox External Script for Travel Zoo Code PageID: null First: 0 Last: -1 TotalPar: 0"
+      "text": "Top News Gay Marriage What is RSS? | All RSS Feeds"
     },
     {
       "tag": "h6",
@@ -24,15 +32,11 @@
     },
     {
       "tag": "h1",
-      "text": "plsfield:headline Same-Sex Marriage Measures Succeed plsfield:stop"
+      "text": "Same-Sex Marriage Measures Succeed"
     },
     {
       "tag": "h2",
       "text": "Bans in Several States Supported  By Wide Margins"
-    },
-    {
-      "tag": "p",
-      "text": "plsfield:byline"
     },
     {
       "tag": "div",
@@ -40,19 +44,19 @@
     },
     {
       "tag": "p",
-      "text": "plsfield:credit Washington Post Staff Writer plsfield:disp_date Wednesday, November 3, 2004; Page A25"
+      "text": "Washington Post Staff Writer Wednesday, November 3, 2004; Page A25 Red state or blue, north or south, voters around the country found at least one thing they could agree on yesterday as proposals banning same-sex marriage were  winning in all 11 states where the issue appeared on the ballot. Tallies from Arkansas, Georgia, Kentucky, Michigan, Mississippi, Montana, Ohio, Oklahoma, North Dakota and Utah  showed constitutional amendments restricting marriage to a man and woman would pass by substantial margins.  Asimilar  measure in Oregon enjoyed a solid lead with nearly three-quarters of the votes counted."
     },
     {
       "tag": "div",
-      "text": "plsfield:description"
-    },
-    {
-      "tag": "p",
-      "text": "Red state or blue, north or south, voters around the country found at least one thing they could agree on yesterday as proposals banning same-sex marriage were  winning in all 11 states where the issue appeared on the ballot. Tallies from Arkansas, Georgia, Kentucky, Michigan, Mississippi, Montana, Ohio, Oklahoma, North Dakota and Utah  showed constitutional amendments restricting marriage to a man and woman would pass by substantial margins.  Asimilar  measure in Oregon enjoyed a solid lead with nearly three-quarters of the votes counted."
+      "text": "Same sex couple Taylor West, left, and  Ann Hubard react to early results on Measure 36, Tuesday, Nov. 2, 2004, in Portland, Ore. (Bruce Ely - AP)"
     },
     {
       "tag": "div",
-      "text": "START CONTENT COLUMN <TABLE ALIGN=\"right\" CELLPADDING=\"0\" CELLSPACING=\"0\" BORDER=\"0\">\n  <TR>\n    <TD WIDTH=\"17\"><SPACER TYPE=\"block\" WIDTH=\"17\" HEIGHT=\"1\"></TD>\n    <TD ALIGN=\"center\"> td width=228 valign=\"top\" div><span size=\"-2\" face=\"arial, helvetica\" color=\"#333333\" Same sex couple Taylor West, left, and  Ann Hubard react to early results on Measure 36, Tuesday, Nov. 2, 2004, in Portland, Ore. (Bruce Ely - AP) ___ Gay Marriage Debate ___ ___ Mass. Weddings ___ Video Feature On May 17, 2004, America's first state-sanctioned, same-sex marriages took place in Cambridge, Massachusetts. ___ Latest News ___ • More Stories Photos: Bush Wins President Bush claims victory after John F. Kerry concedes the 2004 presidential election. • Bush's Speech: Video | Transcript • Kerry's Speech: Video | Transcript • Video: 2004 Election Rewind ___ Election Results ___"
+      "text": "___ Gay Marriage Debate ___ ___ Mass. Weddings ___ Video Feature On May 17, 2004, America's first state-sanctioned, same-sex marriages took place in Cambridge, Massachusetts. ___ Latest News ___ • More Stories"
+    },
+    {
+      "tag": "div",
+      "text": "Photos: Bush Wins President Bush claims victory after John F. Kerry concedes the 2004 presidential election. • Bush's Speech: Video | Transcript • Kerry's Speech: Video | Transcript • Video: 2004 Election Rewind ___ Election Results ___"
     },
     {
       "tag": "p",
@@ -64,11 +68,15 @@
     },
     {
       "tag": "p",
-      "text": "• The New House • Freshman Senators • New Governors <script>\nfunction checkdata()\n{\nif (document.search.lastName.value == '')\n{\nalert(\"You must provide a valid Candidate Name\");\nreturn false;\n}\nelse \n{\nreturn true;\n}\n\n}\n</script> <form method=\"POST\" action=\"http://www.washingtonpost.com/ac2/wp-dyn?node=politics/elections/2004/candsearch&query=srchCandPage/Search\" onsubmit=\"return checkdata();\" name=\"search\">"
+      "text": "• The New House • Freshman Senators • New Governors"
     },
     {
       "tag": "div",
-      "text": "U.S. President Updated 2:09 AM ET Precincts:0% Candidate Votes % Bush * (R) 60,693,281 51% Kerry (D) 57,355,978 48% Other 1,107,393 1% Full Results Source : AP _____ Message Boards _____ • Post Your Comments"
+      "text": "U.S. President Updated 2:09 AM ET Precincts:0% Candidate Votes % Bush * (R) 60,693,281 51% Kerry (D) 57,355,978 48% Other 1,107,393 1% Full Results Source : AP"
+    },
+    {
+      "tag": "div",
+      "text": "_____ Message Boards _____ • Post Your Comments"
     },
     {
       "tag": "h2",
@@ -76,7 +84,7 @@
     },
     {
       "tag": "div",
-      "text": "Daily Politics News & Analysis See a Sample | Sign Up Now Federal Insider See a Sample | Sign Up Now Breaking News Alerts See a Sample | Sign Up Now END CONTENT COLUMN"
+      "text": "Daily Politics News & Analysis See a Sample | Sign Up Now Federal Insider See a Sample | Sign Up Now Breaking News Alerts See a Sample | Sign Up Now"
     },
     {
       "tag": "p",
@@ -84,7 +92,7 @@
     },
     {
       "tag": "div",
-      "text": "begin: toolbox top Print This Article E-Mail This Article RSS Feed Permission to Republish end: toolbox top © 2004 The Washington Post Company"
+      "text": "Print This Article E-Mail This Article RSS Feed Permission to Republish © 2004 The Washington Post Company"
     },
     {
       "tag": "h2",
@@ -96,15 +104,11 @@
     },
     {
       "tag": "div",
-      "text": "script>\ndell_ran = Math.floor(Math.random() * 1000000);\ndocument.write('<A HREF=\"http://ad.doubleclick.net/jump/N296.wp/B1926983;sz=234x60;ord='+dell_ran+'?\"><IMG SRC=\"http://ad.doubleclick.net/ad/N296.wp/B1926983;sz=234x60;ord='+dell_ran+'?\" BORDER=0 WIDTH=234 HEIGHT=60 ALT=\"Click Here\"></A>')\n</script SUPER BANNER BEGINS HERE SUPER BANNER ENDS HERE SEARCH: washingtonpost.com Web <div class=\"sponsor\"><img src=\"http://www.washingtonpost.com/wp-srv/yahoo/articleIcon_yahoo_165x15.gif\" border=\"0\" width=\"202\" height=\"15\" alt=\"Powered by Yahoo! Search\"/></div> NEWS | OPINIONS | SPORTS | ARTS & LIVING Discussions | Photos & Video | City Guide CLASSIFIEDS | JOBS | CARS | REAL ESTATE"
+      "text": "SEARCH: washingtonpost.com Web NEWS | OPINIONS | SPORTS | ARTS & LIVING Discussions | Photos & Video | City Guide CLASSIFIEDS | JOBS | CARS | REAL ESTATE"
     },
     {
       "tag": "p",
       "text": "washingtonpost.com: Help | Contact Us | About Us | Advertisers | Site Index | Site Map | Make Us Your Homepage | mywashingtonpost.com | Work for Us | Mobile | RSS The Washington Post: Subscribe | Subscriber Services | Advertisers | Electronic Edition | Online Photo Store | The Washington Post Store | About The Post | National Weekly The Washington Post Company: Information and Other Post Co. Websites © Copyright 1996- The Washington Post Company | User Agreement and Privacy Policy | Rights and Permissions"
-    },
-    {
-      "tag": "div",
-      "text": "CHANNEL SSI CALLED NODE SSI CALLED"
     }
   ]
 }

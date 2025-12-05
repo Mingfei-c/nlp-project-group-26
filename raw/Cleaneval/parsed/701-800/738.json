@@ -3,12 +3,12 @@
   "file_number": "738",
   "content_hash": "ae4b93fc7da313d3201306d46ff2102562a2862b7703a02a3798ec79fbcc264e",
   "total_blocks": 416,
-  "retained_blocks": 144,
-  "ignored_blocks": 272,
+  "retained_blocks": 140,
+  "ignored_blocks": 276,
   "blocks": [
     {
       "tag": "div",
-      "text": "*************************\nCONTENT\n************************* « previous | January 11, 2004 - January 17, 2004 | next » Archive List | Talking Points Memo Home"
+      "text": "« previous | January 11, 2004 - January 17, 2004 | next » Archive List | Talking Points Memo Home"
     },
     {
       "tag": "h2",
@@ -524,19 +524,11 @@
     },
     {
       "tag": "div",
-      "text": "-- Josh Marshall Send Tips or Comments to TPM. ARCHIVE: - December\n24-December 30, 2006 Talking Points - - December\n17-December 23, 2006 Talking Points - - December\n10-December 16, 2006 Talking Points - - December\n 3-December  9, 2006 Talking Points - Click here to view the full archive *******************************************\nRIGHT SIDEBAR\n*******************************************"
+      "text": "-- Josh Marshall Send Tips or Comments to TPM. ARCHIVE: - December\n24-December 30, 2006 Talking Points - - December\n17-December 23, 2006 Talking Points - - December\n10-December 16, 2006 Talking Points - - December\n 3-December  9, 2006 Talking Points - Click here to view the full archive"
     },
     {
       "tag": "h2",
-      "text": "ADVERTISERS"
-    },
-    {
-      "tag": "div",
-      "text": "Blogads New Premium Ad\n\n<script language=\"javascript\" src=\"http://cache.blogads.com/846344348/feed.js\"></script> New Lead Sidebar New Reg Sidebar Old Reg Sidebar Context Web *******************************************\nFAR RIGHT SIDEBAR\n*******************************************"
-    },
-    {
-      "tag": "h2",
-      "text": "MENU"
+      "text": "ADVERTISERS MENU"
     },
     {
       "tag": "div",
@@ -544,15 +536,7 @@
     },
     {
       "tag": "h2",
-      "text": "SEARCH TPM MEDIA SITES"
-    },
-    {
-      "tag": "div",
-      "text": "<div align=\"center\">\n<a href=\"http://www.tpmcafe.com\"><img src=\"/tpmcafe-whatsbrewing.gif\" width=\"143\" height=\"61\" border=\"0\"></a></div> \n\n<script src=\"http://feeds.feedburner.com/tpmcafe-main?format=sigpro\" type=\"text/javascript\"></script><noscript><p>Subscribe to RSS headline updates from: <a href=\"http://feeds.feedburner.com/tpmcafe-main\"></a><br/>Powered by FeedBurner</p> </noscript>"
-    },
-    {
-      "tag": "h2",
-      "text": "TPM APPROVED SITES:"
+      "text": "SEARCH TPM MEDIA SITES TPM APPROVED SITES:"
     },
     {
       "tag": "div",
@@ -580,7 +564,7 @@
     },
     {
       "tag": "div",
-      "text": "Matt Corley Ben Craw Andrew Golis Jeff Hughes Eric Kleefeld Will Menaker end right div using a here is less buggy than other choices Powered by Movable Type 2.661 Home | Terms of Use | Privacy Policy Copyright 2006 TPM Media LLC .  All Rights Reserved. Photo Credit: Chris Buck ."
+      "text": "Matt Corley Ben Craw Andrew Golis Jeff Hughes Eric Kleefeld Will Menaker Powered by Movable Type 2.661 Home | Terms of Use | Privacy Policy Copyright 2006 TPM Media LLC .  All Rights Reserved. Photo Credit: Chris Buck ."
     }
   ]
 }

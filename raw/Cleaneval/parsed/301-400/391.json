@@ -3,12 +3,68 @@
   "file_number": "391",
   "content_hash": "e7f22d43888ac75fa232b9fc53af7aeb127ca02b4ee58f1237e8c06eeaf31b20",
   "total_blocks": 418,
-  "retained_blocks": 3,
-  "ignored_blocks": 415,
+  "retained_blocks": 19,
+  "ignored_blocks": 399,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" displayTemplateSubPage edwebwwwp02c02 BEGIN Content Zone \"_MD\"---------------------------------------------------------- Start EDWeb Metadata - Do Not Modify Tags in Block Below End EDWeb Metadata - Do Not Modify Tags in Block Above END Content Zone \"_MD\"------------------------------------------------------------ The metadata tag below contains the file system last modified date. It will be used by search engines for HTML documents that contain no EDWeb Metadata  - stopindex Content Zone \"A\" BEGIN Content Zone \"B\"--------------------------------------------------------------------------------------- Content Zone \"B\" BEGIN Content Zone \"C\"--------------------------------------------------------------------------------------- Content Zone \"C\" right hand nav area Content Zone \"D\" No Related Topics Found Content Zone \"E\" Get More! • ED newsletters • Teaching resources • Answers to questions • Online services • Web customer survey end right hand nav area left hand nav area BEGIN Content Zone \"Q\"--------------------------------------------------------------------------------------- nav image component end nav image component END Content Zone \"Q\"--------------------------------------------------------------------------------------- BEGIN Content Zone \"M\"--------------------------------------------------------------------------------------- Press Releases Speeches Latest 2006 2005 2004 2003 2002 Archive Fact Sheets, Op-Eds Photos Audio & Video Events Senior Staff Newsletters & Journals Federal Register Documents New at ED.gov END Content Zone \"M\"--------------------------------------------------------------------------------------- BEGIN Content Zone \"I\"--------------------------------------------------------------------------------------- BEGIN \"Quick Click\" Section --------------------------------------------------------------------------------------------------------------- IMPORTANT: Each Quick Click link appears in 3 separate places below.  All changes must be made to all 3 occurrences. If netscape 6.x, start form Non-scripting drop-down menu If netscape 4.x on any OS, insert go button and end form If not netscape 6.x or netscape 4.x, end form here END \"Quick Click\" Section --------------------------------------------------------------------------------------------------------------- BEGIN \"Search ED.gov\" Section ------------------------------------------------------------------------------------------------------------ • Advanced \n          Search END \"Search ED.gov\" Section ------------------------------------------------------------------------------------------------------------ BEGIN Links Section ------------------------------------------------------------------------------------------------------------ About ED • Offices • Publications • Budget • Jobs • Contacts Press Room • Fact Sheets • Speeches • Secretary Spellings Help • A-Z Index • Site Map • Technical Support • File Viewers Recursos en español END Links Section ------------------------------------------------------------------------------------------------------------ END Content Zone \"I\"--------------------------------------------------------------------------------------- end left hand nav area startindex main content area Content Zone \"R\" SPEECHES Content Zone \"P\" BEGIN TeamSite Templating Generated Page DISPLAY TITLE Education and Opportunity for All Prepared Remarks for Secretary Spellings at the UNESCO Conference Level 1 FOR RELEASE: //DATE-month, day, year// February 28, 2005 Speaker sometimes deviates from text. Contact table end"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "No Related Topics Found"
+    },
+    {
+      "tag": "div",
+      "text": "Get More!"
+    },
+    {
+      "tag": "div",
+      "text": "• ED newsletters • Teaching resources • Answers to questions • Online services • Web customer survey"
+    },
+    {
+      "tag": "div",
+      "text": "Press Releases Speeches Latest 2006 2005 2004 2003 2002 Archive Fact Sheets, Op-Eds Photos Audio & Video Events Senior Staff Newsletters & Journals Federal Register Documents New at ED.gov"
+    },
+    {
+      "tag": "div",
+      "text": "• Advanced \n          Search"
+    },
+    {
+      "tag": "div",
+      "text": "About ED"
+    },
+    {
+      "tag": "div",
+      "text": "• Offices • Publications • Budget • Jobs • Contacts"
+    },
+    {
+      "tag": "div",
+      "text": "Press Room"
+    },
+    {
+      "tag": "div",
+      "text": "• Fact Sheets • Speeches • Secretary Spellings"
+    },
+    {
+      "tag": "div",
+      "text": "Help"
+    },
+    {
+      "tag": "div",
+      "text": "• A-Z Index • Site Map • Technical Support • File Viewers"
+    },
+    {
+      "tag": "div",
+      "text": "Recursos en español"
+    },
+    {
+      "tag": "div",
+      "text": "SPEECHES Education and Opportunity for All Prepared Remarks for Secretary Spellings at the UNESCO Conference"
+    },
+    {
+      "tag": "div",
+      "text": "FOR RELEASE: February 28, 2005 Speaker sometimes deviates from text."
     },
     {
       "tag": "p",
@@ -16,7 +72,15 @@
     },
     {
       "tag": "div",
-      "text": "End Level 1 BEGIN FOOTER Printable view Share this page END FOOTER Last Modified: 02/28/2005 END TeamSite Templating Generated Page end main content area stopindex Content Zone \"L\" FOIA | Privacy | Security | Notices Whitehouse.gov Expect More .gov FirstGov.gov GovBenefits.gov Results.gov"
+      "text": "Printable view Share this page"
+    },
+    {
+      "tag": "div",
+      "text": "Last Modified: 02/28/2005"
+    },
+    {
+      "tag": "div",
+      "text": "FOIA | Privacy | Security | Notices Whitehouse.gov Expect More .gov FirstGov.gov GovBenefits.gov Results.gov"
     }
   ]
 }

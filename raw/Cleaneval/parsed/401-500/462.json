@@ -3,8 +3,8 @@
   "file_number": "462",
   "content_hash": "5d149c9817f6ec4539464da5056f901f200e61b851f012074b189388d4b8d6d3",
   "total_blocks": 117,
-  "retained_blocks": 26,
-  "ignored_blocks": 91,
+  "retained_blocks": 25,
+  "ignored_blocks": 92,
   "blocks": [
     {
       "tag": "p",
@@ -103,12 +103,8 @@
       "text": "More about the GNU Project"
     },
     {
-      "tag": "div",
-      "text": "All pages on the GNU web server should have the section about verbatim copying.  Please do NOT remove this without talking with the webmasters first. Please make sure the copyright date is consistent with the document and that it is like this \"2001, 2002\" not this \"2001-2002.\""
-    },
-    {
       "tag": "p",
-      "text": "Translations of this page : Please keep this list alphabetical, and in the original language if possible, otherwise default to English If you do not have it English, please comment what the English is.  If you add a new language here, please advise web-translators@gnu.org and add it to - in /home/www/bin/nightly-vars either TAGSLANG or WEBLANG - in /home/www/html/server/standards/README.translations.html one of the lists under the section \"Translations Underway\" - if there is a translation team, you also have to add an alias to mail.gnu.org:/com/mailer/aliases Please also check you have the 2 letter language code right versus http://www.w3.org/WAI/ER/IG/ert/iso639.htm [ English | Česky Czech | Deutsch German | Español Spanish | Français French | Italiano Italian | 한국어 Korean | Nederlands Dutch | Polski Polish | Português Portuguese | Српски Serbian | Svenska Swedish ] Translations of the GNU Manifesto are also available in:\n[ German translation submitted by Peter Gerwinski, peter@gerwinski.de Deutsch French translation written by \"Jacques Du Pasquier\" jacques@dtext.com | Français Japanese translation by H. Meiko, Omoti, tomato1@mwnet.or.jp | 日本語 Russian translation submitted by Oleg S. Tihonov, tihonov@ffke-campus.mipt.ru Russian link is dead as of 05/2004: | <a href=\"http://www.gnu.org.ru/manifesto.html\">&#x0420;&#x0443;&#x0441;&#x0441;&#x043a;&#x0438;&#x0439;</a> Swedish translation written by Linus Walleij, triad@df.lth.se href=\"/gnu/manifesto.sv.html\" - see above Please keep this list alphabetical ] Return to the GNU Project home page . Please send FSF & GNU inquiries to gnu@gnu.org .\nThere are also other ways to contact the FSF. Please send broken links and other corrections (or suggestions) to webmasters@gnu.org . Please see the Translations\nREADME for information on coordinating and submitting\ntranslations of this article. Copyright (C) 1985, 1993, 2003, 2005 Free Software Foundation,\nFree Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, \nMA 02110-1301,  USA Permission is granted to anyone to make or distribute verbatim copies\nof this document, in any medium, provided that the copyright notice and\npermission notice are preserved, and that the distributor grants the\nrecipient permission for further redistribution as permitted by this\nnotice. Modified versions may not be made. Updated: timestamp start $Date: 2006/05/22 10:22:27 $ $Author: ramprasadb $ timestamp end"
+      "text": "Translations of this page : [ English | Česky | Deutsch | Español | Français | Italiano | 한국어 | Nederlands | Polski | Português | Српски | Svenska ] Translations of the GNU Manifesto are also available in:\n[ Deutsch | Français | 日本語 ] Return to the GNU Project home page . Please send FSF & GNU inquiries to gnu@gnu.org .\nThere are also other ways to contact the FSF. Please send broken links and other corrections (or suggestions) to webmasters@gnu.org . Please see the Translations\nREADME for information on coordinating and submitting\ntranslations of this article. Copyright (C) 1985, 1993, 2003, 2005 Free Software Foundation,\nFree Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, \nMA 02110-1301,  USA Permission is granted to anyone to make or distribute verbatim copies\nof this document, in any medium, provided that the copyright notice and\npermission notice are preserved, and that the distributor grants the\nrecipient permission for further redistribution as permitted by this\nnotice. Modified versions may not be made. Updated: $Date: 2006/05/22 10:22:27 $ $Author: ramprasadb $"
     }
   ]
 }

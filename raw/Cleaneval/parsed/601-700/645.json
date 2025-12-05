@@ -3,20 +3,16 @@
   "file_number": "645",
   "content_hash": "101a02e9cf3006232be5bb50d5a0f1030868b9144460dc85db21cd8cf4b449e9",
   "total_blocks": 301,
-  "retained_blocks": 19,
-  "ignored_blocks": 282,
+  "retained_blocks": 18,
+  "ignored_blocks": 283,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" ***************************************************************************************************\n*\n*   PAGE HEADING - separate table to hold page heading - uses solid background colour as gradient\n*   on rest of page varies according to page length\n*\n*************************************************************************************************** Top page banner, advert graphic and menu Replace after Christmas<td rowspan=\"2\"><img src=\"/site_graphics/pitpass_top_header_c1.jpg\" border=\"0\" width=\"244\" height=\"84\"></td>"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\""
     },
     {
       "tag": "p",
       "text": "about pitpass | contact pitpass | copyright | privacy & security | rss"
-    },
-    {
-      "tag": "div",
-      "text": "Ticker container inserted by function ***************************************************************************************************\n*\n*   PAGE CONTENT - separate container table for page content, uses gradient background 'behind'\n*   panels\n*\n*************************************************************************************************** JavaScript Tag // Tag for network 565: MediaRun // Website: Pitpass // Page: ROS // Placement: ROS 120x600 LEFT (1080063) // created at: Jul 17, 2006 4:49:58 PM End of JavaScript Tag ***************************************************************************************************\n*\n*   PAGE CONTENT TOP PANEL - the page content is divided into three sections, a 'slim' top panel,\n*   a main 'large' panel and a 'slim' bottom panel. Dark dark with rounded corners and headings\n*\n*************************************************************************************************** ***************************************************************************************************\n*\n*   PAGE CONTENT MIDDLE PANEL - the page content divided into three columns\n*\n*************************************************************************************************** FES_LEFT_PANEL_TD_START FES_LEFT_PANEL_TD_END ***************************************************************************************************\n*\n*   PAGE CONTENT MIDDLE PANEL LEFT PANE - site menu, on this day, newsletter and poll, ad banner\n*\n*************************************************************************************************** <tr>\n                                            <td><a onmouseover='fncFesMoChangeState(1, \"pp_mb_2005_season\", 1); return true;' onmouseout='fncFesMoChangeState(0,\"pp_mb_2005_season\",1); return true;' href=\"/src/seasons/2005/pitpass_2005_index.php\"><img src=\"/site_graphics/pp_mb_2005_season.gif\" name=\"pp_mb_2005_season\" border=\"0\" width=\"159\" height=\"20\"></a></td>\n                                        </tr> <tr>\n                                            <td><a onmouseover='fncFesMoChangeState(1, \"pp_mb_postcards\", 1); return true;' onmouseout='fncFesMoChangeState(0,\"pp_mb_postcards\",1); return true;' href=\"/fes_php/pitpass_send_ecards.php\"><img src=\"/site_graphics/pp_mb_postcards.gif\" name=\"pp_mb_postcards\" border=\"0\" width=\"159\" height=\"20\"></a></td>\n                                        </tr>\n                                        <tr>\n                                            <td><a onmouseover='fncFesMoChangeState(1, \"pp_mb_downloads\", 1); return true;' onmouseout='fncFesMoChangeState(0,\"pp_mb_downloads\",1); return true;' href=\"/fes_php/pitpass_download_index.php\"><img src=\"/site_graphics/pp_mb_downloads.gif\" name=\"pp_mb_downloads\" border=\"0\" width=\"159\" height=\"20\"></a></td>\n                                        </tr> <tr>\n                                            <td><a onmouseover='fncFesMoChangeState(1, \"pp_mb_fun\", 1); return true;' onmouseout='fncFesMoChangeState(0,\"pp_mb_fun\",1); return true;' href=\"/src/fun/pitpass_fun_index.php\"><img src=\"/site_graphics/pp_mb_fun.gif\" name=\"pp_mb_fun\" border=\"0\" width=\"159\" height=\"20\"></a></td>\n                                        </tr>\n                                        <tr>\n                                            <td><a onmouseover='fncFesMoChangeState(1, \"pp_mb_store\", 1); return true;' onmouseout='fncFesMoChangeState(0,\"pp_mb_store\",1); return true;' href=\"javascript:void(null)\" onclick='fncFesOpenWindow(\"/fes_php/fes_usr_sto_product_display.php?fes_prd_id=1\",\"pitpass_store\",800,600,0,0,1,1,1,1,1,1,1); if(!fes_environment.ns) {this.blur();} return true;'\"><img src=\"/site_graphics/pp_mb_store.gif\" name=\"pp_mb_store\" border=\"0\" width=\"159\" height=\"20\"></a></td>\n                                        </tr> <tr>\n                                            <td><a onmouseover='fncFesMoChangeState(1, \"pp_mb_who_works_in\", 1); return true;' onmouseout='fncFesMoChangeState(0,\"pp_mb_who_works_in\",1); return true;' href=\"http://www.whoworksin.com\" target=\"_blank\"><img src=\"/site_graphics/pp_mb_who_works_in.gif\" name=\"pp_mb_who_works_in\" border=\"0\" width=\"159\" height=\"20\"></a></td>\n                                        </tr>"
     },
     {
       "tag": "p",
@@ -24,15 +20,15 @@
     },
     {
       "tag": "div",
-      "text": "Poll inserted by function - front page only FES_POLL Mailing list form inserted by function Subscribe to the PITPASS newsletters: NAME: EMAIL: Weekly Grand Prix Hot News HTML Plain Text Subscribe Unsubscribe Latest feature list inserted by function Five for the future Green Fourth best Talking Point: All Points East...But At What Cost? Unsung Heroes"
+      "text": "Subscribe to the PITPASS newsletters: NAME: EMAIL: Weekly Grand Prix Hot News HTML Plain Text Subscribe Unsubscribe"
+    },
+    {
+      "tag": "div",
+      "text": "Five for the future Green Fourth best Talking Point: All Points East...But At What Cost? Unsung Heroes"
     },
     {
       "tag": "p",
       "text": "More Features..."
-    },
-    {
-      "tag": "div",
-      "text": "***************************************************************************************************\n*\n*   PAGE CONTENT MIDDLE PANEL CENTRE PANE - site content\n*\n*************************************************************************************************** FES_CENTRE_PANEL_TD_START FES_CENTRE_PANEL_TD_END"
     },
     {
       "tag": "h3",
@@ -48,7 +44,15 @@
     },
     {
       "tag": "div",
-      "text": "Printer friendly version of this article Send this article to a friend Discuss this article in the Pitpass forum FES_ADDITIONAL_PAGE_CONTENT ***************************************************************************************************\n*\n*   PAGE CONTENT MIDDLE PANEL RIGHT PANE - news search, latest news, features, ad banner\n*\n*************************************************************************************************** FES_RIGHT_PANEL_TD_START FES_RIGHT_PANEL_TD_END FES_SIDE_SEARCH_CLASS_START FES_SIDE_SEARCH_CLASS_END FES_SIDE_SEARCH_MESSAGE_START Search the PITPASS news: FES_SIDE_SEARCH_MESSAGE_END FES_SIDE_SEARCH_VALUE_START FES_SIDE_SEARCH_VALUE_END FES_GP_QUICKLINKS1 Latest F1 news list inserted by function Official: Yamamoto confirmed as Super Aguri's second test driver Merry Christmas from Pitpass No comment from Monteiro, for now Official: Sutil to partner Albers at Spyker Official Glock joins BMW as test number two Q&Awith Heikki Kovalainen Suits you, as Spyker attracts new partner Q&Awith Giancarlo Fisichella Q&Awith Paul Stoddart and Keith Wiggins Stoddart tight-lipped on drivers but Jos is in the frame Official: Stoddart enters Champ Car with Minardi Team USA Purnell revealed as Technical Consultant to the FIA Improvements at Barcelona Massa wins in Brazil Massa on pole for International Challenge RoC to move to London Ekström causes upset in RoC Victory for Finland in Paris Bridgestone reflects on winter tests di Montezemolo pays tribute to Regazzoni"
+      "text": "Printer friendly version of this article Send this article to a friend Discuss this article in the Pitpass forum"
+    },
+    {
+      "tag": "div",
+      "text": "Search the PITPASS news:"
+    },
+    {
+      "tag": "div",
+      "text": "Official: Yamamoto confirmed as Super Aguri's second test driver Merry Christmas from Pitpass No comment from Monteiro, for now Official: Sutil to partner Albers at Spyker Official Glock joins BMW as test number two Q&Awith Heikki Kovalainen Suits you, as Spyker attracts new partner Q&Awith Giancarlo Fisichella Q&Awith Paul Stoddart and Keith Wiggins Stoddart tight-lipped on drivers but Jos is in the frame Official: Stoddart enters Champ Car with Minardi Team USA Purnell revealed as Technical Consultant to the FIA Improvements at Barcelona Massa wins in Brazil Massa on pole for International Challenge RoC to move to London Ekström causes upset in RoC Victory for Finland in Paris Bridgestone reflects on winter tests di Montezemolo pays tribute to Regazzoni"
     },
     {
       "tag": "p",
@@ -56,7 +60,7 @@
     },
     {
       "tag": "div",
-      "text": "FES_GP_QUICKLINKS2 Latest A1GP news list inserted by function Lammers to fight disqualification Maktoum completes sale of A1 GP shareholding A1 GP at Sentul in Words and Pictures Netherlands excluded from Feature Race result Sentul: Sunday Quotes"
+      "text": "Lammers to fight disqualification Maktoum completes sale of A1 GP shareholding A1 GP at Sentul in Words and Pictures Netherlands excluded from Feature Race result Sentul: Sunday Quotes"
     },
     {
       "tag": "p",
@@ -64,23 +68,15 @@
     },
     {
       "tag": "div",
-      "text": "Latest A1GP news list inserted by function Who Goes Where 2007 ART reveals di Grassi and Ammermuller for 2007 Fisichella Motor Sport announces 2007 line-up 2007 season car unveiled iSport delighted with Valencia test"
+      "text": "Who Goes Where 2007 ART reveals di Grassi and Ammermuller for 2007 Fisichella Motor Sport announces 2007 line-up 2007 season car unveiled iSport delighted with Valencia test"
     },
     {
       "tag": "p",
       "text": "More News..."
-    },
-    {
-      "tag": "div",
-      "text": "***************************************************************************************************\n*\n*   PAGE CONTENT BOTTOM PANEL - light with rounded corners\n*\n*************************************************************************************************** ***************************************************************************************************\n*\n*   PAGE FOOTER - copyright message\n*\n***************************************************************************************************"
     },
     {
       "tag": "p",
       "text": "Copyright © 2002-2006 Pitpass . All rights reserved."
-    },
-    {
-      "tag": "div",
-      "text": "JavaScript Tag // Tag for network 565: MediaRun // Website: Pitpass // Page: ROS // Placement: ROS 120x600 RIGHT (1080062) // created at: Jul 17, 2006 4:49:24 PM End of JavaScript Tag"
     }
   ]
 }

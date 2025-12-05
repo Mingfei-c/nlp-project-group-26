@@ -3,13 +3,9 @@
   "file_number": "493",
   "content_hash": "588ccc5b201c9f7c78131fa50552de00cfa43b48a36eafadd7884f412d7c0bc4",
   "total_blocks": 188,
-  "retained_blocks": 50,
-  "ignored_blocks": 138,
+  "retained_blocks": 46,
+  "ignored_blocks": 142,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "msnavigation msnavigation msnavigation msnavigation"
-    },
     {
       "tag": "h1",
       "text": "Visual Basic, VB, C# Serial Communications Example Tutorials\r\nSource Code Programs"
@@ -192,19 +188,7 @@
     },
     {
       "tag": "p",
-      "text": "We try to offer a fair and balanced opinion on every \r\n                    page of our website.  We would appreciate more \r\n      information from other  users to express their opinions which we will \r\n      then incorporate.  If you have questions or comments please post them \r\n      on our message board (see button in left hand column) so that others can \r\n      read and benefit. msnavigation"
-    },
-    {
-      "tag": "div",
-      "text": "msnavigation msnavigation"
-    },
-    {
-      "tag": "p",
-      "text": "Click here to find out how High \r\nTech Services can help you implement this technology. Copyright  1984-2005 CompanyLongName HTS, Cary, Raleigh, RTP, North Carolina, NC.  \r\nAll Rights Reserved.  All trademarks are the property of their owners. Prices \r\nand specifications subject to change without notice."
-    },
-    {
-      "tag": "div",
-      "text": "msnavigation"
+      "text": "We try to offer a fair and balanced opinion on every \r\n                    page of our website.  We would appreciate more \r\n      information from other  users to express their opinions which we will \r\n      then incorporate.  If you have questions or comments please post them \r\n      on our message board (see button in left hand column) so that others can \r\n      read and benefit. Click here to find out how High \r\nTech Services can help you implement this technology. Copyright  1984-2005 CompanyLongName HTS, Cary, Raleigh, RTP, North Carolina, NC.  \r\nAll Rights Reserved.  All trademarks are the property of their owners. Prices \r\nand specifications subject to change without notice."
     }
   ]
 }

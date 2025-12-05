@@ -3,13 +3,9 @@
   "file_number": "203",
   "content_hash": "6764db3268411d72650d0ef5e580035b98c8dcbd5c94e63ba0133b74f5e5d83b",
   "total_blocks": 32,
-  "retained_blocks": 11,
-  "ignored_blocks": 21,
+  "retained_blocks": 10,
+  "ignored_blocks": 22,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "BEGIN LINKEXCHANGE CODE END LINKEXCHANGE CODE ---- HTML starts here ---- ---- HTML ends here ----"
-    },
     {
       "tag": "h1",
       "text": "\"RISKY WOMENS CLOTHING\""

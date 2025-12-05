@@ -3,8 +3,8 @@
   "file_number": "476",
   "content_hash": "1f75df0d6af932c5e42e7b36b5ed69168b5a5ab76a5e40e03a596a7a07bc5647",
   "total_blocks": 57,
-  "retained_blocks": 14,
-  "ignored_blocks": 43,
+  "retained_blocks": 15,
+  "ignored_blocks": 42,
   "blocks": [
     {
       "tag": "div",
@@ -36,7 +36,11 @@
     },
     {
       "tag": "p",
-      "text": "As you may know, blogs everywhere are participating in a great Friz Freleng Blog-a-Thon today , in honor of the great man's 100th (maybe) birthday. So here's a Friz tribute Iwrote a long, long time ago--it appared in Animato #18 , which cover-featured Jerry Beck's Friz interview, back in 1989. (Amazing in retrospect to think that back then, not only was Friz still with us, but Iwrote of his career as a Warner Bros. director in the present tense.) If Iwas going to write about Freleng today, Imight come to different conclusions, or discuss them more artfully--or maybe not--but Idecided to present my essay exactly as Iwrote it back in the 20th century. In fact, after initially planning to OCR it into ASCII text, Idecided Iliked the scanned image--Times Roman type, crummy newsprint, and all (including at least one typo). It reminds me of the fun we had desktop-publishing Animato, back in the era when communicating with animation fandom required printing up magazines and begging comic-book distributors to take them so they could wind up in retail stores. So here's to you, Friz:"
+      "text": "As you may know, blogs everywhere are participating in a great Friz Freleng Blog-a-Thon today , in honor of the great man's 100th (maybe) birthday. So here's a Friz tribute Iwrote a long, long time ago--it appared in Animato #18 , which cover-featured Jerry Beck's Friz interview, back in 1989. (Amazing in retrospect to think that back then, not only was Friz still with us, but Iwrote of his career as a Warner Bros. director in the present tense.)"
+    },
+    {
+      "tag": "p",
+      "text": "If Iwas going to write about Freleng today, Imight come to different conclusions, or discuss them more artfully--or maybe not--but Idecided to present my essay exactly as Iwrote it back in the 20th century. In fact, after initially planning to OCR it into ASCII text, Idecided Iliked the scanned image--Times Roman type, crummy newsprint, and all (including at least one typo). It reminds me of the fun we had desktop-publishing Animato, back in the era when communicating with animation fandom required printing up magazines and begging comic-book distributors to take them so they could wind up in retail stores. So here's to you, Friz:"
     },
     {
       "tag": "div",
@@ -56,7 +60,7 @@
     },
     {
       "tag": "div",
-      "text": "MessageCenter Aplace to speak out Chat-O-Torium Gab in weekly chats Comics a Go Go Peruse 100+ strips Stuff by Harry Writings, etc. Harry's Museum Virtual exhibits More Goodies Harry's bio & other stuff Atomz Search HTML for Harry-Go-Round"
+      "text": "MessageCenter Aplace to speak out Chat-O-Torium Gab in weekly chats Comics a Go Go Peruse 100+ strips Stuff by Harry Writings, etc. Harry's Museum Virtual exhibits More Goodies Harry's bio & other stuff"
     },
     {
       "tag": "p",

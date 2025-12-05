@@ -3,12 +3,24 @@
   "file_number": "344",
   "content_hash": "b5e1c8b4b35a83bf9ee08cc014a6c72e473750a41a6a8d6a3956cc51eff1f7bd",
   "total_blocks": 134,
-  "retained_blocks": 5,
-  "ignored_blocks": 129,
+  "retained_blocks": 10,
+  "ignored_blocks": 124,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" InstanceBegin template=\"/Templates/article.dwt\" codeOutsideHTMLIsLocked=\"false\" InstanceBeginEditable name=\"doctitle\" InstanceEndEditable #include virtual=\"/inc/keywords.shtml\" Get Involved Our Buildings Clinical Services Replication Street to Home (S2Hi) Our\n                        Board Our\n                        Staff Employment Opportunities Press Articles Press Releases Video"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Get Involved Our Buildings Clinical Services Replication Street to Home (S2Hi)"
+    },
+    {
+      "tag": "div",
+      "text": "Our\n                        Board Our\n                        Staff Employment Opportunities Press"
+    },
+    {
+      "tag": "div",
+      "text": "Articles Press Releases Video"
     },
     {
       "tag": "p",
@@ -16,7 +28,15 @@
     },
     {
       "tag": "div",
-      "text": "Contact\n                        Us Search Google Search WWW Search commonground.org Search Google InstanceBeginEditable name=\"Title\" Common Ground plan questioned by town residents InstanceEndEditable InstanceBeginEditable name=\"Subhead\" InstanceEndEditable InstanceBeginEditable name=\"Author\" By CHRISTINA HALL InstanceEndEditable InstanceBeginEditable name=\"Date\" April 1, 2004 InstanceEndEditable InstanceBeginEditable name=\"Publication\" Chronicle InstanceEndEditable InstanceBeginEditable name=\"body\""
+      "text": "Contact\n                        Us"
+    },
+    {
+      "tag": "div",
+      "text": "Search WWW Search commonground.org"
+    },
+    {
+      "tag": "div",
+      "text": "Common Ground plan questioned by town residents By CHRISTINA HALL April 1, 2004 Chronicle"
     },
     {
       "tag": "p",
@@ -24,7 +44,7 @@
     },
     {
       "tag": "div",
-      "text": "InstanceEndEditable Phone: 212-389-9300 Home |\n            <a href=\"/policies/editorial.html\" class=\"footer\">Editorial Policy</a>\n            | <a href=\"/policies/disclaimer.html\" class=\"footer\">Disclaimer</a>\n            | <a href=\"/policies/privacy.html\" class=\"footer\">Privacy Policy</a>\n            | <a href=\"/policies/link.html\" class=\"footer\">Link Policy</a> | Contact Us | Japanese © 2003 Common Ground Community. All rights reserved. Common \n            Ground Community is a nonprofit organization recognized as tax-exempt \n            under Internal Revenue Code section 501(c)(3). We are solving Homelessness \n            through innovative programs that transform people, buildings, and \n            communities InstanceEnd"
+      "text": "Phone: 212-389-9300 Home | Contact Us | Japanese © 2003 Common Ground Community. All rights reserved. Common \n            Ground Community is a nonprofit organization recognized as tax-exempt \n            under Internal Revenue Code section 501(c)(3). We are solving Homelessness \n            through innovative programs that transform people, buildings, and \n            communities"
     }
   ]
 }

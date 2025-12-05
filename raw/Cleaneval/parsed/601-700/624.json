@@ -3,13 +3,9 @@
   "file_number": "624",
   "content_hash": "a7bdd6809a21742540403a11a84b543ccd4709fcaa205edbad4a3bbab3d28144",
   "total_blocks": 141,
-  "retained_blocks": 57,
-  "ignored_blocks": 84,
+  "retained_blocks": 55,
+  "ignored_blocks": 86,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "msnavigation msnavigation msnavigation msnavigation"
-    },
     {
       "tag": "h1",
       "text": "The Outside Shore Oil Paint"
@@ -224,15 +220,11 @@
     },
     {
       "tag": "div",
-      "text": "msnavigation Hear Music Make Music View Art Make Art msnavigation msnavigation"
+      "text": "Hear Music Make Music View Art Make Art"
     },
     {
       "tag": "p",
       "text": "All content copyright © The Outside \r\nShore Marc Sabatella / marc@outsideshore.com P.O. Box 147151, Edgewater, CO 80214-7151"
-    },
-    {
-      "tag": "div",
-      "text": "msnavigation"
     }
   ]
 }

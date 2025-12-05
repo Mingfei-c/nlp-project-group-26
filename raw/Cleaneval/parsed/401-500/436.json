@@ -3,12 +3,28 @@
   "file_number": "436",
   "content_hash": "38b563284cb4430e344d5c0fa0cff73ece3cbc63fbd0f4c4c90c8dcec348f723",
   "total_blocks": 149,
-  "retained_blocks": 3,
-  "ignored_blocks": 146,
+  "retained_blocks": 7,
+  "ignored_blocks": 142,
   "blocks": [
     {
       "tag": "div",
-      "text": "Franklin Electronic Publishers is the worldwide market leader in handheld electronic books, the popular BOOKMAN series, Rocket eBook, producer of ROLODEX Electronics PIMS, dictionaries, encyclopedias, Bibles, entertainment titles, education, tutorial publications, and medical reference products. WEBSIDESTORY CODE HBX1.0 (Universal) COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy END WEBSIDESTORY CODE TOP NAVIGATION <table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\r\n<tr><td width=\"780\"> You have item(s) in your cart HOME HANDHELD DEVICES eBOOKS EXPANSION CARDS GIFT CENTER OUTLET STORE </td>\r\n<td>\r\n<table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\r\n<tr><td><img src=\"/images/dot.gif\" height=\"46\" width=\"1\"></td></tr>\r\n<tr><td bgcolor=\"#003366\"><img src=\"/images/dot.gif\" width=\"100%\" height=\"16\"></td></tr>\r\n</table>\r\n</td></tr>\r\n</table> Home » ################/TEST############## Start Side Nav Browse by Category Dictionaries Bilingual Dictionaries Test Preparation Puzzles and Games Language Learning Translators Bibles Electronic Organizers Medical Fiction eBooks Nonfiction eBooks Corporate Profile Investors Pressroom International Partners Affiliate Program Careers Contact us News Product Gallery Contact Us"
+      "text": "You have item(s) in your cart"
+    },
+    {
+      "tag": "div",
+      "text": "HOME HANDHELD DEVICES eBOOKS EXPANSION CARDS GIFT CENTER OUTLET STORE"
+    },
+    {
+      "tag": "div",
+      "text": "Home »"
+    },
+    {
+      "tag": "div",
+      "text": "Browse by Category Dictionaries Bilingual Dictionaries Test Preparation Puzzles and Games Language Learning Translators Bibles Electronic Organizers Medical Fiction eBooks Nonfiction eBooks"
+    },
+    {
+      "tag": "div",
+      "text": "Corporate Profile Investors Pressroom International Partners Affiliate Program Careers Contact us News Product Gallery Contact Us"
     },
     {
       "tag": "p",
@@ -16,7 +32,7 @@
     },
     {
       "tag": "div",
-      "text": "************** start endpage ************ Home Site Map My Account Register Product Support Product Manuals Catalog Better Grades Outlet Store About Us Pressroom Investors Affiliate Program International Contact Us Careers Privacy Policy Copyright 2006 © Franklin Electronic Publishers, All Rights Reserved. - start of TRACK_Franklin/securepixel Secure Track-It Tag - - end of TRACK_Franklin/securepixel Secure Track-It Tag -"
+      "text": "Home Site Map My Account Register Product Support Product Manuals Catalog Better Grades Outlet Store About Us Pressroom Investors Affiliate Program International Contact Us Careers Privacy Policy Copyright 2006 © Franklin Electronic Publishers, All Rights Reserved."
     }
   ]
 }

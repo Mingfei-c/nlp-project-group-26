@@ -3,12 +3,28 @@
   "file_number": "753",
   "content_hash": "b1d7622a6a1210b0bbf7c90ec06082befffa7d7d8ab563f8896d5c05f48492df",
   "total_blocks": 115,
-  "retained_blocks": 3,
-  "ignored_blocks": 112,
+  "retained_blocks": 7,
+  "ignored_blocks": 108,
   "blocks": [
     {
       "tag": "div",
-      "text": "<span style=\"color: red;\">prod@SDP3.8.1_31811</span> Subscriber Services Complete Forecast Search Recent News Archives Web for Jobs Cars Real Estate Apartments Local Shopping All Classifieds • New! Legal Ads • Create an Ad • Find an Ad Dating News Sports Opinion / Letters Obituaries Business Entertainment Living Calendars/Events Dear Abby Food Gardening Home Health & Fitness Travel Past Articles online extras ONLINE EXTRAS Audio & Video Blogs Building Our City Discussion Boards Gardening 101 Newspaper Ads News To Use NIE S.C. History Surveys Weddings Women's Expo site services SITE SERVICES Past Articles Contact Us Ad Rates (Download) How to Advertise Maps & Directions RSS Feeds Yellow Pages JOBS AT THE STATE online extras ONLINE EXTRAS Audio & Video Blogs Building Our City Discussion Boards The Hunley Series Newspaper Ads NIE S.C. History Surveys Weddings site services SITE SERVICES About The State Contact Us Past Articles How to Advertise Photo Reprints Maps & \n\nDirections RSS Feeds Yellow Pages Jobs at 'The State' Carrier Application Back to Home > Tuesday, Dec 26, 2006 Living"
+      "text": "Subscriber Services Complete Forecast Search Recent News Archives Web for"
+    },
+    {
+      "tag": "div",
+      "text": "Jobs Cars Real Estate Apartments Local Shopping All Classifieds • New! Legal Ads • Create an Ad • Find an Ad Dating"
+    },
+    {
+      "tag": "div",
+      "text": "News Sports Opinion / Letters Obituaries Business Entertainment Living Calendars/Events Dear Abby Food Gardening Home Health & Fitness Travel Past Articles ONLINE EXTRAS Audio & Video Blogs Building Our City Discussion Boards Gardening 101 Newspaper Ads News To Use NIE S.C. History Surveys Weddings Women's Expo SITE SERVICES Past Articles Contact Us Ad Rates (Download) How to Advertise Maps & Directions RSS Feeds Yellow Pages JOBS AT THE STATE"
+    },
+    {
+      "tag": "div",
+      "text": "ONLINE EXTRAS Audio & Video Blogs Building Our City Discussion Boards The Hunley Series Newspaper Ads NIE S.C. History Surveys Weddings"
+    },
+    {
+      "tag": "div",
+      "text": "SITE SERVICES About The State Contact Us Past Articles How to Advertise Photo Reprints Maps & \n\nDirections RSS Feeds Yellow Pages Jobs at 'The State' Carrier Application Back to Home > Tuesday, Dec 26, 2006 Living"
     },
     {
       "tag": "h1",

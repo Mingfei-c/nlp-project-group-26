@@ -8,7 +8,11 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "begin ZEDO end ZEDO This is the search engine form. Entire Site Articles/Fact Sheets Ask the Experts Conference Coverage This is the end of the search engine form. end search end topnav start leftnav HIV/AIDS Basics & Prevention Just Diagnosed HIV Treatment Living With HIV AIDS Policy & Activism HIV Around the World Conference Coverage insert 120x90 code here end leftnav start maincontent Universal Fellowship of Metropolitan Community Churches AIDS Ministry Spiritual Strength for Survival Finding Hope to Be Fully Alive With HIV/AIDS"
+      "text": "Entire Site Articles/Fact Sheets Ask the Experts Conference Coverage"
+    },
+    {
+      "tag": "div",
+      "text": "HIV/AIDS Basics & Prevention Just Diagnosed HIV Treatment Living With HIV AIDS Policy & Activism HIV Around the World Conference Coverage Universal Fellowship of Metropolitan Community Churches AIDS Ministry Spiritual Strength for Survival Finding Hope to Be Fully Alive With HIV/AIDS"
     },
     {
       "tag": "p",
@@ -141,10 +145,6 @@
     {
       "tag": "p",
       "text": "This was written by the Rev. Dr. Stephen Pieters, a longterm survivor (since 1982) of HIV infection. Although diagnosed with full-blown AIDS, Kaposi's Sarcoma, and lymphoma, he experienced complete remission of his cancers while on an experimental drug, suramin, in 1985, and has been clinically well in all respects since 1986. Pieters is the Field Director of AIDS Ministry for the Universal Fellowship of Metropolitan Community Churches.\r\nNote: The study quoted is published in The Annals of The New York Academy of Science: 496: 647-655, 1987.\r\nScriptural quotations are paraphrased by Rev. Pieters, based upon comparison of various translations. For more information, write or call: The UFMCC AIDS Ministry Universal Fellowship of Metropolitan Community Churches 5300 Santa Monica Blvd., Suite 304 Los Angeles, CA 90029 (213) 464-5100; fax (213) 464-2123. Our thanks to Universal Fellowship of Metropolitan Community Churches AIDS Ministry , which provided this article to The Body."
-    },
-    {
-      "tag": "div",
-      "text": "end maincontent start rightnav <tr><td><a href=\"#\"><IMG SRC=\"/images/global/icon_printer.gif\" border=0 WIDTH=\"29\" HEIGHT=\"19\" ALT=\"\"></a><a href=\"#\"><IMG SRC=\"/images/global/txt_printer.gif\" border=0 WIDTH=\"75\" HEIGHT=\"20\" ALT=\"\"></a></td></tr> begin ZEDO end ZEDO end rightnav"
     },
     {
       "tag": "p",

@@ -3,12 +3,12 @@
   "file_number": "361",
   "content_hash": "c9b0476a59c6275c9f7abfc9037c01a73475478a9335ade134be2fbe48b5fbae",
   "total_blocks": 34,
-  "retained_blocks": 9,
-  "ignored_blocks": 25,
+  "retained_blocks": 7,
+  "ignored_blocks": 27,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd\" Start Header"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd\""
     },
     {
       "tag": "h1",
@@ -16,15 +16,11 @@
     },
     {
       "tag": "div",
-      "text": "End Start Global Navigation home End Start Heading"
+      "text": "home"
     },
     {
       "tag": "h1",
       "text": "404 Page Not Found"
-    },
-    {
-      "tag": "div",
-      "text": "End Start body Text"
     },
     {
       "tag": "p",
@@ -37,10 +33,6 @@
     {
       "tag": "p",
       "text": "Please update your bookmarks with the new URL."
-    },
-    {
-      "tag": "div",
-      "text": "End Start Footer Icons End"
     }
   ]
 }

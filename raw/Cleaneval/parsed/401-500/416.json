@@ -3,12 +3,24 @@
   "file_number": "416",
   "content_hash": "37717ee2e122f45e6e2dcab4d444ac33ae03d9d81fe39ad63dc1082e580fc680",
   "total_blocks": 116,
-  "retained_blocks": 15,
-  "ignored_blocks": 101,
+  "retained_blocks": 17,
+  "ignored_blocks": 99,
   "blocks": [
     {
       "tag": "div",
-      "text": "Focus On... Women in Uniform Focus On... home page FamilyRecords home page Women's Royal Naval Service - Profile Introduction Nurses in the Crimea Nurses in the\r\n                British Army Almeric\r\n                Paget Military Massage Corps Scottish Women's Hospitals Women's Royal Naval Service"
+      "text": "Focus On... Women in Uniform"
+    },
+    {
+      "tag": "div",
+      "text": "Focus On... home page FamilyRecords home page"
+    },
+    {
+      "tag": "div",
+      "text": "Women's Royal Naval Service - Profile"
+    },
+    {
+      "tag": "div",
+      "text": "Introduction Nurses in the Crimea Nurses in the\r\n                British Army Almeric\r\n                Paget Military Massage Corps Scottish Women's Hospitals Women's Royal Naval Service"
     },
     {
       "tag": "p",
@@ -16,7 +28,7 @@
     },
     {
       "tag": "div",
-      "text": "Women in WWII Links Credits end of navigation main content area"
+      "text": "Women in WWII Links Credits"
     },
     {
       "tag": "p",
@@ -24,7 +36,7 @@
     },
     {
       "tag": "div",
-      "text": "begin image Detail from Evelyn Mackintosh's WRNS medical\r\n      certificate. See more - Opens in a new window (52k) end image"
+      "text": "Detail from Evelyn Mackintosh's WRNS medical\r\n      certificate. See more - Opens in a new window (52k)"
     },
     {
       "tag": "p",
@@ -32,7 +44,7 @@
     },
     {
       "tag": "div",
-      "text": "begin image Detail from Evelyn Mackintosh's performance report dated June 30th 1918. See more Opens in a new window (74k) end image"
+      "text": "Detail from Evelyn Mackintosh's performance report dated June 30th 1918. See more Opens in a new window (74k)"
     },
     {
       "tag": "p",
@@ -40,15 +52,15 @@
     },
     {
       "tag": "div",
-      "text": "begin image Detail from letter of reference for Evelyn Mackintosh from Captain H.J Rowley. See more Opens in a new window (74k) end image"
+      "text": "Detail from letter of reference for Evelyn Mackintosh from Captain H.J Rowley. See more Opens in a new window (74k)"
     },
     {
       "tag": "p",
-      "text": "She\r\n                          went to London to visit her mother on leave on  November\r\n                  30th 1918 and she came down with influenza.\r\n                        This\r\n                        developed\r\n                        into pneumonia\r\n                        and\r\n                        on 18th December she died, aged 23, at   82\r\n                      Campden Hill Court, Kensington, her mother’s London\r\n                      home. begin image"
+      "text": "She\r\n                          went to London to visit her mother on leave on  November\r\n                  30th 1918 and she came down with influenza.\r\n                        This\r\n                        developed\r\n                        into pneumonia\r\n                        and\r\n                        on 18th December she died, aged 23, at   82\r\n                      Campden Hill Court, Kensington, her mother’s London\r\n                      home."
     },
     {
       "tag": "div",
-      "text": "Detail from Death Cerificate of Evelyn Mackintosh. See more Opens in a new window (74k) end image"
+      "text": "Detail from Death Cerificate of Evelyn Mackintosh. See more Opens in a new window (74k)"
     },
     {
       "tag": "p",
@@ -61,10 +73,6 @@
     {
       "tag": "p",
       "text": "Details of Evelyn Mackintosh's commemoration from the Commonwealth War Graves Commission Name: Evelyn Mary Mackintosh Rank: Assistant Principal Service: Regiment: WRNS Date of Death: 18-12-1918 (age 23) Nationality: Scottish Additional Information: Daughter of Duncan H. and Louisa\r\n                        M. Mackintosh, of Drumalin, Invernesshire Cemetery: Daviot Parish Churchyard, Invernesshire Grave or reference panel no: South of Church This information can be viewed at http://www.cwgc.org/cwgcinternet/casualty_details.aspx?casualty=327555"
-    },
-    {
-      "tag": "div",
-      "text": "end main content area back, top, next buttons end of back, top, next buttons page footer - multi coloured stripe"
     }
   ]
 }

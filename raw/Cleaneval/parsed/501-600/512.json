@@ -3,13 +3,9 @@
   "file_number": "512",
   "content_hash": "9fb132937e32984ca52dfe7f3364bde2d81b62979c0b2415f9a21cca05856064",
   "total_blocks": 84,
-  "retained_blocks": 5,
-  "ignored_blocks": 79,
+  "retained_blocks": 4,
+  "ignored_blocks": 80,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "msnavigation msnavigation msnavigation msnavigation"
-    },
     {
       "tag": "p",
       "text": "Inspiring Women in the Workplace TM"
@@ -24,7 +20,7 @@
     },
     {
       "tag": "div",
-      "text": "msnavigation msnavigation msnavigation The \r\n\t\tAMC Choice | Our Services | Our Clients | News | Resources | Request for Proposal | Contact | Home IntrinXec Management, Inc.  Tel (952) 252-3573  Fax (952) 252-8096 Copyright 2006 IntrinXec. Reprint only with the express permission \r\n\t\tfrom copyright holder(s). All trademarks are property of their respective owners. Web design & maintenance by msnavigation"
+      "text": "The \r\n\t\tAMC Choice | Our Services | Our Clients | News | Resources | Request for Proposal | Contact | Home IntrinXec Management, Inc.  Tel (952) 252-3573  Fax (952) 252-8096 Copyright 2006 IntrinXec. Reprint only with the express permission \r\n\t\tfrom copyright holder(s). All trademarks are property of their respective owners. Web design & maintenance by"
     }
   ]
 }

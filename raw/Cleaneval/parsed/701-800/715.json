@@ -3,12 +3,12 @@
   "file_number": "715",
   "content_hash": "16f79130b02ca97a4c8d8bccd397364ab28076036172f054d6b1a65f46f95b51",
   "total_blocks": 562,
-  "retained_blocks": 393,
-  "ignored_blocks": 169,
+  "retained_blocks": 394,
+  "ignored_blocks": 168,
   "blocks": [
     {
       "tag": "div",
-      "text": "BEGIN RICH-MEDIA BURST! CODE END BURST CODE Free Tutorials HTML Learn HTML Learn CSS Learn XML Learn WML Database Learn Access Learn Data-VB Learn Oracle Learn SQL Programming Learn C++ Learn JavaScript Learn Vbscript Learn VisualBasic"
+      "text": "Free Tutorials HTML Learn HTML Learn CSS Learn XML Learn WML Database Learn Access Learn Data-VB Learn Oracle Learn SQL Programming Learn C++ Learn JavaScript Learn Vbscript Learn VisualBasic"
     },
     {
       "tag": "h1",
@@ -1576,7 +1576,11 @@
     },
     {
       "tag": "div",
-      "text": "BEGIN RICH-MEDIA BURST! CODE END BURST CODE | About us | Categories | New Releases | Most Popular | Web Tutorial | Free Download | Drivers | BEGIN RICH-MEDIA BURST! CODE END BURST CODE 2004 Soft Lookup Corp. Privacy Statement"
+      "text": "| About us | Categories | New Releases | Most Popular | Web Tutorial | Free Download | Drivers |"
+    },
+    {
+      "tag": "div",
+      "text": "2004 Soft Lookup Corp. Privacy Statement"
     }
   ]
 }

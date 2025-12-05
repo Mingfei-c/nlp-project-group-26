@@ -3,12 +3,16 @@
   "file_number": "685",
   "content_hash": "5dc42f216dba465957199333a5640e9b20297b855c45a3984338bda807262cdd",
   "total_blocks": 96,
-  "retained_blocks": 11,
-  "ignored_blocks": 85,
+  "retained_blocks": 12,
+  "ignored_blocks": 84,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\r\n   \"http://www.w3.org/TR/html4/loose.dtd\" InstanceBegin template=\"/Templates/page-template.dwt\" codeOutsideHTMLIsLocked=\"false\" #BeginEditable \"doctitle\" #EndEditable InstanceBeginEditable name=\"FlashWebsite\" InstanceEndEditable #BeginEditable \"breadcrumb\" Home / Courses #EndEditable left column start InstanceBeginEditable name=\"PageName\" How to Do a Practical, Short or Custom Course InstanceEndEditable InstanceBeginEditable name=\"LeftColumn\""
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\r\n   \"http://www.w3.org/TR/html4/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "Home / Courses How to Do a Practical, Short or Custom Course"
     },
     {
       "tag": "p",
@@ -48,7 +52,7 @@
     },
     {
       "tag": "div",
-      "text": "InstanceEndEditable left column end right column start #BeginEditable \"rightcolumn\" right column end #EndEditable footer start Home | Programs | Majors | Courses | Professors | Students/Alumni | Free Newsletter: Success the Rushmore Way Scholarships are Now Available: Apply Online to Qualify | More About Rushmore | Student Community How to Contact Students, Alumni, Faculty, & Staff by Email/Phone | FAQs | Print This Page footer end InstanceEnd"
+      "text": "Home | Programs | Majors | Courses | Professors | Students/Alumni | Free Newsletter: Success the Rushmore Way Scholarships are Now Available: Apply Online to Qualify | More About Rushmore | Student Community How to Contact Students, Alumni, Faculty, & Staff by Email/Phone | FAQs | Print This Page"
     }
   ]
 }

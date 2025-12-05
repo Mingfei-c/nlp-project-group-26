@@ -3,28 +3,20 @@
   "file_number": "534",
   "content_hash": "69b4e41dc502a11e87353b53f08030c79a47cbfa3286f71fe2f71d4e174fa5cc",
   "total_blocks": 332,
-  "retained_blocks": 90,
-  "ignored_blocks": 242,
+  "retained_blocks": 89,
+  "ignored_blocks": 243,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "google_ad_section_start"
-    },
     {
       "tag": "h3",
       "text": "Online Collaboration News Radar. Latest from all over the web on \nWeb Conferencing, Video Conferencing, Virtual Teams and Web Presentations."
     },
     {
       "tag": "div",
-      "text": "google_ad_section_end Left Navigation Column STARTS here Robin Good's hand-picked news on Virtual Teams : Sun, 24 Dec 2006 The Christmas Truce: Spontaneous cooperation read more ... Thu, 21 Dec 2006 New Bioteams Video by Robert Scoble read more ... Wed, 20 Dec 2006 More on Distributed Work - and Hiring Remote Workers read more ... see more news on Virtual Teams Robin Good's hand-picked news on Web Presentations : Sat, 23 Dec 2006 Teamslide 1.9 Now Available as a Freeware Version read more ... Fri, 22 Dec 2006 PowerPoint Design Tips: Extreme Makeover PowerPoint Edition - Video Tutorial read more ... Thu, 21 Dec 2006 PowerPoint Tools And Presentation Design News - December 20th, 2006 read more ... see more news on Web Presentations Events Hot Issues Industry News Interface Design & Usability Interviews New Tools News Opinion Interviews Research & Reports Technology Adoption Tools Trends Left Navigation Column ENDS here Central Column STARTS here google_ad_section_start"
+      "text": "Robin Good's hand-picked news on Virtual Teams : Sun, 24 Dec 2006 The Christmas Truce: Spontaneous cooperation read more ... Thu, 21 Dec 2006 New Bioteams Video by Robert Scoble read more ... Wed, 20 Dec 2006 More on Distributed Work - and Hiring Remote Workers read more ... see more news on Virtual Teams Robin Good's hand-picked news on Web Presentations : Sat, 23 Dec 2006 Teamslide 1.9 Now Available as a Freeware Version read more ... Fri, 22 Dec 2006 PowerPoint Design Tips: Extreme Makeover PowerPoint Edition - Video Tutorial read more ... Thu, 21 Dec 2006 PowerPoint Tools And Presentation Design News - December 20th, 2006 read more ... see more news on Web Presentations Events Hot Issues Industry News Interface Design & Usability Interviews New Tools News Opinion Interviews Research & Reports Technology Adoption Tools Trends"
     },
     {
       "tag": "h1",
       "text": "Online Collaboration News Radar"
-    },
-    {
-      "tag": "div",
-      "text": "google_ad_section_end google_ad_section_start(weight=ignore)"
     },
     {
       "tag": "p",
@@ -152,7 +144,7 @@
     },
     {
       "tag": "div",
-      "text": "google_ad_section_end News Radar Archive google_ad_section_start"
+      "text": "News Radar Archive"
     },
     {
       "tag": "h1",
@@ -324,15 +316,15 @@
     },
     {
       "tag": "div",
-      "text": "google_ad_section_end Archive Of Latest News Central Column ENDS here Right Navigation Column STARTS here HTML Text"
+      "text": "Archive Of Latest News HTML Text"
     },
     {
       "tag": "p",
-      "text": "Robin Good's Online Guide To Web Conferencing And Live Presentation Tools Last Updates Sat, 15 Jul 2006 What Is A Blog? More Video Remixes And How-To Fri, 14 Jul 2006 Future Of Media Report Released: Highlights And Commentary Thu, 13 Jul 2006 News Aggregation Is Online Independent Publishers Natural Next Step Wed, 12 Jul 2006 Intellectual Property vs. Knowledge Sharing: Who Gains? Tue, 11 Jul 2006 The Future of Online Collaboration: Stuart Henshall"
+      "text": "Robin Good's Online Guide To Web Conferencing And Live Presentation Tools"
     },
     {
-      "tag": "div",
-      "text": "Right Navigation Column ENDS here"
+      "tag": "p",
+      "text": "Last Updates Sat, 15 Jul 2006 What Is A Blog? More Video Remixes And How-To Fri, 14 Jul 2006 Future Of Media Report Released: Highlights And Commentary Thu, 13 Jul 2006 News Aggregation Is Online Independent Publishers Natural Next Step Wed, 12 Jul 2006 Intellectual Property vs. Knowledge Sharing: Who Gains? Tue, 11 Jul 2006 The Future of Online Collaboration: Stuart Henshall"
     },
     {
       "tag": "p",
@@ -348,7 +340,15 @@
     },
     {
       "tag": "div",
-      "text": "Conference Calls Company Play omaha poker Party Poker online poker Party Poker Buy text ads here! <table width=\"1004\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr>\n    <td class=\"blacknav\" width=\"50%\"><a href=\"http://www.kolabora.com/about.htm\"><img alt=\"About\" src=\"http://www.kolabora.com/images/topnav_about.gif\" width=\"82\" height=\"39\" border=\"0\" /></a><a href=\"http://www.kolabora.com/privacy.htm\"><img alt=\"Privacy\" src=\"http://www.kolabora.com/images/topnav_privacy.gif\" width=\"90\" height=\"39\" border=\"0\" /></a><a href=\"http://www.kolabora.com/contact.htm\"><img alt=\"Contact\" src=\"http://www.kolabora.com/images/topnav_contact.gif\" width=\"86\" height=\"39\" border=\"0\" /></a></td>\n    <td class=\"blacknav\">&nbsp; </td>\n    <td class=\"blacknav\" align=\"right\" width=\"50%\"><a href=\"http://www.kolabora.com/\"><img alt=\"Kolabora\" src=\"http://www.kolabora.com/images/logo.gif\" width=\"164\" height=\"39\" vspace=\"2\" border=\"0\" /></a></td>\n    <td class=\"blacknav\"><img alt=\"\" src=\"http://www.kolabora.com/images/dot.gif\" width=\"48\" height=\"1\" /></td>\n  </tr>\n</table> google_ad_section_start News Radars:"
+      "text": "Conference Calls Company Play omaha poker Party Poker online poker Party Poker"
+    },
+    {
+      "tag": "div",
+      "text": "Buy text ads here!"
+    },
+    {
+      "tag": "div",
+      "text": "News Radars:"
     },
     {
       "tag": "h2",
@@ -356,15 +356,11 @@
     },
     {
       "tag": "div",
-      "text": "Search Google Search Search Google google_ad_section_end"
+      "text": "Search"
     },
     {
       "tag": "h3",
       "text": "Online Collaboration News Radar. Latest from all over the web on \nWeb Conferencing, Video Conferencing, Virtual Teams and Web Presentations."
-    },
-    {
-      "tag": "div",
-      "text": "webbot bot=\"HTMLMarkup\" startspan BEGIN WEBSIDESTORY CODE COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy notice at: http://websidestory.com/privacy // END WEBSIDESTORY CODE webbot bot=\"HTMLMarkup\" endspan"
     }
   ]
 }

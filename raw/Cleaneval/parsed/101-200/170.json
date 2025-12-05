@@ -3,12 +3,12 @@
   "file_number": "170",
   "content_hash": "1ea9731683861640f85bf3e37fc46dddd63268ffcb32b81edc7504442d8547ed",
   "total_blocks": 191,
-  "retained_blocks": 7,
-  "ignored_blocks": 184,
+  "retained_blocks": 11,
+  "ignored_blocks": 180,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" artifact_id=1498887, built 2006-11-27 02:58"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\""
     },
     {
       "tag": "p",
@@ -16,7 +16,19 @@
     },
     {
       "tag": "div",
-      "text": "hbx /hbx Go to: Guardian Unlimited home UK news World news Comment is free blog Newsblog Sport blog arts & entertainment blog Podcasts ---------------------- Archive search Arts and entertainment Books Business EducationGuardian.co.uk Environment Film Football Jobs Life and health MediaGuardian.co.uk Money Music The Observer Politics Science Shopping SocietyGuardian.co.uk Sport Talk Technology Travel Been there ---------------------- Audio Email services Special reports The Guardian The northerner The wrap ---------------------- Advertising guide Crossword Events / offers Feedback Garden centre GNM press office Graduate GuardianFilms Headline service Help / contacts Information Living our values Newsroom Notes & Queries Reader Offers Soulmates dating Style guide Syndication services Travel offers TV listings Weather Web guides Working for us ---------------------- Guardian Abroad Guardian Monthly Guardian Weekly Money Observer Public Learn Guardian back issues Observer back issues Guardian Professional Read today's paper · Jobs Search: Guardian Unlimited Web start genric textual localnav v2 Localnav: 2713. Home Football Cricket Rugby union Small talk Tennis Horse racing Golf Blog Betting The Ashes Rugby league The Spin Chess Formula one The Gear end genric textual localnav v2 start grid interp: /Widgets/Image/0,,5185644-,00.txt /interp interp: /Widgets/Searchbox/0,,116640-,00.html Search Sport end of searchbox /interp Navbar: no scribbling NOSHOW option set - do not display the ad NOSHOW option set - do not display the ad Search all jobs Start auto trailblock widget /End auto trailblock start Irelate to widget end Irelate to widget Lions tour 2005"
+      "text": "Go to: Guardian Unlimited home UK news World news Comment is free blog Newsblog Sport blog arts & entertainment blog Podcasts ---------------------- Archive search Arts and entertainment Books Business EducationGuardian.co.uk Environment Film Football Jobs Life and health MediaGuardian.co.uk Money Music The Observer Politics Science Shopping SocietyGuardian.co.uk Sport Talk Technology Travel Been there ---------------------- Audio Email services Special reports The Guardian The northerner The wrap ---------------------- Advertising guide Crossword Events / offers Feedback Garden centre GNM press office Graduate GuardianFilms Headline service Help / contacts Information Living our values Newsroom Notes & Queries Reader Offers Soulmates dating Style guide Syndication services Travel offers TV listings Weather Web guides Working for us ---------------------- Guardian Abroad Guardian Monthly Guardian Weekly Money Observer Public Learn Guardian back issues Observer back issues Guardian Professional Read today's paper · Jobs"
+    },
+    {
+      "tag": "div",
+      "text": "Search: Guardian Unlimited Web Home Football Cricket Rugby union Small talk Tennis Horse racing Golf Blog Betting The Ashes Rugby league The Spin Chess Formula one The Gear"
+    },
+    {
+      "tag": "div",
+      "text": "Search Sport"
+    },
+    {
+      "tag": "div",
+      "text": "Search all jobs Lions tour 2005"
     },
     {
       "tag": "h1",
@@ -32,7 +44,11 @@
     },
     {
       "tag": "div",
-      "text": "Article is not commented: 0 Start article trailblock widget overture div end overture div End article trailblock widget Generic Text Widget: no scribbling interp: /Widgets/toolboxnew/0,,5206003-116640,00.html Printable version | Send it to a friend | Save story /interp interp: /Com/Up_Button/0,,,00.html /interp Overture Widget End Overture Widget start grid null block null block null block start grid null block Privacy policy | Terms & conditions | Advertising guide | A-Zindex | About this site Guardian Unlimited © Guardian News and Media Limited 2006 Revenue Science required functions start Revenue Science required functions end Revenue Science required functions start Revenue Science required functions end Revenue Science call pixel server start Revenue Science call pixel server end Revenue Science build segs array start Revenue Science build segs array end Revenue Science static javascript Revenue Science static javascript end"
+      "text": "Printable version | Send it to a friend | Save story"
+    },
+    {
+      "tag": "div",
+      "text": "Privacy policy | Terms & conditions | Advertising guide | A-Zindex | About this site Guardian Unlimited © Guardian News and Media Limited 2006"
     }
   ]
 }

@@ -3,8 +3,8 @@
   "file_number": "614",
   "content_hash": "829f7cb98a20e9bd8b3b77535a59d7efd8ebebe4cc55e3f45ea24f05201af03e",
   "total_blocks": 219,
-  "retained_blocks": 8,
-  "ignored_blocks": 211,
+  "retained_blocks": 9,
+  "ignored_blocks": 210,
   "blocks": [
     {
       "tag": "div",
@@ -16,7 +16,11 @@
     },
     {
       "tag": "div",
-      "text": "E-mail \r\n                                Story Print \r\n                                Story Within \r\n                      a closely held corporation, shareholders are often concerned \r\n                      about what might occur if one of the owners dies. Will the \r\n                      deceased shareholder’s family retain the economic \r\n                      value of the corporate interest? Can the surviving owners \r\n                      avoid interference from the deceased shareholder’s \r\n                      family? Will the survivors have the economic resources to \r\n                      redeem the deceased owner’s interest? Given these \r\n                      concerns, corporate owners are best served by entering into \r\n                      a buy-sell agreement while they are all alive."
+      "text": "E-mail \r\n                                Story Print \r\n                                Story"
+    },
+    {
+      "tag": "div",
+      "text": "Within \r\n                      a closely held corporation, shareholders are often concerned \r\n                      about what might occur if one of the owners dies. Will the \r\n                      deceased shareholder’s family retain the economic \r\n                      value of the corporate interest? Can the surviving owners \r\n                      avoid interference from the deceased shareholder’s \r\n                      family? Will the survivors have the economic resources to \r\n                      redeem the deceased owner’s interest? Given these \r\n                      concerns, corporate owners are best served by entering into \r\n                      a buy-sell agreement while they are all alive."
     },
     {
       "tag": "p",

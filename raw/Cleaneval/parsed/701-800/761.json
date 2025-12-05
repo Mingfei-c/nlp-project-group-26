@@ -3,12 +3,12 @@
   "file_number": "761",
   "content_hash": "b5dc24bb33ec6fed8a2f4572b9f62393f746bdb0751937d49a8136f00d6b330f",
   "total_blocks": 323,
-  "retained_blocks": 27,
-  "ignored_blocks": 296,
+  "retained_blocks": 29,
+  "ignored_blocks": 294,
   "blocks": [
     {
       "tag": "div",
-      "text": "About Treasury New Zealand Economy Budgets & Forecasts Careers Financial Statements Debt Management Working Papers Tax ECO Managing the Public Sector HOME | Contact Us | About this Site | Publications Index | Disclaimer <ul style='margin-left: -15'> Budget Policy Statement 2007 Budget 2006 Previous Budgets Budget Process Latest Forecasts SNA Forecasts Forecasting Process Previous Forecasts Search Pre-Election Economic & Fiscal Update 1999"
+      "text": "About Treasury New Zealand Economy Budgets & Forecasts Careers Financial Statements Debt Management Working Papers Tax ECO Managing the Public Sector HOME | Contact Us | About this Site | Publications Index | Disclaimer Budget Policy Statement 2007 Budget 2006 Previous Budgets Budget Process Latest Forecasts SNA Forecasts Forecasting Process Previous Forecasts Search Pre-Election Economic & Fiscal Update 1999"
     },
     {
       "tag": "p",
@@ -112,7 +112,15 @@
     },
     {
       "tag": "p",
-      "text": "($ million,\r\n              June years) 1999 Actual 2000 Pre-EFU 2001 Pre-EFU 2002 Pre-EFU 2003 Pre-EFU Total\r\n              Revenue 36,357 35,755 37,156 39,089 40,912 Ratio to\r\n              GDP (%) 36.5 34.4 33.8 33.9 33.9 Total\r\n              Expenses 35,825 36,183 37,019 38,054 39,190 Ratio to\r\n              GDP (%) 35.9 34.8 33.7 33.0 32.5 Contribution\r\n              from SOEs and CEs 1,245 442 659 624 619 Operating\r\n              balance 1,777 14 796 1,659 2,341 Ratio to\r\n              GDP (%) 1.8 0.0 0.7 1.4 1.9 Crown\r\n              Balance 6,022 6,079 6,875 8,534 10,875 Net Crown\r\n              Debt 21,701 23,322 23,650 22,852 21,455 Ratio to\r\n              GDP (%) 21.8 22.4 21.5 19.8 17.8 Sources: Statistics New Zealand, The Treasury Notes: 1.  Economic projections were finalised on 1\r\n      October, fiscal projections on 11 October 1999. 2.  Percentage of the labour force, March\r\n      quarter, seasonally adjusted. 3.  Quarterly average. 4.  Annual percentage change, March quarter. 5.  CPIX refers to the Consumer Price Index\r\n      excluding credit services. <Previous Contents © Crown Copyright . The Treasury, 1 The Terrace, PO Box 3724, Wellington, NEW ZEALAND. Tel: +64 4 472 2733. Fax: +64 4 473 0982. Email: Treasury Webmaster ."
+      "text": "($ million,\r\n              June years) 1999 Actual 2000 Pre-EFU 2001 Pre-EFU 2002 Pre-EFU 2003 Pre-EFU Total\r\n              Revenue 36,357 35,755 37,156 39,089 40,912 Ratio to\r\n              GDP (%) 36.5 34.4 33.8 33.9 33.9 Total\r\n              Expenses 35,825 36,183 37,019 38,054 39,190 Ratio to\r\n              GDP (%) 35.9 34.8 33.7 33.0 32.5 Contribution\r\n              from SOEs and CEs 1,245 442 659 624 619 Operating\r\n              balance 1,777 14 796 1,659 2,341 Ratio to\r\n              GDP (%) 1.8 0.0 0.7 1.4 1.9 Crown\r\n              Balance 6,022 6,079 6,875 8,534 10,875 Net Crown\r\n              Debt 21,701 23,322 23,650 22,852 21,455 Ratio to\r\n              GDP (%) 21.8 22.4 21.5 19.8 17.8"
+    },
+    {
+      "tag": "p",
+      "text": "Sources: Statistics New Zealand, The Treasury Notes: 1.  Economic projections were finalised on 1\r\n      October, fiscal projections on 11 October 1999. 2.  Percentage of the labour force, March\r\n      quarter, seasonally adjusted. 3.  Quarterly average. 4.  Annual percentage change, March quarter. 5.  CPIX refers to the Consumer Price Index\r\n      excluding credit services. <Previous Contents"
+    },
+    {
+      "tag": "p",
+      "text": "© Crown Copyright . The Treasury, 1 The Terrace, PO Box 3724, Wellington, NEW ZEALAND. Tel: +64 4 472 2733. Fax: +64 4 473 0982. Email: Treasury Webmaster ."
     }
   ]
 }

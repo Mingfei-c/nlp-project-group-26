@@ -3,20 +3,16 @@
   "file_number": "552",
   "content_hash": "5644afa3d5b0228164f0a95965974facc67b60a63c846c5f7fdab70dbac0b2cf",
   "total_blocks": 82,
-  "retained_blocks": 32,
-  "ignored_blocks": 50,
+  "retained_blocks": 31,
+  "ignored_blocks": 51,
   "blocks": [
     {
       "tag": "div",
-      "text": "/#logo Login Signup Contact University Home /#toplevel Undergraduate Postgraduate PhD Departments People Research Leadership Executive Recruiters Alumni News Events /#navigation /#masthead"
+      "text": "Login Signup Contact University Home Undergraduate Postgraduate PhD Departments People Research Leadership Executive Recruiters Alumni News Events"
     },
     {
       "tag": "h1",
       "text": "Press Centre"
-    },
-    {
-      "tag": "div",
-      "text": "/#heading"
     },
     {
       "tag": "p",
@@ -124,7 +120,7 @@
     },
     {
       "tag": "div",
-      "text": "/#content Press Centre LUMS in the News: Recent Media Coverage LUMS News Events About the School Staff Directory Logo & Graphics Copyright Information Contact Us"
+      "text": "Press Centre LUMS in the News: Recent Media Coverage LUMS News Events About the School Staff Directory Logo & Graphics Copyright Information Contact Us"
     },
     {
       "tag": "p",
@@ -132,7 +128,7 @@
     },
     {
       "tag": "div",
-      "text": "Tel: +44(0)1524 594285 Travel Directions Maps Contact /#contact About LUMS Site Info Feedback Login © 2006 Lancaster University Copyright Notice Disclaimer /#site /#footer /#page /#credits /#container"
+      "text": "Tel: +44(0)1524 594285 Travel Directions Maps Contact About LUMS Site Info Feedback Login © 2006 Lancaster University Copyright Notice Disclaimer"
     }
   ]
 }

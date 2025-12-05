@@ -3,12 +3,20 @@
   "file_number": "296",
   "content_hash": "c65c715c8924699102127351e72f644dbbff5f9a6e801b6bae3542f09c31afba",
   "total_blocks": 102,
-  "retained_blocks": 35,
-  "ignored_blocks": 67,
+  "retained_blocks": 37,
+  "ignored_blocks": 65,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" [if IE 6]>\n<link href=\"/styles/corporate.ie6.css\" rel=\"Stylesheet\" type=\"text/css\" />\n<![endif] [if IE 7]>\n<link href=\"/styles/corporate.ie7.css\" rel=\"Stylesheet\" type=\"text/css\" />\n<![endif] htdig_noindex skip menus | Student Funding Office | contacts | a-z index | stop press | help /htdig_noindex htdig_noindex STUDENT FUNDING Stop Press News Financial help for new undergraduates in 2007 Home Students Undergraduates NEW! More information on undergraduate bursaries and scholarships for 2006 entrants Postgraduates PGCEs EU Students Undergraduate & Postgraduate Overseas Students Undergraduates Postgraduates Other Information Cost of Living Guidance Additional Funding Sources Benefit Entitlement during the Summer Vacation Payment of Student Fees Student Info Web Pages Definition of Home/Overseas Fee Status Contact Us Contact Faculties /htdig_noindex htdig_noindex University home > Student Funding Office > Financing your undergraduate … /htdig_noindex"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "skip menus | Student Funding Office | contacts | a-z index | stop press | help"
+    },
+    {
+      "tag": "div",
+      "text": "STUDENT FUNDING Stop Press News Financial help for new undergraduates in 2007 Home Students Undergraduates NEW! More information on undergraduate bursaries and scholarships for 2006 entrants Postgraduates PGCEs EU Students Undergraduate & Postgraduate Overseas Students Undergraduates Postgraduates Other Information Cost of Living Guidance Additional Funding Sources Benefit Entitlement during the Summer Vacation Payment of Student Fees Student Info Web Pages Definition of Home/Overseas Fee Status Contact Us Contact Faculties University home > Student Funding Office > Financing your undergraduate …"
     },
     {
       "tag": "h1",
@@ -144,7 +152,7 @@
     },
     {
       "tag": "div",
-      "text": "htdig_noindex University home about this site | terms and conditions | feedback University of Bristol , Senate House , Tyndall Avenue , Bristol BS8 1TH , UK - Tel: +44 (0)117 331 7972, or +44 (0)117 954 5785 until 30 June 2007 © 2002-2006 University of Bristol Updated 16/10/2006 by Student Funding Office /htdig_noindex"
+      "text": "University home about this site | terms and conditions | feedback University of Bristol , Senate House , Tyndall Avenue , Bristol BS8 1TH , UK - Tel: +44 (0)117 331 7972, or +44 (0)117 954 5785 until 30 June 2007 © 2002-2006 University of Bristol Updated 16/10/2006 by Student Funding Office"
     }
   ]
 }

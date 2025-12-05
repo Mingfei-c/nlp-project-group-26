@@ -3,12 +3,40 @@
   "file_number": "281",
   "content_hash": "61fdb54e5c459e8067aa2a0456c6ce946f570e54256140b195d0e55bd97b4ceb",
   "total_blocks": 615,
-  "retained_blocks": 25,
-  "ignored_blocks": 590,
+  "retained_blocks": 37,
+  "ignored_blocks": 578,
   "blocks": [
     {
       "tag": "div",
-      "text": "Welcome University of Leeds 27-Dec-2006 ---- OAS SETUP begin ---- ');\n//--> ---- OAS SETUP end ---- ---- OAS AD 'Top' begin ---- ---- OAS AD end ---- BMC Medical Research Methodology Volume 4 Viewing options : • Abstract • Full text • PDF (982KB) Associated material: • Readers' comments • Pre-publication history • PubMed record Related literature: • Articles citing this article on BioMed Central on Google Scholar on PubMed Central Other articles by authors Pietrobon R Guller U Martins H Menezes AP Higgins LD Jacobs DO • Similar articles (PubMed) Tools: • E-mail to a friend • Download references • Post a comment • Order reprints Key : E-mail Corresponding author Database <rdf:RDF xmlns:cc=\"http://web.resource.org/cc/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:prism=\"http://prismstandard.org/namespaces/1.2/basic/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\">\r\n<cc:Work rdf:about=\"http://www.biomedcentral.com/1471-2288/4/29\">\r\n<cc:license rdf:resource=\"http://creativecommons.org/licenses/by/2.0/\"/>\r\n</cc:Work>\r\n<cc:License rdf:about=\"http://creativecommons.org/licenses/by/2.0/\">\r\n<cc:permits rdf:resource=\"http://web.resource.org/cc/Reproduction\"/>\r\n<cc:permits rdf:resource=\"http://web.resource.org/cc/Distribution\"/>\r\n<cc:requires rdf:resource=\"http://web.resource.org/cc/Notice\"/>\r\n<cc:requires rdf:resource=\"http://web.resource.org/cc/Attribution\"/>\r\n<cc:permits rdf:resource=\"http://web.resource.org/cc/DerivativeWorks\"/>\r\n</cc:License>\r\n<item rdf:about=\"http://www.biomedcentral.com/1471-2288/4/29\">\r\n<title>Asuite of web applications to streamline the interdisciplinary collaboration in secondary data analyses</title>\r\n<dc:title>Asuite of web applications to streamline the interdisciplinary collaboration in secondary data analyses</dc:title>\r\n<dc:creator>Pietrobon, Ricardo</dc:creator>\r\n<dc:creator>Guller, Ulrich</dc:creator>\r\n<dc:creator>Martins, Henrique</dc:creator>\r\n<dc:creator>Menezes, Andreia P</dc:creator>\r\n<dc:creator>Higgins, Laurence D</dc:creator>\r\n<dc:creator>Jacobs, Danny O</dc:creator>\r\n<dc:identifier>info:doi/10.1186/1471-2288-4-29</dc:identifier>\r\n<dc:identifier>info:pmid/15596017</dc:identifier>\r\n<dc:source>BMC Medical Research Methodology 2004, 4:29</dc:source>\r\n<dc:date>2004-12-14</dc:date>\r\n<prism:publicationName>BMC Medical Research Methodology</prism:publicationName>\r\n<prism:publicationDate>2004-12-14</prism:publicationDate>\r\n<prism:volume>4</prism:volume>\r\n<prism:number>1</prism:number>\r\n<prism:section>Database</prism:section>\r\n<prism:startingPage>29</prism:startingPage>\r\n</item>\r\n</rdf:RDF> . Asuite of web applications to streamline the interdisciplinary collaboration in secondary data analyses Ricardo Pietrobon 1 , Ulrich Guller 2 , Henrique Martins 3 , Andreia P Menezes 4 , Laurence D Higgins 5 and Danny O Jacobs 6 1 Center for Excellence in Surgical Outcomes, Duke University Medical Center, Duke University, Durham, NC, USA 2 Center for Excellence in Surgical Outcomes, University Hospital Basel, Department of General Surgery and Surgical Research, Basel, Switzerland 3 Duke University Health System, Rio Claro/Sao Paulo, Brazil 4 Reliable International Research, Center for Excellence in Surgical Outcomes, Campina Grande do Sul/ Parana – Brazil 5 Department of Surgery, Duke University Medical Center, Durham, NC, USA 6 Department of Internal Medicine, University of North Carolina at Chapel Hill, NC, USA BMC Medical Research Methodology 2004, 4 : 29     doi:10.1186/1471-2288-4-29 The electronic version of this article is the complete one and can be found online at: http://www.biomedcentral.com/1471-2288/4/29 Received 10 May 2004 Accepted 14 December 2004 Published 14 December 2004 ©\r\n\t\t\t\t\t\t 2004 Pietrobon et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Keywords: biomedical research, statistical data interpretation, research design, planning techniques, Internet, computer-assisted instruction Outline Abstract Abstract Background Construction and content Utility Discussion Conclusion Availability and requirements Abbreviations Competing interests Authors' contributions Acknowledgements References Pre-publication history"
+      "text": "Welcome University of Leeds 27-Dec-2006 ');\n//-->"
+    },
+    {
+      "tag": "div",
+      "text": "BMC Medical Research Methodology Volume 4"
+    },
+    {
+      "tag": "div",
+      "text": "Viewing options : • Abstract • Full text • PDF (982KB) Associated material: • Readers' comments • Pre-publication history • PubMed record Related literature: • Articles citing this article on BioMed Central on Google Scholar on PubMed Central Other articles by authors Pietrobon R Guller U Martins H Menezes AP Higgins LD Jacobs DO • Similar articles (PubMed) Tools: • E-mail to a friend • Download references • Post a comment • Order reprints Key : E-mail Corresponding author"
+    },
+    {
+      "tag": "div",
+      "text": "Database ."
+    },
+    {
+      "tag": "div",
+      "text": "Asuite of web applications to streamline the interdisciplinary collaboration in secondary data analyses Ricardo Pietrobon 1 , Ulrich Guller 2 , Henrique Martins 3 , Andreia P Menezes 4 , Laurence D Higgins 5 and Danny O Jacobs 6 1 Center for Excellence in Surgical Outcomes, Duke University Medical Center, Duke University, Durham, NC, USA 2 Center for Excellence in Surgical Outcomes, University Hospital Basel, Department of General Surgery and Surgical Research, Basel, Switzerland 3 Duke University Health System, Rio Claro/Sao Paulo, Brazil 4 Reliable International Research, Center for Excellence in Surgical Outcomes, Campina Grande do Sul/ Parana – Brazil 5 Department of Surgery, Duke University Medical Center, Durham, NC, USA 6 Department of Internal Medicine, University of North Carolina at Chapel Hill, NC, USA BMC Medical Research Methodology 2004, 4 : 29     doi:10.1186/1471-2288-4-29 The electronic version of this article is the complete one and can be found online at: http://www.biomedcentral.com/1471-2288/4/29"
+    },
+    {
+      "tag": "div",
+      "text": "Received 10 May 2004 Accepted 14 December 2004 Published 14 December 2004"
+    },
+    {
+      "tag": "div",
+      "text": "©\r\n\t\t\t\t\t\t 2004 Pietrobon et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Keywords: biomedical research, statistical data interpretation, research design, planning techniques, Internet, computer-assisted instruction Outline Abstract"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Background Construction and content Utility Discussion Conclusion Availability and requirements Abbreviations Competing interests Authors' contributions Acknowledgements References Pre-publication history"
     },
     {
       "tag": "p",
@@ -16,7 +44,11 @@
     },
     {
       "tag": "div",
-      "text": "Outline Background Abstract Background Construction and content Utility Discussion Conclusion Availability and requirements Abbreviations Competing interests Authors' contributions Acknowledgements References Pre-publication history"
+      "text": "Outline Background"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Background Construction and content Utility Discussion Conclusion Availability and requirements Abbreviations Competing interests Authors' contributions Acknowledgements References Pre-publication history"
     },
     {
       "tag": "p",
@@ -24,7 +56,11 @@
     },
     {
       "tag": "div",
-      "text": "Outline Construction and content Abstract Background Construction and content Utility Discussion Conclusion Availability and requirements Abbreviations Competing interests Authors' contributions Acknowledgements References Pre-publication history Figures Figure 1 Research phases, challenges, and respective tools Figure 2 QuestForm application – Database search engine Figure 3 QuestForm application – Overall description of the database Figure 4 QuestForm application – Formulation of a Question Diagram Figure 5 QuestForm application – Search engine for ICD9 codes Figure 6 Research Manager Figure 7 Analysis Chart Figure 8 Literature Matrix Figure 9 Integration between UR tools and clinical researchers"
+      "text": "Outline Construction and content"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Background Construction and content Utility Discussion Conclusion Availability and requirements Abbreviations Competing interests Authors' contributions Acknowledgements References Pre-publication history Figures Figure 1 Research phases, challenges, and respective tools Figure 2 QuestForm application – Database search engine Figure 3 QuestForm application – Overall description of the database Figure 4 QuestForm application – Formulation of a Question Diagram Figure 5 QuestForm application – Search engine for ICD9 codes Figure 6 Research Manager Figure 7 Analysis Chart Figure 8 Literature Matrix Figure 9 Integration between UR tools and clinical researchers"
     },
     {
       "tag": "p",
@@ -40,7 +76,11 @@
     },
     {
       "tag": "div",
-      "text": "Outline Discussion Abstract Background Construction and content Utility Discussion Conclusion Availability and requirements Abbreviations Competing interests Authors' contributions Acknowledgements References Pre-publication history"
+      "text": "Outline Discussion"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Background Construction and content Utility Discussion Conclusion Availability and requirements Abbreviations Competing interests Authors' contributions Acknowledgements References Pre-publication history"
     },
     {
       "tag": "p",
@@ -96,7 +136,15 @@
     },
     {
       "tag": "div",
-      "text": "Outline References Abstract Background Construction and content Utility Discussion Conclusion Availability and requirements Abbreviations Competing interests Authors' contributions Acknowledgements References Pre-publication history 1. Moses L,  Louis TA: Statistical consulting in clinical research: the two-way street. Stat Med 1984, 3 (1) : 1-5. [ PubMed Abstract ] Return to citation in text:  [ 1 ] 2. Kong SX,  Wertheimer AI: Outcomes research: collaboration among academic researchers, managed care organizations, and pharmaceutical manufacturers. Am J Manag Care 1998, 4 (1) : 28-34. [ PubMed Abstract ] Return to citation in text:  [ 1 ] [ 2 ] 3. Cheung YB,  Tan SB,  Khoo KS: The need for collaboration between clinicians and statisticians: some experience and examples. Ann Acad Med Singapore 2001, 30 (5) : 552-5. [ PubMed Abstract ] Return to citation in text:  [ 1 ] 4. W3C, XHTML 1.0 The Extensible HyperText Markup Language (Second Edition) [ http://www.w3.org/TR/xhtml1/ ] Return to citation in text:  [ 1 ] [ 2 ] 5. MySQL [ http://www.mysql.com/ ] Return to citation in text:  [ 1 ] 6. Long KH,  Bannon MP,  Zietlow SP,  Helgeson ER,  Harmsen WS,  Smith CD,  Ilstrup DM,  Baerga-Varela Y,  Sarr MG: Aprospective randomized comparison of laparoscopic appendectomy with open appendectomy: Clinical and economic analyses. Surgery 2001, 129 (4) : 390-400. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 7. Maxwell JG,  Robinson CL,  Maxwell TG,  Maxwell BG,  Smith CR,  Brinker CC: Deriving the indications for laparoscopic appendectomy from a comparison of the outcomes of laparoscopic and open appendectomy. Am J Surg 2001, 182 (6) : 687-692. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 8. The Healthcare Cost and Utilization Project Nationwide Inpatient Sample. Release 6 1997. Return to citation in text:  [ 1 ] 9. The Ultimate Team Organisation Software (TUTOS) [ http://www.tutos.org/ ] 10. GNU General Public Licenses [ http://www.gnu.org/licenses/licenses.html ] Return to citation in text:  [ 1 ] 11. W3C, Cascading Style Sheets [ http://www.w3.org/Style/CSS/ ] Return to citation in text:  [ 1 ] 12. OpenOffice.org 1.02 [ http://www.openoffice.org/ ] Return to citation in text:  [ 1 ] 13. Marshall WW,  Haley RW: Use of a secure Internet Web site for collaborative medical research. Jama 2000, 284 (14) : 1843-9. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 14. Ltd., M.P., Research Toolbox System [ http://www.researchtoolbox.com/ ] MCI (Pty) Ltd. Web site no longer available on October 10, 2004. Return to citation in text:  [ 1 ] 15. Web-based Medical Information Retrieval System [ http://archive.nlm.nih.gov/proj/webmirs/index.php ] Return to citation in text:  [ 1 ] Pre-publication history"
+      "text": "Outline References"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Background Construction and content Utility Discussion Conclusion Availability and requirements Abbreviations Competing interests Authors' contributions Acknowledgements References Pre-publication history 1. Moses L,  Louis TA: Statistical consulting in clinical research: the two-way street. Stat Med 1984, 3 (1) : 1-5. [ PubMed Abstract ] Return to citation in text:  [ 1 ] 2. Kong SX,  Wertheimer AI: Outcomes research: collaboration among academic researchers, managed care organizations, and pharmaceutical manufacturers. Am J Manag Care 1998, 4 (1) : 28-34. [ PubMed Abstract ] Return to citation in text:  [ 1 ] [ 2 ] 3. Cheung YB,  Tan SB,  Khoo KS: The need for collaboration between clinicians and statisticians: some experience and examples. Ann Acad Med Singapore 2001, 30 (5) : 552-5. [ PubMed Abstract ] Return to citation in text:  [ 1 ] 4. W3C, XHTML 1.0 The Extensible HyperText Markup Language (Second Edition) [ http://www.w3.org/TR/xhtml1/ ] Return to citation in text:  [ 1 ] [ 2 ] 5. MySQL [ http://www.mysql.com/ ] Return to citation in text:  [ 1 ] 6. Long KH,  Bannon MP,  Zietlow SP,  Helgeson ER,  Harmsen WS,  Smith CD,  Ilstrup DM,  Baerga-Varela Y,  Sarr MG: Aprospective randomized comparison of laparoscopic appendectomy with open appendectomy: Clinical and economic analyses. Surgery 2001, 129 (4) : 390-400. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 7. Maxwell JG,  Robinson CL,  Maxwell TG,  Maxwell BG,  Smith CR,  Brinker CC: Deriving the indications for laparoscopic appendectomy from a comparison of the outcomes of laparoscopic and open appendectomy. Am J Surg 2001, 182 (6) : 687-692. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 8. The Healthcare Cost and Utilization Project Nationwide Inpatient Sample. Release 6 1997. Return to citation in text:  [ 1 ] 9. The Ultimate Team Organisation Software (TUTOS) [ http://www.tutos.org/ ] 10. GNU General Public Licenses [ http://www.gnu.org/licenses/licenses.html ] Return to citation in text:  [ 1 ] 11. W3C, Cascading Style Sheets [ http://www.w3.org/Style/CSS/ ] Return to citation in text:  [ 1 ] 12. OpenOffice.org 1.02 [ http://www.openoffice.org/ ] Return to citation in text:  [ 1 ] 13. Marshall WW,  Haley RW: Use of a secure Internet Web site for collaborative medical research. Jama 2000, 284 (14) : 1843-9. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 14. Ltd., M.P., Research Toolbox System [ http://www.researchtoolbox.com/ ] MCI (Pty) Ltd. Web site no longer available on October 10, 2004. Return to citation in text:  [ 1 ] 15. Web-based Medical Information Retrieval System [ http://archive.nlm.nih.gov/proj/webmirs/index.php ] Return to citation in text:  [ 1 ]"
+    },
+    {
+      "tag": "div",
+      "text": "Pre-publication history"
     },
     {
       "tag": "p",
@@ -104,7 +152,7 @@
     },
     {
       "tag": "div",
-      "text": "Have\r\n        something to say? Post a comment on this article! ---- OAS AD 'Bottom' begin ---- ---- OAS AD end ---- Terms and Conditions Privacy statement Information for advertisers Jobs at BMC Contact us © 1999-2006 BioMed Central Ltd unless otherwise stated"
+      "text": "Have\r\n        something to say? Post a comment on this article! Terms and Conditions Privacy statement Information for advertisers Jobs at BMC Contact us © 1999-2006 BioMed Central Ltd unless otherwise stated"
     }
   ]
 }

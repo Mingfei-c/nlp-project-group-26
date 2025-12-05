@@ -3,12 +3,20 @@
   "file_number": "88",
   "content_hash": "370a79caa8175cdbdccf6ce55f2296a7b93bf1cab97810a84eb803a41bc9e4c4",
   "total_blocks": 508,
-  "retained_blocks": 68,
-  "ignored_blocks": 440,
+  "retained_blocks": 76,
+  "ignored_blocks": 432,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" stopindex BEGIN GENERIC MASTHEAD BEGIN A1 COMPONENT V.0 Skip to Content Java Solaris Communities My SDN Account Join SDN END A1 COMPONENT V.0 BEGIN A2 COMPONENT V.1 » search tips APIs Downloads Technologies Products Support Training Sun.com END A2 COMPONENT V.1 END GENERIC MASTHEAD BEGIN BREADCRUMB Developers Home > Products & Technologies > Java Technology > Reference > Technical Articles and Tips > Developer Technical Articles & Tips > Java Technology Open-Source Projects > END BREADCRUMB BEGIN PAGETITLE Article"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" Skip to Content Java Solaris Communities My SDN Account Join SDN » search tips APIs Downloads Technologies Products Support Training Sun.com"
+    },
+    {
+      "tag": "div",
+      "text": "Developers Home > Products & Technologies > Java Technology > Reference > Technical Articles and Tips > Developer Technical Articles & Tips > Java Technology Open-Source Projects >"
+    },
+    {
+      "tag": "div",
+      "text": "Article"
     },
     {
       "tag": "h1",
@@ -16,7 +24,11 @@
     },
     {
       "tag": "div",
-      "text": "END PAGETITLE BEGIN WRAPPER TABLE, 2 COLUMN, MAIN/RIGHT BEGIN CENTRAL COLUMN COMPONENTS startindex ============ MAIN CONTENT ============ BEGIN VCD4 PFV Print-friendly Version END VCD4 PFV By Dana Nourie Hideya Kawahara, November 2004 <td valign=\"bottom\" align=\"right\"><img src=\"/im/ic_email.gif\" width=\"14\" height=\"12\" border=\"0\" hspace=\"4\" vspace=\"1\" alt=\" \" /></td>\n<td valign=\"bottom\" class=\"smaller\" nowrap=\"nowrap\"><a href=\"#{link placeholder}\">E-mail</a></td>\n<td>&nbsp;&nbsp;</td>\n<td valign=\"bottom\" align=\"right\">&nbsp;</td>\n<td valign=\"bottom\" class=\"smaller\" nowrap=\"nowrap\"><a href=\"/jsp_utils/PrintPage.jsp\" target=\"printFriendlyView\" onclick=\"openPopup('','printFriendlyView',710,650,'no',1,1,0,0,0,0); return true;\"><img src=\"/im/ic_print.gif\" width=\"14\" height=\"12\" alt=\"Print-friendly Version\" border=\"0\" hspace=\"4\" />Print-friendly Version</a></td>\n<td>&nbsp;&nbsp;</td>\n<td valign=\"bottom\" align=\"right\"><img src=\"/im/ic_download_thin.gif\" width=\"9\" height=\"14\" hspace=\"4\" border=\"0\" alt=\" \" /></td>\n<td valign=\"bottom\" class=\"smaller\" nowrap=\"nowrap\"><a href=\"#{link placeholder}\">Download</a></td> END VCD4 BYLINE AND TOOLS"
+      "text": "Print-friendly Version"
+    },
+    {
+      "tag": "div",
+      "text": "By Dana Nourie Hideya Kawahara, November 2004"
     },
     {
       "tag": "p",
@@ -88,31 +100,31 @@
     },
     {
       "tag": "div",
-      "text": "Figure 3 : Client-Side Classes. Click to enlarge"
-    },
-    {
-      "tag": "p",
-      "text": "Java 3D-based Scene Graph Classes The Java 3D Scene Graph API is the primary rendering API for developing a LG3D-aware 3D applications and scene managers. It is located under the org.jdesktop.lg3d.sg package, and it exposes a feature subset of the Java 3D API to the client side. The exposed classes are almost the same as those of Java 3D, except that features that complicate implementation, such as SharedGroup node , have been removed. All the methods deal with type double have also been removed or replaced with a float version. This Scene Graph API is the basis for creating 3D visual effects of 3D applications and windowmanagers. In addition, the org.jdesktop.lg3d.utils.shape package provides pre-built utility shapes and appearances for convenience."
+      "text": "Figure 3 : Client-Side Classes."
     },
     {
       "tag": "div",
-      "text": "<span class=\"sp10\">&nbsp;</span><br />"
+      "text": "Click to enlarge"
     },
     {
       "tag": "p",
-      "text": "LG3D Component Classes The 3D Component API resides in the org.jdesktop.lg3d.wg package and provides core functions for developing widgets in the LG3D Glass environment. The design is still in preliminary stages, and will be refined in the near future. The following table shows key classes residing in the package. (These classes are analogous to those of AWT without the tailing \"3D.\")"
+      "text": "Java 3D-based Scene Graph Classes The Java 3D Scene Graph API is the primary rendering API for developing a LG3D-aware 3D applications and scene managers. It is located under the org.jdesktop.lg3d.sg package, and it exposes a feature subset of the Java 3D API to the client side. The exposed classes are almost the same as those of Java 3D, except that features that complicate implementation, such as SharedGroup node , have been removed. All the methods deal with type double have also been removed or replaced with a float version. This Scene Graph API is the basis for creating 3D visual effects of 3D applications and windowmanagers. In addition, the org.jdesktop.lg3d.utils.shape package provides pre-built utility shapes and appearances for convenience. LG3D Component Classes The 3D Component API resides in the org.jdesktop.lg3d.wg package and provides core functions for developing widgets in the LG3D Glass environment. The design is still in preliminary stages, and will be refined in the near future. The following table shows key classes residing in the package. (These classes are analogous to those of AWT without the tailing \"3D.\")"
     },
     {
       "tag": "div",
-      "text": "BEGIN VCD8 DATA TABLE COMPONENT 3D Component Classes Class Description Component3D The top level superclass of all the LG3D widget components. It supports visual rendering by adding scene graph node children created with the Java 3D-based Scene Graph API. Note that a restriction has been implemented not to allow a Component3D object to be added to another Component3D object as a child. Container3D needs to be used as a parent container in such cases. This class is also an event source and implements LgEventSource interface. Details of mouse event handling is described later. This class also includes built-in support for transition animation. Container3D Extends Component3D . A Container3D object is a component that can hold other components as children, but cannot hold Java 3D-based scene graph objects. Typically, such a raw scene graph object is wrapped by a Component3D once before being added to a Container3D object.This class is typically used together with LayoutManager3D . Frame3D Extends Container3D . It is analogous to AWT's Frame class: the\nroot container for an LG3D-aware 3D application. For example, it interacts with a Scene Manager (3D\nWindow Manager) for positioning. Cursor3D Extends Component3D and is the root class of all 3D cursors.\nAn application can define its own cursor by extending this class, or by using one of the\nconstructors that takes a Component3D object as the cursor implementation. It also\nprovides a way to register and retrieve cursors, as well as work with predefined cursors that a Scene\nManager is required to initialize. FINAL LINE IS OF A DIFFERENT COLOR END VCD8 DATA TABLE COMPONENT"
+      "text": "3D Component Classes"
+    },
+    {
+      "tag": "div",
+      "text": "Class Description"
+    },
+    {
+      "tag": "div",
+      "text": "Component3D The top level superclass of all the LG3D widget components. It supports visual rendering by adding scene graph node children created with the Java 3D-based Scene Graph API. Note that a restriction has been implemented not to allow a Component3D object to be added to another Component3D object as a child. Container3D needs to be used as a parent container in such cases. This class is also an event source and implements LgEventSource interface. Details of mouse event handling is described later. This class also includes built-in support for transition animation. Container3D Extends Component3D . A Container3D object is a component that can hold other components as children, but cannot hold Java 3D-based scene graph objects. Typically, such a raw scene graph object is wrapped by a Component3D once before being added to a Container3D object.This class is typically used together with LayoutManager3D . Frame3D Extends Container3D . It is analogous to AWT's Frame class: the\nroot container for an LG3D-aware 3D application. For example, it interacts with a Scene Manager (3D\nWindow Manager) for positioning. Cursor3D Extends Component3D and is the root class of all 3D cursors.\nAn application can define its own cursor by extending this class, or by using one of the\nconstructors that takes a Component3D object as the cursor implementation. It also\nprovides a way to register and retrieve cursors, as well as work with predefined cursors that a Scene\nManager is required to initialize."
     },
     {
       "tag": "p",
       "text": "The following code shows a simple example that uses the preceding key LG3D component classes. It displays a colored cube on the screen. Please refer to the Javadoc API guide for details on each method."
-    },
-    {
-      "tag": "div",
-      "text": "BEGIN VCD7 CODE SAMPLE COMPONENT"
     },
     {
       "tag": "pre",
@@ -120,7 +132,7 @@
     },
     {
       "tag": "div",
-      "text": "END VCD7 CODE SAMPLE COMPONENT Transition Animation Support"
+      "text": "Transition Animation Support"
     },
     {
       "tag": "p",
@@ -128,7 +140,19 @@
     },
     {
       "tag": "div",
-      "text": "BEGIN VCD8 DATA TABLE COMPONENT 3D Component Class Methods for Change set*() Family change*() Family setTranslation() changeTranslation() setRotationAngle() changeRotationAngle() setRotationAngle() changeScale() setVisible() changeVisibility() FINAL LINE IS OF A DIFFERENT COLOR END VCD8 DATA TABLE COMPONENT"
+      "text": "3D Component Class Methods for Change"
+    },
+    {
+      "tag": "div",
+      "text": "set*() Family change*() Family"
+    },
+    {
+      "tag": "div",
+      "text": "setTranslation()"
+    },
+    {
+      "tag": "div",
+      "text": "changeTranslation() setRotationAngle() changeRotationAngle() setRotationAngle() changeScale() setVisible() changeVisibility()"
     },
     {
       "tag": "p",
@@ -136,7 +160,7 @@
     },
     {
       "tag": "div",
-      "text": "<span class=\"sp10\">&nbsp;</span><br /> Model Loader"
+      "text": "Model Loader"
     },
     {
       "tag": "p",
@@ -144,7 +168,7 @@
     },
     {
       "tag": "div",
-      "text": "<span class=\"sp10\">&nbsp;</span><br /> Event Adapter and Animation Classes"
+      "text": "Event Adapter and Animation Classes"
     },
     {
       "tag": "p",
@@ -152,23 +176,19 @@
     },
     {
       "tag": "div",
-      "text": "Figure 5 : Mouse Event Propagation. Click to enlarge"
+      "text": "Figure 5 : Mouse Event Propagation."
+    },
+    {
+      "tag": "div",
+      "text": "Click to enlarge"
     },
     {
       "tag": "p",
       "text": "Event Adapter Classes under the eventadapter subpackage implement the LgEventListener interface and keep at least one reference to an object that implements the Action interface.\nAn Event Adapter object is a receiver of events. It predigests the information provided through events and invokes the performAction method of an associated Action or Action Adapter object. Action Adapter Classes under the actionadapter subpackage implement the Action interface and keep at least one reference to an object that implements the Action interface. An Action Adapter object typically converts one kind of input into another by performing some processing against values propagated by performAction invocation. Aaction adapter class typically acts as a converter among different action types. Action Classes under the action subpackage implement the Action interface. These receive predigested information from an Event Adapter or Action Adapter object through a performAction method invocation and perform visual feedback. An Action object typically keeps a reference to an Action Behavior object in order to perform visual feedback based on animation. Action Behavior Classes under the behavior subpackage extend the ActionBehavior abstract class and implement basic animation. An Action Behavior object typically keeps a reference to a Component3D object and a TransitionSmoother , and performs animation using them. Transition Smoother Classes under the smoother subpackage provide reusable natural motion for action implementation. These classes implement the TransitionSmoother interface and generate reusable natural motion used in ActionBehavior implementation. The following code fragment uses event adapter and animation components. It rotates the targetComp object by 180 degrees back and forth in 1,000 milliseconds every time the sourceComp object is clicked:"
     },
     {
-      "tag": "div",
-      "text": "BEGIN VCD7 CODE SAMPLE COMPONENT"
-    },
-    {
       "tag": "pre",
       "text": "new MouseClickedEventAdapter(sourceComp\n  new ToggleAdapter(\n    new RotateAction(targetComp, (float)Math.PI, 1000)));"
-    },
-    {
-      "tag": "div",
-      "text": "END VCD7 CODE SAMPLE COMPONENT"
     },
     {
       "tag": "p",
@@ -176,7 +196,7 @@
     },
     {
       "tag": "div",
-      "text": "<span class=\"sp10\">&nbsp;</span><br /> The Scene Manager"
+      "text": "The Scene Manager"
     },
     {
       "tag": "p",
@@ -200,7 +220,11 @@
     },
     {
       "tag": "div",
-      "text": "Figure 7 : Scene Manager Classes. Click to enlarge"
+      "text": "Figure 7 : Scene Manager Classes."
+    },
+    {
+      "tag": "div",
+      "text": "Click to enlarge"
     },
     {
       "tag": "p",
@@ -216,7 +240,7 @@
     },
     {
       "tag": "div",
-      "text": "<span class=\"sp10\">&nbsp;</span><br /> Existing 2D Application Integration"
+      "text": "Existing 2D Application Integration"
     },
     {
       "tag": "p",
@@ -224,11 +248,15 @@
     },
     {
       "tag": "div",
-      "text": "Figure 8 : 2D Integration Classes. Click to enlarge"
+      "text": "Figure 8 : 2D Integration Classes."
+    },
+    {
+      "tag": "div",
+      "text": "Click to enlarge"
     },
     {
       "tag": "p",
-      "text": "The FWS module provides the integration with the underlying window system, including application visual capture and event delivery integration. Since these interfaces are not a part of the client API and not visible to client application developers, this document does not cover any details. The Native Window representation module sits on top of the FWS, and provides abstracted representation of native window application's visual aspect. It is in the org.jdesktop.lg3d.displayserver.nativewindow package. Its two primary design goals are to Allow a pluggable Look and Feel Encapsulate complexity around native window capture and communication The classes in this package attempt to abstract and hide all the complexity around the native application visual capture, as well as necessary communication with the application side. Figure 8 illustrates the relationships among the major classes. NativeWindow3D is the top level class with which SceneManager interacts. It extends Frame3D and behaves just like another LG3D-aware 3D application. It also implements the methods declared in NativeWindowMonitor , which are used for the native 2D window manager to give notifications about status changes, and so on. The implementation, in turn, uses NativeWindowControl interface to communicate back to the native window manager, so that it can perform actions on the 2D application\nassociated with this object. NativeWindowLookAndFeel defines the native window's appearance and visual texture. At this level, typically, window decoration is constructed. The current implementation includes GlassyNativeWindowLookAndFeel in the lg3d.scenemanager.utils.decoration package as an example. NativeWindowObject and TiledNativeWindowImage exist to hide all the complexity related to native window capture support. Texture is used for presenting captured 2D window surfaces in the 3D space, but it has a size limitation that is sometimes smaller than maximum 2D window size. To deal with large 2D window capture, we use composite multiple textures created from a set of ImageComponent2Ds . The details are hidden under these classes. <span class=\"sp10\">&nbsp;</span><br />"
+      "text": "The FWS module provides the integration with the underlying window system, including application visual capture and event delivery integration. Since these interfaces are not a part of the client API and not visible to client application developers, this document does not cover any details. The Native Window representation module sits on top of the FWS, and provides abstracted representation of native window application's visual aspect. It is in the org.jdesktop.lg3d.displayserver.nativewindow package. Its two primary design goals are to Allow a pluggable Look and Feel Encapsulate complexity around native window capture and communication The classes in this package attempt to abstract and hide all the complexity around the native application visual capture, as well as necessary communication with the application side. Figure 8 illustrates the relationships among the major classes. NativeWindow3D is the top level class with which SceneManager interacts. It extends Frame3D and behaves just like another LG3D-aware 3D application. It also implements the methods declared in NativeWindowMonitor , which are used for the native 2D window manager to give notifications about status changes, and so on. The implementation, in turn, uses NativeWindowControl interface to communicate back to the native window manager, so that it can perform actions on the 2D application\nassociated with this object. NativeWindowLookAndFeel defines the native window's appearance and visual texture. At this level, typically, window decoration is constructed. The current implementation includes GlassyNativeWindowLookAndFeel in the lg3d.scenemanager.utils.decoration package as an example. NativeWindowObject and TiledNativeWindowImage exist to hide all the complexity related to native window capture support. Texture is used for presenting captured 2D window surfaces in the 3D space, but it has a size limitation that is sometimes smaller than maximum 2D window size. To deal with large 2D window capture, we use composite multiple textures created from a set of ImageComponent2Ds . The details are hidden under these classes."
     },
     {
       "tag": "div",
@@ -236,7 +264,7 @@
     },
     {
       "tag": "p",
-      "text": "By subclassing NativeWindowLookAndFeel , you can develop your own window decoration. If you want a native window representation this is not on a simple quad – on a wavy sheet, for example – you will need to implement a version of NativeWindowObject that supports the shape you want. An API to map multiple native window representations on surfaces of a single object is under development, which will be used to put another view on the back side of the window. <span class=\"sp10\">&nbsp;</span><br />"
+      "text": "By subclassing NativeWindowLookAndFeel , you can develop your own window decoration. If you want a native window representation this is not on a simple quad – on a wavy sheet, for example – you will need to implement a version of NativeWindowObject that supports the shape you want. An API to map multiple native window representations on surfaces of a single object is under development, which will be used to put another view on the back side of the window."
     },
     {
       "tag": "div",
@@ -244,15 +272,19 @@
     },
     {
       "tag": "p",
-      "text": "Now that you've learned the basic architecture of Project Looking Glass and understand its important classes, you are invited to download the code and to begin contributing your programming skills. To work on this project, you need to be a java.net member, which is free upon registration. Then you can download and install a working version of the software and the source code. The Project Looking Glass source code is located in the lg3d-core/src CVS repository. The following table is an overview of the various files in the the repository. BEGIN VCD8 DATA TABLE COMPONENT"
+      "text": "Now that you've learned the basic architecture of Project Looking Glass and understand its important classes, you are invited to download the code and to begin contributing your programming skills. To work on this project, you need to be a java.net member, which is free upon registration. Then you can download and install a working version of the software and the source code. The Project Looking Glass source code is located in the lg3d-core/src CVS repository. The following table is an overview of the various files in the the repository."
     },
     {
       "tag": "div",
-      "text": "Repository Files Directory Description build/ The build files are stored in this directory. build-tools/ Tools for building Project Looking Glass. build.xml The Ant build control file. ext/ Components released with Project Looking Glass: escher (Java bindings to X11) and a stable build of lg3d-x11 . ext-unbundled/ Adirectory in which you can put components not licensed for distribution with Project Looking Glass (that is, junit, Java3D loaders, and so forth.) You can also install your own build of lg3d-x11 here instead of using $LGX11HOME . src/ The root of the lg3d-core source tree. classes/ All .java files. Refer to the Javadocs in the binary bundle in docs/javadoc/api for more information. devscripts/ Various Project Looking Glass development scripts. These utilize classes in the build/ directory. HelloUniverse Runs the Java3D rotating cube demo in a Project Looking Glass session. README Documentation for some scripts in this directory. displayserver Runs the Display Server. lg3d-dev Runs a Project Looking Glass session in a window (developer or No Xmode). lg3d-session Runs a Project Looking Glass session in full screen mode, with X11 support. setup Ahelper script used by the other scripts. etc/ Contains various configuration files. jz/ An obsolete directory. lg3d/ README Documentation for the various lgconfig* files. lgconfig* Configuration scripts for the various modes in which Project Looking Glass can be run. logging.properties Configuration file that controls the verbosity of logging output to the Display Server log file, /var/tmp/lgserver.log displayconfig/ For the adventurous. Contains files that allow Project Looking Glass to be run in more complex display environments such as multi-screen, stereo, or power walls. The choice of configurations is controlled by the lgconfig.xml WARNING! Alternate display configurations have not been extensively tested yet. native/org/jdesktop/lg3d/displayserver/fws/x11/ The Ccode for X11 integration. resources/images/ Assorted images used by Project Looking Glass. scripts/ Scripts for running the Project Looking Glass release. These utilize classes from the release JAR files. displayserver Runs the Display Server (users should not run this directly). lg3d-dev Runs a Project Looking Glass session in a window (developer or No Xmode). lg3d-session Runs a Project Looking Glass session in full screen mode, with X11 support. setup Ahelper script uses by the other scripts. (Users should not run this directly). tests/ Eventually will hold the test suite for Project Looking Glass. www/ java.net site pages and various documentation. FINAL LINE IS OF A DIFFERENT COLOR"
+      "text": "Repository Files"
     },
     {
-      "tag": "p",
-      "text": "END VCD8 DATA TABLE COMPONENT <span class=\"sp10\">&nbsp;</span><br />"
+      "tag": "div",
+      "text": "Directory Description"
+    },
+    {
+      "tag": "div",
+      "text": "build/ The build files are stored in this directory. build-tools/ Tools for building Project Looking Glass. build.xml The Ant build control file. ext/ Components released with Project Looking Glass: escher (Java bindings to X11) and a stable build of lg3d-x11 . ext-unbundled/ Adirectory in which you can put components not licensed for distribution with Project Looking Glass (that is, junit, Java3D loaders, and so forth.) You can also install your own build of lg3d-x11 here instead of using $LGX11HOME . src/ The root of the lg3d-core source tree. classes/ All .java files. Refer to the Javadocs in the binary bundle in docs/javadoc/api for more information. devscripts/ Various Project Looking Glass development scripts. These utilize classes in the build/ directory. HelloUniverse Runs the Java3D rotating cube demo in a Project Looking Glass session. README Documentation for some scripts in this directory. displayserver Runs the Display Server. lg3d-dev Runs a Project Looking Glass session in a window (developer or No Xmode). lg3d-session Runs a Project Looking Glass session in full screen mode, with X11 support. setup Ahelper script used by the other scripts. etc/ Contains various configuration files. jz/ An obsolete directory. lg3d/ README Documentation for the various lgconfig* files. lgconfig* Configuration scripts for the various modes in which Project Looking Glass can be run. logging.properties Configuration file that controls the verbosity of logging output to the Display Server log file, /var/tmp/lgserver.log displayconfig/ For the adventurous. Contains files that allow Project Looking Glass to be run in more complex display environments such as multi-screen, stereo, or power walls. The choice of configurations is controlled by the lgconfig.xml WARNING! Alternate display configurations have not been extensively tested yet. native/org/jdesktop/lg3d/displayserver/fws/x11/ The Ccode for X11 integration. resources/images/ Assorted images used by Project Looking Glass. scripts/ Scripts for running the Project Looking Glass release. These utilize classes from the release JAR files. displayserver Runs the Display Server (users should not run this directly). lg3d-dev Runs a Project Looking Glass session in a window (developer or No Xmode). lg3d-session Runs a Project Looking Glass session in full screen mode, with X11 support. setup Ahelper script uses by the other scripts. (Users should not run this directly). tests/ Eventually will hold the test suite for Project Looking Glass. www/ java.net site pages and various documentation."
     },
     {
       "tag": "div",
@@ -260,7 +292,7 @@
     },
     {
       "tag": "p",
-      "text": "The following areas need developer participation: LG3D 3D API refinements, refinements, refinements! Exploration of 3D Window Manager UI design, using the following documents as starting points: Project Looking Glass UI Design Discussions Related Technologies Exploration of new 3D applications C++ client-side API and implementation GNOME/KDE compatibility Also check the lg3d-x11 project page for the topics specific to X11 integration. <span class=\"sp10\">&nbsp;</span><br />"
+      "text": "The following areas need developer participation: LG3D 3D API refinements, refinements, refinements! Exploration of 3D Window Manager UI design, using the following documents as starting points: Project Looking Glass UI Design Discussions Related Technologies Exploration of new 3D applications C++ client-side API and implementation GNOME/KDE compatibility Also check the lg3d-x11 project page for the topics specific to X11 integration."
     },
     {
       "tag": "div",
@@ -268,15 +300,15 @@
     },
     {
       "tag": "p",
-      "text": "Project Looking Glass lg3d-core.dev.java.net FAQ - Frequently Asked Questions Getting started with Project Looking Glass NVIDIA Driver Installation Tips DRI Driver installation for ATI Radeon 3D Acceleration on a Tadpole Talin JDS Laptop (ATI Radeon M9) ATI Binary driver installation instructions for non-RPM-based distributions Project Looking Glass Tutorials: Tutorial 1 - An introduction to the LG3D framework - The basics of creating a 3D application within the LG3D framework Tutorial 2 - Simple manipulations and user interaction - Simple manipulations and user interaction with a 3D application. Tutorial 3 - Complex manipulations and user interaction - More complex manipulations and user interaction with a 3D application. Create a sphere with the Earth texture and a small handle to move it. Project Looking Glass Developer's Guide javadesktop.org Forum: Project Looking Glass 3D Issue Tracker Query JavaOne 2004 slides (PDF 900KB) DRAFT - LG3D API Design Overview (PDF 330KB) Related Technologies UI Design Discussions TWiki.Javadesktop.ProjectLookingGlass Chat Transcript with Guests Hideya Kawahara, Paul Byrne, and Deron Johnson BEGIN RATE AND REVIEW G16 var1 Rate and Review Tell us what you think of the content of this page. Excellent Good Fair Poor Comments: Your email address (no reply is possible without an address): Sun Privacy Policy Note: We are not able to respond to all submitted comments. END RATE AND REVIEW G16 var1 =================== END OF MAIN CONTENT =================== stopindex END CENTRAL COLUMN COMPONENTS BEGIN RIGHT COLUMN COMPONENTS END RIGHT COLUMN COMPONENTS BEGIN SPACER ROW END SPACER ROW END WRAPPER TABLE, 2 COLUMN, MAIN/RIGHT BEGIN VNV5 FOOTER"
+      "text": "Project Looking Glass lg3d-core.dev.java.net FAQ - Frequently Asked Questions Getting started with Project Looking Glass NVIDIA Driver Installation Tips DRI Driver installation for ATI Radeon 3D Acceleration on a Tadpole Talin JDS Laptop (ATI Radeon M9) ATI Binary driver installation instructions for non-RPM-based distributions Project Looking Glass Tutorials: Tutorial 1 - An introduction to the LG3D framework - The basics of creating a 3D application within the LG3D framework Tutorial 2 - Simple manipulations and user interaction - Simple manipulations and user interaction with a 3D application. Tutorial 3 - Complex manipulations and user interaction - More complex manipulations and user interaction with a 3D application. Create a sphere with the Earth texture and a small handle to move it. Project Looking Glass Developer's Guide javadesktop.org Forum: Project Looking Glass 3D Issue Tracker Query JavaOne 2004 slides (PDF 900KB) DRAFT - LG3D API Design Overview (PDF 330KB) Related Technologies UI Design Discussions TWiki.Javadesktop.ProjectLookingGlass Chat Transcript with Guests Hideya Kawahara, Paul Byrne, and Deron Johnson"
+    },
+    {
+      "tag": "p",
+      "text": "Rate and Review Tell us what you think of the content of this page. Excellent Good Fair Poor Comments: Your email address (no reply is possible without an address): Sun Privacy Policy Note: We are not able to respond to all submitted comments."
     },
     {
       "tag": "div",
       "text": "About Sun | About This Site | Newsletters | Contact Us | Employment How to Buy | Licensing | Terms of Use | Privacy | Trademarks Copyright 1994-2006 Sun Microsystems, Inc. A Sun Developer Network Site Unless otherwise licensed, code in all technical manuals herein (including articles, FAQs, samples) is provided under this License . Content Feeds"
-    },
-    {
-      "tag": "p",
-      "text": "END VNV5 FOOTER"
     }
   ]
 }

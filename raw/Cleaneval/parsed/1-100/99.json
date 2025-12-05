@@ -8,7 +8,7 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "X-Body-Begin X-User-Header X-User-Header-End X-TopPNI [Date Prev][ Date Next ]\n[Thread Prev][ Thread Next ]\n[ Date Index ]\n[ Thread Index ] X-TopPNI-End X-MsgBody X-Subject-Header-Begin"
+      "text": "[Date Prev][ Date Next ]\n[Thread Prev][ Thread Next ]\n[ Date Index ]\n[ Thread Index ]"
     },
     {
       "tag": "h1",
@@ -16,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "X-Subject-Header-End X-Head-of-Message To : Debian Consultants < debian-consultants@lists.debian.org > Subject : Fwd: [reiserfs-list] Viability of Open Source Business Models From : Russell Coker < russell@coker.com.au > Date : Thu, 6 Dec 2001 02:32:27 +0100 Message-id : < 20011206013228.3C46C331FFD@lyta.coker.com.au > Reply-to : Russell Coker < russell@coker.com.au > X-Head-of-Message-End X-Head-Body-Sep-Begin X-Head-Body-Sep-End X-Body-of-Message"
+      "text": "To : Debian Consultants < debian-consultants@lists.debian.org > Subject : Fwd: [reiserfs-list] Viability of Open Source Business Models From : Russell Coker < russell@coker.com.au > Date : Thu, 6 Dec 2001 02:32:27 +0100 Message-id : < 20011206013228.3C46C331FFD@lyta.coker.com.au > Reply-to : Russell Coker < russell@coker.com.au >"
     },
     {
       "tag": "pre",
@@ -64,7 +64,7 @@
     },
     {
       "tag": "p",
-      "text": "Open source is a niche we at Namesys enjoy inhabiting.  Its production\nis not motivated mostly by money.  It is a gentleman's hobby for most,\nand a profession for some who aren't in it for the money.  It is\nlikely to remain a niche.  As long as that is understood, a good time\ncan be had by all us mutant hairless monkeys.  It is amusing to give\naway for free a filesystem faster than what a company worth billions\nis able to write despite all their money.  Life should be enjoyed. X-Body-of-Message-End X-MsgBody-End X-Follow-Ups Reply to: debian-consultants@lists.debian.org Russell Coker (on-list) Russell Coker (off-list) Follow-Ups : Re: Fwd: [reiserfs-list] Viability of Open Source Business Models From: Bernhard Reiter <bernhard@intevation.de> X-Follow-Ups-End X-References X-References-End X-BotPNI Next by Date: Re: Fwd: [reiserfs-list] Viability of Open Source Business Models Next by thread: Re: Fwd: [reiserfs-list] Viability of Open Source Business Models Index(es): Date Thread X-BotPNI-End X-User-Footer X-User-Footer-End"
+      "text": "Open source is a niche we at Namesys enjoy inhabiting.  Its production\nis not motivated mostly by money.  It is a gentleman's hobby for most,\nand a profession for some who aren't in it for the money.  It is\nlikely to remain a niche.  As long as that is understood, a good time\ncan be had by all us mutant hairless monkeys.  It is amusing to give\naway for free a filesystem faster than what a company worth billions\nis able to write despite all their money.  Life should be enjoyed. Reply to: debian-consultants@lists.debian.org Russell Coker (on-list) Russell Coker (off-list) Follow-Ups : Re: Fwd: [reiserfs-list] Viability of Open Source Business Models From: Bernhard Reiter <bernhard@intevation.de> Next by Date: Re: Fwd: [reiserfs-list] Viability of Open Source Business Models Next by thread: Re: Fwd: [reiserfs-list] Viability of Open Source Business Models Index(es): Date Thread"
     }
   ]
 }

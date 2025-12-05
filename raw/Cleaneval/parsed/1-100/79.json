@@ -3,8 +3,8 @@
   "file_number": "79",
   "content_hash": "3141e6e19365ae33ab486b5d8bb310b57a73e47b7dec8ed2f9645c4e71f0ba07",
   "total_blocks": 44,
-  "retained_blocks": 3,
-  "ignored_blocks": 41,
+  "retained_blocks": 5,
+  "ignored_blocks": 39,
   "blocks": [
     {
       "tag": "p",
@@ -16,7 +16,15 @@
     },
     {
       "tag": "p",
-      "text": "DoD IACs AMMTIAC CBIAC CPIAC DACS IATAC RIAC SENSIAC SURVIAC WSTIAC Military IACs APMIAC CEIAC CRSTIAC CTIAC DTRIAC EIAC HEIAC HSIIAC MSIAC SAVIAC SMIAC Imagine a team of specialists, finding and analyzing information for your mission – on any topic from metrics to Mars. Experts who inform you of the latest advances, speeding your success. Researchers who tackle complex projects cost-effectively – and assignments of up to 4 hours free. Scientists, engineers and information specialists are ready to join forces for your mission. Your team is here – at the Information Analysis Centers (IACs) of the Department of Defense. News New DoD IAC-CPIAC The Chemical Propulsion Information Analysis Center contract was awarded to Johns Hopkins University on 12 July 05. Read more... RIAC contract awarded The new Reliability Information Analysis Center (RIAC) contract was awarded to Wyle Laboratories, Inc., 21 June 2005. Read more... New DoD IAC-SENSIAC Anew DoD Information Analysis Center has been established to support the DoD’s sensor communities, and is called the Military Sensing Information Center (SENSIAC). Read more... survey | 508 policy | privacy & security"
+      "text": "DoD IACs AMMTIAC CBIAC CPIAC DACS IATAC RIAC SENSIAC SURVIAC WSTIAC Military IACs APMIAC CEIAC CRSTIAC CTIAC DTRIAC EIAC HEIAC HSIIAC MSIAC SAVIAC SMIAC Imagine a team of specialists, finding and analyzing information for your mission – on any topic from metrics to Mars. Experts who inform you of the latest advances, speeding your success. Researchers who tackle complex projects cost-effectively – and assignments of up to 4 hours free. Scientists, engineers and information specialists are ready to join forces for your mission. Your team is here – at the Information Analysis Centers (IACs) of the Department of Defense."
+    },
+    {
+      "tag": "p",
+      "text": "News New DoD IAC-CPIAC The Chemical Propulsion Information Analysis Center contract was awarded to Johns Hopkins University on 12 July 05. Read more... RIAC contract awarded The new Reliability Information Analysis Center (RIAC) contract was awarded to Wyle Laboratories, Inc., 21 June 2005. Read more... New DoD IAC-SENSIAC Anew DoD Information Analysis Center has been established to support the DoD’s sensor communities, and is called the Military Sensing Information Center (SENSIAC). Read more..."
+    },
+    {
+      "tag": "p",
+      "text": "survey | 508 policy | privacy & security"
     }
   ]
 }

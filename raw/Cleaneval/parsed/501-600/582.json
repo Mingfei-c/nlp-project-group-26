@@ -3,12 +3,12 @@
   "file_number": "582",
   "content_hash": "1910c7078231c53cb318bba9cf80d7c9e9b22f271eebce88e09a8b5f34f53656",
   "total_blocks": 185,
-  "retained_blocks": 55,
-  "ignored_blocks": 130,
+  "retained_blocks": 42,
+  "ignored_blocks": 143,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" META META ADV600 ADV600 HEADLINES ADV BEGIN RICH-MEDIA NETWORK CODE END BURST CODE ADV"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
     },
     {
       "tag": "h2",
@@ -19,20 +19,12 @@
       "text": "By radical Orthodox activists"
     },
     {
-      "tag": "div",
-      "text": "SYMBOLS SYMBOLS"
-    },
-    {
       "tag": "h2",
       "text": "Moldova’s Breakaway Province Backs Independence"
     },
     {
       "tag": "p",
       "text": "97% voted for independence, union with Russia"
-    },
-    {
-      "tag": "div",
-      "text": "SYMBOLS SYMBOLS"
     },
     {
       "tag": "h2",
@@ -43,56 +35,24 @@
       "text": "Her 2nd major title"
     },
     {
-      "tag": "div",
-      "text": "SYMBOLS SYMBOLS HEADLINES TITLE"
-    },
-    {
       "tag": "p",
       "text": "FEATURE"
     },
     {
       "tag": "div",
-      "text": "Partner project of: TITLE MENU"
+      "text": "Partner project of:"
     },
     {
       "tag": "h4",
       "text": "HOME NEWS FEATURE COLUMN INTERVIEW COMMENTARY MONEY MN-FILES IMAGES WEATHER GUIDE TO RUSSIA ABOUT"
     },
     {
-      "tag": "div",
-      "text": "MENU LEFT"
-    },
-    {
       "tag": "h4",
-      "text": "TIME"
+      "text": "TIME ARCHIVE SEARCH MONEY"
     },
     {
       "tag": "div",
-      "text": "ARCHIVE"
-    },
-    {
-      "tag": "h4",
-      "text": "ARCHIVE"
-    },
-    {
-      "tag": "div",
-      "text": "ARCHIVE WEATHER WEATHER SEARCH Search Google"
-    },
-    {
-      "tag": "h4",
-      "text": "SEARCH"
-    },
-    {
-      "tag": "div",
-      "text": "<table width=100% cellspacing=10 cellpadding=0 border=0 bgcolor=#E5E5E5>\n    <tr><td>\n\t<FORM method=GET action=http://www.google.com/custom>\n    <INPUT TYPE=\"text\" NAME=\"q\" maxlength=255 VALUE=\"\" class=cal_search><input TYPE=\"submit\" name=sa class=cal_but VALUE=\"FIND\">\n\t<INPUT type=hidden name=cof VALUE=\"GALT:#8f0c0c;S:http://www.mosnews.com;VLC:#101060;AH:center;BGC:white;LH:100;LC:#495ECA;GFNT:gray;L:http://www.mosnews.com/i/mosnews.gif;ALC:#495ECA;LW:572;T:black;GIMP:orange;AWFID:f45249e620a8b128;\">\n\t<input type=hidden name=domains value=\"mosnews.com\"><br><div style=\"display: none\"><input type=radio name=sitesearch value=\"\"> %(domain)s <input type=radio name=sitesearch value=\"mosnews.com\" checked> %(domain)s</div>\n\t</td></form></tr></table> Search Google SEARCH INDICATORS"
-    },
-    {
-      "tag": "h4",
-      "text": "MONEY"
-    },
-    {
-      "tag": "div",
-      "text": "DJ RusIndex 4,235.91 -2.51% S&P/RUX Index 454.02 +1.43% RUR/USD 26.78 +0.12% RUR/EURO 33.99 -0.13% Oil Brent 56.56 +0.30% Oil Urals 54.89 +0.55% Nickel 32450.00 +2.61% Gold 607.50 +1.17% Platinum 1085.50 +0.79% Palladium 322.50 -0.92% INDICATORS"
+      "text": "DJ RusIndex 4,235.91 -2.51% S&P/RUX Index 454.02 +1.43% RUR/USD 26.78 +0.12% RUR/EURO 33.99 -0.13% Oil Brent 56.56 +0.30% Oil Urals 54.89 +0.55% Nickel 32450.00 +2.61% Gold 607.50 +1.17% Platinum 1085.50 +0.79% Palladium 322.50 -0.92%"
     },
     {
       "tag": "h4",
@@ -101,10 +61,6 @@
     {
       "tag": "p",
       "text": "Moscow 19 °F °Ccloudy"
-    },
-    {
-      "tag": "div",
-      "text": "GOOGLE GOOGLE GOOGLE GOOGLE LEFT"
     },
     {
       "tag": "p",
@@ -116,19 +72,11 @@
     },
     {
       "tag": "p",
-      "text": "Created: 12.04.2004 21:17 MSK (GMT +3), Updated: 16:32 MSK MosNews"
+      "text": "Created: 12.04.2004 21:17 MSK (GMT +3), Updated: 16:32 MSK MosNews On Saturday, April 10, German Galdetsky, a 19-year-old college student, was shot point-blank at a train terminal in the middle of Moscow. Two days earlier, Novaya Gazeta, a Moscow daily newspaper, had published a long interview with Galadetsky. In the interview, he described his one-man struggle against the practice recently taken up by the cops who police the Moscow subway — detaining young women, preferably without proper Moscow registration, threatening them and raping them. Currently, Galdetsky is in a Moscow hospital in grave condition, with multiple gun wounds to the head, undergoing surgery. The shooting has been called an assassination attempt by Galdetsky’s father in a letter to Novaya Gazeta. Rashid Nurgaliyev, Russia’s Minister of Internal Affairs (the police comes under the Ministry’s jurisdiction) has vouched to head the investigation of the assault, but the question remains — was the shooting of Galdetsky the result of his investigation of a crime that is flourishing in the Moscow underground under the guise of law enforcement? Novaya Gazeta says it was. Galadetsky’s Story In the interview Galdetsky gave to Novaya Gazeta, he explained that his quest for justice started in February, when a friend and he saw a girl having her ID checked by a subway policeman at a central Moscow station. The policeman took the girl’s passport and took her to the police station — there is one, complete with a detention room, at every Moscow metro station. Galdetsky knocked on the door and asked if the girl was being detained. After being told that she wasn’t but seeing that she wasn’t released, he ran upstairs to call Moscow’s Security (police) office on his cell phone. Then Galdetsky ran back down and mentioned his call to the policemen who detained the girl. Once they heard that he had called their superiors, they let the girl go, trembling and crying as she was. She told Galdetsky that she had been sexually harassed and threatened with murder. When Galdetsky attempted to take pictures of the cops with the camera installed in his cell phone, he was forced to delete every picture while the cops tried to convince him that the girl was, in fact, a prostitute whose services they regularly employed. This was the beginning of Galdetsky’s crusade. He wanted to make sure the cops who had harassed the girls were punished and set about complaining to the proper authorities. Going from one subway line to the next, he wound up learning more about the convoluted hierarchy of the police assigned to monitor the Moscow metro than he had ever wanted to know. As he got booted from door to door, Galdetsky learned of the problem’s true scope. Coming into one investigator’s office to file a complaint, he was shown a bookshelf of black files containing complaints just like his. He was assured that only 10% — if that — ever made it to court. Galdetsky made phone calls, wrote complaints, gathered evidence, rounded up the victims of harassment, put up ads on internet message boards, got in touch with Moscow’s top police official. People started calling him whenever they had problems, hoping for help. The way the cops operate, he told Novaya Gazeta, was by approaching young women who were out late at night, alone, plainly dressed. Such a potential victim is more likely to be a) defenseless, b) lacking the proper papers. They would detain them for an ID check, draw out the check until the last train was gone (the Moscow subway closes at 1 am) and then threaten and rape the women. Sometimes those who resisted were left alone; on other occasions they were accused of assaulting police officers. Aconversation Galdetsky reports having had with a police investigator: Galdetsky: On a Sunday, in Moscow, policemen harassing a girl Investigator: These things happen every day! Galdetsky: What, right in the center of the city? Investigator: At any metro station! The interview was published on Thursday. On Saturday, Galdetsky was on his way to a hospital with a gun wound to the head. A Policed State As long-time and recent locals will tell you, the most shocking part of this story is not that Moscow policemen have been accused of perpetrating acts of violence. It isn’t the fact that the person who did the finger-pointing is fighting for his life. It’s that someone — a teenage college student, at that — decided to do something about it. Moscow police have a reputation for harassment; Moscow’s draconian registration rules pretty much grant them the right to detain anyone they like. Moscow police routinely stop passers-by in the street or on the subway and demand to see their ID; their primary interest is a stamp or a slip that shows an individual as registered with the police. Deemed a reprehensible practice by human rights activists all over the world, the city administration’s requirement that all visitors register within three days of arrival is difficult and nerve-wracking to complete. Unable to find someone willing to register them at a privately owned apartment at the expense of time and energy wasted in lines at housing offices and police departments, many newcomers to Russia’s capital either buy a fake registration slip or go without. When detained, some bribe their way out, some talk their way out, and, in what Galdetsky uncovered to be a harassment scheme of horrifying proportions, some young women aren’t able to get away unscathed. Now What? Last summer, a number of highly placed police officers were exposed as extorters and drug barons, with the gang nicknamed the “police werewolves” by then-Interior Minister Boris Gryzlov. Now that the new interior minister has taken over Galdetsky’s case, Russia might see another “werewolf” ring rooted out — perhaps, only to be replaced with more corrupt police officers. Or this case might chip away at the foundation of Moscow’s police corruption — the registration rules. But nothing will change if no one joins Galdetsky in picking up this cause, especially after Saturday."
     },
     {
       "tag": "div",
-      "text": "ADV170 ValueClick Media 120x600 and 160x600 SkyScraper CODE for mosnews.com ValueClick Media 120x600 and 160x600 SkyScraper CODE for mosnews.com ADV170"
-    },
-    {
-      "tag": "p",
-      "text": "On Saturday, April 10, German Galdetsky, a 19-year-old college student, was shot point-blank at a train terminal in the middle of Moscow. Two days earlier, Novaya Gazeta, a Moscow daily newspaper, had published a long interview with Galadetsky. In the interview, he described his one-man struggle against the practice recently taken up by the cops who police the Moscow subway — detaining young women, preferably without proper Moscow registration, threatening them and raping them. Currently, Galdetsky is in a Moscow hospital in grave condition, with multiple gun wounds to the head, undergoing surgery. The shooting has been called an assassination attempt by Galdetsky’s father in a letter to Novaya Gazeta. Rashid Nurgaliyev, Russia’s Minister of Internal Affairs (the police comes under the Ministry’s jurisdiction) has vouched to head the investigation of the assault, but the question remains — was the shooting of Galdetsky the result of his investigation of a crime that is flourishing in the Moscow underground under the guise of law enforcement? Novaya Gazeta says it was. Galadetsky’s Story In the interview Galdetsky gave to Novaya Gazeta, he explained that his quest for justice started in February, when a friend and he saw a girl having her ID checked by a subway policeman at a central Moscow station. The policeman took the girl’s passport and took her to the police station — there is one, complete with a detention room, at every Moscow metro station. Galdetsky knocked on the door and asked if the girl was being detained. After being told that she wasn’t but seeing that she wasn’t released, he ran upstairs to call Moscow’s Security (police) office on his cell phone. Then Galdetsky ran back down and mentioned his call to the policemen who detained the girl. Once they heard that he had called their superiors, they let the girl go, trembling and crying as she was. She told Galdetsky that she had been sexually harassed and threatened with murder. When Galdetsky attempted to take pictures of the cops with the camera installed in his cell phone, he was forced to delete every picture while the cops tried to convince him that the girl was, in fact, a prostitute whose services they regularly employed. This was the beginning of Galdetsky’s crusade. He wanted to make sure the cops who had harassed the girls were punished and set about complaining to the proper authorities. Going from one subway line to the next, he wound up learning more about the convoluted hierarchy of the police assigned to monitor the Moscow metro than he had ever wanted to know. As he got booted from door to door, Galdetsky learned of the problem’s true scope. Coming into one investigator’s office to file a complaint, he was shown a bookshelf of black files containing complaints just like his. He was assured that only 10% — if that — ever made it to court. Galdetsky made phone calls, wrote complaints, gathered evidence, rounded up the victims of harassment, put up ads on internet message boards, got in touch with Moscow’s top police official. People started calling him whenever they had problems, hoping for help. The way the cops operate, he told Novaya Gazeta, was by approaching young women who were out late at night, alone, plainly dressed. Such a potential victim is more likely to be a) defenseless, b) lacking the proper papers. They would detain them for an ID check, draw out the check until the last train was gone (the Moscow subway closes at 1 am) and then threaten and rape the women. Sometimes those who resisted were left alone; on other occasions they were accused of assaulting police officers. Aconversation Galdetsky reports having had with a police investigator: Galdetsky: On a Sunday, in Moscow, policemen harassing a girl Investigator: These things happen every day! Galdetsky: What, right in the center of the city? Investigator: At any metro station! The interview was published on Thursday. On Saturday, Galdetsky was on his way to a hospital with a gun wound to the head. A Policed State As long-time and recent locals will tell you, the most shocking part of this story is not that Moscow policemen have been accused of perpetrating acts of violence. It isn’t the fact that the person who did the finger-pointing is fighting for his life. It’s that someone — a teenage college student, at that — decided to do something about it. Moscow police have a reputation for harassment; Moscow’s draconian registration rules pretty much grant them the right to detain anyone they like. Moscow police routinely stop passers-by in the street or on the subway and demand to see their ID; their primary interest is a stamp or a slip that shows an individual as registered with the police. Deemed a reprehensible practice by human rights activists all over the world, the city administration’s requirement that all visitors register within three days of arrival is difficult and nerve-wracking to complete. Unable to find someone willing to register them at a privately owned apartment at the expense of time and energy wasted in lines at housing offices and police departments, many newcomers to Russia’s capital either buy a fake registration slip or go without. When detained, some bribe their way out, some talk their way out, and, in what Galdetsky uncovered to be a harassment scheme of horrifying proportions, some young women aren’t able to get away unscathed. Now What? Last summer, a number of highly placed police officers were exposed as extorters and drug barons, with the gang nicknamed the “police werewolves” by then-Interior Minister Boris Gryzlov. Now that the new interior minister has taken over Galdetsky’s case, Russia might see another “werewolf” ring rooted out — perhaps, only to be replaced with more corrupt police officers. Or this case might chip away at the foundation of Moscow’s police corruption — the registration rules. But nothing will change if no one joins Galdetsky in picking up this cause, especially after Saturday."
-    },
-    {
-      "tag": "div",
-      "text": "CONT Add to Bookmarks"
+      "text": "Add to Bookmarks"
     },
     {
       "tag": "h4",
@@ -224,7 +172,7 @@
     },
     {
       "tag": "div",
-      "text": "GOOGLE1 GOOGLE1 ADV ADV CONT FOOTER NEWS | INTERVIEW | FEATURE | COLUMN | COMMENTARY | MONEY | MN-FILES | IMAGES | WEATHER | GUIDE TO RUSSIA | ABOUT Write us: info@mosnews.com Copyright © 2004 MOSNEWS.COM Designed by motka About | Legal Notice | RSS Feeds Partners | Advertise with us COUNTER Rating@Mail.ru COUNTER /COUNTER COUNTER ADV468 ADV468 ADV728x90 ValueClick Media 468x60 and 728x90 Banner CODE for mosnews.com ValueClick Media 468x60 and 728x90 Banner CODE for mosnews.com ADV728x90 FOOTER"
+      "text": "NEWS | INTERVIEW | FEATURE | COLUMN | COMMENTARY | MONEY | MN-FILES | IMAGES | WEATHER | GUIDE TO RUSSIA | ABOUT Write us: info@mosnews.com Copyright © 2004 MOSNEWS.COM Designed by motka About | Legal Notice | RSS Feeds Partners | Advertise with us"
     }
   ]
 }

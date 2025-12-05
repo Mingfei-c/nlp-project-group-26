@@ -8,15 +8,15 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "webbot bot=\"Include\" U-Include=\"top.htm\" TAG=\"BODY\" startspan webbot bot=\"Include\" i-checksum=\"25685\" endspan webbot bot=\"Include\" U-Include=\"leftnav.htm\" TAG=\"BODY\" startspan Home"
+      "text": "Home"
     },
     {
       "tag": "p",
-      "text": "About Doug McCoy Expert Testimony Articles & Manuals Speeches Helpful Links McCoy Consulting, Inc. Contact\n            Information Mailing\n            Address P.\n            O. Box 491540 Lawrenceville,\n            Georgia 30049 Shipping\n            Address 1000 Hurricane Shoals Rd Bldg A, Suite 160 Lawrenceville, Georgia 30043 678-407-1663\n            phone 770-962-8120 direct 770-963-7678 fax Email\n            Address doug@mccoy.net 2001 Robert Holmes' CI Development You are Visitor"
+      "text": "About Doug McCoy Expert Testimony Articles & Manuals Speeches Helpful Links"
     },
     {
-      "tag": "div",
-      "text": "webbot bot=\"Include\" i-checksum=\"52836\" endspan"
+      "tag": "p",
+      "text": "McCoy Consulting, Inc. Contact\n            Information Mailing\n            Address P.\n            O. Box 491540 Lawrenceville,\n            Georgia 30049 Shipping\n            Address 1000 Hurricane Shoals Rd Bldg A, Suite 160 Lawrenceville, Georgia 30043 678-407-1663\n            phone 770-962-8120 direct 770-963-7678 fax Email\n            Address doug@mccoy.net 2001 Robert Holmes' CI Development You are Visitor"
     },
     {
       "tag": "p",

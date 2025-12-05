@@ -3,13 +3,9 @@
   "file_number": "249",
   "content_hash": "d350ae9347261f9bab57be3ccb245ac498e8eb4954f2419887ddc0f6e004e2d4",
   "total_blocks": 85,
-  "retained_blocks": 43,
-  "ignored_blocks": 42,
+  "retained_blocks": 42,
+  "ignored_blocks": 43,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "[[[akator&#064;atpm.com]]]"
-    },
     {
       "tag": "p",
       "text": "Skip to Content Skip to Table of Contents"

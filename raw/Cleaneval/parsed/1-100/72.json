@@ -3,28 +3,20 @@
   "file_number": "72",
   "content_hash": "260179a1ceda3ede32cc1f22705952822db2067dfeba3eeae2b5e91c2a897463",
   "total_blocks": 67,
-  "retained_blocks": 24,
-  "ignored_blocks": 43,
+  "retained_blocks": 18,
+  "ignored_blocks": 49,
   "blocks": [
     {
       "tag": "div",
-      "text": "Notify Blogger about objectionable content. What does this mean? Send As SMS BlogThis! #wrap - for centering Blog Header"
+      "text": "Notify Blogger about objectionable content. What does this mean? Send As SMS BlogThis!"
     },
     {
       "tag": "h1",
       "text": "Health Care Renewal"
     },
     {
-      "tag": "div",
-      "text": "#content wrapper Begin #main-content"
-    },
-    {
       "tag": "h2",
       "text": "Thursday, May 26, 2005"
-    },
-    {
-      "tag": "div",
-      "text": "Begin .post"
     },
     {
       "tag": "h3",
@@ -36,7 +28,7 @@
     },
     {
       "tag": "div",
-      "text": "Links to this post End .post Begin #comments"
+      "text": "Links to this post"
     },
     {
       "tag": "h4",
@@ -63,10 +55,6 @@
       "text": "Create a Link"
     },
     {
-      "tag": "div",
-      "text": "End #comments End #main-content End #content Begin #sidebar"
-    },
-    {
       "tag": "h2",
       "text": "About"
     },
@@ -75,16 +63,12 @@
       "text": "Addressing threats to health care's core values, especially those stemming from concentration and abuse of power."
     },
     {
-      "tag": "div",
-      "text": "Begin #profile-container"
-    },
-    {
       "tag": "h2",
       "text": "Contributors"
     },
     {
       "tag": "div",
-      "text": "Pogo Egan Roy M. Poses MD Russ Maulitz Wally R. Smith, MD Judith Nudelman Lee Green MD MPH Kimball Atwood MD APeticola Ken Thompson cathy hood Tim Gorski MD Bernard Carroll wiswal MedInformaticsMD End #profile"
+      "text": "Pogo Egan Roy M. Poses MD Russ Maulitz Wally R. Smith, MD Judith Nudelman Lee Green MD MPH Kimball Atwood MD APeticola Ken Thompson cathy hood Tim Gorski MD Bernard Carroll wiswal MedInformaticsMD"
     },
     {
       "tag": "h2",
@@ -92,15 +76,7 @@
     },
     {
       "tag": "div",
-      "text": "Wall Street Journal: Medical Editor Turns Activist On Drug Trials \"Another Guy Who Ethically Ran Amok\": Bellevue Hospital Executive Fired Lawyers Sue Hospital Based on What it Advertised Fewer Physicians Interested in Generalist Careers Guideant's Short Circuit No More Free Viagra for Sex Offenders From Nevada, More on Hospitals' List Prices Conflicts of Interest and Jackson Memorial Hospital's Pharmacy Contract Support for the \"Endangered Primary Care MD\" Comments by Jacobi Hospital's Former Executive Director: \"I Feel Really Good\" <h2 class=\"sidebar-title\">New</h2>\n  \n  <p>This is a paragraph of text in the sidebar.</p> End #sidebar"
-    },
-    {
-      "tag": "p",
-      "text": "If you'd like, you could place footer information here."
-    },
-    {
-      "tag": "div",
-      "text": "WEBBOT bot=\"HTMLMarkup\" startspan ALT=\"Site Meter\" WEBBOT bot=\"HTMLMarkup\" Endspan end #wrap c(~)"
+      "text": "Wall Street Journal: Medical Editor Turns Activist On Drug Trials \"Another Guy Who Ethically Ran Amok\": Bellevue Hospital Executive Fired Lawyers Sue Hospital Based on What it Advertised Fewer Physicians Interested in Generalist Careers Guideant's Short Circuit No More Free Viagra for Sex Offenders From Nevada, More on Hospitals' List Prices Conflicts of Interest and Jackson Memorial Hospital's Pharmacy Contract Support for the \"Endangered Primary Care MD\" Comments by Jacobi Hospital's Former Executive Director: \"I Feel Really Good\""
     }
   ]
 }

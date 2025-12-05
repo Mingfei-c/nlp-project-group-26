@@ -3,8 +3,8 @@
   "file_number": "572",
   "content_hash": "39431f03bbf0c004c5e40f4f4c3d3961df67c457dea23d351f74e9bf1c9ee149",
   "total_blocks": 130,
-  "retained_blocks": 46,
-  "ignored_blocks": 84,
+  "retained_blocks": 42,
+  "ignored_blocks": 88,
   "blocks": [
     {
       "tag": "div",
@@ -16,23 +16,15 @@
     },
     {
       "tag": "div",
-      "text": "International Students Alumni Research Learning Resources Friends & Partners About Michener main content"
+      "text": "International Students Alumni Research Learning Resources Friends & Partners About Michener"
     },
     {
       "tag": "p",
-      "text": "CE Courses / Advanced Programs / Degree Completion / Customized Course Offerings / <a  href=\"/ce/accom.php\">Services</a> Internationally Educated Health Professionals / External Employment Opportunities"
+      "text": "CE Courses / Advanced Programs / Degree Completion / Customized Course Offerings / Internationally Educated Health Professionals / External Employment Opportunities Font Size: a | A"
     },
     {
       "tag": "div",
-      "text": "content menu"
-    },
-    {
-      "tag": "p",
-      "text": "Font Size: a | A"
-    },
-    {
-      "tag": "div",
-      "text": "Charles Sturt University end title bar document_starts_here"
+      "text": "Charles Sturt University"
     },
     {
       "tag": "h1",
@@ -44,7 +36,11 @@
     },
     {
       "tag": "div",
-      "text": "Master of Corporate Biotechnology: At A Glance Credential(s) Earned Master's Degree Program Length 3-6 years Delivery Method Distance education Start Date * Winter Session: February 2006 Approximate Tuition AUD$1,300/course Application Deadline Winter Session: October 30, 2005 Apply Through Charles Sturt University * There is only one intake per year for this program"
+      "text": "Master of Corporate Biotechnology: At A Glance Credential(s) Earned Master's Degree Program Length 3-6 years Delivery Method Distance education Start Date * Winter Session: February 2006 Approximate Tuition AUD$1,300/course Application Deadline Winter Session: October 30, 2005 Apply Through Charles Sturt University"
+    },
+    {
+      "tag": "div",
+      "text": "* There is only one intake per year for this program"
     },
     {
       "tag": "h2",
@@ -176,19 +172,7 @@
     },
     {
       "tag": "p",
-      "text": "Charles Sturt University Bachelor of Medical and Applied Biotechnology"
-    },
-    {
-      "tag": "div",
-      "text": "document_ends_here begin footer here end content footer.inc page for all footer information"
-    },
-    {
-      "tag": "p",
-      "text": "The Michener Institute for Applied Health Sciences 222 St. Patrick Street Toronto, Ontario Canada M5T 1V4 Contact Us / Maps & Directions / Donate / Careers @ Michener External Employment Opportunities / Privacy Policy / Terms of Use / Feedback ©2005 The Michener Institute"
-    },
-    {
-      "tag": "div",
-      "text": "google analytics code google analytics code"
+      "text": "Charles Sturt University Bachelor of Medical and Applied Biotechnology The Michener Institute for Applied Health Sciences 222 St. Patrick Street Toronto, Ontario Canada M5T 1V4 Contact Us / Maps & Directions / Donate / Careers @ Michener External Employment Opportunities / Privacy Policy / Terms of Use / Feedback ©2005 The Michener Institute"
     }
   ]
 }

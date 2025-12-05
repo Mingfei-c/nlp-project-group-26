@@ -3,12 +3,40 @@
   "file_number": "674",
   "content_hash": "1ab43895ba171ead28ce0304ffedf566bfe24882b27d3093fb3ef761b9bcda00",
   "total_blocks": 739,
-  "retained_blocks": 19,
-  "ignored_blocks": 720,
+  "retained_blocks": 33,
+  "ignored_blocks": 706,
   "blocks": [
     {
       "tag": "div",
-      "text": "Welcome University of Leeds 27-Dec-2006 ---- OAS SETUP begin ---- ');\n//--> ---- OAS SETUP end ---- ---- OAS AD 'Top' begin ---- ---- OAS AD end ---- Home | Browse articles | Search | Weblinks | Submit article | My CERA | About CERA Cost Effectiveness and Resource Allocation Volume 1 Viewing options : • Abstract • Full text • PDF (269KB) Associated material: • Readers' comments • Pre-publication history • PubMed record Related literature: • Articles citing this article on BioMed Central on Google Scholar on PubMed Central Other articles by authors Johns B Baltussen R Hutubessy R • Similar articles (PubMed) Tools: • E-mail to a friend • Download references • Post a comment • Order reprints Key : E-mail Corresponding author Methodology <rdf:RDF xmlns:cc=\"http://web.resource.org/cc/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:prism=\"http://prismstandard.org/namespaces/1.2/basic/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\">\r\n<cc:Work rdf:about=\"http://www.resource-allocation.com/content/1/1/1\">\r\n<cc:license rdf:resource=\"http://creativecommons.org/licenses/by/2.0/\"/>\r\n</cc:Work>\r\n<cc:License rdf:about=\"http://creativecommons.org/licenses/by/2.0/\">\r\n<cc:permits rdf:resource=\"http://web.resource.org/cc/Reproduction\"/>\r\n<cc:permits rdf:resource=\"http://web.resource.org/cc/Distribution\"/>\r\n<cc:requires rdf:resource=\"http://web.resource.org/cc/Notice\"/>\r\n<cc:requires rdf:resource=\"http://web.resource.org/cc/Attribution\"/>\r\n<cc:permits rdf:resource=\"http://web.resource.org/cc/DerivativeWorks\"/>\r\n</cc:License>\r\n<item rdf:about=\"http://www.resource-allocation.com/content/1/1/1\">\r\n<title>Programme costs in the economic evaluation of health interventions</title>\r\n<dc:title>Programme costs in the economic evaluation of health interventions</dc:title>\r\n<dc:creator>Johns, Benjamin</dc:creator>\r\n<dc:creator>Baltussen, Rob</dc:creator>\r\n<dc:creator>Hutubessy, Raymond</dc:creator>\r\n<dc:identifier>info:doi/10.1186/1478-7547-1-1</dc:identifier>\r\n<dc:identifier>info:pmid/12773220</dc:identifier>\r\n<dc:source>Cost Effectiveness and Resource Allocation 2003, 1:1</dc:source>\r\n<dc:date>2003-02-26</dc:date>\r\n<prism:publicationName>Cost Effectiveness and Resource Allocation</prism:publicationName>\r\n<prism:publicationDate>2003-02-26</prism:publicationDate>\r\n<prism:volume>1</prism:volume>\r\n<prism:number>1</prism:number>\r\n<prism:section>Methodology</prism:section>\r\n<prism:startingPage>1</prism:startingPage>\r\n</item>\r\n</rdf:RDF> . Programme costs in the economic evaluation of health interventions Benjamin Johns , Rob Baltussen and Raymond Hutubessy Global Programme on Evidence for Health Policy (GPE/EQC), World Health Organization, CH-1211 Geneva 27, Switzerland Cost Effectiveness and Resource Allocation 2003, 1 : 1     doi:10.1186/1478-7547-1-1 The electronic version of this article is the complete one and can be found online at: http://www.resource-allocation.com/content/1/1/1 Received 24 February 2003 Accepted 26 February 2003 Published 26 February 2003 ©\r\n\t\t\t\t\t\t 2003 Johns et al; licensee BioMed Central Ltd. This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL. Outline Abstract Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References"
+      "text": "Welcome University of Leeds 27-Dec-2006 ');\n//--> Home | Browse articles | Search | Weblinks | Submit article | My CERA | About CERA"
+    },
+    {
+      "tag": "div",
+      "text": "Cost Effectiveness and Resource Allocation Volume 1"
+    },
+    {
+      "tag": "div",
+      "text": "Viewing options : • Abstract • Full text • PDF (269KB) Associated material: • Readers' comments • Pre-publication history • PubMed record Related literature: • Articles citing this article on BioMed Central on Google Scholar on PubMed Central Other articles by authors Johns B Baltussen R Hutubessy R • Similar articles (PubMed) Tools: • E-mail to a friend • Download references • Post a comment • Order reprints Key : E-mail Corresponding author"
+    },
+    {
+      "tag": "div",
+      "text": "Methodology ."
+    },
+    {
+      "tag": "div",
+      "text": "Programme costs in the economic evaluation of health interventions Benjamin Johns , Rob Baltussen and Raymond Hutubessy Global Programme on Evidence for Health Policy (GPE/EQC), World Health Organization, CH-1211 Geneva 27, Switzerland Cost Effectiveness and Resource Allocation 2003, 1 : 1     doi:10.1186/1478-7547-1-1 The electronic version of this article is the complete one and can be found online at: http://www.resource-allocation.com/content/1/1/1"
+    },
+    {
+      "tag": "div",
+      "text": "Received 24 February 2003 Accepted 26 February 2003 Published 26 February 2003"
+    },
+    {
+      "tag": "div",
+      "text": "©\r\n\t\t\t\t\t\t 2003 Johns et al; licensee BioMed Central Ltd. This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL. Outline Abstract"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References"
     },
     {
       "tag": "p",
@@ -16,7 +44,11 @@
     },
     {
       "tag": "div",
-      "text": "Outline Introduction Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References"
+      "text": "Outline Introduction"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References"
     },
     {
       "tag": "p",
@@ -24,7 +56,11 @@
     },
     {
       "tag": "div",
-      "text": "Outline Methods Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References Tables Table 1 Cost categories in programme cost sheet Table 2 Mark-up of goods to account for the cost of transport"
+      "text": "Outline Methods"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References Tables Table 1 Cost categories in programme cost sheet Table 2 Mark-up of goods to account for the cost of transport"
     },
     {
       "tag": "p",
@@ -32,7 +68,11 @@
     },
     {
       "tag": "div",
-      "text": "Outline Results Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References Tables Table 3 Average annual program cost per capita for selected interventions in GBD regions* (2000 I $)"
+      "text": "Outline Results"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References Tables Table 3 Average annual program cost per capita for selected interventions in GBD regions* (2000 I $)"
     },
     {
       "tag": "p",
@@ -40,7 +80,11 @@
     },
     {
       "tag": "div",
-      "text": "Outline Conclusion Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References"
+      "text": "Outline Conclusion"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References"
     },
     {
       "tag": "p",
@@ -64,7 +108,11 @@
     },
     {
       "tag": "div",
-      "text": "Outline Endnote section Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References"
+      "text": "Outline Endnote section"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References"
     },
     {
       "tag": "p",
@@ -80,7 +128,15 @@
     },
     {
       "tag": "div",
-      "text": "Outline References Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References 1. Hutubessy RCW,  Baltussen RMPM,  Tan Torres-Edejer T,  Evans DB: Generalised cost-effectiveness analysis: an aid to decision making in health. Applied Health Economics and Health Policy 2002, 1 : 89-95. [ PubMed Abstract ] Return to citation in text:  [ 1 ] 2. Murray CJ,  Lopez AD: Global mortality, disability, and the contribution of risk factors: Global Burden of Disease Study. Lancet 1997, 349 : 1436-1442. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 3. Baltussen RM,  Adam T,  Tan Torres T,  Hutubessy RC,  Acharya A,  Evans DB: Generalized Cost-Effectiveness Analysis: A Guide. Geneva, World Health Organization, Global Programme on Evidence for Health Policy 2002. Return to citation in text:  [ 1 ] [ 2 ] [ 3 ] 4. de Jonghe E,  Murray CJ,  Chum HJ,  Nyangulu DS,  Salomao A,  Styblo K: Cost-effectiveness of chemotherapy for sputum smear-positive pulmonary tuberculosis in Malawi, Mozambique and Tanzania. Int J Health Plann Manage 1994, 9 : 151-181. [ PubMed Abstract ] Return to citation in text:  [ 1 ] 5. Adam T,  Evans DB,  Koopmanschap MA: Cost-effectiveness analysis: can we reduce variability in costing methods? Int J Technol Assess Health Care , in press . Return to citation in text:  [ 1 ] [ 2 ] 6. Floyd K,  Wilkinson D,  Gilks C: Comparison of cost effectiveness of directly observed treatment (DOT) and conventionally delivered treatment for tuberculosis: experience from rural South Africa. BMJ 1997, 315 : 1407-1411. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 7. Creese A,  Parker D: Cost Analysis in Primary Health Care: A Training Manual for Programme Managers. Geneva, World Health Organization 1994. Return to citation in text:  [ 1 ] 8. Drummond MF,  O'Brien BJ,  Stoddart GL,  Torrance GW: Methods for the Economic Evaluation of Health Care Programmes 2 ed. Oxford, Oxford Univeristy Press 1997. Return to citation in text:  [ 1 ] [ 2 ] [ 3 ] [ 4 ] [ 5 ] [ 6 ] [ 7 ] [ 8 ] 9. Gold MR,  Siegel JE,  Russel LB,  Weinstein MC: Cost-effectiveness in Health and Medicine. New York, Oxford University Press 1996. Return to citation in text:  [ 1 ] [ 2 ] 10. Murray CJ,  Evans DB,  Acharya A,  Baltussen RM: Development of WHO guidelines on generalized cost-effectiveness analysis. Health Econ 2000, 9 : 235-251. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 11. Little IMD,  Mirrlees JA: Project Appraisal and Planning for Developing Countries. London, Heinemann Educational Books 1974. Return to citation in text:  [ 1 ] [ 2 ] 12. Mishan EJ: Cost-benefit Analysis. London, George Allen & Unwin (Publishers) Ltd 3 Edition 1982. Return to citation in text:  [ 1 ] 13. Creese A,  Parker D: Cost Analysis in Primary Health Care: A Training Manual for Programme Managers. Geneva, World Health Organization 1994. Return to citation in text:  [ 1 ] [ 2 ] 14. Walker D: How to do (or not to do)... Cost and cost-effectiveness guidelines: which ones to use? Health Policy Plan 2001, 16 : 113-121. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 15. World Bank: World Development Indicators 2001. Washington, D.C: World Bank 2001. Return to citation in text:  [ 1 ] 16. Gittinger J: Economic analysis of agricultural projects. John Hopkins Press 1984. Return to citation in text:  [ 1 ] [ 2 ] 17. Berman P,  Brotowasisto ,  Nadjib M,  Sakai S,  Gani A: The costs of public primary health care services in rural Indonesia. Bull World Health Organ 1989, 67 : 685-694. [ PubMed Abstract ] Return to citation in text:  [ 1 ] 18. Berman P: Cost efficiency in primary health care: studies of health facilities in Indonesia. Health Policy Plan 1989, 4 : 316-322. Return to citation in text:  [ 1 ] 19. Over M: The effect of scale on cost projections for a primary health care program in a developing country. Soc Sci Med 1986, 22 : 351-360. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 20. Limao N,  Venables AJ: Infrastructure, geographical disadvantage, transport costs, and trade. World Bank Economic Review 2001, 15 : 451-479.  [ Publisher Full Text ] Return to citation in text:  [ 1 ] 21. Roncek DW: Learning more from tobit coefficients: extending a comparative analysis of political protest. American Sociological Review 1992, 57 : 503-507. Return to citation in text:  [ 1 ] 22. Gusein-Zade SM: Comments on \"Anote on the location of medical facilities\" by Z. Drezner. Journal of Regional Sciences 1992, 32 : 229-231. Return to citation in text:  [ 1 ] 23. Khan MM,  Ali D,  Ferdousy Z,  Al Mamun A: Acost-minimization approach to planning the geographical distribution of health facilities. Health Policy Plan 2001, 16 : 264-272. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 24. Sweat M,  Gregorich S,  Sangiwa G,  Furlonge C,  Balmer D,  Kamenga C,  Grinstead O,  Coates T: Cost-effectiveness of voluntary HIV-1 counselling and testing in reducing sexual transmission of HIV-1 in Kenya and Tanzania. Lancet 2000, 356 : 113-121. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 25. World Health Organization: The World Health Report 2002: Reducing Risks, Promoting Healthy Life. Geneva, World Health Organization 2002. Return to citation in text:  [ 1 ] 26. Baltussen RM,  Hutubessy RC,  Evans DB,  Murray CJ: Uncertainty in cost-effectiveness analysis: Probabilistic uncertainty analysis and stochastic league tables. Int J Technol Assess Health Care 2002, 18 : 112-119. [ PubMed Abstract ] Return to citation in text:  [ 1 ] 27. Hutubessy RC,  Baltussen RM,  Evans DB,  Barendregt JJ,  Murray CJ: Stochastic league tables: communicating cost-effectiveness results to decision-makers. Health Econ 2001, 10 : 473-477. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 28. WHO Commission on Macroeconomics and Health: Macroeconomics and Health: Investing in Health for Economic Development. Report of the Commission on Macroeconomics and Health. Geneva, World Health Organization 2001. Return to citation in text:  [ 1 ] Have\r\n        something to say? Post a comment on this article! ---- OAS AD 'Bottom' begin ---- ---- OAS AD end ---- Published by © 1999-2006 BioMed Central Ltd unless otherwise stated < info@biomedcentral.com > Terms and conditions"
+      "text": "Outline References"
+    },
+    {
+      "tag": "div",
+      "text": "Abstract Introduction Methods Results Conclusion Conflict of Interest Authors' contributions Endnote section Acknowledgements References 1. Hutubessy RCW,  Baltussen RMPM,  Tan Torres-Edejer T,  Evans DB: Generalised cost-effectiveness analysis: an aid to decision making in health. Applied Health Economics and Health Policy 2002, 1 : 89-95. [ PubMed Abstract ] Return to citation in text:  [ 1 ] 2. Murray CJ,  Lopez AD: Global mortality, disability, and the contribution of risk factors: Global Burden of Disease Study. Lancet 1997, 349 : 1436-1442. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 3. Baltussen RM,  Adam T,  Tan Torres T,  Hutubessy RC,  Acharya A,  Evans DB: Generalized Cost-Effectiveness Analysis: A Guide. Geneva, World Health Organization, Global Programme on Evidence for Health Policy 2002. Return to citation in text:  [ 1 ] [ 2 ] [ 3 ] 4. de Jonghe E,  Murray CJ,  Chum HJ,  Nyangulu DS,  Salomao A,  Styblo K: Cost-effectiveness of chemotherapy for sputum smear-positive pulmonary tuberculosis in Malawi, Mozambique and Tanzania. Int J Health Plann Manage 1994, 9 : 151-181. [ PubMed Abstract ] Return to citation in text:  [ 1 ] 5. Adam T,  Evans DB,  Koopmanschap MA: Cost-effectiveness analysis: can we reduce variability in costing methods? Int J Technol Assess Health Care , in press . Return to citation in text:  [ 1 ] [ 2 ] 6. Floyd K,  Wilkinson D,  Gilks C: Comparison of cost effectiveness of directly observed treatment (DOT) and conventionally delivered treatment for tuberculosis: experience from rural South Africa. BMJ 1997, 315 : 1407-1411. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 7. Creese A,  Parker D: Cost Analysis in Primary Health Care: A Training Manual for Programme Managers. Geneva, World Health Organization 1994. Return to citation in text:  [ 1 ] 8. Drummond MF,  O'Brien BJ,  Stoddart GL,  Torrance GW: Methods for the Economic Evaluation of Health Care Programmes 2 ed. Oxford, Oxford Univeristy Press 1997. Return to citation in text:  [ 1 ] [ 2 ] [ 3 ] [ 4 ] [ 5 ] [ 6 ] [ 7 ] [ 8 ] 9. Gold MR,  Siegel JE,  Russel LB,  Weinstein MC: Cost-effectiveness in Health and Medicine. New York, Oxford University Press 1996. Return to citation in text:  [ 1 ] [ 2 ] 10. Murray CJ,  Evans DB,  Acharya A,  Baltussen RM: Development of WHO guidelines on generalized cost-effectiveness analysis. Health Econ 2000, 9 : 235-251. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 11. Little IMD,  Mirrlees JA: Project Appraisal and Planning for Developing Countries. London, Heinemann Educational Books 1974. Return to citation in text:  [ 1 ] [ 2 ] 12. Mishan EJ: Cost-benefit Analysis. London, George Allen & Unwin (Publishers) Ltd 3 Edition 1982. Return to citation in text:  [ 1 ] 13. Creese A,  Parker D: Cost Analysis in Primary Health Care: A Training Manual for Programme Managers. Geneva, World Health Organization 1994. Return to citation in text:  [ 1 ] [ 2 ] 14. Walker D: How to do (or not to do)... Cost and cost-effectiveness guidelines: which ones to use? Health Policy Plan 2001, 16 : 113-121. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 15. World Bank: World Development Indicators 2001. Washington, D.C: World Bank 2001. Return to citation in text:  [ 1 ] 16. Gittinger J: Economic analysis of agricultural projects. John Hopkins Press 1984. Return to citation in text:  [ 1 ] [ 2 ] 17. Berman P,  Brotowasisto ,  Nadjib M,  Sakai S,  Gani A: The costs of public primary health care services in rural Indonesia. Bull World Health Organ 1989, 67 : 685-694. [ PubMed Abstract ] Return to citation in text:  [ 1 ] 18. Berman P: Cost efficiency in primary health care: studies of health facilities in Indonesia. Health Policy Plan 1989, 4 : 316-322. Return to citation in text:  [ 1 ] 19. Over M: The effect of scale on cost projections for a primary health care program in a developing country. Soc Sci Med 1986, 22 : 351-360. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 20. Limao N,  Venables AJ: Infrastructure, geographical disadvantage, transport costs, and trade. World Bank Economic Review 2001, 15 : 451-479.  [ Publisher Full Text ] Return to citation in text:  [ 1 ] 21. Roncek DW: Learning more from tobit coefficients: extending a comparative analysis of political protest. American Sociological Review 1992, 57 : 503-507. Return to citation in text:  [ 1 ] 22. Gusein-Zade SM: Comments on \"Anote on the location of medical facilities\" by Z. Drezner. Journal of Regional Sciences 1992, 32 : 229-231. Return to citation in text:  [ 1 ] 23. Khan MM,  Ali D,  Ferdousy Z,  Al Mamun A: Acost-minimization approach to planning the geographical distribution of health facilities. Health Policy Plan 2001, 16 : 264-272. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 24. Sweat M,  Gregorich S,  Sangiwa G,  Furlonge C,  Balmer D,  Kamenga C,  Grinstead O,  Coates T: Cost-effectiveness of voluntary HIV-1 counselling and testing in reducing sexual transmission of HIV-1 in Kenya and Tanzania. Lancet 2000, 356 : 113-121. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 25. World Health Organization: The World Health Report 2002: Reducing Risks, Promoting Healthy Life. Geneva, World Health Organization 2002. Return to citation in text:  [ 1 ] 26. Baltussen RM,  Hutubessy RC,  Evans DB,  Murray CJ: Uncertainty in cost-effectiveness analysis: Probabilistic uncertainty analysis and stochastic league tables. Int J Technol Assess Health Care 2002, 18 : 112-119. [ PubMed Abstract ] Return to citation in text:  [ 1 ] 27. Hutubessy RC,  Baltussen RM,  Evans DB,  Barendregt JJ,  Murray CJ: Stochastic league tables: communicating cost-effectiveness results to decision-makers. Health Econ 2001, 10 : 473-477. [ PubMed Abstract ] [ Publisher Full Text ] Return to citation in text:  [ 1 ] 28. WHO Commission on Macroeconomics and Health: Macroeconomics and Health: Investing in Health for Economic Development. Report of the Commission on Macroeconomics and Health. Geneva, World Health Organization 2001. Return to citation in text:  [ 1 ]"
+    },
+    {
+      "tag": "div",
+      "text": "Have\r\n        something to say? Post a comment on this article! Published by © 1999-2006 BioMed Central Ltd unless otherwise stated < info@biomedcentral.com > Terms and conditions"
     }
   ]
 }

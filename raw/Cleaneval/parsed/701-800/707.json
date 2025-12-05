@@ -3,12 +3,20 @@
   "file_number": "707",
   "content_hash": "dcb97ab9c06e095fec8ba3b3f6d9818989dc8e8645110fb8f17bb0c9d6cdd52c",
   "total_blocks": 28,
-  "retained_blocks": 2,
-  "ignored_blocks": 26,
+  "retained_blocks": 4,
+  "ignored_blocks": 24,
   "blocks": [
     {
       "tag": "p",
-      "text": "The Traditional Archery Society of Ireland This page deleted. Forwarding information CLICK TASI HERE -------------------NAVIGATION ARRAY  Note, this is copyright-------------------------------------- -------NAVIGATION ARRAY  ----------------- SIXGOLDS NAVIGATION MENU 2005 MAIN INDEX NEWS CALENDAR RESULTS ABOUT PICTURES LINKS LOUGH CUAN BANBRIDGE AC BALLYVALLY reserved R.B.L . Kites with Antennas reserved reserved ********END NAV BAR***************** OVERKILL COMMANDS sets up computer for next action"
+      "text": "The Traditional Archery Society of Ireland This page deleted. Forwarding information CLICK TASI HERE"
+    },
+    {
+      "tag": "p",
+      "text": "SIXGOLDS NAVIGATION MENU 2005"
+    },
+    {
+      "tag": "p",
+      "text": "MAIN INDEX NEWS CALENDAR RESULTS ABOUT PICTURES LINKS LOUGH CUAN BANBRIDGE AC BALLYVALLY reserved R.B.L . Kites with Antennas reserved reserved"
     },
     {
       "tag": "div",

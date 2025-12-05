@@ -3,12 +3,28 @@
   "file_number": "731",
   "content_hash": "46becf4696b477bc9668310a3b4b1c322cdff9b26fb39f7a74b95d47b87668d2",
   "total_blocks": 97,
-  "retained_blocks": 31,
-  "ignored_blocks": 66,
+  "retained_blocks": 36,
+  "ignored_blocks": 61,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" Entire Site CrossTalk Only - Mission - Staff - Contact Us - Subscribe Now - Update - Cancel - Home > CrossTalkNov2004 > Article Nov2004Issue Three Essential Tools for Stable Development Andy Hunt,The Pragmatic Programmers, LLC Dave Thomas,The Pragmatic Programmers, LLC Three basic practices make the difference between a software project that succeeds and one that fails. These practices support\r\nand reinforce each other; when done properly, they form an interlocking safety net to help ensure success and prevent common\r\nproject disasters. However, few development teams in the United States use these proven techniques, and even fewer use them\r\ncorrectly."
+      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Entire Site CrossTalk Only"
+    },
+    {
+      "tag": "div",
+      "text": "- Mission - Staff - Contact Us - Subscribe Now - Update - Cancel -"
+    },
+    {
+      "tag": "div",
+      "text": "Home > CrossTalkNov2004 > Article"
+    },
+    {
+      "tag": "div",
+      "text": "Nov2004Issue Three Essential Tools for Stable Development Andy Hunt,The Pragmatic Programmers, LLC Dave Thomas,The Pragmatic Programmers, LLC Three basic practices make the difference between a software project that succeeds and one that fails. These practices support\r\nand reinforce each other; when done properly, they form an interlocking safety net to help ensure success and prevent common\r\nproject disasters. However, few development teams in the United States use these proven techniques, and even fewer use them\r\ncorrectly."
     },
     {
       "tag": "p",
@@ -128,7 +144,11 @@
     },
     {
       "tag": "div",
-      "text": "2004 The Pragmatic Programmers, LLC. Portions of\r\nthis article adapted from \"Pragmatic Unit Testing in Java\r\nWith JUnit,\" by Andy Hunt and Dave Thomas (Volume\r\nII of the Pragmatic Starter Kit), published by the\r\nPragmatic Bookshelf and Copyright  2003, 2004 The\r\nPragmatic Programmers, LLC. Reprinted with permission. Privacy and Security Notice External Links Disclaimer Site Map Contact Us Please E-mail or call 801-775-5555 (DSN 775-5555) if you have any questions regarding your CrossTalk subscription or for additional STSC information. Webmaster: 517th SMXS/MDEA, 801-777-0857 (DSN 777-0857), E-mail STSC Parent Organizations: 309SMXG Ogden Air Logistics Center, Hill AFB"
+      "text": "2004 The Pragmatic Programmers, LLC. Portions of\r\nthis article adapted from \"Pragmatic Unit Testing in Java\r\nWith JUnit,\" by Andy Hunt and Dave Thomas (Volume\r\nII of the Pragmatic Starter Kit), published by the\r\nPragmatic Bookshelf and Copyright  2003, 2004 The\r\nPragmatic Programmers, LLC. Reprinted with permission."
+    },
+    {
+      "tag": "div",
+      "text": "Privacy and Security Notice External Links Disclaimer Site Map Contact Us Please E-mail or call 801-775-5555 (DSN 775-5555) if you have any questions regarding your CrossTalk subscription or for additional STSC information. Webmaster: 517th SMXS/MDEA, 801-777-0857 (DSN 777-0857), E-mail STSC Parent Organizations: 309SMXG Ogden Air Logistics Center, Hill AFB"
     }
   ]
 }

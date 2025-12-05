@@ -3,12 +3,32 @@
   "file_number": "195",
   "content_hash": "31b573495ca3c74c2a8c18db2c7fa9bea9759a9d69296717a6d7c25e9a667cd5",
   "total_blocks": 146,
-  "retained_blocks": 6,
-  "ignored_blocks": 140,
+  "retained_blocks": 12,
+  "ignored_blocks": 134,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\" HEADER JOIN US VISITING ISU ACADEMICS RESEARCH ATHLETICS ISU TODAY END HEADER LEFTHAND NAVIGATION Center \r\n\t\t\tfor Instruction, research, and technology Research Services Faculty Development Undergraduate IT Training Instructional \r\n\r\n\t\t\t\tTechnologies Interactive and Multimedia Design Services About Us Staff Directory OFFICE OF INFORMATION TECHNOLOGY ISU \r\n\r\nCOMMUNITY PROSPECTIVE \r\n\r\nSTUDENTS ALUMNI \r\n\r\n& FRIENDS PARENTS \r\n\r\n& FAMILY BUSINESS \r\n\r\n& COMMUNITY ISU \r\n\r\nA-Z MyISU SEARCH //END LEFTHAND NAVIGATION"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "JOIN US VISITING ISU ACADEMICS RESEARCH ATHLETICS ISU TODAY"
+    },
+    {
+      "tag": "div",
+      "text": "Center \r\n\t\t\tfor Instruction, research, and technology"
+    },
+    {
+      "tag": "div",
+      "text": "Research Services Faculty Development Undergraduate IT Training Instructional \r\n\r\n\t\t\t\tTechnologies Interactive and Multimedia Design Services About Us Staff Directory"
+    },
+    {
+      "tag": "div",
+      "text": "OFFICE OF INFORMATION TECHNOLOGY"
+    },
+    {
+      "tag": "div",
+      "text": "ISU \r\n\r\nCOMMUNITY PROSPECTIVE \r\n\r\nSTUDENTS ALUMNI \r\n\r\n& FRIENDS PARENTS \r\n\r\n& FAMILY BUSINESS \r\n\r\n& COMMUNITY ISU \r\n\r\nA-Z MyISU SEARCH"
     },
     {
       "tag": "h2",
@@ -20,7 +40,7 @@
     },
     {
       "tag": "div",
-      "text": "inserted table to bump contact info to the left to line up with image above per Comm/Mktg. 11/30/04, sjo Caleb Mills Award Nomination Form"
+      "text": "Caleb Mills Award Nomination Form"
     },
     {
       "tag": "p",
@@ -28,7 +48,11 @@
     },
     {
       "tag": "div",
-      "text": "Last modified:  20-Nov-06     Maintained by: egruenert@isugw.indstate.edu FOOTER/COPYRIGHT INFO 200 North Seventh Street, Terre Haute, Indiana, USA 47809-9989 Copyright 2006 by Indiana State \r\n\r\nUniversity . 1-800-GO-TO-ISU | 1-800-468-6478 END FOOTER/COPYRIGHT INFO"
+      "text": "Last modified:  20-Nov-06     Maintained by: egruenert@isugw.indstate.edu"
+    },
+    {
+      "tag": "div",
+      "text": "200 North Seventh Street, Terre Haute, Indiana, USA 47809-9989 Copyright 2006 by Indiana State \r\n\r\nUniversity . 1-800-GO-TO-ISU | 1-800-468-6478"
     }
   ]
 }

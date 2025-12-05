@@ -3,13 +3,9 @@
   "file_number": "675",
   "content_hash": "363ba9545e6169c56ad758002e0bc71be067501702f652e89eb56e83e0d244d0",
   "total_blocks": 176,
-  "retained_blocks": 37,
-  "ignored_blocks": 139,
+  "retained_blocks": 42,
+  "ignored_blocks": 134,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "DWLayoutTable"
-    },
     {
       "tag": "h1",
       "text": "Land Tax"
@@ -36,7 +32,15 @@
     },
     {
       "tag": "div",
-      "text": "Rates effective from 1/7/2005 Total Taxable Site Value Rate Up to $110, 000 Nil $110,001 - $350,000 30 cents for each $100 or part $100 above $110,000 $350,001 - $550,000 $720 plus 70 cents for each $100 or part $100 above $350,000 $550,001 - $750,000 $2,120 plus $1.65 for each $100 or part $100 above $550,000 $750,001 - $1,000,000 $5,420 plus $2.40 for each $100 or part $100 above $750,000 Over $1,000,000 $11,420 plus $3.70 for each $100 or part $100 above $1,000,000"
+      "text": "Rates effective from 1/7/2005"
+    },
+    {
+      "tag": "div",
+      "text": "Total Taxable Site Value Rate"
+    },
+    {
+      "tag": "div",
+      "text": "Up to $110, 000 Nil $110,001 - $350,000 30 cents for each $100 or part $100 above $110,000 $350,001 - $550,000 $720 plus 70 cents for each $100 or part $100 above $350,000 $550,001 - $750,000 $2,120 plus $1.65 for each $100 or part $100 above $550,000 $750,001 - $1,000,000 $5,420 plus $2.40 for each $100 or part $100 above $750,000 Over $1,000,000 $11,420 plus $3.70 for each $100 or part $100 above $1,000,000"
     },
     {
       "tag": "p",
@@ -44,11 +48,19 @@
     },
     {
       "tag": "div",
-      "text": "Example - only one non-exempt land holding Site value is $120,000 Tax on first $110,000 = Nil $120,000 - $110,000 = $10,000 @ 30 cents per $100 = $30"
+      "text": "Example - only one non-exempt land holding"
+    },
+    {
+      "tag": "div",
+      "text": "Site value is $120,000 Tax on first $110,000 = Nil $120,000 - $110,000 = $10,000 @ 30 cents per $100 = $30"
     },
     {
       "tag": "p",
-      "text": "Total tax = $30.00 Multiple holding tax refers to where more than one non-exempt property is owned. RevenueSA is required to apportion the total land tax payable to each taxable property within the ownership. The total land tax payable is therefore apportioned amongst each of the taxable properties in the ownership based on their value as a proportion of the total site value of the ownership. (see example below):"
+      "text": "Total tax = $30.00"
+    },
+    {
+      "tag": "p",
+      "text": "Multiple holding tax refers to where more than one non-exempt property is owned. RevenueSA is required to apportion the total land tax payable to each taxable property within the ownership. The total land tax payable is therefore apportioned amongst each of the taxable properties in the ownership based on their value as a proportion of the total site value of the ownership. (see example below):"
     },
     {
       "tag": "div",
@@ -64,7 +76,11 @@
     },
     {
       "tag": "p",
-      "text": "Total Site Value $600,000 Tax on site value up to $550,000 = $2,120 Tax on           $600,000 - $550,000 = $825.00 ($50,000 @ $1.65 per $100) Total Tax = $2,945.00 Apportionment between properties: Tax for 12 Smith St"
+      "text": "Total Site Value $600,000"
+    },
+    {
+      "tag": "p",
+      "text": "Tax on site value up to $550,000 = $2,120 Tax on           $600,000 - $550,000 = $825.00 ($50,000 @ $1.65 per $100) Total Tax = $2,945.00 Apportionment between properties: Tax for 12 Smith St"
     },
     {
       "tag": "div",
@@ -88,7 +104,11 @@
     },
     {
       "tag": "p",
-      "text": "Total Tax = $2,945.00 Where land is sold and adjustments are made to account for land tax (see who is liable for the payment of land tax ) the calculation of land tax to be apportioned between the seller and buyer must be based on the calculation of a single holding tax for the property concerned. By using the single holding tax , the adjustment is calculated as if the property being sold is the only taxable property in the ownership. Why this may be your first Land Tax account"
+      "text": "Total Tax = $2,945.00"
+    },
+    {
+      "tag": "p",
+      "text": "Where land is sold and adjustments are made to account for land tax (see who is liable for the payment of land tax ) the calculation of land tax to be apportioned between the seller and buyer must be based on the calculation of a single holding tax for the property concerned. By using the single holding tax , the adjustment is calculated as if the property being sold is the only taxable property in the ownership. Why this may be your first Land Tax account"
     },
     {
       "tag": "div",
@@ -152,7 +172,7 @@
     },
     {
       "tag": "p",
-      "text": "Customer service charter RevenueSA aims to provide you with a service, which is efficient and responsive and will ensure that your privacy and confidentially is respected. In responding to enquiries during the period from October to February each year, it should be recognised that RevenueSA experiences a major increase in workload with relation to land tax. Over 88,000 Notices will be issued during this period and based on previous experience, delays can be expected. However, as many as possible of our staff will be dedicated to addressing customer enquiries and will strive, at all times, to respond to your queries in the shortest possible time. This page was last updated #BeginDate format:Sw1 3 November, 2006 #EndDate"
+      "text": "Customer service charter RevenueSA aims to provide you with a service, which is efficient and responsive and will ensure that your privacy and confidentially is respected. In responding to enquiries during the period from October to February each year, it should be recognised that RevenueSA experiences a major increase in workload with relation to land tax. Over 88,000 Notices will be issued during this period and based on previous experience, delays can be expected. However, as many as possible of our staff will be dedicated to addressing customer enquiries and will strive, at all times, to respond to your queries in the shortest possible time. This page was last updated 3 November, 2006"
     }
   ]
 }

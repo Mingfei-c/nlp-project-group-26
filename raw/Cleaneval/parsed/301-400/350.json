@@ -3,20 +3,24 @@
   "file_number": "350",
   "content_hash": "1d0fca5eaec5be0893647b705ab3804522d73f29e81e4f1893128f202d776bd3",
   "total_blocks": 230,
-  "retained_blocks": 5,
-  "ignored_blocks": 225,
+  "retained_blocks": 11,
+  "ignored_blocks": 219,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "Header"
-    },
     {
       "tag": "p",
       "text": "Contact l Sitemap"
     },
     {
       "tag": "div",
-      "text": "End Header Center Text BEGIN BREADCRUMB CODE BEGIN BREADCRUMB CODE Home » Industries » War & Disaster Profiteering » US: American Companies in Iraq ... E-Mail Page Printer Safe END BREADCRUMB CODE US: American Companies in Iraq Starting from Ground Up by Joel Brinkley February 22nd, 2004"
+      "text": "Home » Industries » War & Disaster Profiteering » US: American Companies in Iraq ..."
+    },
+    {
+      "tag": "div",
+      "text": "E-Mail Page Printer Safe"
+    },
+    {
+      "tag": "div",
+      "text": "US: American Companies in Iraq Starting from Ground Up by Joel Brinkley February 22nd, 2004"
     },
     {
       "tag": "p",
@@ -24,7 +28,27 @@
     },
     {
       "tag": "div",
-      "text": "FAIR USE NOTICE. This document may contain copyrighted materialwhose use has not been specifically authorized by the copyright owner.CorpWatch is making this article available in our efforts to advance the understanding of corporate accountability, human rights, labor rights, social and environmental justice issues. We believe that this constitutes a 'fair use' of the copyrighted material as provided for in section 107 of the U.S. Copyright Law. If you wish to use this copyrighted material for purposes of your own that go beyond 'fair use,' you must obtain permission from the copyright owner. End Center Text Right Nav Box Search CorpWatch Company Profiles Boeing Lockheed Martin Northrop Grumman General Dynamics Raytheon United Technologies Halliburton General Electric Science Applications International Corporation CSC/ DynCorp News KATRINA: Hurricane Victims Say Agents Advised Against Flood Coverage US: The Rise and Fall of a War Profiteer IRAQ: Army to End Expansive, Exclusive Halliburton Deal KATRINA: First trial of insurance lawsuit set to open KATRINA: 'Breathtaking' Waste and Fraud in Hurricane Aid More » Join War Profiteers List End Right Nav Box Footer 1611 Telegraph Avenue., #702  Oakland, CA 94612 USA  510-271-8080 Design by Tumis.com  Powered by RadicalDesigns.org End Footer"
+      "text": "FAIR USE NOTICE. This document may contain copyrighted materialwhose use has not been specifically authorized by the copyright owner.CorpWatch is making this article available in our efforts to advance the understanding of corporate accountability, human rights, labor rights, social and environmental justice issues. We believe that this constitutes a 'fair use' of the copyrighted material as provided for in section 107 of the U.S. Copyright Law. If you wish to use this copyrighted material for purposes of your own that go beyond 'fair use,' you must obtain permission from the copyright owner. Search CorpWatch Company Profiles"
+    },
+    {
+      "tag": "div",
+      "text": "Boeing Lockheed Martin Northrop Grumman General Dynamics Raytheon United Technologies Halliburton General Electric Science Applications International Corporation CSC/ DynCorp"
+    },
+    {
+      "tag": "div",
+      "text": "News"
+    },
+    {
+      "tag": "div",
+      "text": "KATRINA: Hurricane Victims Say Agents Advised Against Flood Coverage US: The Rise and Fall of a War Profiteer IRAQ: Army to End Expansive, Exclusive Halliburton Deal KATRINA: First trial of insurance lawsuit set to open KATRINA: 'Breathtaking' Waste and Fraud in Hurricane Aid More »"
+    },
+    {
+      "tag": "div",
+      "text": "Join War Profiteers List"
+    },
+    {
+      "tag": "div",
+      "text": "1611 Telegraph Avenue., #702  Oakland, CA 94612 USA  510-271-8080 Design by Tumis.com  Powered by RadicalDesigns.org"
     }
   ]
 }

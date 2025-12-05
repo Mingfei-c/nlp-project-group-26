@@ -3,12 +3,16 @@
   "file_number": "412",
   "content_hash": "bf2cf70e8476caf679189bfde8d8fe0b444bd2ce54c7d68d77dbcc36228ee684",
   "total_blocks": 336,
-  "retained_blocks": 40,
-  "ignored_blocks": 296,
+  "retained_blocks": 50,
+  "ignored_blocks": 286,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"\r\n  \"http://www.w3.org/TR/REC-html40/loose.dtd\" base target=\"_top\" href=\"http://www.everything2.com/\" hey kids!  Time to pay the bills TABLE #1 Creates the header This font size will make the search box smaller on linux, does\r\n             not affect win/mac machines Near Matches Ignore Exact TABLE #1 Ends here TABLE #2 Creates the actual body of the page, and yes it is has few\r\n     nested tables... used to have {shownodelets} here Here's the current node and back to prev node"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"\r\n  \"http://www.w3.org/TR/REC-html40/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "Near Matches Ignore Exact"
     },
     {
       "tag": "h1",
@@ -16,7 +20,15 @@
     },
     {
       "tag": "div",
-      "text": "( thing ) by pingouin (2.7 y) ( print ) ? 1 C! Sat Nov 13 1999 at 14:15:41 117813{ How much is your time worth to you? Aunion is an organization of workers who push for the best possible working conditions - who else will? The boss ? The boss invented sweatshop s! Unions are easy to demonize , if you don't belong to one. They brought about the 40-hour work week, overtime pay, safety laws, and more, including previously-unknown prosperity for those who punched a clock . It enabled many to move to suburbia , buy homes, and raise kids who would grow up to demonize unions. }117813 ( idea ) by Cogito (1.1 y) ( print ) ? Sun Nov 18 2001 at 23:30:03 1202105{"
+      "text": "( thing ) by pingouin (2.7 y) ( print ) ? 1 C! Sat Nov 13 1999 at 14:15:41"
+    },
+    {
+      "tag": "div",
+      "text": "How much is your time worth to you? Aunion is an organization of workers who push for the best possible working conditions - who else will? The boss ? The boss invented sweatshop s! Unions are easy to demonize , if you don't belong to one. They brought about the 40-hour work week, overtime pay, safety laws, and more, including previously-unknown prosperity for those who punched a clock . It enabled many to move to suburbia , buy homes, and raise kids who would grow up to demonize unions."
+    },
+    {
+      "tag": "div",
+      "text": "( idea ) by Cogito (1.1 y) ( print ) ? Sun Nov 18 2001 at 23:30:03"
     },
     {
       "tag": "p",
@@ -24,7 +36,7 @@
     },
     {
       "tag": "div",
-      "text": "}1202105 ( idea ) by novasoy (1.6 wk) ( print ) ? Fri Jan 18 2002 at 17:54:55 1238623{"
+      "text": "( idea ) by novasoy (1.6 wk) ( print ) ? Fri Jan 18 2002 at 17:54:55"
     },
     {
       "tag": "p",
@@ -48,7 +60,7 @@
     },
     {
       "tag": "div",
-      "text": "}1238623 ( thing ) by ariels (17.3 hr) ( print ) ? 1 C! Wed Sep 24 2003 at 7:34:30 1494667{"
+      "text": "( thing ) by ariels (17.3 hr) ( print ) ? 1 C! Wed Sep 24 2003 at 7:34:30"
     },
     {
       "tag": "h1",
@@ -140,7 +152,7 @@
     },
     {
       "tag": "div",
-      "text": "}1494667 ( definition ) by Webster 1913 ( print ) 1 C! Wed Dec 22 1999 at 4:08:07 352786{"
+      "text": "( definition ) by Webster 1913 ( print ) 1 C! Wed Dec 22 1999 at 4:08:07"
     },
     {
       "tag": "p",
@@ -160,11 +172,39 @@
     },
     {
       "tag": "p",
-      "text": "© Webster 1913 . }352786 printable version chaos"
+      "text": "© Webster 1913 ."
+    },
+    {
+      "tag": "p",
+      "text": "printable version chaos"
     },
     {
       "tag": "div",
-      "text": "Labor Union Trade union intersection The Marriage of Pingouin and Knifegirl struct unionize How can a thinking, rational adult be a monotheist? There is Power in a Union National Labor Relations Act Civil War Put your head down and your ass in the air Damn the torpedoes, full speed ahead! We Shall Overcome Preamble to the IWW Constitution Is the Confederacy part of the Union? The Union &cup; Declaration of Southern Independence God Save the Flag Howard Lyman SQL optimization Generous Motors An American Trilogy Finite Plane Y'know, if you login , you can write something here. You can also Create a New User if you don't already have an account. Login: Password remember me password reminder Create a New User Random Node Create a Node [ * ] Read Em or Weep Getting Started Quick Start Everything FAQ Everything University Voting/Experience System E2 Mentoring Sign-Up Drink up! Rhythming Underwork Chav Dream Log: July 27, 2002 Differential Sail River Raid II carnal tunnel syndrome Battle of Sholingarh December 8, 2003 Dr. Fredric Wertham Brontotherium Four Stiff Standers Angela Chartres ( place ) eruhgon True Metal ( idea ) eruhgon Hammerfall ( person ) too_fast_to_live Dungeons and Palm Trees ( idea ) smartalix Convergence ( thing ) Tem42 houseboy ( person ) vidwan schistosomiasis ( thing ) Alcahest 2+2=5 ( idea ) ElectricDiptych mental floss ( idea ) TheLady The Clash of Civilizations between the West and Islam ( idea ) Tem42 Tuya ( thing ) Apollyon Santa Visits Africa ( idea ) The Custodian And her legs went on forever, like staring up at infinity ( person ) lovejoyman Clement Moore ( person ) Chras4 and when you woke up, your goldfish bowl was empty? ( idea ) [ * ] Maintenance Node Title Edit Broken Writeups Writeup Deletion Request Nodeshell Deletion Request Node Heaven E2 Bugs Suggestions for E2 [ * ] Noding Information E2 HTML Tags HTML symbol reference Using Unicode on E2 Reference Desk [ * ] Noding Utilities E2 Scratch Pad Scratch Pad Viewer Source Code Formatter Text Formatter [ * ] Lists 100 Newest Writeups Cool Archive (C! writeups) Page of Cool (Editor Picks) A Year Ago Today Everything Finger Everything User Search Old News Everything's Most Wanted Your nodeshells Your filled nodeshells Random nodeshells [ * ] Miscellaneous Voting/Experience System Message Inbox Java Chatterbox chatterlight Gab Central Everything User Poll Everything Quote Server Donation Box E2 Merchandise You must log in first. TABLE #2 Ends here TABLE #3 The footer E2 is a by-product of the existence of The Everything Development Company <table cellpadding=\"3\" cellspacing=\"0\" border=\"0\" width=\"100%\">\r\n    <tr><td>&nbsp;</td></tr>\r\n    <tr><td>&nbsp;</td></tr>\r\n    <tr><td>&nbsp;</td></tr>\r\n    <tr><td>&nbsp;</td></tr>\r\n    <tr bgcolor=\"#cccc99\"><td align=\"center\"> give money give me something for my money Please report server problems to e2webmaster at everything2.com </td></tr>\r\n    <tr>\r\n      <td bgcolor=\"#003366\"><img src=\"http://images.everything2.com/img/clear.gif\" width=\"1\" height=\"1\" border=\"0\" alt=\" \" /></td>\r\n    </tr>\r\n  </table> current node_id 40329"
+      "text": "Labor Union Trade union intersection The Marriage of Pingouin and Knifegirl struct unionize How can a thinking, rational adult be a monotheist? There is Power in a Union National Labor Relations Act Civil War Put your head down and your ass in the air Damn the torpedoes, full speed ahead! We Shall Overcome Preamble to the IWW Constitution Is the Confederacy part of the Union? The Union &cup; Declaration of Southern Independence God Save the Flag Howard Lyman SQL optimization Generous Motors An American Trilogy Finite Plane Y'know, if you login , you can write something here. You can also Create a New User if you don't already have an account."
+    },
+    {
+      "tag": "div",
+      "text": "Login: Password"
+    },
+    {
+      "tag": "div",
+      "text": "remember me password reminder Create a New User Random Node Create a Node [ * ] Read Em or Weep Getting Started Quick Start Everything FAQ Everything University Voting/Experience System E2 Mentoring Sign-Up Drink up! Rhythming Underwork Chav Dream Log: July 27, 2002 Differential Sail River Raid II carnal tunnel syndrome Battle of Sholingarh December 8, 2003 Dr. Fredric Wertham Brontotherium Four Stiff Standers"
+    },
+    {
+      "tag": "div",
+      "text": "Angela Chartres ( place ) eruhgon True Metal ( idea ) eruhgon Hammerfall ( person ) too_fast_to_live Dungeons and Palm Trees ( idea ) smartalix Convergence ( thing ) Tem42 houseboy ( person ) vidwan schistosomiasis ( thing ) Alcahest 2+2=5 ( idea ) ElectricDiptych mental floss ( idea ) TheLady The Clash of Civilizations between the West and Islam ( idea ) Tem42 Tuya ( thing ) Apollyon Santa Visits Africa ( idea ) The Custodian And her legs went on forever, like staring up at infinity ( person ) lovejoyman Clement Moore ( person ) Chras4 and when you woke up, your goldfish bowl was empty? ( idea )"
+    },
+    {
+      "tag": "div",
+      "text": "[ * ] Maintenance Node Title Edit Broken Writeups Writeup Deletion Request Nodeshell Deletion Request Node Heaven E2 Bugs Suggestions for E2 [ * ] Noding Information E2 HTML Tags HTML symbol reference Using Unicode on E2 Reference Desk [ * ] Noding Utilities E2 Scratch Pad Scratch Pad Viewer Source Code Formatter Text Formatter [ * ] Lists 100 Newest Writeups Cool Archive (C! writeups) Page of Cool (Editor Picks) A Year Ago Today Everything Finger Everything User Search Old News Everything's Most Wanted Your nodeshells Your filled nodeshells Random nodeshells [ * ] Miscellaneous Voting/Experience System Message Inbox Java Chatterbox chatterlight Gab Central Everything User Poll Everything Quote Server Donation Box E2 Merchandise You must log in first."
+    },
+    {
+      "tag": "div",
+      "text": "E2 is a by-product of the existence of The Everything Development Company"
+    },
+    {
+      "tag": "div",
+      "text": "give money give me something for my money Please report server problems to e2webmaster at everything2.com"
     }
   ]
 }

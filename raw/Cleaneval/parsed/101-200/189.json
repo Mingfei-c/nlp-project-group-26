@@ -3,8 +3,8 @@
   "file_number": "189",
   "content_hash": "9e82e159473f42d2a84464c2add0d04b5c8d4d15965020c342bfc6b3804fc4f1",
   "total_blocks": 376,
-  "retained_blocks": 27,
-  "ignored_blocks": 349,
+  "retained_blocks": 30,
+  "ignored_blocks": 346,
   "blocks": [
     {
       "tag": "div",
@@ -16,7 +16,15 @@
     },
     {
       "tag": "div",
-      "text": "New Commentary December 26, 2006 Why Radical Islam — And Why Now? by Victor Davis Hanson Tribune Media Services Advertisement Read any newspaper or turn on any news broadcast and you're bound to encounter stories of Islamic radicals fighting, killing and threatening each other — and just about everyone else. In Somalia, jihadists, with the support of al Qaeda, have clashed with troops loyal to the country's internationally recognized interim government and now threaten neighboring Ethiopia with all-out war."
+      "text": "New Commentary December 26, 2006 Why Radical Islam — And Why Now? by Victor Davis Hanson Tribune Media Services"
+    },
+    {
+      "tag": "div",
+      "text": "Advertisement"
+    },
+    {
+      "tag": "div",
+      "text": "Read any newspaper or turn on any news broadcast and you're bound to encounter stories of Islamic radicals fighting, killing and threatening each other — and just about everyone else. In Somalia, jihadists, with the support of al Qaeda, have clashed with troops loyal to the country's internationally recognized interim government and now threaten neighboring Ethiopia with all-out war."
     },
     {
       "tag": "p",
@@ -100,7 +108,11 @@
     },
     {
       "tag": "p",
-      "text": "Contributors' Archives Victor Davis Hanson Bruce Thornton New Book See reviews of A War Like No Other Pajamas Media: VDH Blog Click to send questions for the authors at this website. Donations You can donate to the development of Private Papers . For a donation of $30, you will receive 2 DVD set with interviews with VDH on warfare and his works. For a donation of $50, you will receive an autographed copy of A War Like No Other . For a donation of $75, you will receive both an autographed copy of A War Like No Other and the DVD set of interviews with VDH. Patrons who join the \"Voices of our Past\" tour of Classical Greece will also receive an autographed copy of A War Like No Other along with the DVD set of interviews with VDH. Private Papers is a production of Samwise Enterprises"
+      "text": "Contributors' Archives Victor Davis Hanson Bruce Thornton New Book See reviews of A War Like No Other Pajamas Media: VDH Blog"
+    },
+    {
+      "tag": "p",
+      "text": "Click to send questions for the authors at this website. Donations You can donate to the development of Private Papers . For a donation of $30, you will receive 2 DVD set with interviews with VDH on warfare and his works. For a donation of $50, you will receive an autographed copy of A War Like No Other . For a donation of $75, you will receive both an autographed copy of A War Like No Other and the DVD set of interviews with VDH. Patrons who join the \"Voices of our Past\" tour of Classical Greece will also receive an autographed copy of A War Like No Other along with the DVD set of interviews with VDH. Private Papers is a production of Samwise Enterprises"
     },
     {
       "tag": "div",

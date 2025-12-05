@@ -3,24 +3,36 @@
   "file_number": "236",
   "content_hash": "c2737cd20d034da709695bfb269d5e779d41de113f34957143271d41adaad595",
   "total_blocks": 201,
-  "retained_blocks": 11,
-  "ignored_blocks": 190,
+  "retained_blocks": 14,
+  "ignored_blocks": 187,
   "blocks": [
     {
       "tag": "div",
-      "text": "context ad setup Give the Gift of Design"
+      "text": "Give the Gift of Design"
     },
     {
       "tag": "p",
-      "text": "To help us meet  the $125,000 matching challenge grant, from now until January 1st, 2007, all donations of $300 or more will receive a signed first edition copy of our book Design Like You Give a Damn. Better yet, if you prefer we will donate your copy to a community group, library or school in a developing nation on your behalf. Architecture for Humanity is a 501(c)(3) charitable organization that seeks architectural solutions to humanitarian crises and brings design services to communities in need. For more information about our organization and our work, click on the links below. Current Projects About Architecture for Humanity (PDF) The Open Architecture Network Architecture for Humanity is building a new space to collaborate online. The Open Architecture Network will be a  gathering place for community designers and all those interested in improving the built environment. Here designers of all persuasions can post their projects, browse projects posted by others, comment and review projects, discuss relevant topics, contribute to shared resources, collaborate with each other and access project management tools to support their work. We imagine a site that not only helps create, support and implement ideas, but also a place that fosters sustainable, replicable, adaptable and scalable design solutions. The network has a simple mission: to generate design opportunities that will improve living standards for all. The Sapling Foundation is currently matching upwards of $125,000 for the Open Architecture Network . and we are looking for your help to meet their challenge. To support the network, just type \"Open Architecture\" in the comments field when you make your donation."
+      "text": "To help us meet  the $125,000 matching challenge grant, from now until January 1st, 2007, all donations of $300 or more will receive a signed first edition copy of our book Design Like You Give a Damn. Better yet, if you prefer we will donate your copy to a community group, library or school in a developing nation on your behalf. Architecture for Humanity is a 501(c)(3) charitable organization that seeks architectural solutions to humanitarian crises and brings design services to communities in need. For more information about our organization and our work, click on the links below. Current Projects About Architecture for Humanity (PDF)"
+    },
+    {
+      "tag": "p",
+      "text": "The Open Architecture Network Architecture for Humanity is building a new space to collaborate online. The Open Architecture Network will be a  gathering place for community designers and all those interested in improving the built environment. Here designers of all persuasions can post their projects, browse projects posted by others, comment and review projects, discuss relevant topics, contribute to shared resources, collaborate with each other and access project management tools to support their work. We imagine a site that not only helps create, support and implement ideas, but also a place that fosters sustainable, replicable, adaptable and scalable design solutions. The network has a simple mission: to generate design opportunities that will improve living standards for all. The Sapling Foundation is currently matching upwards of $125,000 for the Open Architecture Network . and we are looking for your help to meet their challenge. To support the network, just type \"Open Architecture\" in the comments field when you make your donation."
     },
     {
       "tag": "div",
-      "text": "Make a one time donation Make a $10 monthly donation Click here to donate to paypal in another currency or via Network for Good. Home for the Holidays"
+      "text": "Make a one time donation Make a $10 monthly donation Click here to donate to paypal in another currency or via Network for Good."
+    },
+    {
+      "tag": "div",
+      "text": "Home for the Holidays"
     },
     {
       "tag": "p",
-      "text": "Help us bring a family displaced by hurricane Katrina home for the holidays. For more than a year Architecture for Humanity has been designing for families displaced by Hurricane Katrina. Learn more about the Biloxi Model Home Program and our other initiatives on the Gulf Coast. Donate to Architecture for Humanity and download a model home of your own. Porchdog designed by: Marlon Blackwell Architect Rebuilding after Hurricane Katrina One Year after the storm, families are beginning to rebuild in New Orleans and across the Gulf Coast. Architecture for Humanity is sponsoring and supporting a number of projects across the coast. From pairing architects with community groups and families in New Orleans to supporting the work of the Gulf Coast Community Design Studio to sponsoring the Model Home program. Biloxi House Fair and Model Home Program To help mark the progress made in bringing families home to Biloxi, Architecture for Humanity partnered with the Biloxi Relief, Recovery and Revitalization Center, the Salvation Army and a number of volunteer groups working in the area to host a House Tour and Design Fair. The fair also launched the start of the Model Home program, a pilot program to provide design services and financial assistance for the construction of a number of new homes for families in East Biloxi whose houses were destroyed by Hurricane Katrina."
+      "text": "Help us bring a family displaced by hurricane Katrina home for the holidays. For more than a year Architecture for Humanity has been designing for families displaced by Hurricane Katrina. Learn more about the Biloxi Model Home Program and our other initiatives on the Gulf Coast. Donate to Architecture for Humanity and download a model home of your own. Porchdog designed by: Marlon Blackwell Architect"
+    },
+    {
+      "tag": "p",
+      "text": "Rebuilding after Hurricane Katrina One Year after the storm, families are beginning to rebuild in New Orleans and across the Gulf Coast. Architecture for Humanity is sponsoring and supporting a number of projects across the coast. From pairing architects with community groups and families in New Orleans to supporting the work of the Gulf Coast Community Design Studio to sponsoring the Model Home program. Biloxi House Fair and Model Home Program To help mark the progress made in bringing families home to Biloxi, Architecture for Humanity partnered with the Biloxi Relief, Recovery and Revitalization Center, the Salvation Army and a number of volunteer groups working in the area to host a House Tour and Design Fair. The fair also launched the start of the Model Home program, a pilot program to provide design services and financial assistance for the construction of a number of new homes for families in East Biloxi whose houses were destroyed by Hurricane Katrina."
     },
     {
       "tag": "div",
@@ -48,7 +60,7 @@
     },
     {
       "tag": "div",
-      "text": "All our projects are licensed under the Creative Commons Developing Nations license . /Creative Commons License <rdf:RDF xmlns=\"http://web.resource.org/cc/\"\n    xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n<Work rdf:about=\"\">\n   <license rdf:resource=\"http://creativecommons.org/licenses/devnations/2.0/\" />\n</Work>\n\n<License rdf:about=\"http://creativecommons.org/licenses/devnations/2.0/\">\n   <permits rdf:resource=\"http://web.resource.org/cc/Reproduction\" />\n   <permits rdf:resource=\"http://web.resource.org/cc/Distribution\" />\n   <requires rdf:resource=\"http://web.resource.org/cc/Notice\" />\n   <requires rdf:resource=\"http://web.resource.org/cc/Attribution\" />\n   <permits rdf:resource=\"http://web.resource.org/cc/DerivativeWorks\" />\n   <prohibits rdf:resource=\"http://web.resource.org/cc/HighIncomeNationUse\" />\n</License>\n\n</rdf:RDF> Architecture for Humanity profile on Creative Commons"
+      "text": "All our projects are licensed under the Creative Commons Developing Nations license . Architecture for Humanity profile on Creative Commons"
     }
   ]
 }

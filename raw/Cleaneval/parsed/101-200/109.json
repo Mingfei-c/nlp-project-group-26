@@ -8,7 +8,7 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "InstanceParam name=\"Home\" type=\"boolean\" value=\"true\" InstanceParam name=\"Stories\" type=\"boolean\" value=\"false\" InstanceParam name=\"Pictures\" type=\"boolean\" value=\"false\" InstanceParam name=\"Thesaurus\" type=\"boolean\" value=\"false\" InstanceParam name=\"Shop\" type=\"boolean\" value=\"false\" InstanceParam name=\"Chuckups\" type=\"boolean\" value=\"false\" InstanceParam name=\"Links\" type=\"boolean\" value=\"false\" Home Stories Pictures Thesaurus Shop Chuck Ups Links"
+      "text": "Home Stories Pictures Thesaurus Shop Chuck Ups Links"
     },
     {
       "tag": "h1",
@@ -100,7 +100,7 @@
     },
     {
       "tag": "div",
-      "text": "Home | Stories | Pictures | Thesaurus | Vomit Shop | Contact Us | Links InstanceEnd"
+      "text": "Home | Stories | Pictures | Thesaurus | Vomit Shop | Contact Us | Links"
     }
   ]
 }

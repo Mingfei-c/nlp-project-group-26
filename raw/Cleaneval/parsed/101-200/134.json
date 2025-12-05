@@ -3,12 +3,20 @@
   "file_number": "134",
   "content_hash": "1df486cba0a614bc7f84e256791a0c37e6444b766d1159ef89c32e6c538a7e08",
   "total_blocks": 320,
-  "retained_blocks": 31,
-  "ignored_blocks": 289,
+  "retained_blocks": 55,
+  "ignored_blocks": 265,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" xml version=\"1.0\" encoding=\"iso-8859-1\"? Contact Us Downloads News — December 21, 2006 Search Community Participation > Discussion Archives begin left side menu OVAL"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" xml version=\"1.0\" encoding=\"iso-8859-1\"?"
+    },
+    {
+      "tag": "div",
+      "text": "Contact Us Downloads News — December 21, 2006 Search Community Participation > Discussion Archives"
+    },
+    {
+      "tag": "div",
+      "text": "OVAL"
     },
     {
       "tag": "p",
@@ -56,7 +64,7 @@
     },
     {
       "tag": "div",
-      "text": "RSS Feeds end left side menu begin content pane begin Main Content"
+      "text": "RSS Feeds"
     },
     {
       "tag": "h2",
@@ -64,7 +72,7 @@
     },
     {
       "tag": "div",
-      "text": "begin page TOC Community Forum Email List | Developer's Email List | <a href=\"/community/archives/index.html#working_groups\">Working Groups</a> | Board Email List | <a href=\"/community/archives/index.html#board_meeting\"> Board Meetings</a> end page TOC"
+      "text": "Community Forum Email List | Developer's Email List | Board Email List"
     },
     {
       "tag": "h3",
@@ -76,7 +84,31 @@
     },
     {
       "tag": "div",
-      "text": "January 2006 February 2006 March 2006 April 2006 by \n                Date by \n                Thread by \n                Date by \n                Thread by \n                Date by \n                Thread by \n                Date by \n                Thread May 2006 June 2006 July 2006 August 2006 by \n                Date by \n                Thread by \n                Date by \n                Thread by \n                Date by \n                Thread by Date by Thread September 2006 October 2006 November 2006 December 2006 by Date by Thread by Date by Thread by \n                Date by \n                Thread by Date by Thread Back to top"
+      "text": "January 2006 February 2006 March 2006 April 2006"
+    },
+    {
+      "tag": "div",
+      "text": "by \n                Date by \n                Thread by \n                Date by \n                Thread by \n                Date by \n                Thread by \n                Date by \n                Thread"
+    },
+    {
+      "tag": "div",
+      "text": "May 2006 June 2006 July 2006 August 2006"
+    },
+    {
+      "tag": "div",
+      "text": "by \n                Date by \n                Thread by \n                Date by \n                Thread by \n                Date by \n                Thread by Date by Thread"
+    },
+    {
+      "tag": "div",
+      "text": "September 2006 October 2006 November 2006 December 2006"
+    },
+    {
+      "tag": "div",
+      "text": "by Date by Thread by Date by Thread by \n                Date by \n                Thread by Date by Thread"
+    },
+    {
+      "tag": "div",
+      "text": "Back to top"
     },
     {
       "tag": "h3",
@@ -88,7 +120,31 @@
     },
     {
       "tag": "div",
-      "text": "January 2006 February 2006 March 2006 April 2006 by\n\n                  Date by\n\n                        Thread by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n                        Thread by\n\n                  Date by\n\n              Thread May 2006 June 2006 July 2006 August 2006 by\n\n                  Date by\n\n              Thread by \n                Date by \n                Thread by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread September 2006 October 2006 November 2006 December 2006 by \n                Date by \n                Thread by\n\n                  Date by\n\n              Thread by \n                Date by \n                Thread by\n\n                  Date by\n\n              Thread Back to top"
+      "text": "January 2006 February 2006 March 2006 April 2006"
+    },
+    {
+      "tag": "div",
+      "text": "by\n\n                  Date by\n\n                        Thread by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n                        Thread by\n\n                  Date by\n\n              Thread"
+    },
+    {
+      "tag": "div",
+      "text": "May 2006 June 2006 July 2006 August 2006"
+    },
+    {
+      "tag": "div",
+      "text": "by\n\n                  Date by\n\n              Thread by \n                Date by \n                Thread by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread"
+    },
+    {
+      "tag": "div",
+      "text": "September 2006 October 2006 November 2006 December 2006"
+    },
+    {
+      "tag": "div",
+      "text": "by \n                Date by \n                Thread by\n\n                  Date by\n\n              Thread by \n                Date by \n                Thread by\n\n                  Date by\n\n              Thread"
+    },
+    {
+      "tag": "div",
+      "text": "Back to top"
     },
     {
       "tag": "h3",
@@ -100,7 +156,31 @@
     },
     {
       "tag": "div",
-      "text": "January 2006 February 2006 March 2006 April 2006 by\n\n                  Date by\n\n                        Thread by\n\n                  Date by\n\n                        Thread by\n\n                  Date by\n\n                        Thread by\n\n                  Date by\n\n                    Thread May 2006 June 2006 July 2006 August 2006 by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread September 2006 October 2006 November 2006 December 2006 by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread Back to top"
+      "text": "January 2006 February 2006 March 2006 April 2006"
+    },
+    {
+      "tag": "div",
+      "text": "by\n\n                  Date by\n\n                        Thread by\n\n                  Date by\n\n                        Thread by\n\n                  Date by\n\n                        Thread by\n\n                  Date by\n\n                    Thread"
+    },
+    {
+      "tag": "div",
+      "text": "May 2006 June 2006 July 2006 August 2006"
+    },
+    {
+      "tag": "div",
+      "text": "by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread"
+    },
+    {
+      "tag": "div",
+      "text": "September 2006 October 2006 November 2006 December 2006"
+    },
+    {
+      "tag": "div",
+      "text": "by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread by\n\n                  Date by\n\n              Thread"
+    },
+    {
+      "tag": "div",
+      "text": "Back to top"
     },
     {
       "tag": "h3",
@@ -112,7 +192,11 @@
     },
     {
       "tag": "div",
-      "text": "May 5, 2006 Teleconference August 31, 2006 Teleconference Back to top end Main Content"
+      "text": "May 5, 2006 Teleconference August 31, 2006 Teleconference"
+    },
+    {
+      "tag": "div",
+      "text": "Back to top"
     },
     {
       "tag": "p",
@@ -120,7 +204,19 @@
     },
     {
       "tag": "div",
-      "text": "begin right column Begin /includes/rightsidemenu_community.html Section Contents Community Participation Major Contributors Submit a Definition OVAL Board Discussion Lists Sign-Up Discussion Archives OVAL Sponsor Sr. Advisory Council Other Items of Interest Community FAQs Privacy Policy End /includes/rightsidemenu_community.html Begin /includes/archive_mailinglist.html Email List  Archive Community\r\n      Forum List 2005 | 2004 | 2003 | 2002 Developer\r\n      List 2005 | 2004 Working Groups 2005 | 2004 Board\r\n      List 2005 | 2004 | 2003 | 2002 Board\r\n      Meetings 2005 | 2004 | 2003 End /includes/archive_mailinglist.html end right column"
+      "text": "Section Contents"
+    },
+    {
+      "tag": "div",
+      "text": "Community Participation Major Contributors Submit a Definition OVAL Board Discussion Lists Sign-Up Discussion Archives OVAL Sponsor Sr. Advisory Council Other Items of Interest Community FAQs Privacy Policy"
+    },
+    {
+      "tag": "div",
+      "text": "Email List  Archive"
+    },
+    {
+      "tag": "div",
+      "text": "Community\r\n      Forum List 2005 | 2004 | 2003 | 2002 Developer\r\n      List 2005 | 2004 Working Groups 2005 | 2004 Board\r\n      List 2005 | 2004 | 2003 | 2002 Board\r\n      Meetings 2005 | 2004 | 2003"
     },
     {
       "tag": "p",

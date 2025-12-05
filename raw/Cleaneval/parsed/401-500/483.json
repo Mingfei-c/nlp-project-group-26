@@ -3,12 +3,16 @@
   "file_number": "483",
   "content_hash": "5379f74420fb575eb422b642cd84aa4b030f0b2af2a2f945103e3c0e4e3fc2a2",
   "total_blocks": 144,
-  "retained_blocks": 17,
-  "ignored_blocks": 127,
+  "retained_blocks": 18,
+  "ignored_blocks": 126,
   "blocks": [
     {
       "tag": "div",
-      "text": "html public \"-//w3c//dtd html 4.0 transitional//en\" Home subscriptions classified\nads buying\n2nd hand guide buying\nguide & reviews current\nissue emails\n& letters contacts suppliers computer\naudio world world\naudio design FEATURE - TURNTABLE ROUNDUP (Prices shown are those at the time of the feature - January 1998) VINYL TO GO!"
+      "text": "html public \"-//w3c//dtd html 4.0 transitional//en\""
+    },
+    {
+      "tag": "div",
+      "text": "Home subscriptions classified\nads buying\n2nd hand guide buying\nguide & reviews current\nissue emails\n& letters contacts suppliers computer\naudio world world\naudio design FEATURE - TURNTABLE ROUNDUP (Prices shown are those at the time of the feature - January 1998) VINYL TO GO!"
     },
     {
       "tag": "p",

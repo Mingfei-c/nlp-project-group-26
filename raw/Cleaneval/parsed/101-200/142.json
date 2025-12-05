@@ -3,12 +3,12 @@
   "file_number": "142",
   "content_hash": "e3f6055f2ea75d24ac6096c394b29bb9d18e72a5f7e3aae934204ecd9fa3ea72",
   "total_blocks": 118,
-  "retained_blocks": 35,
-  "ignored_blocks": 83,
+  "retained_blocks": 32,
+  "ignored_blocks": 86,
   "blocks": [
     {
       "tag": "div",
-      "text": "PRINT_INFO_HERE NOPRINT_START about Plus support Plus subscribe to Plus terms of use <li><a href=\"../../../about.html\">help/FAQ</a></li> search plus with google htmldoc endif htmldoc endif home latest issue explore the archive careers library news htmldoc endif © 1997-2004, Millennium Mathematics Project, University\n\t\tof Cambridge. Permission is granted to\n\t\tprint and copy this page on paper for non-commercial\n\t\tuse.  For other uses, including electronic\n\t\tredistribution, please contact us. newinclude/common/issue-left-margin.html start do not display in pdfs Issue 14 March 2001 Contents Features FILE: issue13/features/links.html Maths aMazes Maths and magic The mathematics of diseases Adam Smith and the invisible hand Radioactive decay and exponential laws END OF FILE: issue13/features/links.html Career interview FILE: issue11/interview/links.html Career Interview: Actuary END OF FILE: issue11/interview/links.html Regulars Plus puzzle Pluschat Mystery mix Reviews FILE: issue13/reviews/links.html 'The Math Chat Book' 'In Code' Two books for mathemagicians 'The Language of Mathematics' END OF FILE: issue13/reviews/links.html News from March 2001 All the latest news Subscribe to our\nfree newsletter The Plus new writers award <div class=\"title\"><a\nhref=\"javascript:location.href='http://thesaurus.maths.org/mmkb/proxy.html?langcode=en&amp;url='+location.href\">Highlight\nthe maths in this page</a> <a style=\"font-style: italic;\" href=\"< !--#echo var=\"pagetop\" - ->/latestnews/jan-apr04/mbutton/index.html\">(More info)</a></div> Get your own copy of all the Plus posters! left leftcol newinclude/common/issue-left-margin.html end htmldoc endif NO_PRINT STOP March 2001 Features"
+      "text": "about Plus support Plus subscribe to Plus terms of use search plus with google home latest issue explore the archive careers library news © 1997-2004, Millennium Mathematics Project, University\n\t\tof Cambridge. Permission is granted to\n\t\tprint and copy this page on paper for non-commercial\n\t\tuse.  For other uses, including electronic\n\t\tredistribution, please contact us. Issue 14 March 2001 Contents Features Maths aMazes Maths and magic The mathematics of diseases Adam Smith and the invisible hand Radioactive decay and exponential laws Career interview Career Interview: Actuary Regulars Plus puzzle Pluschat Mystery mix Reviews 'The Math Chat Book' 'In Code' Two books for mathemagicians 'The Language of Mathematics' News from March 2001 All the latest news Subscribe to our\nfree newsletter The Plus new writers award Get your own copy of all the Plus posters! March 2001 Features"
     },
     {
       "tag": "h1",
@@ -19,16 +19,8 @@
       "text": "by Helen Joyce"
     },
     {
-      "tag": "div",
-      "text": "newinclude/common/header.html finish"
-    },
-    {
       "tag": "blockquote",
       "text": "...every individual necessarily labours to render the annual revenue \nof the society as great as he can. He generally, indeed, neither \nintends to promote the public interest, nor knows how much he \nis promoting it. By preferring the support of domestic to that \nof foreign industry, he intends only his own security; and by\ndirecting \nthat industry in such a manner as its produce may be of the greatest \nvalue, he intends only his own gain, and he is in this, as in many\nother \ncases, led by an invisible hand to promote an end which was no part \nof his intention. Nor is it always the worse for the society that it\nwas \nno part of it. By pursuing his own interest he frequently promotes \nthat of the society more effectually than when he really intends to \npromote it. Ihave never known much good done by those who \naffected to trade for the public good."
-    },
-    {
-      "tag": "div",
-      "text": "FILE: include/centrefig.html END OF FILE: include/centrefig.html"
     },
     {
       "tag": "p",
@@ -56,7 +48,7 @@
     },
     {
       "tag": "p",
-      "text": "FILE: include/centrefig.html with permission from: The Warren J. Samuels Portrait Collection at Duke University END OF FILE: include/centrefig.html The theory of the invisible hand is certainly persuasive, and its simplicity\nis also very attractive. No doubt every reader can see that it describes\nthe way that things really work on many occasions, and, whether we \nfind it palatable or not, we probably all recognise the truth of Smith's assertion that \npaying for your dinner is a more reliable way to get it than\nappealing to the benevolence of others. But, even assuming all the correct conditions, does the invisible hand theory\nreally lead to the maximisation of human economic wellbeing\nin some sense, as Smith asserts?\nThis is where mathematics, in the form of Game Theory, can provide us with\nsome insights."
+      "text": "with permission from: The Warren J. Samuels Portrait Collection at Duke University The theory of the invisible hand is certainly persuasive, and its simplicity\nis also very attractive. No doubt every reader can see that it describes\nthe way that things really work on many occasions, and, whether we \nfind it palatable or not, we probably all recognise the truth of Smith's assertion that \npaying for your dinner is a more reliable way to get it than\nappealing to the benevolence of others. But, even assuming all the correct conditions, does the invisible hand theory\nreally lead to the maximisation of human economic wellbeing\nin some sense, as Smith asserts?\nThis is where mathematics, in the form of Game Theory, can provide us with\nsome insights."
     },
     {
       "tag": "h3",
@@ -64,7 +56,7 @@
     },
     {
       "tag": "p",
-      "text": "The \"Prisoner's Dilemma\" is a very famous \"paradox\" in Game Theory.\nIt describes two people in a simple situation, acting in an informed manner,\nboth attempting to maximise\ntheir wellbeing, and yet making choices that lead to an \nunnecessarily poor outcome for both. Two people, who are suspected of being accomplices in a crime, \nare held prisoner in separate, non-communicating cells.\nThe police visit each prisoner, and tell both that  \nif neither confesses, each will be sentenced to two years in jail.\nHowever, if exactly one prisoner confesses, implicating each other, the one\nwho confesses will get off scot-free as a reward, and the other, who didn't \nconfess, will receive a punitive sentence of five years. \nIf each confesses and implicates the other, both will be \nsentenced to three years. What should a prisoner in this situation do? \nSuppose that the other prisoner doesn't\nconfess. Then the best course of action is to confess, \nand go free. Even if the other prisoner\ndoes confess, it will be better to have done likewise - \nat least the sentence will be lower.\nBoth prisoners will reason thus, so both will confess and\nend up serving sentences of three years - even\nthough, if both had remained silent, both would have served \nsentences of only two years. It may not be immediately clear what the relevance of the Prisoner's Dilemma\nis to Smith's theory of the Invisible Hand. In fact, it has a number of\nimplications for economic behaviour. FILE: include/centrefig.html The Prisoner's Dilemma END OF FILE: include/centrefig.html"
+      "text": "The \"Prisoner's Dilemma\" is a very famous \"paradox\" in Game Theory.\nIt describes two people in a simple situation, acting in an informed manner,\nboth attempting to maximise\ntheir wellbeing, and yet making choices that lead to an \nunnecessarily poor outcome for both. Two people, who are suspected of being accomplices in a crime, \nare held prisoner in separate, non-communicating cells.\nThe police visit each prisoner, and tell both that  \nif neither confesses, each will be sentenced to two years in jail.\nHowever, if exactly one prisoner confesses, implicating each other, the one\nwho confesses will get off scot-free as a reward, and the other, who didn't \nconfess, will receive a punitive sentence of five years. \nIf each confesses and implicates the other, both will be \nsentenced to three years. What should a prisoner in this situation do? \nSuppose that the other prisoner doesn't\nconfess. Then the best course of action is to confess, \nand go free. Even if the other prisoner\ndoes confess, it will be better to have done likewise - \nat least the sentence will be lower.\nBoth prisoners will reason thus, so both will confess and\nend up serving sentences of three years - even\nthough, if both had remained silent, both would have served \nsentences of only two years. It may not be immediately clear what the relevance of the Prisoner's Dilemma\nis to Smith's theory of the Invisible Hand. In fact, it has a number of\nimplications for economic behaviour. The Prisoner's Dilemma"
     },
     {
       "tag": "h4",
@@ -100,7 +92,7 @@
     },
     {
       "tag": "p",
-      "text": "Again, the relevance to allocation of public goods is not immediately\nobvious - until you recall that an essential part of the invisible\nhand process is that producers respond to an single signal that is \nmeant to be an aggregate of all signals\nby consumers. Arrow's Theorem is often interpreted as\nsaying that there is no consistent\nway to aggregate the preferences of individuals to give a single\npreference which can be regarded as the preference of society -\nor \"the will of the people\". An economic version of the flip-flop could occur if a majority\nof customers would prefer to buy Product Xto Product Y,\nbut some of that majority actually\nlike Product Zeven better (the equivalent of splitting the vote); \nthe producer may end up producing\nProduct Yeven though more people would have liked Product X,\nand presumably it would have been more profitable to produce it.\nIf this happens, then the invisible hand cannot be said to have \nworked to maximise economic wellbeing. FILE: include/centrefig.html In a centralised society a few individuals make decisions on how to spend everyone's money and direct everyone's effort. END OF FILE: include/centrefig.html"
+      "text": "Again, the relevance to allocation of public goods is not immediately\nobvious - until you recall that an essential part of the invisible\nhand process is that producers respond to an single signal that is \nmeant to be an aggregate of all signals\nby consumers. Arrow's Theorem is often interpreted as\nsaying that there is no consistent\nway to aggregate the preferences of individuals to give a single\npreference which can be regarded as the preference of society -\nor \"the will of the people\". An economic version of the flip-flop could occur if a majority\nof customers would prefer to buy Product Xto Product Y,\nbut some of that majority actually\nlike Product Zeven better (the equivalent of splitting the vote); \nthe producer may end up producing\nProduct Yeven though more people would have liked Product X,\nand presumably it would have been more profitable to produce it.\nIf this happens, then the invisible hand cannot be said to have \nworked to maximise economic wellbeing. In a centralised society a few individuals make decisions on how to spend everyone's money and direct everyone's effort."
     },
     {
       "tag": "h2",
@@ -128,7 +120,7 @@
     },
     {
       "tag": "p",
-      "text": "Helen Joyce is one of the assistant editors on Plus magazine. newsinclude/common/footer.html start"
+      "text": "Helen Joyce is one of the assistant editors on Plus magazine."
     },
     {
       "tag": "h4",
@@ -136,15 +128,11 @@
     },
     {
       "tag": "div",
-      "text": "htmldoc endif of content of centre NOPRINT_START NO_PRINT STOP contact copyright info sponsors privacy info <li><a href=\"\">site map</a></li> htmldoc endif"
+      "text": "contact copyright info sponsors privacy info"
     },
     {
       "tag": "p",
       "text": "Plus is part of the family of activities in the Millennium\nMathematics Project, which also includes the NRICH and MOTIVATE sites."
-    },
-    {
-      "tag": "div",
-      "text": "of pagecontent bodydiv google analytics"
     }
   ]
 }

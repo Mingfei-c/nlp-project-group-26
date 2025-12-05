@@ -3,12 +3,16 @@
   "file_number": "695",
   "content_hash": "abc7e892092e5ecd6ee5a755e9d37b30ad29aaddf19842328460141762014ca5",
   "total_blocks": 124,
-  "retained_blocks": 23,
-  "ignored_blocks": 101,
+  "retained_blocks": 27,
+  "ignored_blocks": 97,
   "blocks": [
     {
       "tag": "div",
-      "text": "Tour Scotland with Scottish Tours Quality Sightseeing since 1907 home | about Scotland | FAQs | coach charter | travel hints"
+      "text": "Tour Scotland with Scottish Tours Quality Sightseeing since 1907"
+    },
+    {
+      "tag": "div",
+      "text": "home | about Scotland | FAQs | coach charter | travel hints"
     },
     {
       "tag": "h1",
@@ -72,7 +76,15 @@
     },
     {
       "tag": "p",
-      "text": "Where the Passenger cancels the tour reservation the effective date of cancellation will be the date on which the Company receives written notification of the Passengers intention to cancel their tour reservation. In the event of cancellation by the Passenger a cancellation charge calculated on the scale below shall become immediately payable by the Passenger. Period before departure within which the Company receives written notification Amount of cancellation charge expressed as a percentage of the tour cost More than 14 days deposit only 14-1 days 100% of tour cost Day of departure 100% of tour cost The Company reserves the right in its absolute discretion to refuse to carry any person whose conduct or manner causes or is likely to cause offence or upset to other passengers. In such cases full cancellation charges will apply and the Company shall have no further liability to that Passenger."
+      "text": "Where the Passenger cancels the tour reservation the effective date of cancellation will be the date on which the Company receives written notification of the Passengers intention to cancel their tour reservation. In the event of cancellation by the Passenger a cancellation charge calculated on the scale below shall become immediately payable by the Passenger."
+    },
+    {
+      "tag": "p",
+      "text": "Period before departure within which the Company receives written notification Amount of cancellation charge expressed as a percentage of the tour cost More than 14 days deposit only 14-1 days 100% of tour cost Day of departure 100% of tour cost"
+    },
+    {
+      "tag": "p",
+      "text": "The Company reserves the right in its absolute discretion to refuse to carry any person whose conduct or manner causes or is likely to cause offence or upset to other passengers. In such cases full cancellation charges will apply and the Company shall have no further liability to that Passenger."
     },
     {
       "tag": "div",
@@ -84,7 +96,11 @@
     },
     {
       "tag": "div",
-      "text": "FORCE MAJEURE The Company does not accept any liability for any loss, inconvenience or damage caused by war, threat of war riot or civil strife, terrorist activity, industrial disputes, natural disaster, fires, sickness, weather conditions, airport regulations, temporary, technical, mechanical or electrical breakdown of transport or any facilities contained within advertised accommodation, explosion of any nuclear plant or part thereof or radioactivity/contamination from such plant or events beyond the reasonable control of the Company. JURISDICTION These conditions shall be construed and interpreted in accordance with the Law of Scotland and the Parties each submit to the exclusive jurisdiction of the Scottish Courts. Sightseeing Scotland's best sightseeing tours. find out why » Mini Tours Indepenent travel on a tour. discover more » Virtual Tours Watch, Listen, Discover. find out more» Walking Tours Download  free walking tours in Edinburgh and Glasgow. find out more»"
+      "text": "FORCE MAJEURE The Company does not accept any liability for any loss, inconvenience or damage caused by war, threat of war riot or civil strife, terrorist activity, industrial disputes, natural disaster, fires, sickness, weather conditions, airport regulations, temporary, technical, mechanical or electrical breakdown of transport or any facilities contained within advertised accommodation, explosion of any nuclear plant or part thereof or radioactivity/contamination from such plant or events beyond the reasonable control of the Company. JURISDICTION These conditions shall be construed and interpreted in accordance with the Law of Scotland and the Parties each submit to the exclusive jurisdiction of the Scottish Courts."
+    },
+    {
+      "tag": "div",
+      "text": "Sightseeing Scotland's best sightseeing tours. find out why » Mini Tours Indepenent travel on a tour. discover more » Virtual Tours Watch, Listen, Discover. find out more» Walking Tours Download  free walking tours in Edinburgh and Glasgow. find out more»"
     },
     {
       "tag": "p",

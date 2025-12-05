@@ -3,13 +3,9 @@
   "file_number": "612",
   "content_hash": "841e258c39e2a617e8735179b8d154c9dac8b7f09fb39aac6270249dbf6bbb3a",
   "total_blocks": 332,
-  "retained_blocks": 261,
-  "ignored_blocks": 71,
+  "retained_blocks": 259,
+  "ignored_blocks": 73,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "msnavigation msnavigation"
-    },
     {
       "tag": "h1",
       "text": "Glossary of Terms"
@@ -1036,11 +1032,7 @@
     },
     {
       "tag": "h5",
-      "text": "Back to Top Revised: webbot bot=\"TimeStamp\" S-FORMAT=\"%B %d, %Y\" S-TYPE=\"EDITED\" startspan November 07, 1999 webbot bot=\"TimeStamp\" endspan i-checksum=\"41297\" ."
-    },
-    {
-      "tag": "div",
-      "text": "msnavigation msnavigation msnavigation"
+      "text": "Back to Top Revised: November 07, 1999 ."
     },
     {
       "tag": "p",
@@ -1048,7 +1040,7 @@
     },
     {
       "tag": "div",
-      "text": "msnavigation HTML PUBLIC \"-//IETF//DTD HTML//EN\""
+      "text": "HTML PUBLIC \"-//IETF//DTD HTML//EN\""
     }
   ]
 }

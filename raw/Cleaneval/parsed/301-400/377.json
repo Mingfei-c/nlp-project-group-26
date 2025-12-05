@@ -3,12 +3,16 @@
   "file_number": "377",
   "content_hash": "4f37e8ae430b8225923eb4c87b541ffec85effb05a3d71194ce3526dabf12297",
   "total_blocks": 66,
-  "retained_blocks": 5,
-  "ignored_blocks": 61,
+  "retained_blocks": 6,
+  "ignored_blocks": 60,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\" Other Sites SILA ProtectingAnimals.org EmpathyProject.org"
+      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "Other Sites SILA ProtectingAnimals.org EmpathyProject.org"
     },
     {
       "tag": "h1",

@@ -3,12 +3,12 @@
   "file_number": "444",
   "content_hash": "1e4bb2dfe3cb80cb1c90d6febfd95fb472b5a6503676d6d28253a41f39a0abf8",
   "total_blocks": 261,
-  "retained_blocks": 103,
-  "ignored_blocks": 158,
+  "retained_blocks": 95,
+  "ignored_blocks": 166,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" INICIO ENGINY HEADER EmediateAd 3rd party code for FXstreet"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
     },
     {
       "tag": "p",
@@ -16,7 +16,7 @@
     },
     {
       "tag": "div",
-      "text": "New York London Barcelona Tokyo Sydney Rates & Charts News Fundamental Technical Futures Live Education Resources Brokers FIN ENGINY HEADER uno menos 825... uno ms 865 INICIO ENGINY FREETEXT"
+      "text": "New York London Barcelona Tokyo Sydney Rates & Charts News Fundamental Technical Futures Live Education Resources Brokers"
     },
     {
       "tag": "h2",
@@ -24,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "Forex Forum NEW! Forex Chat FI ENGINY FREETEXT INICI ENGINY BUSCADOR REPORTS"
+      "text": "Forex Forum NEW! Forex Chat"
     },
     {
       "tag": "h2",
@@ -35,16 +35,20 @@
       "text": "Keyword Provider All AceTrader ACT Currency Partner ActionForex.com AKforex Anduril, Inc. Asesoria Forex Aspen Trading Group Avantage Financial GMBH BBVA Bancomer BBVA Group BetonCurrencies BHF-Bank Cashmonsterz CMC Markets NY CMS Forex Commerzbank Danske Bank A/S Delta Global Advisors, Inc. Easy Forex E-Forex Erste Bank der oesterreichischen Sparkassen AG Eurusdtrader Finotec Group Inc. Forexnews.com ForexYard Friend-of-Fxtrend FX Chicago FX Engines FX Money Trends FX Solutions FX Trend Trader FX Universal LLC FXA FXAnalytics FxBootcamp FXCM FXDream FxMax FX-Strategy FXstreet.com FXtechtrade FXtoday FXTSP.com GCI Gerard  Bergsma Global Forex Trading Ltd. GoForex Growth Engines Halo Financial HVB Group ICICI Bank iExpertAdvisor, LLC Informa Global Markets Investica Ltd Investors Intelligence Jyske Bank Karoll KBC Bank Kshitij Consultancy Service La Caixa Lloyds TSB Financial Markets Market Speculators Market Technologies, LLC Mellon Foreign Exchange Merk Hard Currency Fund Mihai Nichisoiu Mizuho Corporate Bank MTI North America MVDForex National Bank of Canada Nexum Capital Markets Northern Trust ODL Securities Odom & Frey Futures & Options Online Trading Academy Performance Capital PipsandTips.com Piptopia Rabobank Rizk Investments S.A.F.E. Ltd Saxo Bank Spencer Financial LLC StraightForex Sucden (UK) Limited Sure-Fire Forex Trading Swiss Finance Corporation The Forex Edge The Trading Tutor Trader College Trader House Network TradeSphereFX Trading Educators Inc. TradingEducation.com, LLC Tricom Union Bank of California Wachovia Corporation Economics Group Westpac Institutional Bank Windfall Management Windsor Brokers Ltd Yapi Kredi Bank Z-forecasting Frequency All Daily Weekly Fortnightly Monthly Quarterly Yearly Interim"
     },
     {
-      "tag": "div",
-      "text": "FI ENGINY BUSCADOR REPORTS INICIO ENGINY FREETEXT"
-    },
-    {
       "tag": "h2",
       "text": "Managed Accounts Program (MAP)"
     },
     {
       "tag": "div",
-      "text": "Performance Start: $100,000 Current: $102,740 [ More info ]"
+      "text": "Performance"
+    },
+    {
+      "tag": "div",
+      "text": "Start: $100,000 Current: $102,740"
+    },
+    {
+      "tag": "div",
+      "text": "[ More info ]"
     },
     {
       "tag": "h2",
@@ -84,19 +88,11 @@
     },
     {
       "tag": "p",
-      "text": "Add an FXstreet.com ticker to your own site"
+      "text": "Add an FXstreet.com ticker to your own site Direct and immediate access to the main players operating in foreign exchange. Institution Advisors Brokers Education Market Makers Money Managers Risk Management Technology Providers Region Select All Africa Asia Asia Pacific Central America Europe Middle East North America South America FX Markets Select All Forwards Futures Money Markets Options Spot Structured Products Warrants"
     },
     {
       "tag": "div",
-      "text": "FI ENGINY FREETEXT INICI ENGINY DIRECTOY SEARCH FORM"
-    },
-    {
-      "tag": "p",
-      "text": "Direct and immediate access to the main players operating in foreign exchange. Institution Advisors Brokers Education Market Makers Money Managers Risk Management Technology Providers Region Select All Africa Asia Asia Pacific Central America Europe Middle East North America South America FX Markets Select All Forwards Futures Money Markets Options Spot Structured Products Warrants"
-    },
-    {
-      "tag": "div",
-      "text": "FI ENGINY DIRECTOY SEARCH FORM Advertisement"
+      "text": "Advertisement"
     },
     {
       "tag": "h2",
@@ -105,10 +101,6 @@
     {
       "tag": "p",
       "text": "Receive Buy/Sell signals instantly to your desktop, email and SMS. Use Real-Time gauges to identify Trends, Ranges, Volatility and Sentiment. Download Free Software now ."
-    },
-    {
-      "tag": "div",
-      "text": "INICIO ENGINY FREETEXT FI ENGINY FREETEXT INICIO ENGINY NEWS"
     },
     {
       "tag": "h2",
@@ -120,27 +112,11 @@
     },
     {
       "tag": "div",
-      "text": "[ View All ] FI ENGINY NEWS XHTML 240x240 Flash INICIO ENGINY CAG EASY Chart"
+      "text": "[ View All ]"
     },
     {
       "tag": "h2",
-      "text": "EUR USD , Hourly"
-    },
-    {
-      "tag": "div",
-      "text": "FI ENGINY CAG EASY Chart INICIO ENGINY CAG EASY Chart"
-    },
-    {
-      "tag": "h2",
-      "text": "GBP USD, Hourly"
-    },
-    {
-      "tag": "div",
-      "text": "FI ENGINY CAG EASY Chart INICI ENGINY CURRENCIES GLANCE"
-    },
-    {
-      "tag": "h2",
-      "text": "Currencies at a Glance"
+      "text": "EUR USD , Hourly GBP USD, Hourly Currencies at a Glance"
     },
     {
       "tag": "dt",
@@ -175,16 +151,12 @@
       "text": "Moves up toward 119.00 (04:38 GMT)"
     },
     {
-      "tag": "div",
-      "text": "FI ENGINY CURRENCIES GLANCE INICIO ENGINY FREETEXT"
-    },
-    {
       "tag": "p",
       "text": "Follow all currency pairs in real time in the Rates & Charts Section New Chart Patterns Section : Automatically identified pattern recognition; Alerts for emerging and complete patterns. Powered by Autochartist."
     },
     {
       "tag": "div",
-      "text": "FI ENGINY FREETEXT Advertisement"
+      "text": "Advertisement"
     },
     {
       "tag": "h2",
@@ -195,16 +167,16 @@
       "text": "Whether you've been trading for years or are just entering the world of Forex trading, Saxo Bank provides the technology , pricing , tools and support to help you trade successfully. Our intuitive, customisable platform caters to your individual needs.\r\nCreate a trading environment as advanced or straight-forward as you need it to be. Download SaxoTrader ."
     },
     {
-      "tag": "div",
-      "text": "INICIO ENGINY TOP ECONOMIC EVENTS"
-    },
-    {
       "tag": "h2",
       "text": "Top Economic Events"
     },
     {
       "tag": "div",
-      "text": "Date Country Event Previous Consensus Dec 27, 05:00 GMT Japan Housing Starts (YoY) 2.20 % 1.10 % Dec 27, 12:00 GMT United States MBA Mortgage Applications -10.20 % Dec 27, 15:00 GMT United States New Home Sales 1004.00 M 1023.00 M Dec 27, 15:30 GMT United States Crude Oil Inventories -6.30 M Dec 28, 13:30 GMT United States Initial Jobless Claims 315.00 K 326.00 K [ View All ] FI ENGINY TOP ECONOMIC EVENTS INICIO ENGINY FREETXITXA"
+      "text": "Date Country Event Previous Consensus Dec 27, 05:00 GMT Japan Housing Starts (YoY) 2.20 % 1.10 % Dec 27, 12:00 GMT United States MBA Mortgage Applications -10.20 % Dec 27, 15:00 GMT United States New Home Sales 1004.00 M 1023.00 M Dec 27, 15:30 GMT United States Crude Oil Inventories -6.30 M Dec 28, 13:30 GMT United States Initial Jobless Claims 315.00 K 326.00 K"
+    },
+    {
+      "tag": "div",
+      "text": "[ View All ]"
     },
     {
       "tag": "h2",
@@ -236,7 +208,7 @@
     },
     {
       "tag": "div",
-      "text": "FOREX FORUM : Post your comments and share your opinions with fellow traders Forex News : Be up to date during the holidays season Brand New FXstreet.com Newsletters: Subscribe now! FX Educator Weblog - Follow up Ed Ponsi's posts from Shanghai FI ENGINY FREETXITXA INICIO ENGINY LLISTAT GRUP REPORTS"
+      "text": "FOREX FORUM : Post your comments and share your opinions with fellow traders Forex News : Be up to date during the holidays season Brand New FXstreet.com Newsletters: Subscribe now! FX Educator Weblog - Follow up Ed Ponsi's posts from Shanghai"
     },
     {
       "tag": "h2",
@@ -248,7 +220,7 @@
     },
     {
       "tag": "div",
-      "text": "[ View All ] FI ENGINY LLISTAT GRUP REPORTS INICIO ENGINY LLISTAT LAST UPDATE REPORTS"
+      "text": "[ View All ]"
     },
     {
       "tag": "h2",
@@ -260,15 +232,11 @@
     },
     {
       "tag": "div",
-      "text": "[ View All ] [ Search ] FI ENGINY LLISTAT LAST UPDATE REPORTS INICIO ENGINY FREETEXT"
+      "text": "[ View All ] [ Search ]"
     },
     {
       "tag": "p",
       "text": "Exclusive Video: Fantastic World of Forex Watch an exclusive lesson from the Online Trading Academy! Find a guide to move properly in the deep jungle of Forex trading, with all the information you may need to succeed \t\t\t\t\t\t\tin trading."
-    },
-    {
-      "tag": "div",
-      "text": "FI ENGINY FREETEXT INICIO ENGINY FREETEXT"
     },
     {
       "tag": "h2",
@@ -277,10 +245,6 @@
     {
       "tag": "p",
       "text": "The first week of January, Asia-Pacific , Europe and U.S. Trading Newsletters will be launched. An improved Forex Informer will also start with even more specific information for the Forex Market. Subscribe to the new Newsletters now ."
-    },
-    {
-      "tag": "div",
-      "text": "FI ENGINY FREETEXT INICIO ENGINY HIGHLIGHTED SESSIONS"
     },
     {
       "tag": "h2",
@@ -292,7 +256,7 @@
     },
     {
       "tag": "div",
-      "text": "FI ENGINY HIGHLIGHTED SESSIONS INICIO ENGINY FREETEXT [ View All ] FI ENGINY FREETEXT INICIO ENGINY HIGHLIGHTED SESSIONS"
+      "text": "[ View All ]"
     },
     {
       "tag": "h2",
@@ -304,7 +268,7 @@
     },
     {
       "tag": "div",
-      "text": "FI ENGINY HIGHLIGHTED SESSIONS INICIO ENGINY FREETEXT [ View All ] FI ENGINY FREETEXT INICIO ENGINY UPCOMING WEBINARS"
+      "text": "[ View All ]"
     },
     {
       "tag": "h2",
@@ -312,7 +276,11 @@
     },
     {
       "tag": "div",
-      "text": "Sponsored by: Tue, Jan 2, 11:00 GMT What moves currencies? - 2007 Market Outlook Tony Juste WBN Tue, Jan 2, 14:00 GMT Technical Analysis Theory and Practice - Premium users only Tony Juste WBN Wed, Jan 3, 11:00 GMT What moves currencies? Tony Juste WBN Thu, Jan 4, 11:00 GMT What moves currencies? Tony Juste WBN [ View All ] FI ENGINY UPCOMING WEBINARS INICIO ENGINY FREETEXT"
+      "text": "Sponsored by: Tue, Jan 2, 11:00 GMT What moves currencies? - 2007 Market Outlook Tony Juste WBN Tue, Jan 2, 14:00 GMT Technical Analysis Theory and Practice - Premium users only Tony Juste WBN Wed, Jan 3, 11:00 GMT What moves currencies? Tony Juste WBN Thu, Jan 4, 11:00 GMT What moves currencies? Tony Juste WBN"
+    },
+    {
+      "tag": "div",
+      "text": "[ View All ]"
     },
     {
       "tag": "h2",
@@ -324,7 +292,7 @@
     },
     {
       "tag": "div",
-      "text": "Tony Juste's The Advisor weblog Ed Ponsi's The FX Educator weblog John Putman's FX Analytics weblog Jerry Furst's 1st on Forex weblog Wayne McDonell's FxBootcamp Vlog FXstreet.com's company news in The Informer Blog FI ENGINY FREETEXT INICIO ENGINY FREETEXT"
+      "text": "Tony Juste's The Advisor weblog Ed Ponsi's The FX Educator weblog John Putman's FX Analytics weblog Jerry Furst's 1st on Forex weblog Wayne McDonell's FxBootcamp Vlog FXstreet.com's company news in The Informer Blog"
     },
     {
       "tag": "h2",
@@ -336,7 +304,7 @@
     },
     {
       "tag": "div",
-      "text": "FI ENGINY FREETEXT Advertisement"
+      "text": "Advertisement"
     },
     {
       "tag": "h2",
@@ -368,7 +336,7 @@
     },
     {
       "tag": "div",
-      "text": "FI ENGINY FIBO AND PIP About FXstreet.com Terms and Conditions Contact Us RSS Site Map Home"
+      "text": "About FXstreet.com Terms and Conditions Contact Us RSS Site Map Home"
     },
     {
       "tag": "h4",
@@ -416,7 +384,7 @@
     },
     {
       "tag": "div",
-      "text": "Looking for \r\n\t\t\t\t\t\t\t\ta Broker? Directory Futures Premium \r\n\t\t\t\t\t\t\t\tsection Workshops \r\n\t\t\t\t\t\t\t\tand Conventions Forex \r\n\t\t\t\t\t\t\t\tBooks Full Site Map Note: All information on this page is subject to change. The use of this website constitutes acceptance of our user agreement. Please read our privacy policy and legal disclaimer. Opinions expressed at FXstreet.com are those of the individual authors and do not necessarily represent the opinion of FXstreet.com or its management. Risk Disclosure: Trading foreign exchange on margin carries a high level of risk, and may not be suitable for all investors. The high degree of leverage can work against you as well as for you. Before deciding to invest in foreign exchange you should carefully consider your investment objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading, and seek advice from an independent financial advisor if you have any doubts. ©2006 \"FXstreet.com. The Forex Market\" All Rights Reserved. #include virtual = \"/googleanalytics.inc\""
+      "text": "Looking for \r\n\t\t\t\t\t\t\t\ta Broker? Directory Futures Premium \r\n\t\t\t\t\t\t\t\tsection Workshops \r\n\t\t\t\t\t\t\t\tand Conventions Forex \r\n\t\t\t\t\t\t\t\tBooks Full Site Map Note: All information on this page is subject to change. The use of this website constitutes acceptance of our user agreement. Please read our privacy policy and legal disclaimer. Opinions expressed at FXstreet.com are those of the individual authors and do not necessarily represent the opinion of FXstreet.com or its management. Risk Disclosure: Trading foreign exchange on margin carries a high level of risk, and may not be suitable for all investors. The high degree of leverage can work against you as well as for you. Before deciding to invest in foreign exchange you should carefully consider your investment objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading, and seek advice from an independent financial advisor if you have any doubts. ©2006 \"FXstreet.com. The Forex Market\" All Rights Reserved."
     }
   ]
 }

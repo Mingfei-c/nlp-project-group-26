@@ -3,20 +3,16 @@
   "file_number": "789",
   "content_hash": "cc39226e372442544af0129d1f1a4b68e89133cd3291ef5d7cce77c3063233a7",
   "total_blocks": 121,
-  "retained_blocks": 8,
-  "ignored_blocks": 113,
+  "retained_blocks": 7,
+  "ignored_blocks": 114,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "Shim row, height 1. VERY TOP GRAY AREA VERY LEFT GRAY AREA BEGINNING OF TOP AREA BEGIN EMBEDDED TABLE IN THE HEADER AD SPOT GOES HERE END OF AD PLACEMENT END OF EMBEDDED TABLE IN THE HEADER HORIZONTAL BURGUNDY BAR BEGINNING OF RIGHT SIDE SPACE AND GRAPHICAL EDGE BEGINNING OF BODY CONTENT BEGINNING OF NAVIGATION TABLE BEGINNING OF NAVIGATION TABLE Shim row, height 1. BEGINNING OF TOP NAV TABLE END OF TOP NAV TABLE BEGINNING OF NAVIGATION LINKS"
-    },
     {
       "tag": "p",
       "text": "Northern View Wednesday Edition Northwest View Wednesday Edition Summerlin View Wednesday Edition Friday Edition Northeast/Sunrise View Wednesday Edition Southwest View Wednesday Edition Southeast View Wednesday Edition Green Valley/Henderson View Wednesday Edition Friday Edition Anthem View Wednesday Edition Pahrump View Friday Edition"
     },
     {
       "tag": "div",
-      "text": "End of Navigation Table and Buttons BEGINNING OF SITE HEADER BEGINNING OF SITE TOOL NAVIGATIONS Archived Editions Advertising Contact the Staff END OF SITE TOOL NAVIGATIONS BEGINNING OF BOTTOM OF NAV TABLE END OF BOTTOM OF NAV TABLE END OF BOTTOM OF NAV TABLE BEGINNING OF BODY CONTENT"
+      "text": "Archived Editions Advertising Contact the Staff"
     },
     {
       "tag": "h1",
@@ -32,7 +28,7 @@
     },
     {
       "tag": "div",
-      "text": "END OF BODY CONTENT TABLE BOTTOM WHITE AREA BOTTOM GRAY AREA AD SPOT: Full Banner \n<script language=\"JavaScript1.1\"\nsrc=\"http://ads.stephensmedia.com/js.ng/site=rj&size=f\"></script>\n<noscript>\n<a href=\"http://ads.stephensmedia.com/click.ng/site=rj&size=f\">\n<img src=\"http://ads.stephensmedia.com/image.ng/site=rj&size=f\" border=\"0\"></a></noscript>\n end AD SPOT: Banner For comment or questions, please e-mail webmaster@viewnews.com Copyright © View Neighborhood Newspapers, 1997 - 2006"
+      "text": "For comment or questions, please e-mail webmaster@viewnews.com Copyright © View Neighborhood Newspapers, 1997 - 2006"
     },
     {
       "tag": "p",

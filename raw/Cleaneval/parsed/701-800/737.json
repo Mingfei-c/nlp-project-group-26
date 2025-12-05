@@ -3,12 +3,12 @@
   "file_number": "737",
   "content_hash": "026a0b2329b8bb430d64ceb4a22b46d72dafcc3d0552bf44d7ea529af9a65c41",
   "total_blocks": 117,
-  "retained_blocks": 40,
-  "ignored_blocks": 77,
+  "retained_blocks": 37,
+  "ignored_blocks": 80,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" HTML coding and all contents copyright Talkingwebs.co.uk and Julian F. Takacs. \r\nTalking Cities is a trading name of Talkingwebs.co.uk Start Top and Bottom Menu Links Top Links"
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
     },
     {
       "tag": "p",
@@ -16,19 +16,11 @@
     },
     {
       "tag": "div",
-      "text": "End Top Links Box Nav Budapest Main Menu Essential Information Getting to Budapest Budapest Hotels Budapest Sightseeing Food and Drink Entertainment Shopping in Budapest Budapest History End Box Nav Search Google Search Google"
+      "text": "Budapest Main Menu Essential Information Getting to Budapest Budapest Hotels Budapest Sightseeing Food and Drink Entertainment Shopping in Budapest Budapest History"
     },
     {
       "tag": "p",
-      "text": "You are in: Main Page » Sightseeing » Page 1 » P2 » P3 » P4 » P5 » P6 » P7 » P8 » P9 » Baths » Bridges » Museums\r\nP1 » Museums P2"
-    },
-    {
-      "tag": "div",
-      "text": "Main content"
-    },
-    {
-      "tag": "p",
-      "text": "Next Page »"
+      "text": "You are in: Main Page » Sightseeing » Page 1 » P2 » P3 » P4 » P5 » P6 » P7 » P8 » P9 » Baths » Bridges » Museums\r\nP1 » Museums P2 Next Page »"
     },
     {
       "tag": "h1",
@@ -161,10 +153,6 @@
     {
       "tag": "p",
       "text": "VI. Kodály körönd 1, Metro: M1\r\nKodály körönd , Bus 4, 106, Open: 10am-4pm Wed, 10am-6pm Thu-Sat, 10am-2pm Sun,\r\n(Mon/Tue closed), Budapest Card accepted ,\r\nWebsite: www.iks.hu/museum.htm The former home of the Hungarian composer until his death in 1967, the memorial museum has on\r\ndisplay folk art objects that he owned as well as personal manuscripts and photographs. You are in: Main Page » Sightseeing » Page 1 » P2 » P3 » P4 » P5 » P6 » P7 » P8 » P9 » Baths » Bridges » Museums\r\nP1 » Museums P2 Next Page » | Contact | Help | Shop | Site Search | Photo Gallery | © Talking Webs. All Rights Reserved. | Privacy Statement | Copyright Information | Content on this website may not be used without prior permission from the website's owners."
-    },
-    {
-      "tag": "div",
-      "text": "BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG"
     }
   ]
 }

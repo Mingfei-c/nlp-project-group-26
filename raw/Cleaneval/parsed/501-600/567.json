@@ -3,8 +3,8 @@
   "file_number": "567",
   "content_hash": "499db66d8e7c1ed824ab18cafae6630134065142d6b1eeb2faf7d1c97db92490",
   "total_blocks": 64,
-  "retained_blocks": 11,
-  "ignored_blocks": 53,
+  "retained_blocks": 12,
+  "ignored_blocks": 52,
   "blocks": [
     {
       "tag": "div",
@@ -44,7 +44,11 @@
     },
     {
       "tag": "p",
-      "text": "Note that the sound files that appear in some of these lessons are in MIDI format. You will be able to play them only if your computer is set up to accomodate such files, and the sound quality will depend on the quality of your computer sound card and  \nother hardware. Spring. Using Vivaldi's \"Spring\" from The Four Seasons to teach toward Standard 4: Composing and arranging music within specific guidelines Standard 8: Understanding relationships between music, the other arts, and disciplines outside the arts Taking Turns. Using Vivaldi's \"Spring\" from The Four Seasons to teach toward Standard 2: Performing on instruments, alone and with others, a varied repertoire of music Standard 3: Improvising melodies, variations, and accompaniments Shaping the Tune. Using Dvorak's \"From the New World\" to teach toward Standard 1: Singing, alone and with others, a varied repertoire of music Standard 4: Composing and arranging music within specific guidelines Perform this Graphic Score. Using the Dvorak to teach toward Standard 5: Reading and notating music Stretch--and Relax. Using Mozarts \"Eine Kleine Nachtmusik\" to teach toward Standard 5: Reading and notating music Standard 6: Listening to, analyzing, and describing music Sequences and Signatures. Using Beethoven's Symphony No. 5 to teach toward Standard 1: Singing, alone and with others, a varied repertoire of music Standard 6: Listening to, analyzing, and describing music Standard 7: Evaluating music and music performances Go back to the top of the page Ordering Information You can order Music Explorer from Music Educators National Conference,  1806 Robert Fulton Drive, Reston, VA 20191. Credit-card holders may call 1-800-828-0229. Please refer to MENC stock #3083. The price is $50.00 ($40.00 for MENC members). ISB\n\nN 0952534738. Go back to the top of the page"
+      "text": "Note that the sound files that appear in some of these lessons are in MIDI format. You will be able to play them only if your computer is set up to accomodate such files, and the sound quality will depend on the quality of your computer sound card and  \nother hardware. Spring. Using Vivaldi's \"Spring\" from The Four Seasons to teach toward Standard 4: Composing and arranging music within specific guidelines Standard 8: Understanding relationships between music, the other arts, and disciplines outside the arts Taking Turns. Using Vivaldi's \"Spring\" from The Four Seasons to teach toward Standard 2: Performing on instruments, alone and with others, a varied repertoire of music Standard 3: Improvising melodies, variations, and accompaniments Shaping the Tune. Using Dvorak's \"From the New World\" to teach toward Standard 1: Singing, alone and with others, a varied repertoire of music Standard 4: Composing and arranging music within specific guidelines Perform this Graphic Score. Using the Dvorak to teach toward Standard 5: Reading and notating music Stretch--and Relax. Using Mozarts \"Eine Kleine Nachtmusik\" to teach toward Standard 5: Reading and notating music Standard 6: Listening to, analyzing, and describing music Sequences and Signatures. Using Beethoven's Symphony No. 5 to teach toward Standard 1: Singing, alone and with others, a varied repertoire of music Standard 6: Listening to, analyzing, and describing music Standard 7: Evaluating music and music performances Go back to the top of the page"
+    },
+    {
+      "tag": "p",
+      "text": "Ordering Information You can order Music Explorer from Music Educators National Conference,  1806 Robert Fulton Drive, Reston, VA 20191. Credit-card holders may call 1-800-828-0229. Please refer to MENC stock #3083. The price is $50.00 ($40.00 for MENC members). ISB\n\nN 0952534738. Go back to the top of the page"
     },
     {
       "tag": "div",

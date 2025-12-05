@@ -3,12 +3,28 @@
   "file_number": "264",
   "content_hash": "8008d3daa7eafb834bfb23f781752565f6171aa69b0f3839866bd9be3424db84",
   "total_blocks": 186,
-  "retained_blocks": 9,
-  "ignored_blocks": 177,
+  "retained_blocks": 18,
+  "ignored_blocks": 168,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" SciNat : Localisation Vars SciNat : Custom META SciNat : global css stylesheet here ## Science & Nature global css v 2.0 ## # jstools not already included # ## Begin JSTools - $Revision: 1.40 $ ## ## End JSTools ## SciNat : Localisation Styles SciNat : local colours stylesheet here page layout templates v2.66 GLOBAL NAVIGATION toolbar 1.44 header.page  465E34 Home TV Radio Talk Where I Live A-Z Index end toolbar 1.42 27 December 2006 Accessibility help Text only SciNat : START Banner code SciNat : Global Nav Animals Prehistoric Life Human Body & Mind Space Hot Topics TV & Radio Follow-up SciNat : END Global Nav SciNat : END Banner code BBC Homepage Science & Nature Homepage SciNat : Local Nav"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Home TV Radio Talk Where I Live A-Z Index"
+    },
+    {
+      "tag": "div",
+      "text": "27 December 2006 Accessibility help Text only"
+    },
+    {
+      "tag": "div",
+      "text": "Animals Prehistoric Life Human Body & Mind Space Hot Topics TV & Radio Follow-up"
+    },
+    {
+      "tag": "div",
+      "text": "BBC Homepage Science & Nature Homepage"
     },
     {
       "tag": "p",
@@ -16,7 +32,19 @@
     },
     {
       "tag": "div",
-      "text": "Planet Earth Birds Mammals <span class=\"scinatlocalukcalc\"><a href=\"http://www.bbc.co.uk/calc/sn/\">The Open Earth Archive</a></span> UK wildlife Articles Autumnwatch Garden wildlife This month Field guides Habitats Look around Mini Oddie Nature near you Springwatch Sea life Wildfacts Conservation More articles Pets Children's zone Contact Us Like this page? Send it to a friend! End of GLOBAL NAVIGATION SciNat : crumbtrail code here You are here: BBC > Science & Nature > Animals > UK Wildlife >  \nArticles SciNat : END crumbtrail code start main content tables start gutter start past articles More articles extra table for form *** Choose a subject *** Birds Mammals Sea life Conservation UK Wildlife Miscellaneous end extra table for form end past articles start topbox North Kent Marshes - a secret wilderness The North Kent Marshes are the Thames Estuary's secret wilderness."
+      "text": "Planet Earth Birds Mammals UK wildlife Articles Autumnwatch Garden wildlife This month Field guides Habitats Look around Mini Oddie Nature near you Springwatch Sea life Wildfacts Conservation More articles Pets Children's zone Contact Us Like this page? Send it to a friend! You are here: BBC > Science & Nature > Animals > UK Wildlife >  \nArticles"
+    },
+    {
+      "tag": "div",
+      "text": "More articles"
+    },
+    {
+      "tag": "div",
+      "text": "*** Choose a subject *** Birds Mammals Sea life Conservation UK Wildlife Miscellaneous"
+    },
+    {
+      "tag": "div",
+      "text": "North Kent Marshes - a secret wilderness The North Kent Marshes are the Thames Estuary's secret wilderness."
     },
     {
       "tag": "p",
@@ -24,7 +52,7 @@
     },
     {
       "tag": "div",
-      "text": "Page 1 Page 2 Page 3 Page 4 end top box start middle"
+      "text": "Page 1 Page 2 Page 3 Page 4"
     },
     {
       "tag": "p",
@@ -40,7 +68,15 @@
     },
     {
       "tag": "div",
-      "text": "start image 1 CREDIT REMOVED MAY2004 <tr><td width=126 colspan=5 bgcolor=\"#4F6E35\"><img src=\"/furniture/tiny.gif\" width=\"126\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td></tr>\n\n<tr>\n<td width=1 bgcolor=\"#4F6E35\"><img src=\"/furniture/tiny.gif\" width=\"1\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td><td width=6><img src=\"/furniture/tiny.gif\" width=\"6\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td>\n\n<td width=112 height=76><a href=\"picpops/298feat2.shtml\" target=\"popwindow\" onclick=\"imagepop('picpops/298feat2.shtml'); return false;\"><img src=\"images/298feat2.jpg\" width=\"112\" height=\"64\" vspace=\"0\" hspace=\"0\" alt=\"Plover, dunlin and knot on a shingle beach\" border=\"0\" /></a></td>\n\n<td width=6><img src=\"/furniture/tiny.gif\" width=\"6\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td>\n<td width=1 bgcolor=\"#4F6E35\"><img src=\"/furniture/tiny.gif\" width=\"1\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td>\n</tr>\n<tr><td width=126 colspan=5 bgcolor=\"#4F6E35\"><img src=\"/furniture/tiny.gif\" width=\"126\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td></tr> CREDIT REMOVED MAY2004 <tr>\n<td width=1 bgcolor=\"#4F6E35\"><img src=\"/furniture/tiny.gif\" width=\"1\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td><td width=6><img src=\"/furniture/tiny.gif\" width=\"6\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td>\n\n<td width=112 height=76><a href=\"picpops/298feat3.shtml\" target=\"popwindow\" onclick=\"imagepop('picpops/298feat3.shtml'); return false;\"><img src=\"images/298feat3.jpg\" width=\"112\" height=\"64\" vspace=\"0\" hspace=\"0\" alt=\"Oare marshes\" border=\"0\" /></a></td>\n\n<td width=6><img src=\"/furniture/tiny.gif\" width=\"6\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td>\n<td width=1 bgcolor=\"#4F6E35\"><img src=\"/furniture/tiny.gif\" width=\"1\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td>\n</tr> \n<tr><td width=126 colspan=5 bgcolor=\"#4F6E35\"><img src=\"/furniture/tiny.gif\" width=\"126\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td></tr> <tr>\n<td width=1 bgcolor=\"#4F6E35\"><img src=\"/furniture/tiny.gif\" width=\"1\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td><td width=6><img src=\"/furniture/tiny.gif\" width=\"6\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td>\n\n<td width=112 height=76><a href=\"298feat4.html\" target=\"popwindow\" onclick=\"imagepop('picpops/298feat4.shtml'); return false;\"><img src=\"images/298feat4.jpg\" width=\"112\" height=\"64\" vspace=\"0\" hspace=\"0\" alt=\"\" border=\"0\" /></a></td>\n\n<td width=6><img src=\"/furniture/tiny.gif\" width=\"6\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td>\n<td width=1 bgcolor=\"#4F6E35\"><img src=\"/furniture/tiny.gif\" width=\"1\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td>\n</tr> <tr><td width=126 colspan=5 bgcolor=\"#4F6E35\"><img src=\"/furniture/tiny.gif\" width=\"126\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td></tr>  \n<tr>\n<td width=1 bgcolor=\"#4F6E35\"><img src=\"/furniture/tiny.gif\" width=\"1\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td><td width=6><img src=\"/furniture/tiny.gif\" width=\"6\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td>\n\n<td width=112 height=76><a href=\"297feat5.html\" target=\"popwindow\" onclick=\"imagepop('picpops/297feat5.shtml'); return false;\"><img src=\"images/297feat5.jpg\" width=\"112\" height=\"64\" vspace=\"0\" hspace=\"0\" alt=\"Manatee on back\" border=\"0\" /></a></td> \n\n<td width=6><img src=\"/furniture/tiny.gif\" width=\"6\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td>\n<td width=1 bgcolor=\"#4F6E35\"><img src=\"/furniture/tiny.gif\" width=\"1\" height=\"1\" vspace=\"0\" hspace=\"0\" alt=\"\" /></td></tr> --end images- start print version end print version start wildfacts end wildfacts end middle content start gutter end gutter end main tables SciNat : related footer code here You may also like... the UK's best coastal wildlife hotspots more UK Wildlife articles more BBC Science and Nature articles SciNat : END related footer code SciNat : START global navigation for footer Science & Nature Homepage Animals | Prehistoric Life | Human Body & Mind | Space | Hot Topics | TV & Radio follow-up Go to top SciNat : END global navigation for footer begin footer if no nav or stretchy but not both About the BBC | Help | Terms of Use | Privacy & Cookies Policy end footer"
+      "text": "You may also like..."
+    },
+    {
+      "tag": "div",
+      "text": "the UK's best coastal wildlife hotspots more UK Wildlife articles more BBC Science and Nature articles Science & Nature Homepage Animals | Prehistoric Life | Human Body & Mind | Space | Hot Topics | TV & Radio follow-up Go to top"
+    },
+    {
+      "tag": "div",
+      "text": "About the BBC | Help | Terms of Use | Privacy & Cookies Policy"
     }
   ]
 }

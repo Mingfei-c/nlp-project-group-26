@@ -3,8 +3,8 @@
   "file_number": "663",
   "content_hash": "6c1b44780bd48e6ba1e27526ffbee9508a2d91cc8a296281304459f88dc72996",
   "total_blocks": 172,
-  "retained_blocks": 4,
-  "ignored_blocks": 168,
+  "retained_blocks": 5,
+  "ignored_blocks": 167,
   "blocks": [
     {
       "tag": "div",
@@ -12,7 +12,11 @@
     },
     {
       "tag": "p",
-      "text": "What's New Attack of the Clones, the AU Version Parts 5-7 By Moriah Organa"
+      "text": "What's New"
+    },
+    {
+      "tag": "p",
+      "text": "Attack of the Clones, the AU Version Parts 5-7 By Moriah Organa"
     },
     {
       "tag": "div",

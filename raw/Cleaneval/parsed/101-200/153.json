@@ -3,8 +3,8 @@
   "file_number": "153",
   "content_hash": "840aec77694cd34fdaea65dd652641ed0662d6582c9217113b8aa84c0dadbd19",
   "total_blocks": 87,
-  "retained_blocks": 9,
-  "ignored_blocks": 78,
+  "retained_blocks": 11,
+  "ignored_blocks": 76,
   "blocks": [
     {
       "tag": "h4",
@@ -12,7 +12,15 @@
     },
     {
       "tag": "div",
-      "text": "Editorial Information Editorial If you need help Announcements Free Access to Gartner Group Reports within CERN Special 35th Anniversary 30 Years of Computing at CERN - Part 1 GISMO Project: Historical Details Physics Computing US Award for CERN Computing European Union Gives 9.8 million Euros for GRID Development (January News) Move from HPSS to Castor  : Will the hsm\nCommand be Transparent? Desktop Computing NICE (Windows) 2000 Migration News Usage Generalisation of a Problem Report Management\nSystem for Problem Tracking in IT Division Internet Services and Network Computer Security at CERN: Risks are Increasing LocalTalk Networking End Scientific Applications and Software Engineering 2001 CERNLIB Release Future of CERNLIB Software Development Tool Service Desktop Publishing XML Applications at CERN The latest LATEX The Learning Zone Computing at CERN, Once Upon a Time... Questions and Answers from the Computing Helpdesk User Documentation User Support Book Catalogue Previous: Special 35th Anniversary Next: GISMO Project: Historical Details (See printing version)"
+      "text": "Editorial Information Editorial If you need help Announcements Free Access to Gartner Group Reports within CERN Special 35th Anniversary 30 Years of Computing at CERN - Part 1 GISMO Project: Historical Details Physics Computing US Award for CERN Computing European Union Gives 9.8 million Euros for GRID Development (January News) Move from HPSS to Castor  : Will the hsm\nCommand be Transparent? Desktop Computing NICE (Windows) 2000 Migration News Usage Generalisation of a Problem Report Management\nSystem for Problem Tracking in IT Division Internet Services and Network Computer Security at CERN: Risks are Increasing LocalTalk Networking End Scientific Applications and Software Engineering 2001 CERNLIB Release Future of CERNLIB Software Development Tool Service Desktop Publishing XML Applications at CERN The latest LATEX The Learning Zone Computing at CERN, Once Upon a Time... Questions and Answers from the Computing Helpdesk User Documentation User Support Book Catalogue"
+    },
+    {
+      "tag": "div",
+      "text": "Previous: Special 35th Anniversary Next: GISMO Project: Historical Details"
+    },
+    {
+      "tag": "div",
+      "text": "(See printing version)"
     },
     {
       "tag": "h2",

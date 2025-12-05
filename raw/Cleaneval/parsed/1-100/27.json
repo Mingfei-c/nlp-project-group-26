@@ -3,12 +3,12 @@
   "file_number": "27",
   "content_hash": "869f4f9d68d0413fa2fa5e2bcdd099197faa73634cd0730d460796bf4fc7cde6",
   "total_blocks": 418,
-  "retained_blocks": 60,
-  "ignored_blocks": 358,
+  "retained_blocks": 57,
+  "ignored_blocks": 361,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" begin: Horizontal Links IGN.com | PC Games | PS2 | PS3 | PSP | Xbox | Xbox 360 | GameCube | Wii | DS | GBA | Wireless | FilePlanet | Cheats | Movies | TV | DVD | Music | Comics | Gear | Sports | Cars | Babes end: Horizontal Links Prestitial Code"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" IGN.com | PC Games | PS2 | PS3 | PSP | Xbox | Xbox 360 | GameCube | Wii | DS | GBA | Wireless | FilePlanet | Cheats | Movies | TV | DVD | Music | Comics | Gear | Sports | Cars | Babes"
     },
     {
       "tag": "p",
@@ -24,7 +24,19 @@
     },
     {
       "tag": "div",
-      "text": "START LEADERBOARD AND PROMO BOX --- START PROMO BOX- Dark Age of Camelot Vault -- DAOC  Boards: Virtual Memory settings.... ---- END PROMO BOX- ---- START LEADERBOARD - END LEADERBOARD AND PROMO BOX GOOGLE SEARCH START The Web The Site GOOGLE SEARCH END Week in Review Week in Review Firehouse Studios presents their Chrismtas v... Firehouse Studios presents their Chrismtas video - A FoTM Holiday Holiday Billing/Tech Support Schedule Holiday Billing/Tech Support Schedule A Merry Little Grab Bag A Merry Little Grab Bag Bonus Adjustments Bonus Adjustments 1.87c Release Notes 1.87c Release Notes By: Kauth 1280 x 1024\r\n        |\r\n        Resolut..."
+      "text": "Dark Age of Camelot Vault -- DAOC  Boards: Virtual Memory settings...."
+    },
+    {
+      "tag": "div",
+      "text": "The Web The Site"
+    },
+    {
+      "tag": "div",
+      "text": "Week in Review Week in Review Firehouse Studios presents their Chrismtas v... Firehouse Studios presents their Chrismtas video - A FoTM Holiday Holiday Billing/Tech Support Schedule Holiday Billing/Tech Support Schedule A Merry Little Grab Bag A Merry Little Grab Bag Bonus Adjustments Bonus Adjustments 1.87c Release Notes 1.87c Release Notes"
+    },
+    {
+      "tag": "div",
+      "text": "By: Kauth 1280 x 1024\r\n        |\r\n        Resolut..."
     },
     {
       "tag": "h1",
@@ -32,7 +44,7 @@
     },
     {
       "tag": "p",
-      "text": "-----Start News item Chapter Finale; Courtships Dance [ Comment ] Print News | Mail News Have you been following this captivating story since the beginning? If so you'll be very much pleased to know how things turn out in today's 8th and last chapter of Courtships Dance !"
+      "text": "Chapter Finale; Courtships Dance [ Comment ] Print News | Mail News Have you been following this captivating story since the beginning? If so you'll be very much pleased to know how things turn out in today's 8th and last chapter of Courtships Dance !"
     },
     {
       "tag": "blockquote",
@@ -51,16 +63,12 @@
       "text": "-- Jolene @ 1:03PM Wed 19 Jul 2006"
     },
     {
-      "tag": "div",
-      "text": "-----End News item"
-    },
-    {
       "tag": "h1",
       "text": "Tuesday, 18 Jul, 2006"
     },
     {
       "tag": "p",
-      "text": "-----Start News item Screenshot of the Day for July 18th [ Comment ] Print News | Mail News Screenshot of the Day for July 18th Christmas with Legion Have a screenshot you would like to share? We'll host it at the Dark Age of Camelot Vault . All you have to do is send it in to the Camelot Vault . -- mozah @ 4:46PM Tue 18 Jul 2006 Tech Support Closing Early Thursday, July 20 [ 8 Comments ] Print News | Mail News Mythic's bimonthly staff meeting."
+      "text": "Screenshot of the Day for July 18th [ Comment ] Print News | Mail News Screenshot of the Day for July 18th Christmas with Legion Have a screenshot you would like to share? We'll host it at the Dark Age of Camelot Vault . All you have to do is send it in to the Camelot Vault . -- mozah @ 4:46PM Tue 18 Jul 2006 Tech Support Closing Early Thursday, July 20 [ 8 Comments ] Print News | Mail News Mythic's bimonthly staff meeting."
     },
     {
       "tag": "blockquote",
@@ -87,16 +95,12 @@
       "text": "Interested in reading Ranorian's previous work? Well click here to read any of them! Hope you guys enjoyed this! Feel free to comment in a civil manner! If you would like to see your story or a column featured here on Dark Age of Camelot Vault  all you have to do is Click Here and send it in!! -- Affek @ 2:31PM Tue 18 Jul 2006"
     },
     {
-      "tag": "div",
-      "text": "-----End News item"
-    },
-    {
       "tag": "h1",
       "text": "Monday, 17 Jul, 2006"
     },
     {
       "tag": "p",
-      "text": "-----Start News item Updated Character Builder - Charplan v1.5.6 Print News | Mail News | Category: Columns Tired of not having any good (ok, updated) character builders to figure out how you want to spec your toons? Affek spotted this rather snazzy character builder from hell which you can download from Sourceforge . Idownloaded and tried it myself, it's pretty nice. -- Apache @ 9:17PM Mon 17 Jul 2006 Courtships Dance returns! [ Comment ] Print News | Mail News | Category: Columns After a short summer break, our regular column schedule is back on it's feet! So here's the seventh installment of Courtships Dance by Miss Saeraphyna!"
+      "text": "Updated Character Builder - Charplan v1.5.6 Print News | Mail News | Category: Columns Tired of not having any good (ok, updated) character builders to figure out how you want to spec your toons? Affek spotted this rather snazzy character builder from hell which you can download from Sourceforge . Idownloaded and tried it myself, it's pretty nice. -- Apache @ 9:17PM Mon 17 Jul 2006 Courtships Dance returns! [ Comment ] Print News | Mail News | Category: Columns After a short summer break, our regular column schedule is back on it's feet! So here's the seventh installment of Courtships Dance by Miss Saeraphyna!"
     },
     {
       "tag": "blockquote",
@@ -107,16 +111,12 @@
       "text": "Click here to read more of Saeraphyna's stories! Thank you Saeraphyna for this amazing story! Hope you guys enjoyed this! Feel free to comment in a civil manner! If you would like to see your story or a column featured here on Dark Age of Camelot Vault  all you have to do is Click Here and send it in!! -- Affek @ 2:16PM Mon 17 Jul 2006 Screenshot of the Day for July 17th [ Comment ] Print News | Mail News | Category: Columns Screenshot of the Day for July 17th Since it's Monday, I'll avoid any obvious hammer references Have a screenshot you would like to share? We'll host it at the Dark Age of Camelot Vault . All you have to do is send it in to the Camelot Vault . -- mozah @ 5:33AM Mon 17 Jul 2006"
     },
     {
-      "tag": "div",
-      "text": "-----End News item"
-    },
-    {
       "tag": "h1",
       "text": "Friday, 14 Jul, 2006"
     },
     {
       "tag": "p",
-      "text": "-----Start News item Ideas that never made it into the game [ 7 Comments ] Print News | Mail News | Category: Columns Esmender gives his latest comic which gives us a great look at some ideas that never made it into the game (thank god....) To see the rest of Esmender's comics, click here! Thank you Esmender!!!! Have a comic or funny story you would like to share with us?  It's simple to have it published on Camelot Vault!!  Send a email to Swanny. -- Swanny @ 6:59PM Fri 14 Jul 2006 Grab Bag Evasions Print News | Mail News | Category: Columns In this week's action-packed Grab Bag Sanya tries to explain how evade actually works (Ialways thought it was based on dex/quick, the level of evade, and the to-hit bonus of your attacker), the tower in Bri Leith, to-hit modifiers for styles, confuse spells in rvr, timers in /use and /use 2, cleric smite healing, trophy hunting and tougher than usual monsters in POC. Read More... -- Apache @ 5:47PM Fri 14 Jul 2006 Hot Fixes [ Comment ] Print News | Mail News | Category: Columns Acouple of hot fixes for a Friday afternoon."
+      "text": "Ideas that never made it into the game [ 7 Comments ] Print News | Mail News | Category: Columns Esmender gives his latest comic which gives us a great look at some ideas that never made it into the game (thank god....) To see the rest of Esmender's comics, click here! Thank you Esmender!!!! Have a comic or funny story you would like to share with us?  It's simple to have it published on Camelot Vault!!  Send a email to Swanny. -- Swanny @ 6:59PM Fri 14 Jul 2006 Grab Bag Evasions Print News | Mail News | Category: Columns In this week's action-packed Grab Bag Sanya tries to explain how evade actually works (Ialways thought it was based on dex/quick, the level of evade, and the to-hit bonus of your attacker), the tower in Bri Leith, to-hit modifiers for styles, confuse spells in rvr, timers in /use and /use 2, cleric smite healing, trophy hunting and tougher than usual monsters in POC. Read More... -- Apache @ 5:47PM Fri 14 Jul 2006 Hot Fixes [ Comment ] Print News | Mail News | Category: Columns Acouple of hot fixes for a Friday afternoon."
     },
     {
       "tag": "blockquote",
@@ -127,16 +127,12 @@
       "text": "-- Chanell @ 12:41PM Fri 14 Jul 2006 Thane Gone Wild in Albion Housing [ 55 Comments ] Print News | Mail News | Category: Columns Was it worth the five-day ban? After watching this video of a thane getting inside the Albion housing zone on the Killibury Cluster, Ithink it was. The movie runs for 3:51 and features a funky Wham soundtrack. Thanks Darkmoonprincess. -- Apache @ 1:09AM Fri 14 Jul 2006"
     },
     {
-      "tag": "div",
-      "text": "-----End News item"
-    },
-    {
       "tag": "h1",
       "text": "Thursday, 13 Jul, 2006"
     },
     {
       "tag": "p",
-      "text": "-----Start News item Screenshot of the Day for July 13th [ 3 Comments ] Print News | Mail News | Category: Columns Screenshot of the Day for July 13th Calamari Have a screenshot you would like to share? We'll host it at the Dark Age of Camelot Vault . All you have to do is send it in to the Camelot Vault . -- mozah @ 4:34PM Thu 13 Jul 2006 Player Spotlight featuring Tuneses [ Comment ] Print News | Mail News | Category: Columns The Dark Age of Camelot Vault would like to introduce its newest feature, spotlighting the guilds and players of Dark Age of Camelot. Our next interview comes from a player currently in Midgard on the Gareth server. Telling us about herself is Tuneses!"
+      "text": "Screenshot of the Day for July 13th [ 3 Comments ] Print News | Mail News | Category: Columns Screenshot of the Day for July 13th Calamari Have a screenshot you would like to share? We'll host it at the Dark Age of Camelot Vault . All you have to do is send it in to the Camelot Vault . -- mozah @ 4:34PM Thu 13 Jul 2006 Player Spotlight featuring Tuneses [ Comment ] Print News | Mail News | Category: Columns The Dark Age of Camelot Vault would like to introduce its newest feature, spotlighting the guilds and players of Dark Age of Camelot. Our next interview comes from a player currently in Midgard on the Gareth server. Telling us about herself is Tuneses!"
     },
     {
       "tag": "blockquote",
@@ -155,16 +151,12 @@
       "text": "-- Chanell @ 8:20AM Thu 13 Jul 2006"
     },
     {
-      "tag": "div",
-      "text": "-----End News item"
-    },
-    {
       "tag": "h1",
       "text": "Wednesday, 12 Jul, 2006"
     },
     {
       "tag": "p",
-      "text": "-----Start News item Screenshot of the Day for July 12th [ Comment ] Print News | Mail News | Category: Columns Screenshot of the Day for July 12th Asnow-covered battlefield Have a screenshot you would like to share? We'll host it at the Dark Age of Camelot Vault . All you have to do is send it in to the Camelot Vault . -- mozah @ 8:05PM Wed 12 Jul 2006 Matt Firor Leaves Mythic [ 141 Comments ] Print News | Mail News | Category: Columns Broken Toys (the blog of the artist formerly known as Lum the Mad) is reporting that long-time Dark Age of Camelot Producer and Vice President of Mythic Matt Firor is no longer with the company:"
+      "text": "Screenshot of the Day for July 12th [ Comment ] Print News | Mail News | Category: Columns Screenshot of the Day for July 12th Asnow-covered battlefield Have a screenshot you would like to share? We'll host it at the Dark Age of Camelot Vault . All you have to do is send it in to the Camelot Vault . -- mozah @ 8:05PM Wed 12 Jul 2006 Matt Firor Leaves Mythic [ 141 Comments ] Print News | Mail News | Category: Columns Broken Toys (the blog of the artist formerly known as Lum the Mad) is reporting that long-time Dark Age of Camelot Producer and Vice President of Mythic Matt Firor is no longer with the company:"
     },
     {
       "tag": "blockquote",
@@ -176,27 +168,19 @@
     },
     {
       "tag": "div",
-      "text": "-----End News item -----Start News item Archived News Pages  : <Prev 1 .. 5 .. 10 11 12 13 14 15 16 17 18 19 20 .. 25 .. 35 .. 45 .. 81 Next> -----End News item -----Start Network Connections Box Most recent posts on the Camelot Communities board: So Ijust started Season 3 of BSG - posted by -Espiritu- - \n    last activity 26/12 07:35am So did they ever give a nerd reason for why TOS Klingons were boring? - posted by Rikarus - \n    last activity \n   12/26 03:32pm Happy Kwanzaa Day! - posted by _-Bonk-_ - \n    last activity \n   12/26 03:30pm Badgers and Pumas???? - posted by DanBoone - \n    last activity \n   12/26 03:27pm Since the dems cant nominate a terrorist in 2008 - posted by _-Bonk-_ - \n    last activity \n   12/26 03:27pm -----End  Network Connections Box -----Start Network Connections Box"
-    },
-    {
-      "tag": "p",
-      "text": "network connections box STARTS"
+      "text": "Archived News Pages  : <Prev 1 .. 5 .. 10 11 12 13 14 15 16 17 18 19 20 .. 25 .. 35 .. 45 .. 81 Next> Most recent posts on the Camelot Communities board: So Ijust started Season 3 of BSG - posted by -Espiritu- - \n    last activity 26/12 07:35am So did they ever give a nerd reason for why TOS Klingons were boring? - posted by Rikarus - \n    last activity \n   12/26 03:32pm Happy Kwanzaa Day! - posted by _-Bonk-_ - \n    last activity \n   12/26 03:30pm Badgers and Pumas???? - posted by DanBoone - \n    last activity \n   12/26 03:27pm Since the dems cant nominate a terrorist in 2008 - posted by _-Bonk-_ - \n    last activity \n   12/26 03:27pm Around The Network:"
     },
     {
       "tag": "div",
-      "text": "Around The Network: Dark Age of Camelot at IGN Dark Age of Camelot at GameSpy Dark Age of Camelot: Free 14 D... at FilePlanet Dark Age of Camelot Downloads at FilePlanet Dark Age of Camelot at GameStats Dark Age of Camelot Vault"
-    },
-    {
-      "tag": "p",
-      "text": "network connections box ENDS network connections box ENDS"
+      "text": "Dark Age of Camelot at IGN Dark Age of Camelot at GameSpy Dark Age of Camelot: Free 14 D... at FilePlanet Dark Age of Camelot Downloads at FilePlanet Dark Age of Camelot at GameStats Dark Age of Camelot Vault"
     },
     {
       "tag": "div",
-      "text": "-----End  Network Connections Box FOOTER NETWORK LOGO AND SITES IGN.com | GameSpy | Arcade | Arena | TeamXbox | GameStats | Planets | Vaults | VE3D | AskMen.com CheatsCodesGuides | FilePlanet | 3D Gamers | Direct2Drive | Rotten Tomatoes | GamerMetrics /LOGO AND SITES CORPORATE Copyright 1996-2006, IGN Entertainment, Inc. About Us | Support | Advertise | Privacy Policy | User Agreement | IGN's enterprise databases running Oracle, SQL and MySQL are professionally monitored and managed by Pythian Remote DBA . /CORPORATE"
+      "text": "IGN.com | GameSpy | Arcade | Arena | TeamXbox | GameStats | Planets | Vaults | VE3D | AskMen.com CheatsCodesGuides | FilePlanet | 3D Gamers | Direct2Drive | Rotten Tomatoes | GamerMetrics"
     },
     {
-      "tag": "p",
-      "text": "FOOTER NETWORK"
+      "tag": "div",
+      "text": "Copyright 1996-2006, IGN Entertainment, Inc. About Us | Support | Advertise | Privacy Policy | User Agreement | IGN's enterprise databases running Oracle, SQL and MySQL are professionally monitored and managed by Pythian Remote DBA ."
     },
     {
       "tag": "div",
@@ -204,7 +188,11 @@
     },
     {
       "tag": "p",
-      "text": "Server Status Pendragon 17 Galahad 385 Lancelot 736 Percival 298 Palomides 224 Merlin 769 Guinevere 404 Bedevere 217 Morgan 286 Gawaine 200 Bors 279 Iseult 215 Pellinor 288 Nimue 215 Kay 339 Tristan 251 Igraine 222 Mordred 201 Gaheris 481 Lamorak 634 Gareth 1280 Ector 412"
+      "text": "Server Status"
+    },
+    {
+      "tag": "p",
+      "text": "Pendragon 17 Galahad 385 Lancelot 736 Percival 298 Palomides 224 Merlin 769 Guinevere 404 Bedevere 217 Morgan 286 Gawaine 200 Bors 279 Iseult 215 Pellinor 288 Nimue 215 Kay 339 Tristan 251 Igraine 222 Mordred 201 Gaheris 481 Lamorak 634 Gareth 1280 Ector 412"
     },
     {
       "tag": "h3",
@@ -244,7 +232,7 @@
     },
     {
       "tag": "div",
-      "text": "1) by Jake 2) New Luri Mount New Luri Mount by Aay 3) Li'l Luri Li'l Luri by Evesong 4) ICE DF ICE DF by Brodin 5) Best, hibs, EVER Best, hibs, EVER by ME 6) Guild Gets Honored Guild Gets Honored by Bombax 7) wallpapers wallpapers by Gaylenkenobi 8) Various Shots of Bri.. Various Shots of Brimstone Caverns, Darkspire, Etc by GaylenOraylee 9) Drunkdriving Drunkdriving by Mikoolo 10) Uamhas Uamhas by Neinyo Polloloco HOST: ac2-7"
+      "text": "1) by Jake 2) New Luri Mount New Luri Mount by Aay 3) Li'l Luri Li'l Luri by Evesong 4) ICE DF ICE DF by Brodin 5) Best, hibs, EVER Best, hibs, EVER by ME 6) Guild Gets Honored Guild Gets Honored by Bombax 7) wallpapers wallpapers by Gaylenkenobi 8) Various Shots of Bri.. Various Shots of Brimstone Caverns, Darkspire, Etc by GaylenOraylee 9) Drunkdriving Drunkdriving by Mikoolo 10) Uamhas Uamhas by Neinyo Polloloco"
     }
   ]
 }

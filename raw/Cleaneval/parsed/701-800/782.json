@@ -3,12 +3,16 @@
   "file_number": "782",
   "content_hash": "7be8f3e240f05dbfc270a765e87698c701bd0919e29c09c561d6e68b218bd4fe",
   "total_blocks": 60,
-  "retained_blocks": 8,
-  "ignored_blocks": 52,
+  "retained_blocks": 9,
+  "ignored_blocks": 51,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\" The Daily Schtick IAMBE HOME The Daily Schtick Iambe Archives Talkback 2 Iambe Peer 2 Peer Write to Iambe"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "The Daily Schtick IAMBE HOME The Daily Schtick Iambe Archives Talkback 2 Iambe Peer 2 Peer Write to Iambe"
     },
     {
       "tag": "h4",

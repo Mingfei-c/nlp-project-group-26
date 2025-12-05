@@ -3,8 +3,8 @@
   "file_number": "330",
   "content_hash": "3699c12b4ddc731694ef7ee4f2a2d792ad5024fe7e5228d24d0c482ba00a84a7",
   "total_blocks": 167,
-  "retained_blocks": 73,
-  "ignored_blocks": 94,
+  "retained_blocks": 74,
+  "ignored_blocks": 93,
   "blocks": [
     {
       "tag": "h1",
@@ -24,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "Ischemia - can be caused by CAD or by a chronic too-fast heart rate. Ischemia prevents the heart muscle from fully relaxing and increases heart stiffness. Chronic ischemia results in remodeling and DHF pressure overload caused by chronic high blood pressure or aortic valve problems infiltrative cardiomyopathies, also called restrictive cardiomyopathy pericarditis - inflammation of the sac around the outside of the heart normal aging can cause some DHF abnormalities of cellular calcium handling, increased collagen that hampers relaxation, increased stiffness chemotherapy for diseases like cancer genetic causes"
+      "text": "Ischemia - can be caused by CAD or by a chronic too-fast heart rate. Ischemia prevents the heart muscle from fully relaxing and increases heart stiffness. Chronic ischemia results in remodeling and DHF pressure overload caused by chronic high blood pressure or aortic valve problems infiltrative cardiomyopathies, also called restrictive cardiomyopathy pericarditis - inflammation of the sac around the outside of the heart normal aging can cause some DHF chemotherapy for diseases like cancer genetic causes"
     },
     {
       "tag": "h3",
@@ -44,7 +44,7 @@
     },
     {
       "tag": "div",
-      "text": "<div style=\"background:none #099; color:#fff; width:94%; margin-left:5%; font:xx-small Verdana,sans-serif; line-height:6px\">&nbsp;</div> Diagnosis : Systolic versus diastolic heart failure Systolic Heart Failure - Reduced EF 30 patients Diastolic Heart Failure - Normal EF 20 patients Symptoms Shortness of breath on exertion 85% 96% Waking at night short of breath 55% 50% Difficulty breathing except upright 60% 73% Physical Examination Jugular vein swollen 35% 46% Sounds in lungs 72% 70% Point of maximum impulse 50% 60% S3 45% 65% S4 45% 66% Enlarged (congested) liver 15% 16% Edema 30% 40% Heart enlargement on chest x-ray 90% 96% High pulmonary (lung) pressures 75% 80%"
+      "text": "Diagnosis : Systolic versus diastolic heart failure Systolic Heart Failure - Reduced EF 30 patients Diastolic Heart Failure - Normal EF 20 patients Symptoms Shortness of breath on exertion 85% 96% Waking at night short of breath 55% 50% Difficulty breathing except upright 60% 73% Physical Examination Jugular vein swollen 35% 46% Sounds in lungs 72% 70% Point of maximum impulse 50% 60% S3 45% 65% S4 45% 66% Enlarged (congested) liver 15% 16% Edema 30% 40% Heart enlargement on chest x-ray 90% 96% High pulmonary (lung) pressures 75% 80%"
     },
     {
       "tag": "h4",
@@ -96,7 +96,7 @@
     },
     {
       "tag": "dd",
-      "text": "At first, heart size LV volume can be reduced by restricting fluid and sodium intake, by dialysis or filtering the blood, plasmapheresis , and diuretics. Relaxing (dilating) the blood vessels using nitro or morphine is effective but should be started at low doses to avoid low blood pressure. Low blood pressure can be a real problem in DHF patients. Long-term treatment should include small to moderate diuretic doses, mild doses of long-acting nitro, and restricted sodium intake . Aldactone (spironolactone) may be effective long-term because it suppresses the RAS . ACE inhibitors and ARBs reduce fluid retention and oxygen demand."
+      "text": "At first, heart size can be reduced by restricting fluid and sodium intake, by dialysis or filtering the blood, plasmapheresis , and diuretics. Relaxing (dilating) the blood vessels using nitro or morphine is effective but should be started at low doses to avoid low blood pressure. Low blood pressure can be a real problem in DHF patients. Long-term treatment should include small to moderate diuretic doses, mild doses of long-acting nitro, and restricted sodium intake . Aldactone (spironolactone) may be effective long-term because it suppresses the RAS . ACE inhibitors and ARBs reduce fluid retention and oxygen demand."
     },
     {
       "tag": "dt",
@@ -104,7 +104,7 @@
     },
     {
       "tag": "dd",
-      "text": "The second step in lowering pulmonary pressure is to keep the heart's upper chambers (atriums) beating properly. This reduces LV diastolic pressure Atrial fibrillation is poorly tolerated in DHF patients because it increases diastolic pressures, causing lung congestion and low blood pressure.In patients with a-fib, restoring normal rhythm should be a priority. Patients who need a pacemaker should have atrial pacing as well as ventricular pacing."
+      "text": "The second step in lowering pulmonary pressure is to keep the heart's upper chambers (atriums) beating properly. Atrial fibrillation is poorly tolerated in DHF patients because it increases diastolic pressures, causing lung congestion and low blood pressure.In patients with a-fib, restoring normal rhythm should be a priority. Patients who need a pacemaker should have atrial pacing as well as ventricular pacing."
     },
     {
       "tag": "dt",
@@ -124,7 +124,7 @@
     },
     {
       "tag": "p",
-      "text": "March 27, 2006 - A \"third generation\" (new) beta-blocker called Nebivolol is on the way. Nebivolol has the main good benefit of Toprol-XL (beta-1 blocking without beta-2 blocking) plus one of the good benefits of Coreg (relaxing the arteries, called vasodilation). It also helps endothelial function and is a powerful anti-oxidant. Nebivolol does this without all of Coreg's side effects. Researchers studied how nebivolol affects systolic versus diastolic left heart function in patients. This substudy included 104 patients ; 43 had an EF less than 36%. Echo was done on each patient to take quite a few heart measures LV end-systolic volume (ESV), EF, mitral valve E/Aratio, and E-wave deceleration time at study start and again one year later. Echocardiograms were submitted to a core laboratory to perform quantitative analysis in blinded condition. In the group with EF less than 36%, nebivolol reduced heart size ESV (adjusted difference between treatments 25.8 mL, 95%CI: -46.6; -5.0, P=0.016) and improved EF 5% adjusted difference between treatments 4.6%, 95%CI: 1.3;7.9, P=0.008 . Other measures remained the same. In patients with EF higher than 36%, no changes in the heart muscle were seen. So in patients with weakly pumping hearts (low EF), nebivolol reduces heart size and improves EF. In patients with near-normal or normal EF (diastolic heart failure) no changes in the heart muscle were seen. None the less, risk of death or heart-related hospitalization improved in both groups in SENIORS. The SENIORS trial showed that nebivolol reduces risk of death and heart-related hospitalizations in senior CHFers regardless of EF . What does this mean? It suggests that CHFers with diastolic heart failure may now have a drug proven to help them. Jon's note : The average age in the SENIORS trial was 76 years. Source: Eur Heart J. 2006 Mar;27(5):562-8. Epub 2006 Jan 27. Title: Effects of nebivolol in elderly heart failure patients with or without systolic left ventricular dysfunction: results of the SENIORS echocardiographic substudy. Authors: Ghio S , Magrini G , Serio A, Klersy C, Fucilli A, Ronaszeki A, Karpati P, Mordenti G, Capriati A, Poole-Wilson PA, Tavazzi L; SENIORS investigators. s.ghio@smatteo.pv.it PMID: 16443607"
+      "text": "March 27, 2006 - A \"third generation\" (new) beta-blocker called Nebivolol is on the way. Nebivolol has the main good benefit of Toprol-XL (beta-1 blocking without beta-2 blocking) plus one of the good benefits of Coreg (relaxing the arteries, called vasodilation). It also helps endothelial function and is a powerful anti-oxidant. Nebivolol does this without all of Coreg's side effects. Researchers studied how nebivolol affects systolic versus diastolic left heart function in patients. This substudy included 104 patients ; 43 had an EF less than 36%. Echo was done on each patient to take quite a few heart measures at study start and again one year later. In the group with EF less than 36%, nebivolol reduced heart size and improved EF 5% . Other measures remained the same. In patients with EF higher than 36%, no changes in the heart muscle were seen. So in patients with weakly pumping hearts (low EF), nebivolol reduces heart size and improves EF. In patients with near-normal or normal EF (diastolic heart failure) no changes in the heart muscle were seen. None the less, risk of death or heart-related hospitalization improved in both groups in SENIORS. The SENIORS trial showed that nebivolol reduces risk of death and heart-related hospitalizations in senior CHFers regardless of EF . What does this mean? It suggests that CHFers with diastolic heart failure may now have a drug proven to help them. Jon's note : The average age in the SENIORS trial was 76 years. Source: Eur Heart J. 2006 Mar;27(5):562-8. Epub 2006 Jan 27. Title: Effects of nebivolol in elderly heart failure patients with or without systolic left ventricular dysfunction: results of the SENIORS echocardiographic substudy. Authors: Ghio S , Magrini G , Serio A, Klersy C, Fucilli A, Ronaszeki A, Karpati P, Mordenti G, Capriati A, Poole-Wilson PA, Tavazzi L; SENIORS investigators. PMID: 16443607"
     },
     {
       "tag": "div",
@@ -132,7 +132,7 @@
     },
     {
       "tag": "p",
-      "text": "Exercise in a healthy person makes the heart relax more quickly and lowers LV pressure faster. The heart muscle actually stretches and gets larger when full of blood just before pumping it out. This increases EF Frank Starling mechanism . In a healthy person, these actions help the body handle exercise. In DHF, those actions are very limited. The heart's stiffness prevents it from stretching to increase its size when filled with blood. EF does not rise, and patients get short of breath and very tired. Often, there is quite a rise in blood pressure and heart rate during exercise. The rise in blood pressure makes the heart work harder, which screws up the entire pumping cycle. These changes increase diastolic pressures. High diastolic pressures reduce lung function and make breathing harder. Low heart output during exercise causes fatigue in the legs and other muscles. Small trials show that calcium channel blockers, beta-blockers, and ARBs improve exercise ability in many DHF patients. However, these drugs do not always improve heart function or increase the heart's relaxation ."
+      "text": "Exercise in a healthy person makes the heart relax more quickly and lowers LV pressure faster. The heart muscle actually stretches and gets larger when full of blood just before pumping it out. This increases EF . In a healthy person, these actions help the body handle exercise. In DHF, those actions are very limited. The heart's stiffness prevents it from stretching to increase its size when filled with blood. EF does not rise, and patients get short of breath and very tired. Often, there is quite a rise in blood pressure and heart rate during exercise. The rise in blood pressure makes the heart work harder, which screws up the entire pumping cycle. These changes increase diastolic pressures. High diastolic pressures reduce lung function and make breathing harder. Low heart output during exercise causes fatigue in the legs and other muscles. Small trials show that calcium channel blockers, beta-blockers, and ARBs improve exercise ability in many DHF patients. However, these drugs do not always improve heart function ."
     },
     {
       "tag": "div",
@@ -140,7 +140,7 @@
     },
     {
       "tag": "p",
-      "text": "Use inotropic drugs with caution. Since ejection fraction is often okay in DHF patients, inotropes may give no benefit at all. However, such drugs can cause harm in these patients. Inotropic drugs may help in the short-term for lung congestion improve sarcoplasmic reticulum function but even short-term use may cause ischemia , speed up heart rate, or trigger arrhythmias."
+      "text": "Use inotropic drugs with caution. Since ejection fraction is often okay in DHF patients, inotropes may give no benefit at all. However, such drugs can cause harm in these patients. Inotropic drugs may help in the short-term for lung congestion but even short-term use may cause ischemia , speed up heart rate, or trigger arrhythmias."
     },
     {
       "tag": "div",
@@ -148,7 +148,7 @@
     },
     {
       "tag": "p",
-      "text": "Digoxin (Lanoxin) inhibits the sodium-potassium-ATPase pump, increases cellular calcium and thereby strengthens the heart's pumping power. This increases systolic energy demand while adding to calcium overload in diastole , which may only show up during stress like exercise or ischemia, when digoxin can worsen diastolic function. With the exception of patients in chronic atrial fibrillation (to slow ventricular rate), digoxin is not recommended for DHF."
+      "text": "Digoxin (Lanoxin) strengthens the heart's pumping power. This increases energy demand , which may only show up during stress like exercise or ischemia, when digoxin can worsen diastolic function. With the exception of patients in chronic atrial fibrillation (to slow ventricular rate), digoxin is not recommended for DHF."
     },
     {
       "tag": "div",
@@ -160,7 +160,11 @@
     },
     {
       "tag": "div",
-      "text": "Drug treatment of diastolic heart failure Loop diuretics Bumex (bumetanide), Lasix (furosemide), Demadex (torsemide) Thiazide diuretics Hygroton (chlorthalidone), Hydrodiuril, Esidrix (HCTZ, hydrochlorothiazide), Amiloride, Aldactone (spironolactone) Long-acting nitrates Isordil, Sorbitrate (Isosorbide Dinitrate), Imdur (Isosorbide mononitrate) Beta-blockers See this page Calcium channel blockers Norvasc (amlodipine), Cardizem (diltiazem), Isoptin (verapamil), Procardia (nifedipine) RAS inhibitors ACE inhibitors (see this page ), ARBs (see this page ), and aldosterone antagonists Questions and Answers"
+      "text": "Drug treatment of diastolic heart failure Loop diuretics Bumex (bumetanide), Lasix (furosemide), Demadex (torsemide) Thiazide diuretics Hygroton (chlorthalidone), Hydrodiuril, Esidrix (HCTZ, hydrochlorothiazide), Amiloride, Aldactone (spironolactone) Long-acting nitrates Isordil, Sorbitrate (Isosorbide Dinitrate), Imdur (Isosorbide mononitrate) Beta-blockers See this page Calcium channel blockers Norvasc (amlodipine), Cardizem (diltiazem), Isoptin (verapamil), Procardia (nifedipine) RAS inhibitors ACE inhibitors (see this page ), ARBs (see this page ), and aldosterone antagonists"
+    },
+    {
+      "tag": "div",
+      "text": "Questions and Answers"
     },
     {
       "tag": "dt",
@@ -192,7 +196,7 @@
     },
     {
       "tag": "dd",
-      "text": "The guidelines that exist or have been proposed come from the European Cardiology Society and the Canadian Heart Society, as well as from a recent editorial by Vasan and Levy published in the journal Circulation. They all require that 3 standards be met to diagnose DHF : 1) signs and symptoms of heart failure 2) normal EF 3) problems with diastolic function seen by cath or echo Ithink these criteria are too tight and that number 3 should be eliminated. Ninety percent of patients who fit the first 2 will indeed turn out to have diastolic heart failure confirmed by cath. The problem arises because measuring diastolic function with noninvasive tests like echo is difficult and confusing. The most common noninvasive measure of diastolic function is inflow velocity through the mitral valve using a Doppler technique measuring the Evelocity and the Avelocity Why? Echo usually measures what we call the Eand Avelocities. However, E-wave velocity drops with age, heart enlargement, and DHF. So in someone with congested lungs and signs of high heart pressures such as high PCWP and high LV diastolic pressure those E-waves can appear normal. While the E-wave should be low in DHF patients, it may appear normal if the doctor is not experienced at treating diastolic heart failure."
+      "text": "The guidelines that exist or have been proposed come from the European Cardiology Society and the Canadian Heart Society, as well as from a recent editorial by Vasan and Levy published in the journal Circulation. They all require that 3 standards be met to diagnose DHF : 1) signs and symptoms of heart failure 2) normal EF 3) problems with diastolic function seen by cath or echo Ithink these criteria are too tight and that number 3 should be eliminated. Ninety percent of patients who fit the first 2 will indeed turn out to have diastolic heart failure confirmed by cath. The problem arises because measuring diastolic function with noninvasive tests like echo is difficult and confusing. Why? Echo usually measures what we call the Eand Avelocities. However, E-wave velocity drops with age, heart enlargement, and DHF. So in someone with congested lungs and signs of high heart pressures those E-waves can appear normal. While the E-wave should be low in DHF patients, it may appear normal if the doctor is not experienced at treating diastolic heart failure."
     },
     {
       "tag": "dt",
@@ -224,7 +228,7 @@
     },
     {
       "tag": "dd",
-      "text": "While speeding up heart rate increases output, it also raises pressure PCWP , making symptoms worse. In a healthy person, raising heart rate does not change pressures end-diastolic pressure much because the ventricle is able to relax faster as heart rate speeds up. However, in DHF patients, the response to increased heart rate is not normal. When heart rate speeds up, the ventricle cannot relax any faster. This raises pressures PCWP . By slowing heart rate, you give the ventricle more time to relax, lowering filling pressures. Also, many DHF patients have ischemia. By slowing the heart rate, you reduce the heart's need for oxygen and that helps balance supply and demand of blood and oxygen"
+      "text": "While speeding up heart rate increases output, it also raises pressure , making symptoms worse. In a healthy person, raising heart rate does not change pressures much because the ventricle is able to relax faster as heart rate speeds up. However, in DHF patients, the response to increased heart rate is not normal. When heart rate speeds up, the ventricle cannot relax any faster. This raises pressures . By slowing heart rate, you give the ventricle more time to relax, lowering filling pressures. Also, many DHF patients have ischemia. By slowing the heart rate, you reduce the heart's need for oxygen and that helps balance supply and demand of blood and oxygen"
     },
     {
       "tag": "dt",

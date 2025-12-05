@@ -3,12 +3,24 @@
   "file_number": "423",
   "content_hash": "776f2ba6d2795504fa5661bf0c538c45b95ad76134854afe6a88f3c987a117fd",
   "total_blocks": 145,
-  "retained_blocks": 4,
-  "ignored_blocks": 141,
+  "retained_blocks": 11,
+  "ignored_blocks": 134,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\r\n\"http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd\" BEGIN NON-MODIFIED META-TAGS END NON-MODIFIED META-TAGS BEGIN PAGE SPECIFIC MODIFIABLE META-TAGS END PAGE SPECIFIC MODIFIABLE META-TAGS BEGIN MASTER TABLE BEGIN ALL CONTENT BEGIN CALIFORNIA HEADER CONTENT California Home END CALIFORNIA HEADER CONTENT BEGIN 3 COLUMN FORMAT BEGIN LEFT-HAND COLUMN MAIN LINKS BEGIN GOVENOR PAGE LINK END GOVERNOR PAGE LINK MAIN LINKS CDF Home About CDF Fire and Emergency Resource Management State Fire Marshal State Fire Training Board of Forestry FRAP Careers With CDF Fire Safety Education En Español News Releases <div><a href=\"http://cdfdata.fire.ca.gov/fire_er/fpp_planning_cafireplan\" CLASS=\"mainlink\">California Fire Plan</a></div> Related Links FAQs Calendar of Events CDF Newsletter CDF Fact Sheets CDF History CDF Photos and Videos begin HOT TOPICS button end HOT TOPICS button begin dark gray box bgcolor of table below used to be bgcolor=\"A2A2A2\" Search Site Map CDF Contacts Doing Business With CDF (DVBE/Small Business) CDF Public Records Act Request Guidelines ALERT: removed a TD and /TD with rowspan2 above, just before the end of the /TR end dark gray box begin Main Links endcap end Main Links endcap END MAIN LINKS BEGIN ENDCAP LEFT END ENDCAP LEFT END LEFT-HAND COLUMN BEGIN CENTER COLUMN BEGIN MAIN CONTENT"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\r\n\"http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd\""
+    },
+    {
+      "tag": "div",
+      "text": "California Home"
+    },
+    {
+      "tag": "div",
+      "text": "MAIN LINKS CDF Home About CDF Fire and Emergency Resource Management State Fire Marshal State Fire Training Board of Forestry FRAP Careers With CDF Fire Safety Education En Español News Releases Related Links FAQs Calendar of Events CDF Newsletter CDF Fact Sheets CDF History CDF Photos and Videos"
+    },
+    {
+      "tag": "div",
+      "text": "Search Site Map CDF Contacts Doing Business With CDF (DVBE/Small Business) CDF Public Records Act Request Guidelines"
     },
     {
       "tag": "h3",
@@ -16,11 +28,27 @@
     },
     {
       "tag": "p",
-      "text": "Our pages have moved here . Please take a moment to update your bookmarks or links to this site, and then use the links on this page to navigate the site. END MAIN CONTENT"
+      "text": "Our pages have moved here . Please take a moment to update your bookmarks or links to this site, and then use the links on this page to navigate the site."
     },
     {
       "tag": "div",
-      "text": "END CENTER COLUMN BEGIN RIGHT-HAND COLUMN BEGIN SEARCHBOX Quick Search Advanced Search END SEARCHBOX SUBCATEGORY LINKS Category Links Fire Information <div><a href='http://cdfdata.fire.ca.gov/incidents/incidents\" class=\"categorylink\">Incident Information</a></div> State Fire Training Air Program Mobile Equipment Law Enforcement Cooperative Efforts Conservation Camps Statistics and Events Forest Practice Forestry Assistance Pest Management State Forests State Nurseries Vegetation Management Urban Forestry Archaeology CDF Academy CDF Firefighter Memorial CDF Medal of Valor Honorees <div><a href='http://www.fire.ca.gov/about_recordsrequests.php' class=\"categorylink\">Public Records Act Requests</a></div> END SUBCATEGORY LINKS SEE BOX About CDF More Info... Executive Staff Bios CDF Organizational Chart What is CDF? (140K PDF) CDF At A Glance (81K PDF) CDF Fact Sheets BEGIN SEEBOX LAST MODIFIED LINE <div class=\"lastmodified\">12/26/2006 </div> END SEEBOX LAST MODIFIED LINE END SEE BOX BEGIN ARSON BLOCK END ARSON BLOCK BEGIN ARSON BLOCK END ARSON BLOCK BEGIN ACROBAT READER BLOCK This site uses Adobe Acrobat. This site uses  \r\n     Flash  8 END ACROBAT READER BLOCK BEGIN ENDCAP RIGHT END ENDCAP RIGHT END RIGHT-HAND COLUMN END 3 COLUMN FORMAT BEGIN FOOTER CONTENT Back to Top of Page © 2006 State of California. Conditions of Use , Privacy Policy Contact the webmaster END FOOTER CONTENT END ALL CONTENT END MASTER TABLE"
+      "text": "Quick Search"
+    },
+    {
+      "tag": "div",
+      "text": "Advanced Search"
+    },
+    {
+      "tag": "div",
+      "text": "Category Links Fire Information State Fire Training Air Program Mobile Equipment Law Enforcement Cooperative Efforts Conservation Camps Statistics and Events Forest Practice Forestry Assistance Pest Management State Forests State Nurseries Vegetation Management Urban Forestry Archaeology CDF Academy CDF Firefighter Memorial CDF Medal of Valor Honorees About CDF More Info... Executive Staff Bios CDF Organizational Chart What is CDF? (140K PDF) CDF At A Glance (81K PDF) CDF Fact Sheets This site uses Adobe Acrobat. This site uses  \r\n     Flash  8"
+    },
+    {
+      "tag": "div",
+      "text": "Back to Top of Page"
+    },
+    {
+      "tag": "div",
+      "text": "© 2006 State of California. Conditions of Use , Privacy Policy Contact the webmaster"
     }
   ]
 }

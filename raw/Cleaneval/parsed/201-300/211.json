@@ -3,8 +3,8 @@
   "file_number": "211",
   "content_hash": "c0a14ee8a803804c68c69873fa9122cd66fda002bb568a847aaa146cd219bc0c",
   "total_blocks": 15,
-  "retained_blocks": 4,
-  "ignored_blocks": 11,
+  "retained_blocks": 5,
+  "ignored_blocks": 10,
   "blocks": [
     {
       "tag": "p",
@@ -20,7 +20,11 @@
     },
     {
       "tag": "p",
-      "text": "Articles by the same contributor: No Articles Found E-mail : support@aboutmyjob.com Home | Why? | Share your story! | Get involved! | Story List"
+      "text": "Articles by the same contributor: No Articles Found"
+    },
+    {
+      "tag": "p",
+      "text": "E-mail : support@aboutmyjob.com Home | Why? | Share your story! | Get involved! | Story List"
     }
   ]
 }

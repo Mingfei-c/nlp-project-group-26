@@ -3,12 +3,16 @@
   "file_number": "619",
   "content_hash": "0ddee96bb8e1078b1014395b8801e26d039c27f38fba7b9d7233fd58239553f2",
   "total_blocks": 129,
-  "retained_blocks": 4,
-  "ignored_blocks": 125,
+  "retained_blocks": 5,
+  "ignored_blocks": 124,
   "blocks": [
     {
       "tag": "div",
-      "text": "The Black \n                        Church and the SGL Community Is This \n                        Your Pastor? Ask \n                        The Preacha Taking \n                        A Closer Look Affirming \n                        Churches Tell \n                        Us What You Think Tell-A-Friend Taking \n                  a Closer Look - Archive By: Tuan \n                  N' Gai of Biazo \n                  Ministries"
+      "text": "The Black \n                        Church and the SGL Community Is This \n                        Your Pastor? Ask \n                        The Preacha Taking \n                        A Closer Look Affirming \n                        Churches Tell \n                        Us What You Think Tell-A-Friend"
+    },
+    {
+      "tag": "div",
+      "text": "Taking \n                  a Closer Look - Archive By: Tuan \n                  N' Gai of Biazo \n                  Ministries"
     },
     {
       "tag": "p",

@@ -3,16 +3,16 @@
   "file_number": "432",
   "content_hash": "6fef5c23f53310b050b60cb2082083ef4177210b062c11ec8ed9a4651fdcbbad",
   "total_blocks": 205,
-  "retained_blocks": 23,
-  "ignored_blocks": 182,
+  "retained_blocks": 27,
+  "ignored_blocks": 178,
   "blocks": [
     {
       "tag": "div",
-      "text": "[if IE]>\r\n<LINK REL=\"stylesheet\" href=\"/ie_styles.css\">\r\n</style>\r\n<![endif] start content Home | Blog | Buyer's Guide | Webinars | Media Kit | Subscribe | Free Newsletter | Contact Us body start"
+      "text": "Home | Blog | Buyer's Guide | Webinars | Media Kit | Subscribe | Free Newsletter | Contact Us"
     },
     {
       "tag": "p",
-      "text": "left nav bar Navigation"
+      "text": "Navigation"
     },
     {
       "tag": "div",
@@ -59,10 +59,6 @@
       "text": "Computerization Food Safety General Product Development Issues QA-QC R&D Management Regulatory-Labeling Issues Sensory Testing-Evaluation Supplier Partnering Technology"
     },
     {
-      "tag": "p",
-      "text": "end left nav bar"
-    },
-    {
       "tag": "h2",
       "text": "Page cannot be found"
     },
@@ -80,7 +76,11 @@
     },
     {
       "tag": "div",
-      "text": "Search for: Sort By : Relevance Date left nav bar Search FPD"
+      "text": "Search for: Sort By : Relevance Date"
+    },
+    {
+      "tag": "div",
+      "text": "Search FPD"
     },
     {
       "tag": "h2",
@@ -88,7 +88,15 @@
     },
     {
       "tag": "div",
-      "text": "Formulating Glycemic Strategies Email Newsletter Email Address: Manage \r\n\t\t\t\t\t\t\t\t\t\t\tSubscriptions Begin Poll Pro Poll Monthly Poll Begin Poll Pro Poll"
+      "text": "Formulating Glycemic Strategies Email Newsletter"
+    },
+    {
+      "tag": "div",
+      "text": "Email Address: Manage \r\n\t\t\t\t\t\t\t\t\t\t\tSubscriptions"
+    },
+    {
+      "tag": "div",
+      "text": "Monthly Poll"
     },
     {
       "tag": "p",
@@ -96,7 +104,15 @@
     },
     {
       "tag": "div",
-      "text": "View Results End Poll Pro Poll End Poll Pro Poll Advertiser Links end left nav bar END body Food Product Categories Ingredient Types Industry Insights Functionalities-Functions Company and Consumer Issues copyright info Copyright 2006 Virgo Publishing . Please read our legal page before using this site. END copyright info END content Begin Google Script End Google Script"
+      "text": "View Results"
+    },
+    {
+      "tag": "div",
+      "text": "Advertiser Links"
+    },
+    {
+      "tag": "div",
+      "text": "Food Product Categories Ingredient Types Industry Insights Functionalities-Functions Company and Consumer Issues Copyright 2006 Virgo Publishing . Please read our legal page before using this site."
     }
   ]
 }

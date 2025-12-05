@@ -3,12 +3,16 @@
   "file_number": "573",
   "content_hash": "47966f54805d3401a9ffcf80df4db47e999147e0d22ed623c8a2af8dda65b394",
   "total_blocks": 70,
-  "retained_blocks": 24,
-  "ignored_blocks": 46,
+  "retained_blocks": 28,
+  "ignored_blocks": 42,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" NOINDEX_START show toc NOINDEX_STOP Windows Server TechCenter > Windows Server 2003 Technical Library > Windows Server 2003: Product Help > Windows Server 2003 Product Help > Getting Started > Installing and Upgrading the Operating System > Concepts for installing and upgrading the operating system > Upgrading or Installing"
+      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" show toc"
+    },
+    {
+      "tag": "div",
+      "text": "Windows Server TechCenter > Windows Server 2003 Technical Library > Windows Server 2003: Product Help > Windows Server 2003 Product Help > Getting Started > Installing and Upgrading the Operating System > Concepts for installing and upgrading the operating system > Upgrading or Installing"
     },
     {
       "tag": "h1",
@@ -64,7 +68,11 @@
     },
     {
       "tag": "p",
-      "text": "As you complete domain controller upgrades and reduce the number of different operating system versions running on them, you can adjust the domain and forest functional levels appropriately. For more information about functional levels, see Domain and forest functionality and Raising domain and forest functional levels . For general information about Active Directory, see Active Directory . If you have servers running WindowsNT, also review the following points:"
+      "text": "As you complete domain controller upgrades and reduce the number of different operating system versions running on them, you can adjust the domain and forest functional levels appropriately. For more information about functional levels, see Domain and forest functionality and Raising domain and forest functional levels . For general information about Active Directory, see Active Directory ."
+    },
+    {
+      "tag": "p",
+      "text": "If you have servers running WindowsNT, also review the following points:"
     },
     {
       "tag": "div",
@@ -96,11 +104,19 @@
     },
     {
       "tag": "p",
-      "text": "If you have servers or client computers that run WindowsNT3.51, it is recommended that you install or upgrade to a newer operating system on all these computers, or retire them from operation. If you have more than one domain, you must upgrade domain controllers running WindowsNT3.51 for reliable logon validation. In any case, upgrading or retiring computers running WindowsNT3.51 strengthens security and reduces the number of version differences between computers, simplifying management and troubleshooting. After the domain and forest are prepared, there are two stages in the upgrade of a domain controller. First you run Setup to upgrade the operating system and then, when Setup is complete, you run the Active Directory Installation Wizard (which appears on the screen the first time you log on)."
+      "text": "If you have servers or client computers that run WindowsNT3.51, it is recommended that you install or upgrade to a newer operating system on all these computers, or retire them from operation. If you have more than one domain, you must upgrade domain controllers running WindowsNT3.51 for reliable logon validation. In any case, upgrading or retiring computers running WindowsNT3.51 strengthens security and reduces the number of version differences between computers, simplifying management and troubleshooting."
+    },
+    {
+      "tag": "p",
+      "text": "After the domain and forest are prepared, there are two stages in the upgrade of a domain controller. First you run Setup to upgrade the operating system and then, when Setup is complete, you run the Active Directory Installation Wizard (which appears on the screen the first time you log on)."
     },
     {
       "tag": "div",
-      "text": "InitWizard(\"a643abc6-0db5-4de7-80e5-269da200960a1033\"); NOINDEX_START Manage Your Profile | Contact Us | Newsletter © 2006 Microsoft Corporation. All rights reserved. Terms of Use | Trademarks | Privacy Statement"
+      "text": "InitWizard(\"a643abc6-0db5-4de7-80e5-269da200960a1033\");"
+    },
+    {
+      "tag": "div",
+      "text": "Manage Your Profile | Contact Us | Newsletter © 2006 Microsoft Corporation. All rights reserved. Terms of Use | Trademarks | Privacy Statement"
     }
   ]
 }

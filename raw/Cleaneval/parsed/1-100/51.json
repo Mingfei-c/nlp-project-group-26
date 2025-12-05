@@ -3,12 +3,12 @@
   "file_number": "51",
   "content_hash": "7a0e35f91ad2c965cd2a944ec42acdceca3ef395168d9e40fadf4e5aacb55011",
   "total_blocks": 43,
-  "retained_blocks": 3,
-  "ignored_blocks": 40,
+  "retained_blocks": 5,
+  "ignored_blocks": 38,
   "blocks": [
     {
       "tag": "div",
-      "text": "********************************************************** * START TRIPOD AD CODE - PLEASE REMOVE WHEN EDITING PAGE * ********************************************************** revision: new - $Change: 88678 $ revision: new - $Change: 88678 $ ******************************************************** * END TRIPOD AD CODE - PLEASE REMOVE WHEN EDITING PAGE * ******************************************************** PRODUCING BC IN WORDS AND IMAGES Sharon's Web Journal for English 470D - ************************************************ INSERT BLOGGER CODE HERE <center><img src=\"cb3.jpg\" border=\"1\" valign=\"top\"></center>\r\n\r\n\t<Blogger>\r\n    \r\n\t<p>&nbsp;</p>\r\n\t<center><font color=\"#cccc99\">* &nbsp; * &nbsp; *</font><br><br></center> Thursday  |  September 12, 2002 Tanoo: 1941 Versus 1951"
+      "text": "PRODUCING BC IN WORDS AND IMAGES Sharon's Web Journal for English 470D Thursday  |  September 12, 2002 Tanoo: 1941 Versus 1951"
     },
     {
       "tag": "p",
@@ -16,7 +16,15 @@
     },
     {
       "tag": "div",
-      "text": "Home END BLOGGER CODE entries entries Tuesday | Sept 3, 2002 Thursday | Sept 5, 2002 Tuesday | Sept 10, 2002 Thursday | Sept 12, 2002 Tuesday | Sept 17, 2002 Thursday | Sept 19, 2002 Tuesday | Sept 24, 2002 Thursday | Sept 26, 2002 Tuesday | Oct 1, 2002 Thursday | Oct 3, 2002 Tuesday | Oct 8, 2002 Tuesday | Oct 15, 2002 Thursday | Oct 17, 2002 Tuesday | Oct 22, 2002 Thursday | Oct 24, 2002 Tuesday | Oct 29, 2002 Thursday | Oct 31, 2002 Tuesday | Nov 5, 2002 Thursday | Nov 7, 2002 Tuesday | Nov 12, 2002 Thursday | Nov 14, 2002 END entries ©  2002"
+      "text": "Home"
+    },
+    {
+      "tag": "div",
+      "text": "entries Tuesday | Sept 3, 2002 Thursday | Sept 5, 2002 Tuesday | Sept 10, 2002 Thursday | Sept 12, 2002 Tuesday | Sept 17, 2002 Thursday | Sept 19, 2002 Tuesday | Sept 24, 2002 Thursday | Sept 26, 2002 Tuesday | Oct 1, 2002 Thursday | Oct 3, 2002 Tuesday | Oct 8, 2002 Tuesday | Oct 15, 2002 Thursday | Oct 17, 2002 Tuesday | Oct 22, 2002 Thursday | Oct 24, 2002 Tuesday | Oct 29, 2002 Thursday | Oct 31, 2002 Tuesday | Nov 5, 2002 Thursday | Nov 7, 2002 Tuesday | Nov 12, 2002 Thursday | Nov 14, 2002"
+    },
+    {
+      "tag": "div",
+      "text": "©  2002"
     }
   ]
 }

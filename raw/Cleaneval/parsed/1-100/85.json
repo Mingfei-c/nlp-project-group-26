@@ -3,12 +3,76 @@
   "file_number": "85",
   "content_hash": "70b604983a02e0c76f896bd970f5c531f7fad489d61a938bff0786042bfcf7a9",
   "total_blocks": 208,
-  "retained_blocks": 2,
-  "ignored_blocks": 206,
+  "retained_blocks": 18,
+  "ignored_blocks": 190,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" Chief Information Officer Strategic Framework skip navigation removed from included pages Featured Projects skip navigation removed from included pages Getting Started Connectivity Email Support Site Tools Print This Page skip navigation removed from included pages Administrative Applications - Select A Link - AFI-Access to Fin. Info AINQ-Account Inquiry APAY-Accounts Payable Hist APCS-Accts. Payable Cust. Service Forms AVER-Acct. Verification Bargaining Unit System Bottomline Check Printing Check Reconcilliation CUFS-College and Univ. Fin. Sys Daily Accts. Payable Checks Diagnosis & Proced. Coding Decision Support Man. Document Management EASY EB14 EB15 Electronic Bed Board Electronic Budgeting System Elec. Demographic Change Sys. EMNS-Elec. Materials and Service Req ENCM-Travel Advance Encumbances ENTL-New Hire & Termination Sys ePOM-Purchase Order Maint. eProcurement ESAL-Salary Change System ESUP-Supplemental Pay System FLEXible Benefits System General Fin. Sys. Home Care Group HR/Payroll Mgmt.-JHH Inpatient Registration International Office Sys Kronos Labor Distrubution and Payment Hist Materials Mgmt./Accts. Payable Med. Records Chart Tracking Med. Records Deficiency Reporting Med. Records Discharge Tracking Med. Staff Admin Nightingale Outpatient Charge Capture Outpatient Sched. & Reg. ORDR-Open Order Sys Patient Acc. & Reg. Reporting Patient ID System PENS-Pension & Max Allowance Sys Printed Directory Manager POSI-Position Management Sys PR & PAYR-Payroll QFL-Long-Term Disability Sys Recognition System Rehab. Med. Stats & Charge Capture Registration and Patient Acc. Retiree Database SVCH-Student Voucher System TRSY-Tas Reporting System United Way VEND-Vendor System VIP System VP Conference Registration Sys Clinical Applications - Select A Link - Anesthesia Data Record Central Physician Lookup Dietary Mgmt System Dietary Order Entry System EPR-Cent. Physicians Dir. Electronic Patient Record Em. Dept. Info System (EDIS) Fertility Database System Gastroenterology Mgmt Sys ICU Point of Care System Infection Control Surv. Meditech Micromedix NutriNet Obstetric Ultrasound System Obstetric/Gynecology Oncology Clinical Info. Sys OR Mgmt Info Sys (ORMIS) Pediatric Cardiology Pharmacy Management System Provider Order Entry Radiology Management System ViewDirect Enterprise Services - Select A Link - Akamai Video Streaming Content Management System DNS Requests Email Enterprise Authentication Gartner Intranet GroupWise Email Host Interface Portal (HIP) Information Security Integration Services JHED-User Directory JHEM Email JShare-File Sharing Mailing Lists MyJohnsHopkins Portal NTS Home Page Printed Directory Manager Shibbolth-What's It All About? Telecommunications Training & Education Web Hosting Web Searching What We Do Wireless Connectivity Wireless PDA Student Services - Select A Link - ElluminateLive ISIS Newsletter ISIS-Student Sys JShare-File Sharing JHED-User Directory JHEM Email Mobile Computing Program RESNET-Student Sys SRTS-Telephone Sys Student Labs Student Technology Services (STS) Web Registration Support - Select A Link - Customer Services Data Center Services Engineering Services ETSO-Technology Services & Operations Mainframe Password Reset Mobile Computing Mobile Devices Online Service Request ServiceCenter SPARS-Software Purchasing Student Technology Services Supp Ctr/Help Desk Technical Assistance Training & Education Teaching & Learning - Select A Link - 2005 Instructional Tech. Report 2005 Faculty Survey Ref & Bibliography Tools ElluminateLive Collaboration Tools Course Management Sys JShare File Sharing Audio Conferencing Gartner Research Video Conferencing Web Conferencing Video Streaming Wireless Technology"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Chief Information Officer Strategic Framework"
+    },
+    {
+      "tag": "div",
+      "text": "Featured Projects"
+    },
+    {
+      "tag": "div",
+      "text": "Getting Started Connectivity Email Support Site Tools"
+    },
+    {
+      "tag": "div",
+      "text": "Print This Page"
+    },
+    {
+      "tag": "div",
+      "text": "Administrative Applications"
+    },
+    {
+      "tag": "div",
+      "text": "- Select A Link - AFI-Access to Fin. Info AINQ-Account Inquiry APAY-Accounts Payable Hist APCS-Accts. Payable Cust. Service Forms AVER-Acct. Verification Bargaining Unit System Bottomline Check Printing Check Reconcilliation CUFS-College and Univ. Fin. Sys Daily Accts. Payable Checks Diagnosis & Proced. Coding Decision Support Man. Document Management EASY EB14 EB15 Electronic Bed Board Electronic Budgeting System Elec. Demographic Change Sys. EMNS-Elec. Materials and Service Req ENCM-Travel Advance Encumbances ENTL-New Hire & Termination Sys ePOM-Purchase Order Maint. eProcurement ESAL-Salary Change System ESUP-Supplemental Pay System FLEXible Benefits System General Fin. Sys. Home Care Group HR/Payroll Mgmt.-JHH Inpatient Registration International Office Sys Kronos Labor Distrubution and Payment Hist Materials Mgmt./Accts. Payable Med. Records Chart Tracking Med. Records Deficiency Reporting Med. Records Discharge Tracking Med. Staff Admin Nightingale Outpatient Charge Capture Outpatient Sched. & Reg. ORDR-Open Order Sys Patient Acc. & Reg. Reporting Patient ID System PENS-Pension & Max Allowance Sys Printed Directory Manager POSI-Position Management Sys PR & PAYR-Payroll QFL-Long-Term Disability Sys Recognition System Rehab. Med. Stats & Charge Capture Registration and Patient Acc. Retiree Database SVCH-Student Voucher System TRSY-Tas Reporting System United Way VEND-Vendor System VIP System VP Conference Registration Sys"
+    },
+    {
+      "tag": "div",
+      "text": "Clinical Applications"
+    },
+    {
+      "tag": "div",
+      "text": "- Select A Link - Anesthesia Data Record Central Physician Lookup Dietary Mgmt System Dietary Order Entry System EPR-Cent. Physicians Dir. Electronic Patient Record Em. Dept. Info System (EDIS) Fertility Database System Gastroenterology Mgmt Sys ICU Point of Care System Infection Control Surv. Meditech Micromedix NutriNet Obstetric Ultrasound System Obstetric/Gynecology Oncology Clinical Info. Sys OR Mgmt Info Sys (ORMIS) Pediatric Cardiology Pharmacy Management System Provider Order Entry Radiology Management System ViewDirect"
+    },
+    {
+      "tag": "div",
+      "text": "Enterprise Services"
+    },
+    {
+      "tag": "div",
+      "text": "- Select A Link - Akamai Video Streaming Content Management System DNS Requests Email Enterprise Authentication Gartner Intranet GroupWise Email Host Interface Portal (HIP) Information Security Integration Services JHED-User Directory JHEM Email JShare-File Sharing Mailing Lists MyJohnsHopkins Portal NTS Home Page Printed Directory Manager Shibbolth-What's It All About? Telecommunications Training & Education Web Hosting Web Searching What We Do Wireless Connectivity Wireless PDA"
+    },
+    {
+      "tag": "div",
+      "text": "Student Services"
+    },
+    {
+      "tag": "div",
+      "text": "- Select A Link - ElluminateLive ISIS Newsletter ISIS-Student Sys JShare-File Sharing JHED-User Directory JHEM Email Mobile Computing Program RESNET-Student Sys SRTS-Telephone Sys Student Labs Student Technology Services (STS) Web Registration"
+    },
+    {
+      "tag": "div",
+      "text": "Support"
+    },
+    {
+      "tag": "div",
+      "text": "- Select A Link - Customer Services Data Center Services Engineering Services ETSO-Technology Services & Operations Mainframe Password Reset Mobile Computing Mobile Devices Online Service Request ServiceCenter SPARS-Software Purchasing Student Technology Services Supp Ctr/Help Desk Technical Assistance Training & Education"
+    },
+    {
+      "tag": "div",
+      "text": "Teaching & Learning"
+    },
+    {
+      "tag": "div",
+      "text": "- Select A Link - 2005 Instructional Tech. Report 2005 Faculty Survey Ref & Bibliography Tools ElluminateLive Collaboration Tools Course Management Sys JShare File Sharing Audio Conferencing Gartner Research Video Conferencing Web Conferencing Video Streaming Wireless Technology"
     },
     {
       "tag": "p",

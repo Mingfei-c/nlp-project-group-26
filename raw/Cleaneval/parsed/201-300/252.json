@@ -3,20 +3,16 @@
   "file_number": "252",
   "content_hash": "9fb36b14cff29db9603005ffe615daf47046a1ee3c6ba4c7b9eb77b2f624bbc3",
   "total_blocks": 385,
-  "retained_blocks": 71,
-  "ignored_blocks": 314,
+  "retained_blocks": 68,
+  "ignored_blocks": 317,
   "blocks": [
-    {
-      "tag": "div",
-      "text": "ZOOMSTOP #include virtual=\"includes/topbar.php\""
-    },
     {
       "tag": "h2",
       "text": "AVERT is an international AIDS charity avert.org - bringing you information on HIV & AIDS"
     },
     {
       "tag": "div",
-      "text": "site guide help & advice contact us about AVERT home END OF HEADER Africa Countries & Regions Education Gay & Lesbian History & Pictures Issues & Responses Prevention Quizzes Sex Statistics STDs Stories & Views Teens Transmission & Testing Treatment & Care UK USA Virus Copyright © AVERT CONTENT ZOOMRESTART !!$CONTENT STARTS HERE"
+      "text": "site guide help & advice contact us about AVERT home Africa Countries & Regions Education Gay & Lesbian History & Pictures Issues & Responses Prevention Quizzes Sex Statistics STDs Stories & Views Teens Transmission & Testing Treatment & Care UK USA Virus Copyright © AVERT"
     },
     {
       "tag": "p",
@@ -276,15 +272,7 @@
     },
     {
       "tag": "p",
-      "text": "We also have the latest world HIV and AIDS news ."
-    },
-    {
-      "tag": "div",
-      "text": "!!$CONTENT ENDS HERE ZOOMSTOP END OF CONTENT"
-    },
-    {
-      "tag": "p",
-      "text": "Last updated December 14, 2006"
+      "text": "We also have the latest world HIV and AIDS news . Last updated December 14, 2006"
     },
     {
       "tag": "div",

@@ -8,7 +8,7 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "#BeginLibraryItem \"/Library/sidenav.lbi\" Home Readers Message Bio Books Blog Appearances Newsletter Guestbook Links For Writers Contests Online PressKit #EndLibraryItem"
+      "text": "Home Readers Message Bio Books Blog Appearances Newsletter Guestbook Links For Writers Contests Online PressKit"
     },
     {
       "tag": "h2",
@@ -36,7 +36,7 @@
     },
     {
       "tag": "div",
-      "text": "#BeginLibraryItem \"/Library/footer.lbi\" This page is designed and maintained by The Literary Times Send e-mail to webmaster@tlt.com with questions or comments about this web site. Copyright ©2006 The Literary Times & Deirdre Savoy #EndLibraryItem"
+      "text": "This page is designed and maintained by The Literary Times Send e-mail to webmaster@tlt.com with questions or comments about this web site. Copyright ©2006 The Literary Times & Deirdre Savoy"
     }
   ]
 }

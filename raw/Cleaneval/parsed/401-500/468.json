@@ -3,8 +3,8 @@
   "file_number": "468",
   "content_hash": "8d75938bb06de3c6b9d3ce6c0dd658cf575cbec252a302f6164fa26dfbb87487",
   "total_blocks": 97,
-  "retained_blocks": 46,
-  "ignored_blocks": 51,
+  "retained_blocks": 48,
+  "ignored_blocks": 49,
   "blocks": [
     {
       "tag": "h1",
@@ -76,7 +76,15 @@
     },
     {
       "tag": "p",
-      "text": "Electrical conductivity (EC)as millisiemen (mS) and total dissolved solids (TDS) as parts per million (PPM) RANGE DESIRABLE PERMISSIBLE (with potential for concern) PROBABLE SALT DAMAGE EC as mS 0.75 to 2.0 2.0 to 3.0 3.0 and up TDS as PPM 500 to 1300 1300 to 2000 2000 and up For nutrient solutions determinations one (1) mS (millisiemen) or one mMho/cm2 is equivalent to approximately 650 ppm total dissolved solids."
+      "text": "Electrical conductivity (EC)as millisiemen (mS) and total dissolved solids (TDS) as parts per million (PPM)"
+    },
+    {
+      "tag": "p",
+      "text": "RANGE DESIRABLE PERMISSIBLE (with potential for concern) PROBABLE SALT DAMAGE EC as mS 0.75 to 2.0 2.0 to 3.0 3.0 and up TDS as PPM 500 to 1300 1300 to 2000 2000 and up"
+    },
+    {
+      "tag": "p",
+      "text": "For nutrient solutions determinations one (1) mS (millisiemen) or one mMho/cm2 is equivalent to approximately 650 ppm total dissolved solids."
     },
     {
       "tag": "h1",

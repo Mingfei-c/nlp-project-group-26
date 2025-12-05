@@ -3,12 +3,16 @@
   "file_number": "138",
   "content_hash": "7fbc2477fea4cf36f850622a9e721fb2b8888bfe43358c3708a9ac9efabecbc7",
   "total_blocks": 15,
-  "retained_blocks": 3,
-  "ignored_blocks": 12,
+  "retained_blocks": 4,
+  "ignored_blocks": 11,
   "blocks": [
     {
       "tag": "div",
-      "text": "html public \"-//W3C//DTD HTML 4.0 Transitional//EN\" Press Release Number:  EHD200506081 08-Jun-05"
+      "text": "html public \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Press Release Number:  EHD200506081 08-Jun-05"
     },
     {
       "tag": "h3",

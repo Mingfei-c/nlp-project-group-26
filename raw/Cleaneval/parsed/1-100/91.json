@@ -3,8 +3,8 @@
   "file_number": "91",
   "content_hash": "0ecaa01dcb5f00edd4135674774ab414646464d18cc14823d17f52ac537e43b6",
   "total_blocks": 242,
-  "retained_blocks": 67,
-  "ignored_blocks": 175,
+  "retained_blocks": 70,
+  "ignored_blocks": 172,
   "blocks": [
     {
       "tag": "div",
@@ -112,7 +112,19 @@
     },
     {
       "tag": "p",
-      "text": "The second approach in the list above involves linking a mapping matrix\r\nto the XSLT processor. The mapping matrix explicitly defines the semantic\r\nmappings between a fixed set of metadata vocabularies from a number of\r\ndifferent domains. Figure 3 illustrates such a mapping matrix. If XPath [35] is used to specify the elements, then to some extent both the structural\r\nand semantic mappings can be defined. Table 1. Metadata mapping matrix ABC Element DC Element ID3 Element MPEG-7 Path Resource/Title Title TIT2 CreationMetaInformation/Creation/Title/TitleText (@TitleType=\"original\") Event/Act/Agent Creator TPE1 CreationMetaInformation/Creation/Creator (@role=\"creator\") Publisher TPUB UsageMetaInformation/Publication/Publisher Contributor IPLS(involved People List), TCOM(Composer), TENC(Encoder), TEXT(Lyricist), TOLY(OriginalLyricist), TOPE(Original Artist), TPE2(Band, Orchestra, Accompaniment), TPE3(Conductor), TPE4 (Interpreter, Remixer, Modifier) CreationMetaInformation/Creation/Creator (@role) Resource/Subject Subject TIT1 CreationMetaInformation/Creation/Classification/PackagedType Resource/Description Description TIT3 CreationMetaInformation/Creation/CreationDescription Event/Context/Date Date.Creation - CreationMetaInformation/Creation/CreationDate Date.Publication - UsageMetaInformation/Publication/PublicationDate Date.Recording TRDA - Resource/Type Type TCON CreationMetaInformation/Classification/Genre Resource/Format Format TFLT MediaInformation.MediaProfile/MediaFormat/FileFormat Format.length TLEN - Format.size TSIZ - Resource/Identifier Identifier UFID MediaInformation/MediaIdentification/Identifier Event/Input Source TOAL (Title of original recording or source) - Event/Context/Place Coverage.Place - - This approach has certain debilitating limitations, however. Amatrix\r\nis only capable of specifying mappings which involve fairly simple one-to-one\r\nmappings, and a two-dimensional matrix will only work if the mappings are\r\nsymmetrical in both directions across all the domains. If the mappings\r\nare asymetrical then the matrix becomes highly complex and multi-dimensional.\r\nHowever, the primary limitation of this approach is that it simply does\r\nnot scale - as the number of domains grows and the mappings become asymmetrical,\r\nthen the matrix becomes excessively complex and unwieldy."
+      "text": "The second approach in the list above involves linking a mapping matrix\r\nto the XSLT processor. The mapping matrix explicitly defines the semantic\r\nmappings between a fixed set of metadata vocabularies from a number of\r\ndifferent domains. Figure 3 illustrates such a mapping matrix. If XPath [35] is used to specify the elements, then to some extent both the structural\r\nand semantic mappings can be defined. Table 1. Metadata mapping matrix"
+    },
+    {
+      "tag": "p",
+      "text": "ABC Element DC Element ID3 Element MPEG-7 Path"
+    },
+    {
+      "tag": "p",
+      "text": "Resource/Title Title TIT2 CreationMetaInformation/Creation/Title/TitleText (@TitleType=\"original\") Event/Act/Agent Creator TPE1 CreationMetaInformation/Creation/Creator (@role=\"creator\") Publisher TPUB UsageMetaInformation/Publication/Publisher Contributor IPLS(involved People List), TCOM(Composer), TENC(Encoder), TEXT(Lyricist), TOLY(OriginalLyricist), TOPE(Original Artist), TPE2(Band, Orchestra, Accompaniment), TPE3(Conductor), TPE4 (Interpreter, Remixer, Modifier) CreationMetaInformation/Creation/Creator (@role) Resource/Subject Subject TIT1 CreationMetaInformation/Creation/Classification/PackagedType Resource/Description Description TIT3 CreationMetaInformation/Creation/CreationDescription Event/Context/Date Date.Creation - CreationMetaInformation/Creation/CreationDate Date.Publication - UsageMetaInformation/Publication/PublicationDate Date.Recording TRDA - Resource/Type Type TCON CreationMetaInformation/Classification/Genre Resource/Format Format TFLT MediaInformation.MediaProfile/MediaFormat/FileFormat Format.length TLEN - Format.size TSIZ - Resource/Identifier Identifier UFID MediaInformation/MediaIdentification/Identifier Event/Input Source TOAL (Title of original recording or source) - Event/Context/Place Coverage.Place - -"
+    },
+    {
+      "tag": "p",
+      "text": "This approach has certain debilitating limitations, however. Amatrix\r\nis only capable of specifying mappings which involve fairly simple one-to-one\r\nmappings, and a two-dimensional matrix will only work if the mappings are\r\nsymmetrical in both directions across all the domains. If the mappings\r\nare asymetrical then the matrix becomes highly complex and multi-dimensional.\r\nHowever, the primary limitation of this approach is that it simply does\r\nnot scale - as the number of domains grows and the mappings become asymmetrical,\r\nthen the matrix becomes excessively complex and unwieldy."
     },
     {
       "tag": "h2",

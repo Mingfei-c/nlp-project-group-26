@@ -3,12 +3,12 @@
   "file_number": "364",
   "content_hash": "38428ffd6b370a8408d84432e3ae988ff08933e92a18f56120b8a84883103d21",
   "total_blocks": 35,
-  "retained_blocks": 9,
-  "ignored_blocks": 26,
+  "retained_blocks": 8,
+  "ignored_blocks": 27,
   "blocks": [
     {
       "tag": "div",
-      "text": "EDIT DIV STYLE HEIGHT FROM TOP « Garlic Festival - California Mop Sauce | Main | California Bay Laurel - In Jars? »"
+      "text": "« Garlic Festival - California Mop Sauce | Main | California Bay Laurel - In Jars? »"
     },
     {
       "tag": "h3",
@@ -24,7 +24,7 @@
     },
     {
       "tag": "div",
-      "text": "Posted by Biggles at October 27, 2003  7:43 PM Comments trackbacks and pings Comments"
+      "text": "Posted by Biggles at October 27, 2003  7:43 PM Comments"
     },
     {
       "tag": "p",
@@ -37,10 +37,6 @@
     {
       "tag": "p",
       "text": "Name: Email Address: URL: Remember Me? Yes No Comments:"
-    },
-    {
-      "tag": "div",
-      "text": "Comments trackbacks and pings"
     }
   ]
 }

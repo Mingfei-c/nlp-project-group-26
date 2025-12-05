@@ -3,12 +3,20 @@
   "file_number": "679",
   "content_hash": "dd0687ce391f21786a40ff57b40228a26971ee663d4e7b171b925057d46b7a59",
   "total_blocks": 448,
-  "retained_blocks": 49,
-  "ignored_blocks": 399,
+  "retained_blocks": 53,
+  "ignored_blocks": 395,
   "blocks": [
     {
       "tag": "div",
-      "text": "Advertising | CG | Contact | FAQ | Home | Human Events Columns | RSS Feed Repelling raving moonbats since 2001. Search Support Political Insider Ad Network Rotating Blogroll Little Green Footballs Iowa Voice GOP Bloggers Asymmetrical Information The Absurd Report Alarming News Betsy's Page Instapundit PoliPundit Althouse Quotes Liberals become indignant when you question their patriotism, but simultaneously work overtime to give terrorists a cushion for the next attack and laugh at dumb Americans who love their country and hate the enemy. -- Ann Coulter «July 04, 2004 - July 10, 2004 | | July 18, 2004 - July 24, 2004» July 16, 2004 Bush Ads Disenfranchise Florida Voters By Scott Ott"
+      "text": "Advertising | CG | Contact | FAQ | Home | Human Events Columns | RSS Feed"
+    },
+    {
+      "tag": "div",
+      "text": "Repelling raving moonbats since 2001."
+    },
+    {
+      "tag": "div",
+      "text": "Search Support Political Insider Ad Network Rotating Blogroll Little Green Footballs Iowa Voice GOP Bloggers Asymmetrical Information The Absurd Report Alarming News Betsy's Page Instapundit PoliPundit Althouse Quotes Liberals become indignant when you question their patriotism, but simultaneously work overtime to give terrorists a cushion for the next attack and laugh at dumb Americans who love their country and hate the enemy. -- Ann Coulter «July 04, 2004 - July 10, 2004 | | July 18, 2004 - July 24, 2004» July 16, 2004 Bush Ads Disenfranchise Florida Voters By Scott Ott"
     },
     {
       "tag": "p",
@@ -200,7 +208,15 @@
     },
     {
       "tag": "div",
-      "text": "John Hawkins | 01:00 AM | Comments \n(0) © Copyright 2001-2006 John Hawkins Design & various scripts by Nicole Baker and Danny Carlton Extreme Code Starts Here Extreme Code Ends Here Site Meter Copyright (c)2006 Site Meter ONESTAT SCRIPTCODE START // Modification of this code is not allowed and will permanently disable your account!\n// Account ID : 356195\n// Website URL: http://www.brassknuckles.net\n// Copyright (C) 2002-2006 OneStat.com All Rights Reserved hit counter ONESTAT SCRIPTCODE END User Info 120 users online sign up Features A.C.P.O.T.I. Archives Best of RWN Humor Bloggers Select Blogosphere John Hawkins Interviews Mini-Interviews Quotes Special to RWN Speeches Symposiums Referrers Small Dead Animals Power Line IMAO Betsy's Page Ankle Biting Pundits Wizbang! Instapundit Michelle Malkin Mark Steyn Hugh Hewitt Pajamas Media Mary Katharine Ham The Daou Report Townhall Blog Bloglines Relapsed Catholic Sgt. Stryker Hog On Ice RealClear Politics Conservative Grapevine Human Events Scrappleface The Anchoress Viking Pundit PoliPundit Your Link Here? Online Resources Great Articles Pet Information Internet Publishing Retro RWN The Conservative Case Against John McCain In 2008 The Conservative Case Against Rudy Giuliani In 2008 An Interview With Senator Sam Brownback An Interview With Newt Gingrich An Interview With Governor Mike Huckabee Of Arkansas"
+      "text": "John Hawkins | 01:00 AM | Comments \n(0) © Copyright 2001-2006 John Hawkins Design & various scripts by Nicole Baker and Danny Carlton"
+    },
+    {
+      "tag": "div",
+      "text": "hit counter"
+    },
+    {
+      "tag": "div",
+      "text": "User Info 120 users online sign up Features A.C.P.O.T.I. Archives Best of RWN Humor Bloggers Select Blogosphere John Hawkins Interviews Mini-Interviews Quotes Special to RWN Speeches Symposiums Referrers Small Dead Animals Power Line IMAO Betsy's Page Ankle Biting Pundits Wizbang! Instapundit Michelle Malkin Mark Steyn Hugh Hewitt Pajamas Media Mary Katharine Ham The Daou Report Townhall Blog Bloglines Relapsed Catholic Sgt. Stryker Hog On Ice RealClear Politics Conservative Grapevine Human Events Scrappleface The Anchoress Viking Pundit PoliPundit Your Link Here? Online Resources Great Articles Pet Information Internet Publishing Retro RWN The Conservative Case Against John McCain In 2008 The Conservative Case Against Rudy Giuliani In 2008 An Interview With Senator Sam Brownback An Interview With Newt Gingrich An Interview With Governor Mike Huckabee Of Arkansas"
     }
   ]
 }

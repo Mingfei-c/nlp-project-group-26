@@ -3,12 +3,16 @@
   "file_number": "93",
   "content_hash": "3e92fc79f22ff5d501e8ad3bbba1a436e9463d871db32976bcf70964b57c83b1",
   "total_blocks": 25,
-  "retained_blocks": 3,
-  "ignored_blocks": 22,
+  "retained_blocks": 4,
+  "ignored_blocks": 21,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 3.2//EN\" Meta page description To Netnews Homepage Previous Next Index Table of Contents Autobiography of Alice A. Bailey - Appendix - The Principles of the\r\n    Arcane School I. The Arcane School is a Training School for\r\n    Disciples"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 3.2//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "To Netnews Homepage Previous Next Index Table of Contents Autobiography of Alice A. Bailey - Appendix - The Principles of the\r\n    Arcane School I. The Arcane School is a Training School for\r\n    Disciples"
     },
     {
       "tag": "p",

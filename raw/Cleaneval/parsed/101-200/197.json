@@ -3,28 +3,16 @@
   "file_number": "197",
   "content_hash": "29062907171aea1edeec9903e2d86ea1343350650de3d612f1f8ab4c1557d080",
   "total_blocks": 275,
-  "retained_blocks": 44,
-  "ignored_blocks": 231,
+  "retained_blocks": 63,
+  "ignored_blocks": 212,
   "blocks": [
     {
-      "tag": "div",
-      "text": "msnavigation google_ad_section_start(weight=ignore)"
-    },
-    {
       "tag": "p",
-      "text": "www.whyslopes.com advice & directions for students , parents ,\n  and teachers ,\n  approximately correct. Even if you have seen a site topic, look through site coverage for unique viewpoints not seen in your earlier days as a student or instructor. Volume 3, Why Slopes and More Math All results 5 results 10 results 20 results 30 results 50 results 100 Results [ Back ] [ Volume Entrance ] [ Next ] 22 Complex #'s"
+      "text": "www.whyslopes.com advice & directions for students , parents ,\n  and teachers ,\n  approximately correct. Even if you have seen a site topic, look through site coverage for unique viewpoints not seen in your earlier days as a student or instructor. Volume 3, Why Slopes and More Math All results 5 results 10 results 20 results 30 results 50 results 100 Results [ Back ] [ Volume Entrance ] [ Next ] 22 Complex #'s put your ad here. (V) signals RealPlayer webvideo present. Area Content Foreword 1. Introduction 2. Second Preview Begins 2 Skier in Motion (V) 2 The Skier (V) 2. Position Dependent (V) 3 Slope & Extrema (V) 4 Single Factor Analysis (V) 4 Two Factor (V) 4 More Factors (V) 4 With Divisors (V) 5 Maxima & Minima Tests 6 Jumps & Discontinuities 8 Review  (optional) 9 On Calculus Studies 11 Slope of Slope 13  Acceleration 14 Limits & Error Control (V) 14 Limit of a Fn. 14. Ltd Error Control 14 Signif. Digits 14 Cauchy Limits 14 Sequence Limits 14 Decimal Arith. 15 What is Slope (V) 15 Slope Calculation (V) 15 Slope, a Limit 15 Tangent Lines 15 Linear Approx., 15 Limits via Algebra (V) 15 Recap. PS.Chain Rule for Polys PS Chain Rule- General  (V) - PS More Chain Rule (V) PS - Sign Analysis (V) 16 What is Velocity 17  What is Area 18 Integration 18 Area Calculation 18  Fn DefN, 6 Ways 19 Logs & Powers 19 Natural Log. 19 Exponential Fn. 20 What's Next 21 Add Vectors 22 Complex #'s 23 Complex #'s 23 Trig Identity 23 Proofs of. 24 Complex Logs etc"
     },
     {
       "tag": "div",
-      "text": "google_ad_section_end msnavigation msnavigation"
-    },
-    {
-      "tag": "p",
-      "text": "put your ad here. (V) signals RealPlayer webvideo present. Area Content Foreword 1. Introduction 2. Second Preview Begins 2 Skier in Motion (V) 2 The Skier (V) 2. Position Dependent (V) 3 Slope & Extrema (V) 4 Single Factor Analysis (V) 4 Two Factor (V) 4 More Factors (V) 4 With Divisors (V) 5 Maxima & Minima Tests 6 Jumps & Discontinuities 8 Review  (optional) 9 On Calculus Studies 11 Slope of Slope 13  Acceleration 14 Limits & Error Control (V) 14 Limit of a Fn. 14. Ltd Error Control 14 Signif. Digits 14 Cauchy Limits 14 Sequence Limits 14 Decimal Arith. 15 What is Slope (V) 15 Slope Calculation (V) 15 Slope, a Limit 15 Tangent Lines 15 Linear Approx., 15 Limits via Algebra (V) 15 Recap. PS.Chain Rule for Polys PS Chain Rule- General  (V) - PS More Chain Rule (V) PS - Sign Analysis (V) 16 What is Velocity 17  What is Area 18 Integration 18 Area Calculation 18  Fn DefN, 6 Ways 19 Logs & Powers 19 Natural Log. 19 Exponential Fn. 20 What's Next 21 Add Vectors 22 Complex #'s 23 Complex #'s 23 Trig Identity 23 Proofs of. 24 Complex Logs etc"
-    },
-    {
-      "tag": "div",
-      "text": "Units in Calculations: 7 Velocity 7 Varying Velocity Example 7. Velocity Calculation 7 Changing Units 7 Same Velocity  Motions 10 Slopes without Units. 10 Units & Slopes 10  Units in Cost vs. Quantity 10  How Units  Appear 10 Unit  Elimination 10 Partial Elimination 10 Interest & Units 12 More on Units Content Guide google_ad_section_end msnavigation"
+      "text": "Units in Calculations: 7 Velocity 7 Varying Velocity Example 7. Velocity Calculation 7 Changing Units 7 Same Velocity  Motions 10 Slopes without Units. 10 Units & Slopes 10  Units in Cost vs. Quantity 10  How Units  Appear 10 Unit  Elimination 10 Partial Elimination 10 Interest & Units 12 More on Units Content Guide"
     },
     {
       "tag": "h1",
@@ -52,7 +40,15 @@
     },
     {
       "tag": "p",
-      "text": "Addition The sum of two points with the rectangular coordinates ( a , b )\nand ( c , d ) is given by ( a + c , b + d ). We\ntherefore write ( a , b )+( b , d )\n            = ( a + c , c + d ) For example (2,5)+(6,2) = (8,7). In words, the addition rule is simple add the rectangular coordinates of\nthe summands to get the rectangular coordinates of the sum. With this in\nmind, the following question is easy: What are the rectangular coordinates of\nthe sum of (1,14) and (2,8)? Answer: (1,14)+(2,8) = (1+2,14+8) = (3,22). The\nchapter Arrow Addition discusses the addition of points or arrows in\nthe plane further."
+      "text": "Addition The sum of two points with the rectangular coordinates ( a , b )\nand ( c , d ) is given by ( a + c , b + d ). We\ntherefore write"
+    },
+    {
+      "tag": "p",
+      "text": "( a , b )+( b , d )\n            = ( a + c , c + d )"
+    },
+    {
+      "tag": "p",
+      "text": "For example (2,5)+(6,2) = (8,7). In words, the addition rule is simple add the rectangular coordinates of\nthe summands to get the rectangular coordinates of the sum. With this in\nmind, the following question is easy: What are the rectangular coordinates of\nthe sum of (1,14) and (2,8)? Answer: (1,14)+(2,8) = (1+2,14+8) = (3,22). The\nchapter Arrow Addition discusses the addition of points or arrows in\nthe plane further."
     },
     {
       "tag": "h3",
@@ -60,7 +56,15 @@
     },
     {
       "tag": "p",
-      "text": "Next we define using polar coordinates the product of two points in the\nplane. Each point or factor is located by means of angular displacement or\nrotation from the positive real axis, and also a nonnegative distance from the\norigin. The product of two points is given by a third point. Its angular\ndisplacement is the sum of the angular displacement of the factors. Its distance\nto the origin is the product of the distances of the factors. This is the add\nthe angles and multiply the lengths rule. In polar coordinate notation, the\nmultiplication rule and definition is indicated by [ r 1 , q 1 ][ r 2 , q 2 ]\n            = [ r 1 r 2 , q 1 + q 2 ] (As in the previous chapter, square brackets are used to indicate polar\ncoordinates while round brackets indicate rectangular coordinates.) Example . Two arrows are to be multiplied. One has length 1.3 and angle\n22.62 ; the other factor has length 1.026\nand angle 46.97 ; and so their product\nhas length 1.3338 = 1.31.026 and angle 69.69 = 22.62 +46.97 ;\nand that is it. See the following diagram. Another Example . The product of the two points [3,80 ]\nand [4, 60 ] is [(3)(4), 80 +\n60 ] = [12,140 ]"
+      "text": "Next we define using polar coordinates the product of two points in the\nplane. Each point or factor is located by means of angular displacement or\nrotation from the positive real axis, and also a nonnegative distance from the\norigin. The product of two points is given by a third point. Its angular\ndisplacement is the sum of the angular displacement of the factors. Its distance\nto the origin is the product of the distances of the factors. This is the add\nthe angles and multiply the lengths rule. In polar coordinate notation, the\nmultiplication rule and definition is indicated by"
+    },
+    {
+      "tag": "p",
+      "text": "[ r 1 , q 1 ][ r 2 , q 2 ]\n            = [ r 1 r 2 , q 1 + q 2 ]"
+    },
+    {
+      "tag": "p",
+      "text": "(As in the previous chapter, square brackets are used to indicate polar\ncoordinates while round brackets indicate rectangular coordinates.) Example . Two arrows are to be multiplied. One has length 1.3 and angle\n22.62 ; the other factor has length 1.026\nand angle 46.97 ; and so their product\nhas length 1.3338 = 1.31.026 and angle 69.69 = 22.62 +46.97 ;\nand that is it. See the following diagram. Another Example . The product of the two points [3,80 ]\nand [4, 60 ] is [(3)(4), 80 +\n60 ] = [12,140 ]"
     },
     {
       "tag": "h3",
@@ -108,7 +112,23 @@
     },
     {
       "tag": "p",
-      "text": "More Exercises. Compute the following using the multiply the lengths,\nadd the angles rule: A = (1.5)(2). B = (1.5)( - 2). C = ( - 1.5)( - 2). D = (1.5)( - 2). E = [10,45 ] [[1/20],15 ]. Note each factor gives a point or arrow in the coordinate plane. Stop For A Summary . The polar coordinate definition [ r 1 , q 1 ][ r 2 , q 2 ]\n            = [ r 1 r 2 , q 1 + q 2 ] of the product of two point in the plane, involves the multiplication of lengths\n(= distances to the origin) and the addition of angles. For points on the\nhorizontal axis, the angles of the factors are zero or 180 (modulo 360 ). Computing the angle of the\nproduct will involve one of the following expressions: 0 +0 = 0 0 +180 = 180 180 +0 = 180 180 +180 = 360 Since the angle 180 degrees is associated with -1, and the angles 0 and 360\ndegrees are both associated with the number +1, the polar coordinate definition\nof multiplication of points in the plane agrees with (or yields) the law of\nsigns for the multiplication of positive and negative numbers."
+      "text": "More Exercises. Compute the following using the multiply the lengths,\nadd the angles rule: A = (1.5)(2). B = (1.5)( - 2). C = ( - 1.5)( - 2). D = (1.5)( - 2). E = [10,45 ] [[1/20],15 ]. Note each factor gives a point or arrow in the coordinate plane. Stop For A Summary . The polar coordinate definition"
+    },
+    {
+      "tag": "p",
+      "text": "[ r 1 , q 1 ][ r 2 , q 2 ]\n            = [ r 1 r 2 , q 1 + q 2 ]"
+    },
+    {
+      "tag": "p",
+      "text": "of the product of two point in the plane, involves the multiplication of lengths\n(= distances to the origin) and the addition of angles. For points on the\nhorizontal axis, the angles of the factors are zero or 180 (modulo 360 ). Computing the angle of the\nproduct will involve one of the following expressions:"
+    },
+    {
+      "tag": "p",
+      "text": "0 +0 = 0 0 +180 = 180 180 +0 = 180 180 +180 = 360"
+    },
+    {
+      "tag": "p",
+      "text": "Since the angle 180 degrees is associated with -1, and the angles 0 and 360\ndegrees are both associated with the number +1, the polar coordinate definition\nof multiplication of points in the plane agrees with (or yields) the law of\nsigns for the multiplication of positive and negative numbers."
     },
     {
       "tag": "h3",
@@ -124,7 +144,15 @@
     },
     {
       "tag": "p",
-      "text": "The square root of a positive number or zero are real nonnegative numbers. Iassume in the following that you know how to compute these square roots. The\nsquare roots of negative numbers and of other arrows or points in the coordinate\nplane depend on this ability. Observe that squaring points in the plane doubles their angular displacements\nand squares their magnitudes (distance to the origin). That is, the add the\nangles, multiple the lengths rule gives [r , 1 2 q ][r , 1 2 q ] = [ r , q ] Therefore the arrow [r ,[1/2] q ] when\nsquared (meaning multiplied by itself) yields [ r , q ]\n. So it is called a square root of the arrow [ r , q ].\nAnother square root is located by the polar coordinates [r ,[1/2] q +180 ]\nsince [ r , q ] = [ r , q +360 ]\nboth locate the same point in the plane. You should consider the special case of\npositive numbers z = a + i 0 = [ a ,0 ]\nwhere the angle q = 0 degrees. Exercises. Find all the square roots of 4 and -4 and plot them. Find the cube roots of 27 and -27 and plot them in the plane. Find the square roots of \\cis(45 )\n    = cos(45 )+ i sin(45 )\n    = [1,45 ]."
+      "text": "The square root of a positive number or zero are real nonnegative numbers. Iassume in the following that you know how to compute these square roots. The\nsquare roots of negative numbers and of other arrows or points in the coordinate\nplane depend on this ability. Observe that squaring points in the plane doubles their angular displacements\nand squares their magnitudes (distance to the origin). That is, the add the\nangles, multiple the lengths rule gives"
+    },
+    {
+      "tag": "p",
+      "text": "[r , 1 2 q ][r , 1 2 q ] = [ r , q ]"
+    },
+    {
+      "tag": "p",
+      "text": "Therefore the arrow [r ,[1/2] q ] when\nsquared (meaning multiplied by itself) yields [ r , q ]\n. So it is called a square root of the arrow [ r , q ].\nAnother square root is located by the polar coordinates [r ,[1/2] q +180 ]\nsince [ r , q ] = [ r , q +360 ]\nboth locate the same point in the plane. You should consider the special case of\npositive numbers z = a + i 0 = [ a ,0 ]\nwhere the angle q = 0 degrees. Exercises. Find all the square roots of 4 and -4 and plot them. Find the cube roots of 27 and -27 and plot them in the plane. Find the square roots of \\cis(45 )\n    = cos(45 )+ i sin(45 )\n    = [1,45 ]."
     },
     {
       "tag": "h3",
@@ -148,7 +176,19 @@
     },
     {
       "tag": "p",
-      "text": "Observe [ r 1 ,0]([1, q ][ r 2 , q 2 ])\n            = [ r 1 , q 1 ][ r 2 , q 2 ] since [ r 1 ,0]([1, q ][ r 2 , q 2 ])\n= [ r 1 ,0][ r 2 , q 1 + q 2 ]\n= [ r 1 r 2 , q 1 + q 2 ]\n. Similarly [1, q ]([ r 1 ,0][ r 2 , q 2 ])\n            = [ r 1 , q 1 ][ r 2 , q 2 ]"
+      "text": "Observe"
+    },
+    {
+      "tag": "p",
+      "text": "[ r 1 ,0]([1, q ][ r 2 , q 2 ])\n            = [ r 1 , q 1 ][ r 2 , q 2 ]"
+    },
+    {
+      "tag": "p",
+      "text": "since [ r 1 ,0]([1, q ][ r 2 , q 2 ])\n= [ r 1 ,0][ r 2 , q 1 + q 2 ]\n= [ r 1 r 2 , q 1 + q 2 ]\n. Similarly"
+    },
+    {
+      "tag": "p",
+      "text": "[1, q ]([ r 1 ,0][ r 2 , q 2 ])\n            = [ r 1 , q 1 ][ r 2 , q 2 ]"
     },
     {
       "tag": "h3",
@@ -156,7 +196,35 @@
     },
     {
       "tag": "p",
-      "text": "We said earlier (in the last section of the chapter Arrow Addition ) for\nreal numbers a , b and c that c ( a , b )\n= ( ca , cb ) without any reference to or use of the add the\nangles, multiply the lengths arrow multiplication rule. But c = c + i 0\n= ( c ,0) gives a point in the plane. So we can multiple c = c + i 0\n= ( c ,0) and ( a , b ) = [ r , q ]\nusing the add the angles, multiply the lengths rule. Two cases, more\nprecisely possibilities, will be examined. Case 1: c 0 Observe for c > 0 that c = c + i 0 = [ c ,0] has angle 0 degrees and\nlength c = | c | .\nThus the add the angles, multiply the lengths multiplication rule\nyields c ( a , b ) = [ c ,0][ r , q ]\n            = [ cr ,0+ q ] = [ cr , q ]\n            = ( ca , cb ) as before. Case 2 : c < 0 Now c = - d < 0. But d > 0 implies ( d ,0)( a , b ) =\n            [ d ,0][ r , q ] = [ dr , q ]\n            = ( da , db ) Therefore ( c ,0)( a , b ) = ( - 1)[ d ,0]( a , b )\n                  = ( - 1)[ dr , q ] = [ dr , q +180 ]\n                = ( - da , - db ) = ( ca , cb )"
+      "text": "We said earlier (in the last section of the chapter Arrow Addition ) for\nreal numbers a , b and c that c ( a , b )\n= ( ca , cb ) without any reference to or use of the add the\nangles, multiply the lengths arrow multiplication rule. But c = c + i 0\n= ( c ,0) gives a point in the plane. So we can multiple c = c + i 0\n= ( c ,0) and ( a , b ) = [ r , q ]\nusing the add the angles, multiply the lengths rule. Two cases, more\nprecisely possibilities, will be examined. Case 1: c 0 Observe for c > 0 that c = c + i 0 = [ c ,0] has angle 0 degrees and\nlength c = | c | .\nThus the add the angles, multiply the lengths multiplication rule\nyields"
+    },
+    {
+      "tag": "p",
+      "text": "c ( a , b ) = [ c ,0][ r , q ]\n            = [ cr ,0+ q ] = [ cr , q ]\n            = ( ca , cb )"
+    },
+    {
+      "tag": "p",
+      "text": "as before. Case 2 : c < 0 Now c = - d < 0. But d > 0 implies"
+    },
+    {
+      "tag": "p",
+      "text": "( d ,0)( a , b ) =\n            [ d ,0][ r , q ] = [ dr , q ]\n            = ( da , db )"
+    },
+    {
+      "tag": "p",
+      "text": "Therefore"
+    },
+    {
+      "tag": "p",
+      "text": "( c ,0)( a , b ) = ( - 1)[ d ,0]( a , b )\n                  = ( - 1)[ dr , q ]"
+    },
+    {
+      "tag": "p",
+      "text": "= [ dr , q +180 ]\n                = ( - da , - db )"
+    },
+    {
+      "tag": "p",
+      "text": "= ( ca , cb )"
     },
     {
       "tag": "div",
@@ -180,7 +248,15 @@
     },
     {
       "tag": "p",
-      "text": "Locate in the plane the complex conjugate and reciprocals of the complex\n    three numbers s = 3+4 i , t = 12+( - 5) i ,\n    and z = cos(120 ) + i sin(120 ). Locate the three complex cube roots of 1 (unity) . Hint: divide the unit circle into three arcs each spanning an angle of 360/3\n    =120 degrees. The required roots are at the ends of each arc (if two\n    arcs share the endpoin t 1 = 1+ i 0. Locate the fourth, fifth and sixth roots of unity. What is the\n    general pattern for n-th roots of unity (where n = 2, 3, 4, ).? msnavigation google_ad_section_start(weight=ignore) google_ad_section_start(weight=ignore) google_ad_section_start(weight=ignore) What is a Variable? Introduction Variation between Examples Variation of Letters Aletter denotes a variable Cases of Double Variation Three Notions of a Variable Constants,Parameters,Variables Talking about numbers Arithmetic Videos Fractions Primes Greatest Common Divisors Least Common Multiples Square Root Simplification Online Volumes 1 Elements of Reason 1A. Pattern Based Reason 1B. Mathematics\nCurriculum Notes 2. Three Skills for\nAlgebra 3. Why\nSlopes and More Math More Site Areas : Helping\nYour Child or Teen Learn . Analytic\nGeometry Solving\nLinear Equations with Stick Diagrams Fractions, \nRatios, Rates, Proportions & Units Euclidean\nGeometry Analytic\nGeometry Number\nTheory . Calculus\nIntro Complex\nNumbers Odds & Ends Quebec\nMaths Education Real\nAnalysis LaTeX2HotEqn Good news: Site pages  identify what you need\nto study. Bad news: Site pages do not explain\neverything Worse news: Learning takes time, yours. Site Message: Calculus & calculus preparation give\na first reason & focus for learning and teaching most mathematics in school\nand  college. msnavigation msnavigation google_ad_section_start(weight=ignore) [ Top ] [ Back ] [ Volume Entrance ] [ Next ] site entrance site\nreviews Feedback\nand Contact Form Site uploaded with SmartFTP. Favourite Sites : BBC News and the Mathematics portion of English\nNational Curriculum Francais : || Dfinition\nd'une variable || Algbre || Arithmetique || Logique | | All trademarks and copyrights\non this page are owned by their respective owners. Copyright to comments &\ncontributions are owned by the Poster. The Rest  1995 onward by site author\nAlan Selby, Ph. D.  All Rights Reserved. google_ad_section_start(weight=ignore) msnavigation"
+      "text": "Locate in the plane the complex conjugate and reciprocals of the complex\n    three numbers s = 3+4 i , t = 12+( - 5) i ,\n    and z = cos(120 ) + i sin(120 ). Locate the three complex cube roots of 1 (unity) . Hint: divide the unit circle into three arcs each spanning an angle of 360/3\n    =120 degrees. The required roots are at the ends of each arc (if two\n    arcs share the endpoin t 1 = 1+ i 0. Locate the fourth, fifth and sixth roots of unity. What is the\n    general pattern for n-th roots of unity (where n = 2, 3, 4, ).?"
+    },
+    {
+      "tag": "p",
+      "text": "What is a Variable? Introduction Variation between Examples Variation of Letters Aletter denotes a variable Cases of Double Variation Three Notions of a Variable Constants,Parameters,Variables Talking about numbers Arithmetic Videos Fractions Primes Greatest Common Divisors Least Common Multiples Square Root Simplification Online Volumes 1 Elements of Reason 1A. Pattern Based Reason 1B. Mathematics\nCurriculum Notes 2. Three Skills for\nAlgebra 3. Why\nSlopes and More Math More Site Areas : Helping\nYour Child or Teen Learn . Analytic\nGeometry Solving\nLinear Equations with Stick Diagrams Fractions, \nRatios, Rates, Proportions & Units Euclidean\nGeometry Analytic\nGeometry Number\nTheory . Calculus\nIntro Complex\nNumbers Odds & Ends Quebec\nMaths Education Real\nAnalysis LaTeX2HotEqn Good news: Site pages  identify what you need\nto study. Bad news: Site pages do not explain\neverything Worse news: Learning takes time, yours. Site Message: Calculus & calculus preparation give\na first reason & focus for learning and teaching most mathematics in school\nand  college."
+    },
+    {
+      "tag": "p",
+      "text": "[ Top ] [ Back ] [ Volume Entrance ] [ Next ] site entrance site\nreviews Feedback\nand Contact Form Site uploaded with SmartFTP. Favourite Sites : BBC News and the Mathematics portion of English\nNational Curriculum Francais : || Dfinition\nd'une variable || Algbre || Arithmetique || Logique | | All trademarks and copyrights\non this page are owned by their respective owners. Copyright to comments &\ncontributions are owned by the Poster. The Rest  1995 onward by site author\nAlan Selby, Ph. D.  All Rights Reserved."
     }
   ]
 }

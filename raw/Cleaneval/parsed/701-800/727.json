@@ -3,16 +3,32 @@
   "file_number": "727",
   "content_hash": "f07f12f45eb36f7192328f2967aa6584d8d36ebc456469d43c3c15e642c2d699",
   "total_blocks": 174,
-  "retained_blocks": 3,
-  "ignored_blocks": 171,
+  "retained_blocks": 7,
+  "ignored_blocks": 167,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" stretch td User Name Password Register Now Forget your User Name or Password? stretch td start main section display when app is off Apologetics Bio-Ethics Christianity & Culture Ethics Miscellaneous Philosophy Science Theology What's New eMail to a Friend Print This Page"
+      "text": "html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "User Name Password Register Now Forget your User Name or Password?"
+    },
+    {
+      "tag": "div",
+      "text": "Apologetics Bio-Ethics Christianity & Culture Ethics Miscellaneous Philosophy Science Theology What's New"
+    },
+    {
+      "tag": "div",
+      "text": "eMail to a Friend Print This Page"
     },
     {
       "tag": "p",
-      "text": "Blog Radio Podcast Page Not Found We're sorry - the page or function you tried to access could not be found on our web site. Would you take a moment to email us at questions@str.org ?  Please include details of how you arrived at this page so that we can correct the problem. Thank you for your help, Stand to Reason"
+      "text": "Blog Radio Podcast"
+    },
+    {
+      "tag": "p",
+      "text": "Page Not Found We're sorry - the page or function you tried to access could not be found on our web site. Would you take a moment to email us at questions@str.org ?  Please include details of how you arrived at this page so that we can correct the problem. Thank you for your help, Stand to Reason"
     },
     {
       "tag": "div",

@@ -3,8 +3,8 @@
   "file_number": "336",
   "content_hash": "272755bff006b4da41a0b2e74c625d521d52ab7c11e4a4386fd0d8b0210345c2",
   "total_blocks": 59,
-  "retained_blocks": 30,
-  "ignored_blocks": 29,
+  "retained_blocks": 28,
+  "ignored_blocks": 31,
   "blocks": [
     {
       "tag": "p",
@@ -47,20 +47,12 @@
       "text": "Entire University Civil Engineering"
     },
     {
-      "tag": "div",
-      "text": "#BeginEditable \"Related Links\" #EndEditable #BeginEditable \"ContactInfo\""
-    },
-    {
       "tag": "h4",
       "text": "Contact"
     },
     {
       "tag": "p",
       "text": "+64 3 364 2250 enquiries @civil.canterbury.ac.nz Civil Engineering Canterbury University Private Bag 4800 Christchurch, 8140 Contacts Page"
-    },
-    {
-      "tag": "div",
-      "text": "#EndEditable #BeginEditable \"Body\""
     },
     {
       "tag": "h1",
@@ -124,7 +116,7 @@
     },
     {
       "tag": "div",
-      "text": "#EndEditable ©  University of Canterbury - Christchurch, New Zealand Feedback | Help and Accessibility | Copyright and Disclaimer"
+      "text": "©  University of Canterbury - Christchurch, New Zealand Feedback | Help and Accessibility | Copyright and Disclaimer"
     }
   ]
 }

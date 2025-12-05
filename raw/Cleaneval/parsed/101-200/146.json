@@ -3,8 +3,8 @@
   "file_number": "146",
   "content_hash": "0a9e2146ec68aaa94a8a6be47cea5695bc26737802994b2c63cb5d926752914a",
   "total_blocks": 44,
-  "retained_blocks": 15,
-  "ignored_blocks": 29,
+  "retained_blocks": 16,
+  "ignored_blocks": 28,
   "blocks": [
     {
       "tag": "div",
@@ -36,7 +36,11 @@
     },
     {
       "tag": "div",
-      "text": "Joseph Conrad and the Fiction of Autobiography (1966) Beginnings (1975) Orientalism (1978) The Question of Palestine (1979) Covering Islam (1981) The World, the Text, and the Critic (1983) After the Last Sky (1986) Musical Elaborations (1991) Culture and Imperialism (1994) The Politics of Dispossession (1994) Peace and Its Discontents (1995) Out of Place (1999) The End of the Peace Process (2000) Power, Politics and Culture (2001) Parallels and Paradoxes (with Daniel Barenboim, 2002) Culture and Resistance (2003) Edward Said"
+      "text": "Joseph Conrad and the Fiction of Autobiography (1966) Beginnings (1975) Orientalism (1978) The Question of Palestine (1979) Covering Islam (1981) The World, the Text, and the Critic (1983) After the Last Sky (1986) Musical Elaborations (1991) Culture and Imperialism (1994) The Politics of Dispossession (1994) Peace and Its Discontents (1995) Out of Place (1999) The End of the Peace Process (2000) Power, Politics and Culture (2001) Parallels and Paradoxes (with Daniel Barenboim, 2002) Culture and Resistance (2003)"
+    },
+    {
+      "tag": "div",
+      "text": "Edward Said"
     },
     {
       "tag": "p",

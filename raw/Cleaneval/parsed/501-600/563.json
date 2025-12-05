@@ -3,8 +3,8 @@
   "file_number": "563",
   "content_hash": "edffb85cd17ca04520bbc111cf8052ab39e93476197f60180d752ed327255031",
   "total_blocks": 137,
-  "retained_blocks": 79,
-  "ignored_blocks": 58,
+  "retained_blocks": 75,
+  "ignored_blocks": 62,
   "blocks": [
     {
       "tag": "h1",
@@ -21,10 +21,6 @@
     {
       "tag": "p",
       "text": "It looks like particle theory has now degenerated to the point where its leading figures can’t think of anything better to do than to write rambling articles with virtually no equations that reach no real conclusions.  Last week was Lenny Susskind, tonight there’s a new article by Michael Douglas. His conclusion, such as it is, goes like this: “If Ihad to bet at the moment, Iwould still bet that string theory favors the low scale, for the reasons outlined above, but it is not at all obvious that this is what will come out in the end…. We should keep in mind that ‘favoring’ one type of vacuum or mechanism over another is not a strong result, if both types of vacuums exist…” So, maybe string theory “favors” a low supersymmetry-breaking scale, maybe not. As usual, not only can’t it predict anything, it can’t even predict the scale at which it can’t predict anything. Ireally cannot understand why anyone thinks this kind of thing is science. This entry was posted\n\t\t\t\t\t\t \n\t\t\t\t\t\ton Monday, May 31st, 2004 at 8:40 pm\t\t\t\t\t\tand is filed under Uncategorized .\n\t\t\t\t\t\tYou can follow any responses to this entry through the RSS 2.0 feed. \n\n\t\t\t\t\t\t\t\t\t\t\t\t\tBoth comments and pings are currently closed."
-    },
-    {
-      "tag": "div",
-      "text": "You can start editing here."
     },
     {
       "tag": "h3",
@@ -308,19 +304,7 @@
     },
     {
       "tag": "p",
-      "text": "An addendum about Nomura. Ihad forgotten it, but time ago Ihad quoted W.T. Shaw in the first page of my essay physics/0001033. “if we are getting discrete data from the market, how can we claim that the derivative is not zero? Should we say that our derivative is almost non zero ? What control do we have over the inversion process?”"
-    },
-    {
-      "tag": "div",
-      "text": "If you'd like to support WordPress, having the \"powered by\" link someone on your blog is the best way, it's our only promotion or advertising."
-    },
-    {
-      "tag": "p",
-      "text": "Not Even Wrong is proudly powered by WordPress Entries (RSS) and Comments (RSS) . 18 queries. 1.329 seconds."
-    },
-    {
-      "tag": "div",
-      "text": "Gorgeous design by Michael Heilemann - http://binarybonsai.com/kubrick/"
+      "text": "An addendum about Nomura. Ihad forgotten it, but time ago Ihad quoted W.T. Shaw in the first page of my essay physics/0001033. “if we are getting discrete data from the market, how can we claim that the derivative is not zero? Should we say that our derivative is almost non zero ? What control do we have over the inversion process?” Not Even Wrong is proudly powered by WordPress Entries (RSS) and Comments (RSS) ."
     }
   ]
 }

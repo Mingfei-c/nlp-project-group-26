@@ -7,10 +7,6 @@
   "ignored_blocks": 120,
   "blocks": [
     {
-      "tag": "div",
-      "text": "Last layout modification 12/14/2001 by convert.pl begin"
-    },
-    {
       "tag": "h1",
       "text": "Ethical Decisions - Morton Thiokol and the Space Shuttle Challenger Disaster"
     },
@@ -48,7 +44,11 @@
     },
     {
       "tag": "div",
-      "text": "Inches Millimeters Inches Millimeters 103.512 103.508 2629.15 0.275 6.99 103.492 0.2075 103.480 2628.54 0.190 5.05 103.090 0.024 0.61 103.067 2618.45 0.015 0.38 0.380 0.375 9.59 0.012 0.30"
+      "text": "Inches Millimeters Inches Millimeters"
+    },
+    {
+      "tag": "div",
+      "text": "103.512 103.508 2629.15 0.275 6.99 103.492 0.2075 103.480 2628.54 0.190 5.05 103.090 0.024 0.61 103.067 2618.45 0.015 0.38 0.380 0.375 9.59 0.012 0.30"
     },
     {
       "tag": "h4",
@@ -60,7 +60,11 @@
     },
     {
       "tag": "div",
-      "text": "Inches Millimeters Inches Millimeters 0.17 4.32 0.111 2.82 0.23 5.84 0.155 3.94 0.35 8.89 0.104 2.64 0.089 2.03 0.50 12.70 0.186 4.57 0.275 6.98"
+      "text": "Inches Millimeters Inches Millimeters"
+    },
+    {
+      "tag": "div",
+      "text": "0.17 4.32 0.111 2.82 0.23 5.84 0.155 3.94 0.35 8.89 0.104 2.64 0.089 2.03 0.50 12.70 0.186 4.57 0.275 6.98"
     },
     {
       "tag": "h4",
@@ -73,10 +77,6 @@
     {
       "tag": "dt",
       "text": "Next to Telecon Meeting Back to Introduction Return to Essays Page Return to Roger Boisjoly Page"
-    },
-    {
-      "tag": "div",
-      "text": "end"
     }
   ]
 }

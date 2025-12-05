@@ -3,12 +3,20 @@
   "file_number": "346",
   "content_hash": "88669b088976505c90dea08e22b5c9c69060ec6734674cb1df7f8c44297f6599",
   "total_blocks": 162,
-  "retained_blocks": 31,
-  "ignored_blocks": 131,
+  "retained_blocks": 39,
+  "ignored_blocks": 123,
   "blocks": [
     {
       "tag": "div",
-      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n   \"http://www.w3.org/TR/html4/loose.dtd\" Long Distance Phone Service Reviews SiteSearch Google Web ConsumerSearch.com SiteSearch Google Reviewing the Reviews Home Category Index FAQs Feedback Newsletter Search About Us"
+      "text": "html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n   \"http://www.w3.org/TR/html4/loose.dtd\" Long Distance Phone Service Reviews"
+    },
+    {
+      "tag": "div",
+      "text": "Web ConsumerSearch.com"
+    },
+    {
+      "tag": "div",
+      "text": "Reviewing the Reviews Home Category Index FAQs Feedback Newsletter Search About Us"
     },
     {
       "tag": "h1",
@@ -20,7 +28,15 @@
     },
     {
       "tag": "div",
-      "text": "Updated February 2006 Where to Buy Fast Answers Full Story All Reviews Full Story Continued - Long Distance Phone Service Consumer Report Continued from introduction on the Fast Answers page . Back to\nIntro"
+      "text": "Updated February 2006"
+    },
+    {
+      "tag": "div",
+      "text": "Where to Buy Fast Answers Full Story All Reviews"
+    },
+    {
+      "tag": "div",
+      "text": "Full Story Continued - Long Distance Phone Service Consumer Report Continued from introduction on the Fast Answers page . Back to\nIntro"
     },
     {
       "tag": "p",
@@ -80,7 +96,11 @@
     },
     {
       "tag": "div",
-      "text": "# of Picks Model 8 ECG 6 CogniState 6 Pioneer 3 Unitel 2 3U 2 Total Call International 2 ACCXX 2 CogniWorld 1 each Voice Revolution, PNG, Capsule, Simplicity, OPEX * Also see our Comparison Chart ."
+      "text": "# of Picks Model 8 ECG 6 CogniState 6 Pioneer 3 Unitel 2 3U 2 Total Call International 2 ACCXX 2 CogniWorld 1 each Voice Revolution, PNG, Capsule, Simplicity, OPEX"
+    },
+    {
+      "tag": "div",
+      "text": "* Also see our Comparison Chart ."
     },
     {
       "tag": "p",
@@ -116,7 +136,15 @@
     },
     {
       "tag": "div",
-      "text": "Advertisement All Reviews Full Story Fast Answers Where to Buy >> Email this page to a friend >> Do you know of a review that we've missed? Click here."
+      "text": "Advertisement"
+    },
+    {
+      "tag": "div",
+      "text": "All Reviews Full Story Fast Answers Where to Buy"
+    },
+    {
+      "tag": "div",
+      "text": ">> Email this page to a friend >> Do you know of a review that we've missed? Click here."
     },
     {
       "tag": "h6",
@@ -124,7 +152,11 @@
     },
     {
       "tag": "div",
-      "text": "Start Inline frame for Widget TF 120x600 JScript code TF 120x600 JScript code Sign-up for the ConsumerSearch newsletter! Participate in a short survey Mobile application download Review Index Photo & Video Internet House & Home Electronics Computers Kitchen Health & Fitness Software Family Sports & Leisure Automotive Lawn & Garden Office Subscribe to RSS Feed Home • Category Index • FAQs • Feedback • Search • About ConsumerSearch • Jobs • Affiliates Privacy Policy • Legal Disclaimer ConsumerSearch, Inc. © 2006. All Rights Reserved."
+      "text": "Sign-up for the ConsumerSearch newsletter! Participate in a short survey Mobile application download Review Index Photo & Video Internet House & Home Electronics Computers Kitchen Health & Fitness Software Family Sports & Leisure Automotive Lawn & Garden Office"
+    },
+    {
+      "tag": "div",
+      "text": "Subscribe to RSS Feed Home • Category Index • FAQs • Feedback • Search • About ConsumerSearch • Jobs • Affiliates Privacy Policy • Legal Disclaimer ConsumerSearch, Inc. © 2006. All Rights Reserved."
     },
     {
       "tag": "p",

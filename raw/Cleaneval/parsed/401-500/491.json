@@ -3,12 +3,20 @@
   "file_number": "491",
   "content_hash": "47a8d9445e09cae12022817610468031d9334c3c46d03e15ba81bf1140de71f9",
   "total_blocks": 225,
-  "retained_blocks": 23,
-  "ignored_blocks": 202,
+  "retained_blocks": 25,
+  "ignored_blocks": 200,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" InstanceBegin template=\"/Templates/benefits-dhtml.dwt\" codeOutsideHTMLIsLocked=\"false\" InstanceBeginEditable name=\"doctitle\" InstanceEndEditable InstanceBeginEditable name=\"head\" InstanceEndEditable START SCRIPTS END SCRIPTS Forms Bank Account Change Dental Claim Form Employment Requisition Form HRIS Confidentiality HRIS System Access ID Card Replacement Leave Request Form Medical Claim Form Medical Note Form C.U.P.E. Medical Out of Prov Form Name Change Form Payroll Calendar Payroll Services Form Position Summary Record Of Employment <option value=\"../pdf/rgc.pdf\">RG&amp;C Contract</option> Salary Requisition Student Contract T4 Copy Request TD1-Fed Form TD1-Fed Worksheet TD1-Prov Form TD1-Prov Worksheet Termination Notice WSIB Forms Verify Own Employment QUICKLINK: [ Tuition \r\n              support ] [ Childcare \r\n              Support ] [ Supplementary \r\n              Medical ] [ Dental ] InstanceBeginEditable name=\"cookie\" BENEFITS > healthcare benefits > supplimentary medical > Plan InstanceEndEditable InstanceBeginEditable name=\"body\""
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Forms Bank Account Change Dental Claim Form Employment Requisition Form HRIS Confidentiality HRIS System Access ID Card Replacement Leave Request Form Medical Claim Form Medical Note Form C.U.P.E. Medical Out of Prov Form Name Change Form Payroll Calendar Payroll Services Form Position Summary Record Of Employment Salary Requisition Student Contract T4 Copy Request TD1-Fed Form TD1-Fed Worksheet TD1-Prov Form TD1-Prov Worksheet Termination Notice WSIB Forms Verify Own Employment"
+    },
+    {
+      "tag": "div",
+      "text": "QUICKLINK: [ Tuition \r\n              support ] [ Childcare \r\n              Support ] [ Supplementary \r\n              Medical ] [ Dental ] BENEFITS > healthcare benefits > supplimentary medical > Plan"
     },
     {
       "tag": "p",
@@ -52,7 +60,15 @@
     },
     {
       "tag": "p",
-      "text": "BACK TO TOP 7. Charges for the services of a qualified speech therapist, up to a maximum of $1,000 per calendar year per person. BACK TO TOP 8. Charges for the purchase of hearing aids and for repairs, up to a maximum \r\n  of $500 in each period of 4 consecutive years per insured person. BACK TO TOP 9. Charges \r\n  for diabetic supplies including: insulin and insulin syringes; Novolin-Pens \r\n  or similar insulin injection devices using a needle; test strips; blood letting \r\n  devices including platforms and lancets; blood-glucose monitoring \r\n  machines once every four years; insulin infusion sets (not including infusion \r\n  pumps); external insulin infusion pumps when recommended by an endocrinologist \r\n  or when required for pregnant diabetics, once every 5 years (the maximum amount \r\n  payable is $6,000 for each pump); needleless insulin jet injectors once in a \r\n  person's lifetime (the maximum amount payable is $1,000 payable in a person's \r\n  lifetime). BACK TO TOP 10. Charges for the services of a qualified physiotherapist provided that \r\n  such person does not normally reside in your home. Great-West Life will pay \r\n  up to the following limits: Private Clinics OHIP Approved Initial \r\n          visit $55.00 $40.00 Subsequent \r\n          visits $35.00 $20.00 \r\n          * * for assessment or re-assessment only, not for treatment BACK \r\n  TO TOP 11. Charges for treatment by a legally licensed chiropractor, chiropodist, osteopath, \r\n  podiatrist or naturopath. Great-West Life will pay an amount equal to 50% of \r\n  such medical expenses up to a maximum of $300 per practitioner per year. Where \r\n  applicable, no payment can be made until the provincial plans have paid their \r\n  yearly maximum. BACK TO TOP 12. Out-of-province/country coverage: If you (or your insured \r\n  dependent) are temporarily out of the province or out of the country on vacation \r\n  or business, you are covered for emergency health care. For travel within Canada there is a reciprocal agreement among provincial health care plans in all provinces except Quebec. In Quebec charges are higher than those in the other provinces, and Great-West Life will pay the amount not paid by OHIP, therefore should you require emergency medical treatment in Quebec, you need to access the MEDEX toll free line to ensure appropriate processing of claims. When travelling outside of Canada, charges for emergency treatment will be paid at 100% if you are under age 65 and 80% if you are age 65 or over. Therefore, if your coverage level is 80% you may wish to purchase additional out-of-country insurance. The following services are included:"
+      "text": "BACK TO TOP 7. Charges for the services of a qualified speech therapist, up to a maximum of $1,000 per calendar year per person. BACK TO TOP 8. Charges for the purchase of hearing aids and for repairs, up to a maximum \r\n  of $500 in each period of 4 consecutive years per insured person. BACK TO TOP 9. Charges \r\n  for diabetic supplies including: insulin and insulin syringes; Novolin-Pens \r\n  or similar insulin injection devices using a needle; test strips; blood letting \r\n  devices including platforms and lancets; blood-glucose monitoring \r\n  machines once every four years; insulin infusion sets (not including infusion \r\n  pumps); external insulin infusion pumps when recommended by an endocrinologist \r\n  or when required for pregnant diabetics, once every 5 years (the maximum amount \r\n  payable is $6,000 for each pump); needleless insulin jet injectors once in a \r\n  person's lifetime (the maximum amount payable is $1,000 payable in a person's \r\n  lifetime). BACK TO TOP 10. Charges for the services of a qualified physiotherapist provided that \r\n  such person does not normally reside in your home. Great-West Life will pay \r\n  up to the following limits:"
+    },
+    {
+      "tag": "p",
+      "text": "Private Clinics OHIP Approved Initial \r\n          visit $55.00 $40.00 Subsequent \r\n          visits $35.00 $20.00 \r\n          *"
+    },
+    {
+      "tag": "p",
+      "text": "* for assessment or re-assessment only, not for treatment BACK \r\n  TO TOP 11. Charges for treatment by a legally licensed chiropractor, chiropodist, osteopath, \r\n  podiatrist or naturopath. Great-West Life will pay an amount equal to 50% of \r\n  such medical expenses up to a maximum of $300 per practitioner per year. Where \r\n  applicable, no payment can be made until the provincial plans have paid their \r\n  yearly maximum. BACK TO TOP 12. Out-of-province/country coverage: If you (or your insured \r\n  dependent) are temporarily out of the province or out of the country on vacation \r\n  or business, you are covered for emergency health care. For travel within Canada there is a reciprocal agreement among provincial health care plans in all provinces except Quebec. In Quebec charges are higher than those in the other provinces, and Great-West Life will pay the amount not paid by OHIP, therefore should you require emergency medical treatment in Quebec, you need to access the MEDEX toll free line to ensure appropriate processing of claims. When travelling outside of Canada, charges for emergency treatment will be paid at 100% if you are under age 65 and 80% if you are age 65 or over. Therefore, if your coverage level is 80% you may wish to purchase additional out-of-country insurance. The following services are included:"
     },
     {
       "tag": "div",
@@ -87,16 +103,8 @@
       "text": "BACK \r\n                        TO TOP"
     },
     {
-      "tag": "div",
-      "text": "InstanceEndEditable"
-    },
-    {
       "tag": "p",
       "text": "[ Site \r\n                Map ] [Contact \r\n                Us] [Disclaimer] [Staff] © 2004 Queen's University | T: 613.533.2070 | F: 613.533.6196 hradmin@post.queensu.ca • Human \r\n                Resources Richardson Hall Kingston, ON K7L 3N6"
-    },
-    {
-      "tag": "div",
-      "text": "InstanceEnd"
     }
   ]
 }

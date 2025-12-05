@@ -8,7 +8,11 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" from page.tpl.php \n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /> [if IE ]>\n<style type=\"text/css\" media=\"all\">@import \"/themes/pej/pej.ie.css.php\";</style><![endif] RSS | Join our Email List"
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "RSS | Join our Email List"
     },
     {
       "tag": "h2",
@@ -16,15 +20,11 @@
     },
     {
       "tag": "div",
-      "text": "Home Numbers Analysis Studies Commentaries and Backgrounders Books Daily Briefing Special Archives State of the News Media 2006 2005 2004 Journalism Resources Principles of Journalism CCJ JTools Job Links Journalism Schools Journalism Organizations Ethics Codes Advice to Students About PEJ About Us The People of PEJ Partners FAQs Contact Us About Our Site Permissions Privacy Policy RSS Feeds Contact Us Home » Journalism Resources » Journalism Tools Principles of Journalism CCJ JTools Job Links Journalism Schools Journalism Websites Ethics Codes Advice to Students the Daily Briefings section is the only one that displays the right sidebar"
+      "text": "Home Numbers Analysis Studies Commentaries and Backgrounders Books Daily Briefing Special Archives State of the News Media 2006 2005 2004 Journalism Resources Principles of Journalism CCJ JTools Job Links Journalism Schools Journalism Organizations Ethics Codes Advice to Students About PEJ About Us The People of PEJ Partners FAQs Contact Us About Our Site Permissions Privacy Policy RSS Feeds Contact Us Home » Journalism Resources » Journalism Tools Principles of Journalism CCJ JTools Job Links Journalism Schools Journalism Websites Ethics Codes Advice to Students"
     },
     {
       "tag": "h2",
       "text": "Journalism Tools"
-    },
-    {
-      "tag": "div",
-      "text": "start main content begin content <em class=\"info\">info: Submitted by mike on June 22, 2006 - 18:03.</em>"
     },
     {
       "tag": "p",
@@ -32,7 +32,7 @@
     },
     {
       "tag": "div",
-      "text": "<em class=\"clear terms\">taxonomy: <a href=\"/taxonomy/term/18\" rel=\"tag\" title=\"\">Journalism Resources</a></em> end content end main content Home | Numbers | Analysis | Daily Briefing | State of the News Media | Journalism Resources | About PEJ | Contact Us Copyright 2006 Project for Excellence in Journalism. Privacy Policy | Site Map Powered by: Phase2 Technology"
+      "text": "Home | Numbers | Analysis | Daily Briefing | State of the News Media | Journalism Resources | About PEJ | Contact Us Copyright 2006 Project for Excellence in Journalism. Privacy Policy | Site Map Powered by: Phase2 Technology"
     }
   ]
 }

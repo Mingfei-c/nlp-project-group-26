@@ -3,12 +3,16 @@
   "file_number": "590",
   "content_hash": "abd4e01e840d4bd4909b3c1da3d9f39938e2f9bc6ba7adc15ec2e4a1b821fb2c",
   "total_blocks": 534,
-  "retained_blocks": 23,
-  "ignored_blocks": 511,
+  "retained_blocks": 31,
+  "ignored_blocks": 503,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC\"-//W3C/DTD HTML4.0\nTransitional//EN\" PAY EQUITY INDEX ABOUT MSNO MSNO REGIONS MSNO PERSONNEL LINKS EVENTS NOMINATIONS MEMBERSHIP CAREER OPPORTUNITIES MSNO Enews HONORS GRANTS NEWS ROOM LICENSURE RESOURCES LEGISLATIVE NEWS PAY EQUITY PHOTOS RETIRED MEMBERS LIGHTER FARE MSNO OUTLOOK SCHOLARSHIPS GUEST BOOK Pay Equity Survey Preliminary Results April 2005 Barbara Connolly"
+      "text": "HTML PUBLIC\"-//W3C/DTD HTML4.0\nTransitional//EN\" PAY EQUITY INDEX ABOUT MSNO MSNO REGIONS MSNO PERSONNEL LINKS EVENTS NOMINATIONS MEMBERSHIP CAREER OPPORTUNITIES MSNO Enews HONORS GRANTS NEWS ROOM LICENSURE RESOURCES LEGISLATIVE NEWS PAY EQUITY PHOTOS RETIRED MEMBERS LIGHTER FARE MSNO OUTLOOK SCHOLARSHIPS GUEST BOOK"
+    },
+    {
+      "tag": "div",
+      "text": "Pay Equity Survey Preliminary Results April 2005 Barbara Connolly"
     },
     {
       "tag": "blockquote",
@@ -16,7 +20,19 @@
     },
     {
       "tag": "div",
-      "text": "Abington Amesbury Amherst Pelham Arlington Ashland Assabet Valley Voc. Tech. Athol Royalston Belchertown Berkshire Hills Reg. Beverly Billerica Boston Bourne Braintree Bridgewater Raynham Brimfield Bristol Plymouth Brockton Brookline Burgess Elementary School (Union 61 District, but rest of district does) Cambridge Cape Cod Lighthouse Charter School Chapel Hill-Chausey Hall Carlisle Chatham Chelmsford Chesterfield Goshen Clinton Concord Dartmouth Dedham Dennis Yarmouth Essex Fall River Fitchburg Framingham Gateway Regional Georgetown Granville Greater New Bedford Reg. Voc. Tech. Greenfield Greylock Hadley Harwich Hawlwmont Holbrook Hopedale Hull Ipswich Keefe Tech. Lawrence Lee Lexington Lynn Lynnfield Malden Marlborough Marshfield Martha's Vineyard MV Regional Mashpee Medfield Mendon-Upton Regional Middleborough Milford Millis Milton Minuteman Voc. Tech. Mohawk Trail Nahant Nantucket Narragansett Regional Natick Nauset New Salem Wendell Newburyport Norwell Old Colony Voc. Orange Pentucket Pioneer Plainville Plymouth Provincetown Quabbin Quincy Randolph Revere Rockland Salem Saugus Scituate Seekonk Shrewsbury Shutesbury Somerset Southern Worcester Spencer East Brookfield Sutton Swansea Tantasqua Triton Regional Truro Tyngsborough Wales Walpole Walthan Ware Wareham Watertown West Bridgewater Westfield Weston Weymouth Whitman-Hanson Whittier Williamstown Winchendon Woburn Pay Equity Law Suit Update Barbara Connolly July 2003"
+      "text": "Abington Amesbury Amherst Pelham Arlington Ashland Assabet Valley Voc. Tech. Athol Royalston Belchertown Berkshire Hills Reg. Beverly Billerica Boston Bourne Braintree Bridgewater Raynham Brimfield Bristol Plymouth Brockton Brookline Burgess Elementary School (Union 61 District, but rest of district does) Cambridge Cape Cod Lighthouse Charter School Chapel Hill-Chausey Hall Carlisle Chatham Chelmsford Chesterfield Goshen Clinton Concord Dartmouth Dedham Dennis Yarmouth Essex Fall River Fitchburg Framingham Gateway Regional Georgetown Granville Greater New Bedford Reg. Voc. Tech. Greenfield Greylock Hadley Harwich Hawlwmont Holbrook Hopedale Hull Ipswich Keefe Tech. Lawrence Lee Lexington Lynn Lynnfield Malden Marlborough Marshfield Martha's Vineyard MV Regional Mashpee Medfield Mendon-Upton Regional Middleborough Milford Millis Milton Minuteman Voc. Tech. Mohawk Trail Nahant Nantucket Narragansett Regional Natick Nauset New Salem Wendell Newburyport Norwell Old Colony Voc. Orange Pentucket Pioneer Plainville Plymouth Provincetown"
+    },
+    {
+      "tag": "div",
+      "text": "Quabbin Quincy Randolph Revere"
+    },
+    {
+      "tag": "div",
+      "text": "Rockland Salem Saugus Scituate Seekonk Shrewsbury Shutesbury Somerset Southern Worcester Spencer East Brookfield Sutton Swansea Tantasqua Triton Regional Truro Tyngsborough Wales Walpole Walthan Ware Wareham Watertown West Bridgewater Westfield Weston Weymouth Whitman-Hanson Whittier Williamstown Winchendon Woburn"
+    },
+    {
+      "tag": "div",
+      "text": "Pay Equity Law Suit Update Barbara Connolly July 2003"
     },
     {
       "tag": "blockquote",
@@ -32,7 +48,19 @@
     },
     {
       "tag": "div",
-      "text": "Abington Amesbury Arlington Ashland Assabet Valley Vocational Tech. Athol Berkshire Hills Regional Billerica Boston Bourne Braintree Burgess Elementary School (Part of Union 61 District, but rest of district does) Cape Cod Lighthouse Charter School Chapel Hill-Chausey Hall Chelmsford Clinton Concord Dartmouth Easton Essex Fall River Fitchburg Gateway Regional Georgetown Granville Greater Lowell Technical High School Greater New Bedford Regional Vocational Technical H.S. Greenfield Greylock Groton-Dunstable Regional District Hampden-Wilbraham Harwich Hopedale Ipswich Keefe Tech Lawrence Lee Lexington Lynn Lynnfield Malden Marlboro Marshfield Martha's Vineyard MV Regional Mashpee Medfield Mendon-Upton Regional Middleboro Milford Millbury Millis Minuteman Voc. Tech. Mohawk Trail Nantucket Narragansett Regional Natick Nauset Newburyport Old Colony Vocational Plainville Plymouth Quabbin Quincy Randolph Salem Seekonk Shrewsbury Somerset Sutton Swansea Triton Regional Wales Walpole Waltham Wareham Westfield Whitman-Hanson Williamsburg Winchendon Woburn"
+      "text": "Abington Amesbury Arlington Ashland Assabet Valley Vocational Tech. Athol Berkshire Hills Regional Billerica Boston Bourne Braintree Burgess Elementary School (Part of Union 61 District, but rest of district does)"
+    },
+    {
+      "tag": "div",
+      "text": "Cape Cod Lighthouse Charter School Chapel Hill-Chausey Hall Chelmsford Clinton Concord Dartmouth Easton Essex Fall River Fitchburg Gateway Regional Georgetown Granville Greater Lowell Technical High School Greater New Bedford Regional Vocational Technical H.S. Greenfield Greylock Groton-Dunstable Regional District Hampden-Wilbraham Harwich Hopedale Ipswich Keefe Tech Lawrence Lee Lexington Lynn Lynnfield Malden Marlboro Marshfield Martha's Vineyard MV Regional Mashpee Medfield Mendon-Upton Regional Middleboro Milford Millbury Millis Minuteman Voc. Tech. Mohawk Trail Nantucket Narragansett Regional Natick Nauset Newburyport Old Colony Vocational Plainville Plymouth Quabbin"
+    },
+    {
+      "tag": "div",
+      "text": "Quincy Randolph Salem"
+    },
+    {
+      "tag": "div",
+      "text": "Seekonk Shrewsbury Somerset Sutton Swansea Triton Regional Wales Walpole Waltham Wareham Westfield Whitman-Hanson Williamsburg Winchendon Woburn"
     },
     {
       "tag": "p",
@@ -96,7 +124,11 @@
     },
     {
       "tag": "div",
-      "text": "TOP INDEX | ABOUT MSNO | CAREER OPPORTUNITIES | LICENSURE | EVENTS | GRANTS | GUEST BOOK | HONORS | LEGISLATIVE NEWS | LIGHTER FARE | LINKS | MEMBERSHIP | MSNO Enews | MSNO OUTLOOK | MSNO PERSONNEL | MSNO REGIONS | NEWS ROOM | NOMINATIONS | PAY EQUITY | PHOTO ALBUM | PRESIDENT'S MESSAGE | RESOURCES | RETIRED MEMBERS | SCHOLARSHIPS ANY QUESTIONS ABOUT THIS WEBSITE PLEASE CONTACT WEBMASTER: WEBMASTER COPYRIGHT © 2000 MSNO ALL RIGHTS RESERVED Web site designed and maintained by Virginia Sundberg URL:http://www.msno.org"
+      "text": "TOP"
+    },
+    {
+      "tag": "div",
+      "text": "INDEX | ABOUT MSNO | CAREER OPPORTUNITIES | LICENSURE | EVENTS | GRANTS | GUEST BOOK | HONORS | LEGISLATIVE NEWS | LIGHTER FARE | LINKS | MEMBERSHIP | MSNO Enews | MSNO OUTLOOK | MSNO PERSONNEL | MSNO REGIONS | NEWS ROOM | NOMINATIONS | PAY EQUITY | PHOTO ALBUM | PRESIDENT'S MESSAGE | RESOURCES | RETIRED MEMBERS | SCHOLARSHIPS ANY QUESTIONS ABOUT THIS WEBSITE PLEASE CONTACT WEBMASTER: WEBMASTER COPYRIGHT © 2000 MSNO ALL RIGHTS RESERVED Web site designed and maintained by Virginia Sundberg URL:http://www.msno.org"
     }
   ]
 }

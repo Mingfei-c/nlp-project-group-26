@@ -3,20 +3,20 @@
   "file_number": "206",
   "content_hash": "4f3800ea26ded31270eec32bb4701fb19c9858dee8d9d41c758c9653b4174117",
   "total_blocks": 123,
-  "retained_blocks": 17,
-  "ignored_blocks": 106,
+  "retained_blocks": 15,
+  "ignored_blocks": 108,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" #BeginTemplate \"/Templates/onecolumn-leftnav.dwt\" DW6 #BeginEditable \"doctitle\" #EndEditable Home Government\r\n\t\t\t\t\t\t\t\t\t\t\t\tAffairs Newsroom Meetings Publications Shopping\r\n\t\t\t\t\t\t\t\t\t\t\t\tCart Site\r\n\t\t\t\t\t\t\t\t\t\t\t\tMap - privatesite- #BeginEditable \"leftnav\""
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    },
+    {
+      "tag": "div",
+      "text": "Home Government\r\n\t\t\t\t\t\t\t\t\t\t\t\tAffairs Newsroom Meetings Publications Shopping\r\n\t\t\t\t\t\t\t\t\t\t\t\tCart Site\r\n\t\t\t\t\t\t\t\t\t\t\t\tMap"
     },
     {
       "tag": "p",
       "text": "Faculty Roster Home Funding Sources & Uses Reports Services for Medical Schools Privacy Policy Contact"
-    },
-    {
-      "tag": "div",
-      "text": "#EndEditable #BeginEditable \"one-column\""
     },
     {
       "tag": "h1",
@@ -44,7 +44,11 @@
     },
     {
       "tag": "p",
-      "text": "U.S. Medical School Faculty Trends, 1995-2005 summarizes changes \r\n        in the distribution of full-time faculty members across various dimensions \r\n        over the last decade. In figures 3a and 3b, \"OHD\" denotes \"Other Health Doctorate\" \r\n        which includes doctorates in dentistry, veterinary medicine, public health, \r\n        optometry, and other health-related fields. Race/Hispanic origin trends \r\n        reflect Faculty Roster data collection and reporting practices at the \r\n        time. The Faculty Roster began collecting and reporting multiple race \r\n        information in 2002. Select the links below to view specific trends: Figure 1. (PDF, 1 page - 58 KB) U.S. Medical School Faculty by Sex Figure 2. (PDF, 1 page - 62 KB) U.S. Medical School Female Faculty as a Percent of Each Rank Figure 3. (PDF, 1 page - 58 KB) U.S. Medical School Faculty in Basic Science Departments by Degree Figure 3b. (PDF, 1 page - 62 KB) U.S. Medical School Faculty in Clinical Science Departments by \r\n              Degree Figure 4. (PDF, 1 page - 69 KB) U.S. Medical School Female Faculty by Race/Hispanic \r\n            Origin Figure 5. (PDF, 1 page - 69 KB) U.S. Medical School Male Faculty by Race/Hispanic \r\n            Origin Figure 6. (PDF, 1 page - 62 KB) U.S. Medical School Faculty by Department"
+      "text": "U.S. Medical School Faculty Trends, 1995-2005 summarizes changes \r\n        in the distribution of full-time faculty members across various dimensions \r\n        over the last decade. In figures 3a and 3b, \"OHD\" denotes \"Other Health Doctorate\" \r\n        which includes doctorates in dentistry, veterinary medicine, public health, \r\n        optometry, and other health-related fields. Race/Hispanic origin trends \r\n        reflect Faculty Roster data collection and reporting practices at the \r\n        time. The Faculty Roster began collecting and reporting multiple race \r\n        information in 2002. Select the links below to view specific trends:"
+    },
+    {
+      "tag": "p",
+      "text": "Figure 1. (PDF, 1 page - 58 KB) U.S. Medical School Faculty by Sex Figure 2. (PDF, 1 page - 62 KB) U.S. Medical School Female Faculty as a Percent of Each Rank Figure 3. (PDF, 1 page - 58 KB) U.S. Medical School Faculty in Basic Science Departments by Degree Figure 3b. (PDF, 1 page - 62 KB) U.S. Medical School Faculty in Clinical Science Departments by \r\n              Degree Figure 4. (PDF, 1 page - 69 KB) U.S. Medical School Female Faculty by Race/Hispanic \r\n            Origin Figure 5. (PDF, 1 page - 69 KB) U.S. Medical School Male Faculty by Race/Hispanic \r\n            Origin Figure 6. (PDF, 1 page - 62 KB) U.S. Medical School Faculty by Department"
     },
     {
       "tag": "h3",
@@ -60,19 +64,7 @@
     },
     {
       "tag": "p",
-      "text": "Faculty Roster staff are able to conduct special reports for individuals \r\n        whose needs are not met from existing reports. Special reports may vary \r\n        from simple analyses requiring minimal programming to complicated analyses \r\n        requiring significant time and effort. The charge for a special report \r\n        depends on the length of time to complete the analysis, with three hours \r\n        as the typical length of time. For additional information, contact Hershel \r\n        Alexander, halexander@aamc.org . This page contains documents in Portable Document Format (PDF). \r\n  The Adobe Acrobat® Reader® is required to view PDF documents. Download \r\n  Acrobat® Reader® ."
-    },
-    {
-      "tag": "div",
-      "text": "#EndEditable"
-    },
-    {
-      "tag": "p",
-      "text": "Contact Us © 1995-2006 \r\n\t\tAAMC Terms and Conditions Privacy \r\n\t\tStatement"
-    },
-    {
-      "tag": "div",
-      "text": "#EndTemplate"
+      "text": "Faculty Roster staff are able to conduct special reports for individuals \r\n        whose needs are not met from existing reports. Special reports may vary \r\n        from simple analyses requiring minimal programming to complicated analyses \r\n        requiring significant time and effort. The charge for a special report \r\n        depends on the length of time to complete the analysis, with three hours \r\n        as the typical length of time. For additional information, contact Hershel \r\n        Alexander, halexander@aamc.org . This page contains documents in Portable Document Format (PDF). \r\n  The Adobe Acrobat® Reader® is required to view PDF documents. Download \r\n  Acrobat® Reader® . Contact Us © 1995-2006 \r\n\t\tAAMC Terms and Conditions Privacy \r\n\t\tStatement"
     }
   ]
 }

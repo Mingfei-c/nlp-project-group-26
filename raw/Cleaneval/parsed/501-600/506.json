@@ -3,20 +3,16 @@
   "file_number": "506",
   "content_hash": "81a9c0280d7ff5acf2cfae81ecb64713f0f2a4777a722a2783b33ebb11dc1627",
   "total_blocks": 327,
-  "retained_blocks": 23,
-  "ignored_blocks": 304,
+  "retained_blocks": 21,
+  "ignored_blocks": 306,
   "blocks": [
     {
       "tag": "div",
-      "text": "HTML PUBLIC \"-//IETF//DTD HTML//EN\" webbot bot=\"Include\" U-Include=\"../../_private/archivehead.htm\" TAG=\"BODY\" startspan"
+      "text": "HTML PUBLIC \"-//IETF//DTD HTML//EN\""
     },
     {
       "tag": "h6",
       "text": "encyclopaedia archives extras"
-    },
-    {
-      "tag": "div",
-      "text": "webbot bot=\"Include\" i-checksum=\"22852\" endspan"
     },
     {
       "tag": "h1",
@@ -36,7 +32,11 @@
     },
     {
       "tag": "p",
-      "text": "The Educational Settlements Association (founded in 1920) \r\n              consisted of 29 settlements and seven residential colleges at the \r\n              time of this publication (they are listed in the appendix). Most \r\n              of the settlements in \r\n              membership were non-residential. For an exploration of the development of educational \r\n              settlements see Mark Freeman - educational settlements . [ page 1 ] DURING the last thirty years a new \r\n      educational development has been taking placethe growth of Residential \r\n      and non-Residential Colleges for adult students, or what is more generally \r\n      known as the Educational Settlement Movement. The idea of the Movement is \r\n      that of education in community and in it many people have found a deep and \r\n      abiding interest and concern. Because of its value and infection it is now \r\n      shared by a very much wider public than formerly. The assertion of truth, the unveiling of illusion, the dissipation of \r\n      hate, the enlargement and instruction of mens hearts and minds are some \r\n      of the indispensable and urgent duties and services of our time and all \r\n      true citizens should be identified with them. For many, Ifeel sure, the \r\n      effective medium for the discharge of these duties and the fulfilment of \r\n      these services is to be found in the Movement with which this pamphlet is \r\n      concerned. ARNOLD S. ROWNTREE, President of the Educational Settlements Association. January 1938."
+      "text": "The Educational Settlements Association (founded in 1920) \r\n              consisted of 29 settlements and seven residential colleges at the \r\n              time of this publication (they are listed in the appendix). Most \r\n              of the settlements in \r\n              membership were non-residential. For an exploration of the development of educational \r\n              settlements see Mark Freeman - educational settlements ."
+    },
+    {
+      "tag": "p",
+      "text": "[ page 1 ] DURING the last thirty years a new \r\n      educational development has been taking placethe growth of Residential \r\n      and non-Residential Colleges for adult students, or what is more generally \r\n      known as the Educational Settlement Movement. The idea of the Movement is \r\n      that of education in community and in it many people have found a deep and \r\n      abiding interest and concern. Because of its value and infection it is now \r\n      shared by a very much wider public than formerly. The assertion of truth, the unveiling of illusion, the dissipation of \r\n      hate, the enlargement and instruction of mens hearts and minds are some \r\n      of the indispensable and urgent duties and services of our time and all \r\n      true citizens should be identified with them. For many, Ifeel sure, the \r\n      effective medium for the discharge of these duties and the fulfilment of \r\n      these services is to be found in the Movement with which this pamphlet is \r\n      concerned. ARNOLD S. ROWNTREE, President of the Educational Settlements Association. January 1938."
     },
     {
       "tag": "h4",
@@ -87,16 +87,8 @@
       "text": "The foregoing does not include courses of study provided by the \r\n      Residential Colleges, particulars of which are given in the pamphlet Residential Colleges for Adult Education (see page 4). [ page 15 ] RESIDENTIAL COLLEGES CROFT COLLEGE, STOKE PRIOR, NEAR BROMSGROVE, WORCS. For agricultural and rural workers (Men). Principal: James Dudley, M.Sc. COLEG HARLECH, HARLECH, NORTH WALES. For students from adult education classes. Short courses also arranged for unemployed \r\n      men. Principal. B. B. Thomas, M.A. FIRCROFT COLLEGE, BOURNVILLE, BIRMINGHAM. For men from industry, commerce, etc., or from public or social services. PrincIpal: \r\n      W. W. Lee, B.Sc. HILLCROFT COLLEGE, SURBITON, SURREY. For women workers. Principal: Miss M. K. Ashby, B.A., M.Ed. NEWBATTLE ABBEY COLLEGE, DALKEITH, SCOTLAND. For men and women workers. PrincIpal: Alexander G. Fraser, C.B.E., M.A. RUSKIN COLLEGE, OXFORD. Courses for men and women workers. Principal: A. Barratt Brown, M.A. WOODBROOKE, SELLY OAK, BIRMINGHAM. Religious and Social courses. Wardens. Henry T. Cadbury, M.A., Lucy B. Cadbury. Director of \r\n      Studies: H. G. Wood, M.A., D.D. EDUCATIONAL SETTLEMENTS ABERDARE: Aberdare Valley Settlement, Fairfield, Aberdare, Glam. \r\n      Warden: J. Victor Evans, M.A. BARGOED: Bargoed Educational Settlement, Cardiff Road, Bargoed, South \r\n      Wales. Wardens: J. I-I. Thomas, B.Litt.; Lucy Thomas. BIRKENHEAD: Beechcroft Settlement, Whetstone Lane, Birkenhead. Warden: \r\n      Charles Owen, B.A. BRISTOL: Folk House, College Green, Bristol. Wardens: Harold F. Bing, M.A.; Elizabeth M. Bing. DOWLAIS: Dowlais Centre, The Armoury,. Dowlais, South Wales. Warden: John Dennithorne. EDINBURGH: Edinburgh University Settlement, Cameron House, Prestonfield, \r\n      Edinburgh, 9. Warden: Miss Grace Drysdale. GATESHEAD: Bensham Grove Settlement, Gateshead-on-Tyne. Warden. D. R. 0. Thomas, M.A. LEEDS: Swarthmore Settlement, 4 Woodhouse Square, Leeds. Warden: Wilfrid Allott, B.A. LEMINGTON: The Settlement, Lemington-on-Tyne. Warden: Dr. A. Messer, B.Sc. \r\n      [ page 16 ] LETCHWORTH: The Settlement, Nevells Road, Letchworth. Warden: Miss Ruth I. Pym. LONDON: Balham Educational Settlement, Ramsden Road, Balham, S.W.12. Wardens. E. J. \r\n      Fullwood; Mrs. Fullwood. John Woolman Settlement, Memorial Buildings, Roscoe Street, E.C.1. Warden: Charles R. Simpson. Mary Ward Settlement, 36 Tavistock Place, W.C.1. Hon. Warden.:  C. C. Walkinshaw, J.P. Toynbee Hall, Commercial Street, E.1. Warden: Dr. J. J. Mallon. Walthamstow Educational Settlement, Greenleaf Road, E.17. Warden: J. Owen Clover. MERTHYR TYDFIL: Merthyr Settlement, Merthyr Tydfil. Warden: NORTHWICH: Wincham Hall, Northwich, Cheshire. Warden: Frank S. Milligan, M.A. PONTYPOOL: Pontypool Educational Settlement, Rockhill Road, Pontypool, \r\n      Mon. Wardens: Ivor and Mrs. Thomas. PONTYPRIDD: Educational Settlement, Pontypridd, South Wales. Warden: T. Glyn Davies, M.A. PLYMOUTH: Swarthmore Hall, Mutley Plain, Plymouth. Warden: Arthur S. Gage, B.A. READING: Holybrook House, Castle Street, Reading. Warden: T. W. Price, B.Litt. TREALAW: Maes-yr-Haf Educational Settlement, Trealaw, The Rhondda, \r\n      South Wales. Wardens: William and Emma Noble. MARYPORT: Maryport Settlement, Castle Hill, Maryport, Cumberland. \r\n      Wardens: Ralph E. and Mrs. Reedman. RISCA: Oxford House Educational Settlement, Risca, Monmouthshire. \r\n      Wardens: J. V. Alexander, B.Sc.; Mrs. Alexander, B.A. RUGBY: Percival Guildhouse, Rugby. Warden: Raymond C. Rowse, M.A. SEAHAM HARBOUR: Rock House Educational Settlement, Seaham Harbour, Co. \r\n      Durham. Warden: E. A. S. Butterworth, M.A. WILMSLOW: The Beacon Guild, Bourne Street, Wilmslow, Cheshire. Warden: \r\n      Miss C. Fowler, B.A. DONCASTER: Terry Holt, Woodlands, near Doncaster. Warden: Miss W. Hogg. YORK: The Settlement, Holgate Hill, York. Wardens: R. Duncan Fairn, \r\n      B.Sc.(Econ.); Marion Fairn, B.Sc. How to cite this piece :  Educational \r\n      Settlements Association (1938) Community Education. Being a description \r\n      of the work of residential and non-residential colleges for adult \r\n      education , London: Educational Settlements Association. Available in the \r\n      informal education archives : http://www.infed.org/archives/e-texts/esa_community_education.htm . This piece has been reproduced here on the understanding that it is \r\n      not subject to any copyright restrictions, and that it is, and will \r\n      remain, in the public domain. First placed in the archives: July 2004"
     },
     {
-      "tag": "div",
-      "text": "webbot bot=\"Include\" U-Include=\"../../_private/hpfooter.htm\" TAG=\"BODY\" startspan"
-    },
-    {
       "tag": "h6",
       "text": "infed is an open, independent and not-for-profit site put together by a small \r\n        group of educators [ about \r\n        us ]. Give us your feedback ; write for us. Check our copyright notice when copying."
-    },
-    {
-      "tag": "div",
-      "text": "webbot bot=\"Include\" i-checksum=\"33865\" endspan"
     }
   ]
 }
