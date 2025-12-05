@@ -58,7 +58,7 @@ BLOCK_TAGS = {
 }
 
 # Define tags to be removed
-IGNORE_TAGS = {'script', 'style', 'noscript', 'meta', 'head', 'title'}
+IGNORE_TAGS = {'script', 'style', 'noscript', 'meta', 'title'}
 
 # Supported HTML file extensions
 HTML_SUFFIXES = {'.html', '.htm'}

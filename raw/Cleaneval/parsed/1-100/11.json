@@ -1,0 +1,30 @@
+{
+  "url": "http://archive.food.gov.uk/maff/archive/food/novel/stevreb.htm",
+  "file_number": "11",
+  "content_hash": "ee63525b62bc9f5de26debf8294fc33e165fa96331672ee5aca7f068293390df",
+  "total_blocks": 71,
+  "retained_blocks": 5,
+  "ignored_blocks": 66,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "#BeginTemplate \"/Templates/maff.dwt\" #BeginEditable \"doctitle\" #EndEditable #BeginLibraryItem \"/Library/top_links.lbi\" | Help | Site \n  map | Search | Text \n  links | #EndLibraryItem #BeginEditable \"title%20\" Archive \n                  - MAFF #EndEditable Home Archive #BeginLibraryItem \"/Library/dot_green.lbi\" • #EndLibraryItem MAFF Dept \n                        of Health Scottish \n                        Executive #BeginEditable \"body%20copy\" The information in the archive was published by MAFF, Department of Health and the \n                  Scottish Executive before April 1st 2000 when the Food Standards \n                  Agency was established. overall font size tag"
+    },
+    {
+      "tag": "p",
+      "text": "Advisory Committee on Novel Foods and Processes Evaluation of Stevia rebaudiana Bertoni as a novel food Dr F Campoli DGIII/E/i Rue de la Loi B-1049 Brussels Belgium 19 October 1998 Dear Mr Campoli Evaluation of Stevia rebaudiana Bertoni as a novel food The UK Competent Authority has examined the opinion from the Belgian CA on this application and agrees with the conclusion they reached, that the data provided are inadequate to support approval of this material as a novel food. We share their\nconcerns regarding this application and note particularly the lack of information on:- i) the estimates of likely\n        intake of the material; ii) the specification for the\n        material, which is inadequate, particularly in terms of the level of stevioside. We would\n        normally expect to see the results of analyses of at least three batches of material to\n        demonstrate that the material to be sold is of a consistent composition; iii) the extent to which the\n        active component stevioside is metabolised by human gut bacteria and the possible\n        toxicological consequences of such metabolism. We also note that the active component stevioside has been evaluated previously by both\nthe EC Scientific Committee for Food and also by the Joint FAO/WHO Expert Committee on\nFood Additives (earlier this year) and that both have concluded that the toxicological\ndata available were inadequate. After our expert advisory committee had examined the opinion of the Belgian CA, we\nreceived the additional information contained in a revised application from Prof Dr J M C\nGeuns, that was circulated with the papers for the Standing Committee meeting on 28/29\nOctober. We assume that submission of these additional data will now result in all the\ninformation being referred to the Scientific Committee for Food, as laid down in the\nprovisisons of the Novel Food Regulation. However we would make the following points about\nthe additional information provided: i) the specification and\n        analytical data are still not adequate to provide reassurance that this is a consistent\n        product; ii) many of the studies quoted\n        on page 12 of the revised document are conducted on \" Stevia extract\" but\n        the composition of this extract is not described; iii) the subacute and chronic\n        toxicity studies are conducted on stevioside rather than the dried plant material and\n        there is still a lack of evidence on the extent to which stevioside present in the dried\n        plant material might be metabolised by human gut flora and the toxicological consequences\n        of this in terms of the formation of steviol. We welcome the opportunity to discuss this application at the Standing Committee for Foodstuffs meeting on 29 October. Yours sincerely Mrs S J Hattersley UK Competant Authority (EU Regulation 258/97) Copied to: Dr A Klepsch Mr N Tomlinson Go to top of page Back to ACNFP page This page was last updated 23 March 1999 #EndEditable"
+    },
+    {
+      "tag": "div",
+      "text": "#BeginLibraryItem \"/Library/arc_text_links.lbi\""
+    },
+    {
+      "tag": "p",
+      "text": "| Help | © Crown Copyright | Government \n  Information Website | | Home | Archive | Site map | Search | MAFF | Dept \n  of Health | Scottish Executive | #EndLibraryItem"
+    },
+    {
+      "tag": "div",
+      "text": "#EndTemplate"
+    }
+  ]
+}

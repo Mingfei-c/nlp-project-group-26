@@ -1,0 +1,190 @@
+{
+  "url": "http://www.bris.ac.uk/Depts/History/Postgrads/pgdissertations.htm",
+  "file_number": "295",
+  "content_hash": "f61d6386a49544a5ef0172b97d18669b873320d4576cc3f5f27df597455e41c6",
+  "total_blocks": 162,
+  "retained_blocks": 45,
+  "ignored_blocks": 117,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" #BeginTemplate \"/Templates/HistoryTemplate.dwt\" DW6 #BeginEditable \"doctitle\" #EndEditable #BeginEditable \"meta\" #EndEditable Department of Historical Studies"
+    },
+    {
+      "tag": "p",
+      "text": "Home Undergraduates Postgraduates Staff Research News"
+    },
+    {
+      "tag": "div",
+      "text": "#BeginEditable \"picture\" #EndEditable"
+    },
+    {
+      "tag": "p",
+      "text": "University of Bristol Dept of Historical Studies 13 Woodland Road Bristol BS8 1TB United Kingdom T: 0117 928 7934/36 F: 0117 928 8276 Webmaste r Updated: #BeginEditable \"date\" #BeginDate format:En2 26-Aug-2005 #EndDate #EndEditable W3C: Valid XHTML 1.0"
+    },
+    {
+      "tag": "div",
+      "text": "#BeginEditable \"central\""
+    },
+    {
+      "tag": "h1",
+      "text": "Postgraduates"
+    },
+    {
+      "tag": "h2",
+      "text": "Dissertation Conventions"
+    },
+    {
+      "tag": "p",
+      "text": "This style-sheet contains advice about recommended conventions \n              bearing on how to set out the dissertation and to refer to material \n              in notes and the bibliography. These conventions must also be followed \n              in your assessed essays, which you should use, inter alia , \n              to practise presentational skills. Presentation and accuracy are \n              important for more than stylistic reasons. Examiners will be concerned \n              to scrutinise text layout, notes and bibliography in order to form \n              an impression of your research technique. This cannot be a comprehensive guide. If you identify omissions \n              or areas which need clarification, please report them to Robert \n              Bickers so that they may be incorporated into later versions of \n              this booklet. Your comments and suggestions will be very much appreciated. It is important to note that there is no universally accepted series \n              of conventions. Most British academic presses (for example Oxford \n              University Press (OUP), Cambridge \n              University Press (CUP) and Blackwell) have their own idiosyncratic \n              rules which cannot always be reconciled (and which they do not always \n              manage to follow consistently from book to book). North American \n              presses are generally more consistent in their conventions, but \n              their annotation tends to be elaborate by British standards: for \n              example, it is necessary to give the publisher of a book as well \n              as the place of publication, and the authors' first names are given \n              in full. So it is best not to follow American usage simply because \n              it increases the amount of information which needs to be recorded \n              and checked. Among the British presses, Blackwell stands out for \n              the clarity and consistency of its annotation system. The recommendations \n              below are substantially based on its practice. The point to emphasise \n              is that you have some latitude in the choice of conventions: internal \n              consistency within the dissertation is what matters above all \n              else."
+    },
+    {
+      "tag": "h3",
+      "text": "Contents:"
+    },
+    {
+      "tag": "div",
+      "text": "Books (short title system) Harvard system Articles Abbreviations Manuscripts Page extents Arranging the bibliography Quotations Web citations Miscellaneous"
+    },
+    {
+      "tag": "h3",
+      "text": "Books"
+    },
+    {
+      "tag": "p",
+      "text": "(Return to Contents) In the bibliography books should be cited by their full \n              title (including subtitle, if there is one, after a colon) together \n            with place of publication and date. Thus: Lewis, Jane, The Politics of Motherhood: Child and Maternal \n                Welfare in England, 1900-1939 (London, 1980). N.B. Underlined text may be used instead of italics, provided \n              of course that your usage is wholly consistent. If you are able \n              to use italics, they do look more professional. In the notes the first reference to a book should give its \n              full title, place of publication and date, just as it appears in \n              the Bibliography. Note, however, that the initials or given name \n              now come before the surname. Thus: Jane Lewis, The Politics of Motherhood: Child and Maternal \n                Welfare in England, 1900-1939 (London, 1980). How does one establish what the title actually is? It sometimes \n              happens that there are slightly different versions of the title \n              in various parts of the book. Disregard the dust-jacket (if there \n              is one, of course) and go by the internal title page. This is not \n              the very first page, which usually has just the title on it, but \n              the page which is overleaf. (It will usually have the author's name \n              and the name of the press on it as well.) Follow what this title \n              page says; the only addition which need be made routinely is supplying \n              a colon to separate the title and the subtitle. Look out for minor \n              variations. For example, there is sometimes a comma before the dates \n              at the end of a title, sometimes not."
+    },
+    {
+      "tag": "div",
+      "text": "Volumes with multiple authors:"
+    },
+    {
+      "tag": "p",
+      "text": "Jane Lewis, David Clark and David H.J. Morgan, 'Whom God \n                  Hath Joined Together': The Work of Marriage Guidance (London, \n                  1992). (use the order of authors given on the title page)"
+    },
+    {
+      "tag": "div",
+      "text": "Edited volumes:"
+    },
+    {
+      "tag": "p",
+      "text": "Jane Lewis (ed.), Lone Mothers in European Welfare Regimes: \n                  Shifting Policy Logics (London, 1997). Jane Lewis, Marilyn Porter and Mark Shrimpton (eds), Women, \n                  Work and Family in the British, Canadian and Norwegian Offshore \n                Oilfields (Basingstoke, 1988). After the first reference the title should be abbreviated. \n              Agood rule of thumb is that when abbreviating you should:"
+    },
+    {
+      "tag": "div",
+      "text": "Drop the definite or indefinite article if this is the first \n                word of the title. Retain all the words up to and including the first noun."
+    },
+    {
+      "tag": "p",
+      "text": "Thus: Lewis, Politics of Motherhood . Lewis et al , 'Whom \n                God Hath Joined Together' . Lewis et al (eds), Women, \n                Work and Family . It is not uncommon that an author has produced several works with \n              similar titles. If this is the case, expand the abbreviated reference \n              until you reach the first noun which makes the title you mean unambiguous. Short titles are much better than using op. cit. ('the \n              work mentioned'). This can be very confusing because it obliges \n              the reader to trawl back through the earlier notes. Similarly, you should be very sparing in the use of ibid. ('the same work') when you find yourself having to refer to the \n              same title in consecutive notes. Only do this when only one title \n              is mentioned in both notes, so that there is no uncertainty about \n              what the 'same work' refers to. If in doubt, do not use ibid. at \n              all; simply repeat shortened titles. Avoid id. / ead. ('the same male/female author'). \n              Repeat the name. If a book is part of a series it is up to you whether to cite \n              this. Generally speaking, it is not necessary to give series titles \n              if they are not numbered: e.g. Oxford Historical Monographs. If \n              the series is numbered, it can be an awkward decision where to include \n              it without making the whole reference rather cumbersome. One technique \n              is to tuck the series, not italicised, inside the brackets and separated \n              from the place and date by means of a semicolon. Thus: M. Atkins, Informal Empire in Crisis: British Diplomacy and \n                the Chinese Customs Succession, 1927-1929 (Cornell East Asia \n                Series, 74; Ithaca, N.Y., 1995). When referring to a multi-volume single work, it is a good idea \n              to give the volume number as a lower-case roman numeral. This prevents \n              any confusion with page references. Thus: J. K. Fairbank, K. F. Bruner and E. M. Matheson (eds), The \n                I. G. in Peking: Letters of Robert Hart, Chinese Maritime Customs \n                1868-1907 , 2 vols. (Cambridge, Mass., 1975), i. 6-12, 34-42; \n                ii. 96-100. Note two things about this reference:"
+    },
+    {
+      "tag": "div",
+      "text": "the use of the semicolon to separate page numbers in the different \n                volumes the use of a full point rather than a comma between the volume \n                number and the first page extent - this looks better when there \n                is a juxtaposition of lower-case roman numerals and arabic numerals."
+    },
+    {
+      "tag": "p",
+      "text": "When abbreviating book titles, use acronym-type abbreviations \n              very sparingly. Only do so if the title is referred to very often. To discover the place of publication of a book, use the internal \n              title page and the page which gives details of, inter alia , \n              the ISBN number. The place of publication is not necessarily \n              the same as the place where the book was set and/or printed. If \n              two or more places of publication are given, confine your reference \n              to the first place mentioned: this applies even if one of the other \n              places is in the UK. So, University of Chicago Press = Chicago and \n              London = for our purposes Chicago. To avoid confusing Cambridge \n              (USA), home of Harvard University Press, and Cambridge (UK), home \n              of Cambridge University Press, the state in which Cambridge (USA) \n              is located is added to the place of publication. Thus: J. K. Fairbank, K. F. Bruner and E. M. Matheson (eds), The \n                I. G. in Peking: Letters of Robert Hart, Chinese Maritime Customs \n                1868-1907 , 2 vols. (Cambridge, Mass., 1975). (Return to Contents)"
+    },
+    {
+      "tag": "h3",
+      "text": "The Harvard System"
+    },
+    {
+      "tag": "p",
+      "text": "There is another convention for bibliographies and notes which \n              is sometimes known as the Harvard System. Here the title in the bibliography is listed in the form:  Hennessy, Peter. \n              1992. Never Again: Britain, 1946-51 . London.  All references \n              in the notes , including the first, then become: Hennessy \n              1992, 23-7.  If an author has produced more than one item in \n              the same year, the works are distinguished by lower-case letters \n              immediately after the date, with no spacing. Thus: Hennessy 1992a, \n              27.  It is also possible to insert Harvard System references \n              into the body of the text, where you might otherwise use a footnote, \n              placing the citation in brackets. For example:  ...Its flaws \n              have become familiar (Bose 1990a, 36-8; Cooper et al. 1990, 1-9)... \n              The advantage of the Harvard System is that it is very neat. The \n              disadvantage is that it makes footnotes look rather bleak, or else \n              it breaks up the text, and it obliges the reader to refer constantly \n              to the bibliography, whereas with the normal method one tells the \n              reader what the full title is and then provides constant reminders \n            by means of abbreviated titles. (Return to Contents)"
+    },
+    {
+      "tag": "h3",
+      "text": "Articles"
+    },
+    {
+      "tag": "p",
+      "text": "In the case of articles, it is the title of the journal which must \n            be italicised/underlined. Thus in the notes : W. R. Louis, 'Hong Kong: the Critical Phase, 1945-1949', American \n                Historical Review , 102 (1997), 1052-84. Christopher Thorne, 'Racial Aspects of the Far Eastern War of \n                1941-45, Proceedings of the British Academy , 66 (1980), \n              329-77. Note the position of the commas and the use of single inverted \n              commas. Double inverted commas are reserved for quotation marks \n              within the title: e.g.: Robert A. Bickers, '\"Coolie work\": Sir Reginald Johnston at the \n                School of Oriental Studies, 1931-1937', Journal of the Royal \n                Asiatic Society , Series III, 5 (1995), 385-401. Like book references the order of author surname/given name in \n              the citation is different in bibliographies. The entry in the \n              bibliography will read: Louis, W. R., 'Hong Kong: the Critical Phase, 1945-1949', American \n                Historical Review , 102 (1997), 1052-84. When the title of a journal starts with the definite article, \n              this is not reproduced. So English Historical Review , not The English Historical Review . For articles in edited collections: N. Cox, 'Public Records', in A. Seldon (ed.), Contemporary \n                History: Practice and Method (Oxford, 1988), 70-88. Abbreviated as: Cox, 'Public Records'. If there are two or more editors use (eds.). Some journals list the titles of their articles with no upper-case \n              letters other than the beginning of the first word and, of course, \n              proper nouns. Here you have a choice. Either scrupulously \n              follow the conventions of each particular journal or standardise \n              by having capital letters throughout. On balance, the second method \n              is preferable because otherwise the notes can appear uneven. It is impossible to provide unambiguous rules about the use of \n              capitals in titles. The general rule is that important words take \n              a capital. You will not go far wrong if you use a capital for the \n              following: nouns, adjectives, adverbs and most verbs.  \n              The following do not take a capital:  conjunctions, \n              prepositions, verbs expressing a state (esp. 'to be'), modal verbs \n              (e.g. 'might', 'should', 'could'), pronouns, and the (in)definite \n              article.  The first letter of the first word of a title is \n              always a capital. (Return to Contents)"
+    },
+    {
+      "tag": "h3",
+      "text": "Abbreviations"
+    },
+    {
+      "tag": "p",
+      "text": "Works referred to frequently may conveniently be cited by an abbreviation, \n              provided a List of Abbreviations is included at the beginning of \n            the dissertation. Thus: AHR American Historical Review EHR English Historical Review JCH Journal of Contemporary History You will become familiar with the journals and series that crop \n              up regularly in your chosen subject area: look at the List of Abbreviations \n              in the books you use. Be fairly sparing with abbreviations. Agood rule of thumb is \n              that a journal may be abbreviated if you have references to three \n              or more different articles appearing in it. One- or two-word journal titles should not be abbreviated. So, Contemporary History does not become CH , nor Albion \n              A. You may also conveniently cite abbreviations for organisations \n              referred to frequently in the text, provided that they are included \n              in the List of Abbreviations. It is customary and helpful to name \n              the organisation in full the first time it is referred to, and indicate \n              the abbreviation to be used. 'The Shanghai Municipal Council (SMC) had had a police force \n                since 1854, and as over the years it had arrogated to itself more \n                powers, and more land, so the Shanghai Municipal Police (SMP) \n              had become a more and more important instrument of control.' (Return to Contents)"
+    },
+    {
+      "tag": "h3",
+      "text": "Manuscripts and Archival Records"
+    },
+    {
+      "tag": "p",
+      "text": "Here conventions vary because of the wide variety of documentation \n              preserved in many different places. Most archives will have guidelines \n              available indicating the conventions they prefer, or will be able \n              to tell you when you ask. You should also consult your supervisor \n              about the most suitable conventions for the particular material \n            you are studying. The general rule is that manuscript material is cited by city \n              and location, with no underlining. Thus: London, Bank of England, ADM 16, Misc. Papers Charles Addis. \n                Oxford, Angus Library, Regents Park College, Baptist Missionary \n                Society Archives. The full description of the depository need only be given once, \n              and a short title used thereafter: Maurice Tinkler to Edith Wharton, 21 Dec. 1921, London, Imperial \n                War Museum, Department of Documents, R. M. Tinkler papers, Box \n                2 (hereafter Tinkler papers). Where applicable, manuscripts are cited by folio number + r (for \n              recto, the front - equivalent to an odd-numbered page in a book) \n              or v (for verso, the back - equivalent to an even-numbered page). \n              Thus: Paris, Bibliothèque Nationale, MS lat. 44, fo. 76r. Interviews if conducted by the author are cited by name of interviewee, \n              place and date of interview. Thus: Interview with Frank Peasgood, Brighton, 21 September, 1996. Oral history references taken from existing collections are usually \n              treated as manuscript material and may be cited according: John Swire and Sons Ltd., Company Archives, Oral History Transcripts, \n                Interview with Jack Fisher, 23 June, 1967, p. 12. (Return to Contents)"
+    },
+    {
+      "tag": "h3",
+      "text": "World Wide Web"
+    },
+    {
+      "tag": "p",
+      "text": "Pages are cited thus: Limb, Peter. 'Alliance Strengthened or Diminished?: Relationships \n                between Labour & African Nationalist/Liberation Movements \n                in Southern Africa'. < http://www.neal.ctstateu.edu/history/world_history/archives/limb-l.html > \n                May 1992. Acomprehensive guide to such conventions can be found at:  \n              Melvin E. Page, 'Abrief citation guide for internet sources in history and the humanities' prepared for H-AFRICA Humanities On-Line, and History Department, \n              East Tennessee State University. (Version 2.1) 20 February 1996. (Return to Contents)"
+    },
+    {
+      "tag": "h3",
+      "text": "Page Extents"
+    },
+    {
+      "tag": "p",
+      "text": "It is not necessary to preface page references with 'p.' or 'pp.', \n              though you may do so. But when material is not conventionally paginated, \n              you should draw attention to this by means of, for example, 'col.'/'cols.' \n            for column(s). Be precise in giving page extents. Avoid passim ('throughout \n              the work'/'everywhere') because it looks lazy and leads the examiner \n              to wonder whether you have read the work carefully. Similarly, avoid et seq . ('and what follows'). Equally unsatisfactory are \n              'f.' ('and the next few pages') and 'ff.' ('and the following pages') \n              after a page reference. You should take care to provide meaningful page extents in your \n              notes. One sometimes reads a sentence advancing a broad proposition \n              which is supported by a reference to only one or two pages of secondary \n              work. This is inadequate. You should refer to the whole run of pages \n              where the point you are making is discussed. And you should try \n              to refer to more than one work: important points made on the back \n              of just one book or article look rather thin. When giving page extents some contraction is preferable. (But \n              see below about roman numerals.) The general rule is that one counts \n              from the units up through the tens, hundreds etc. until there is \n              no repetition. Thus: 147-149 = 147-9 147-168 = 147-68 147-213 = 147-213 There is one slight exception to this rule: page extents involving \n              teens keep the tens figure.  Thus: 113-117, not 113-7. This is easy to remember because page extents are written virtually \n              as they are pronounced, and 'one hundred and thirteen-to-seven' \n              is ridiculous. When referring to roman-numeral page extents (for example in an \n              introduction or preface), use lower case: e.g. xxii-xxiv. Note that \n              the arabic equivalent 22-24 should be expressed as 22-4 whereas \n              roman numerals cannot be shortened; xxii-iv is impossible. (Return to Contents)"
+    },
+    {
+      "tag": "h3",
+      "text": "Arrangement of the Bibliography"
+    },
+    {
+      "tag": "p",
+      "text": "The Bibliography should be split into either two or three parts \n            depending on the types of primary material you have used:"
+    },
+    {
+      "tag": "div",
+      "text": "Primary Manuscript Sources Primary Printed Sources Secondary Works (note that the term 'Secondary Sources' is a \n                solecism)"
+    },
+    {
+      "tag": "p",
+      "text": "Or:"
+    },
+    {
+      "tag": "div",
+      "text": "Primary Sources Secondary Works"
+    },
+    {
+      "tag": "p",
+      "text": "Primary sources are listed alphabetically by location.  Printed \n              sources are also listed alphabetically.  The listing of secondary \n              works is quite straightforward. Go alphabetically by author. When listing several works by one author, you should list them \n              by date, starting with the first to be published. If a work is anonymous, or if one is dealing with a collection \n              of sources where there is no imputed authorship (e.g. a collection \n              of documents), it is listed alphabetically by the title. Ignore \n              definite/indefinite articles. Thus Documents on British Foreign \n              Policy would be listed under the letter D . And The \n              Yi Ho Tuan Movement of 1900 under the letter Y . (Return to Contents)"
+    },
+    {
+      "tag": "h3",
+      "text": "Quotations"
+    },
+    {
+      "tag": "p",
+      "text": "Long quotations (two sentences or more) should be rendered as a \n            block of text indented on both the left- and right-hand margins. The normal way to preface an indented quotation is with a colon.  \n              No punctuation is used, however, if the quotation runs grammatically \n              from the immediately preceding portion of text. Inverted commas are not used around indented quotations. With shorter quotations use SINGLE inverted commas. Double \n              inverted commas are only used when a quotation appears within another. \n              Thus: He first wrote, 'Iheard the minister say \"What!\"'. (Return to Contents)"
+    },
+    {
+      "tag": "h3",
+      "text": "Miscellaneous Points"
+    },
+    {
+      "tag": "p",
+      "text": "Different works are separated in notes by a semicolon.  Romance-language \n              (French, Spanish, Italian) titles seldom use capitals other than \n              for the first word and proper nouns. If capitals are not used, they \n              should not be supplied. Note that this advice is contrary to the \n              conventions of the CUP and OUP, which insist that Romance titles \n              take capitals up to and including the first noun; this system makes \n              notes look lop-sided and should be avoided.  For spelling conventions \n              (e.g. ise or ize , erred or ered ) as \n              well as for much else, you should consult The Oxford Writers' \n              Dictionary , comp. R. E. Allen, which is widely available in \n              paperback (Oxford Reference). This is an invaluable book. See also Fowler's Modern English Usage , ed. R. W. Burfield, another \n              paperback in the Oxford Reference series. Hart's Rules \n              for Compositors and Readers at the University Press Oxford (39th \n              edn.) is very useful too, but be warned that it uses OUP conventions \n            which sometimes depart from what is recommended here."
+    },
+    {
+      "tag": "div",
+      "text": "Be alert to the fact that some American university names are not the place of publication. Thus Yale = New Haven; Harvard \n                = Cambridge, Mass.; Cornell = Ithaca, NY. But Princeton = Princeton. Do not rely solely on the spellcheck facility of your \n                software. It can mangle proper nouns and more often than not uses \n                American spellings. Beware also the auto-correct function: \n                in the first draft of these guidelines EHR was routinely \n                corrected to HER . The superscript numbers of notes appear after the punctuation. \n                Thus .1 ;2 ,3 and so on. Translations of foreign terms should be give in the text in \n                brackets after their first appearance."
+    },
+    {
+      "tag": "p",
+      "text": "These guidelines are adapted, with thanks, from those compiled \n              by Marcus Bull for use in the MA in Medieval Studies (Return to top of page)"
+    },
+    {
+      "tag": "div",
+      "text": "#EndEditable #EndTemplate"
+    }
+  ]
+}

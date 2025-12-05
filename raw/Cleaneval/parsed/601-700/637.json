@@ -1,0 +1,182 @@
+{
+  "url": "http://www.pbs.org/wgbh/nova/galileo/mistake.html",
+  "file_number": "637",
+  "content_hash": "b0f1674fec2f580f0cd318b721df2185ba5c4459f6949b42a9eb88c3299fa888",
+  "total_blocks": 192,
+  "retained_blocks": 43,
+  "ignored_blocks": 149,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" #bbinclude \"galileo_js.incl\" end bbinclude #bbinclude \"nova_nav_top_06.incl\" NOVA Fall 2005 top nav start req navbar-06.css <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n         xmlns:trackback=\"http://madskills.com/public/xml/rss/module/trackback/\"\n         xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n<rdf:Description\n    rdf:about=\"http://www.pbs.org/wgbh/nova/galileo/mistake.html\"\n    trackback:ping=\"http://www.pbs.org/cgi-registry/trackback.pl/wgbh/nova/galileo/mistake.html\"\n    dc:identifier=\"http://www.pbs.org/wgbh/nova/galileo/mistake.html\" />\n</rdf:RDF> No Ad Zone defined for this page. NOVA logo/search nav bar cell of parent table end NOVA logo/search nav bar cell of parent table NOVA belt nav bar cell of parent table page top blue nav bar start page top blue nav bar end NOVA Fall 2005 top nav end end bbinclude Galileo nav start Galileo nav end page content table title area cell start page 1 title subtable start"
+    },
+    {
+      "tag": "p",
+      "text": "title His Big Mistake author by Peter Tyson"
+    },
+    {
+      "tag": "div",
+      "text": "page 1 title subtable end title area cell end gutter start gutter end back to homepage area start"
+    },
+    {
+      "tag": "p",
+      "text": "Galileo homepage"
+    },
+    {
+      "tag": "div",
+      "text": "back to homepage area end body copy area start"
+    },
+    {
+      "tag": "p",
+      "text": "For most of his adult life, from about the age of 30 until his death at 78 in\nthe year 1642, Galileo propounded his theory of how the tides work. Yet a\nlengthy summary of our understanding of the tides that the British physicist\nLord Kelvin published in 1882 mentions Galileo only in passing. Why the cursory treatment? Because Galileo's theory of the tides, while\nextremely well thought out and eminently reasonable considering the state of\nscientific knowledge at the time, was wrong. Indeed, it was the most\nsignificant stumble in an otherwise brilliant scientific career. Alook back\nat Galileo's big mistake offers clues to how and why such a great thinker could\nhave made it, and what lessons it can offer us today."
+    },
+    {
+      "tag": "div",
+      "text": "subhead start"
+    },
+    {
+      "tag": "p",
+      "text": "Aplanet like a barge"
+    },
+    {
+      "tag": "div",
+      "text": "subhead end"
+    },
+    {
+      "tag": "p",
+      "text": "It was in 1595 when Galileo, just shy of his 30th birthday, first came\nup with his explanation for the tides. The idea occurred to him while traveling\non a barge that was ferrying freshwater to Venice. (Galileo lived in nearby\nPadua and often visited Venice.) He noticed that whenever the barge's speed or\ndirection altered, the freshwater inside sloshed around accordingly. If the\nvessel suddenly ground to a halt on a sandbar, for instance, the water pushed\nup towards the bow then bounced back toward the stern, doing this several times\nwith ever decreasing agitation until it returned to a level state. Galileo realized that the Earth's dual motion—its daily one around its axis\nand its annual one around the sun—might have the same effect on oceans and\nother great bodies of water as the barge had on its freshwater cargo. The key,\nas Galileo saw it, was that even though we don't sense it, different parts of\nour planet move at different speeds depending on the time of day. It's as if\nthe Earth were a barge, which sped up, slowed down, and periodically changed\ndirection. In his \"Treatise on the Tides,\" a paper he wrote in 1616, Galileo used a\ndiagram to explain why he thought this was true (see animated version at right above). \nIn this animation, the Earth revolves in a counterclockwise direction both on its axis and around the sun. Galileo demonstrated that the combination of the two motions—the so-called\n\"absolute motion\"—is always fastest on the part of the circle near A,\nbecause that part is moving in the same direction for both the daily and annual\nmovements. And it is always slowest on the part of the circle near B, because\nthat part is moving in opposite directions for the daily and annual movements.\nHe determined that because the two absolute motions are additive on one side of\nthe globe and subtractive on the other, the extreme ends of any sufficiently\nlarge basin of water, such as the Mediterranean Sea, would be moving at\ndifferent speeds. The daily acceleration and deceleration of that body of\nwater, he reasoned, effects a sloshing within it—the tides. The chief objection to Galileo's argument was that his model should have called\nfor only one high tide a day, whereas there are roughly two. Galileo explained\nthis away by stating that many other factors play a role in creating a specific\ntidal situation. These include the length of a basin, its orientation, its\ndepth, the shape of its coasts, the effect of winds, and so forth."
+    },
+    {
+      "tag": "div",
+      "text": "subhead start"
+    },
+    {
+      "tag": "p",
+      "text": "Asensible theory"
+    },
+    {
+      "tag": "div",
+      "text": "subhead end"
+    },
+    {
+      "tag": "p",
+      "text": "Galileo thought he had discovered the correct explanation for the tides, one that would\nsink the other leading hypothesis of the day—namely, that the moon triggered\nthe tides. In 1609, the German mathematician Johannes Kepler had written, \"The\nsphere of influence of the attraction which is in the moon extends as far as\nthe Earth, and incites the waters up from the torrid zone....\" But because\nKepler and other proponents of the moon theory could offer no scientific\nexplanation for such influence, Galileo, who worked strictly on the basis of\nwhat he could see with his own eyes, found it impossible to believe; the theory\nsmacked of the occult, he declared. (It wasn't until Sir Isaac Newton published\nhis law of universal gravitation in 1687 that Kepler's \"attraction\" gained a\nfirm scientific footing. Today, of course, most schoolchildren know that Kepler\nwas right: the moon's gravitational tug gives rise to the tides.) Galileo also thought his tidal theory provided powerful support for the notion\nthat the Earth revolved around the sun (and not the other way around, as\nvirtually everyone in the world then believed). This notion was first advanced\nin the mid-16th century by the Polish astronomer Nicolaus\nCopernicus, who maintained that our planet's rotation and revolution around the\nsun accounted for the apparent movement of the heavenly bodies. Galileo\nbelieved in the Copernican rather the Ptolemaic system, which had held sway\never since Aristotle and his successor Ptolemy. The Ptolemaic view, that the\nEarth was the center of the universe and all heavenly bodies revolved around\nit, was insinuated by Catholic teachings to be supported by the Bible and\nwas therefore upheld by the Vatican. Even as he published his tidal theory in 1616, however, Galileo may have had\nsome lingering doubts about it. At the end of the \"Treatise,\" he says he hopes\nhis idea \"does not turn out to be delusive, like a dream which gives a brief\nimage of truth followed by an immediate certainty of falsity. This Isubmit to\nthe judgment of intelligent investigators.\" Such scientific investigators would\nnot appear for some time, and then, alas, they would judge him wrong."
+    },
+    {
+      "tag": "div",
+      "text": "subhead start"
+    },
+    {
+      "tag": "p",
+      "text": "In deep water"
+    },
+    {
+      "tag": "div",
+      "text": "subhead end"
+    },
+    {
+      "tag": "p",
+      "text": "In the meantime, Galileo had to face investigators of a different stripe:\ninquisitors. Within two months, the Inquisition placed Copernicus's book on\nthe Index of Prohibited Books. Called before the Pope's\ntheological adviser, Roberto Cardinal Bellarmino, Galileo was forced to\nagree not to defend or hold Copernicus's doctrine. For years, Galileo kept his thoughts on the matter close to his chest, but\neventually he could contain himself no longer. He fervently believed Copernicus\nwas right, and he would tell the world. In 1632, Galileo published his Dialogue Concerning the Two Chief World Systems. During the six years he\nhad labored on it, Galileo's working title for the book had been On the\nFlux and Reflux of the Sea, and indeed, he reprised his 1616 argument\nin the last of the book's four sections. All the old arguments were there. At one point, for example, one of the book's\nthree main characters, Salviati, who is a thinly disguised stand-in for\nGalileo, says, \"Among all the famous men who have philosophized [about the\ntides], Iwonder more at Kepler than any of the rest. Though he is a free and\nacute genius, he has lent his assent to the moon's dominance over the oceans\nand to other occult happenings and other such trifles.\" In a dramatic way, Galileo also broke his promise to obey the Church's mandate\nnot to espouse the Copernican system. The Dialogue represents, as\nanother superior thinker, Albert Einstein, put it in a foreword to a 1953\nedition of the book, \"a downright roguish attempt to comply with this order in\nappearance and yet in fact to disregard it. Unfortunately, it turned out that\nthe Holy Inquisition was unable to appreciate adequately such subtle humor.\"\nGalileo was placed under house arrest and the Dialogue banned."
+    },
+    {
+      "tag": "div",
+      "text": "subhead start"
+    },
+    {
+      "tag": "p",
+      "text": "Astrenuous quest"
+    },
+    {
+      "tag": "div",
+      "text": "subhead end"
+    },
+    {
+      "tag": "p",
+      "text": "Einstein had keen insights on why Galileo acted so rashly. First of all, it was\nGalileo's longing to find a mechanical proof of the Earth's motion, Einstein\nfelt, that misled him into not only formulating but clinging so tenaciously to\nhis flawed theory on the tides. The planet's motion accounts for the tides,\nGalileo posited, and the tides account for the planet's motion—it was all so\nneat. Moreover, all Galileo's astronomical observations convinced him that\nCopernicus was correct, and he wanted desperately to prove that fact\nscientifically. As Einstein put it, \"His aim was to substitute for a petrified\nand barren system of ideas the unbiased and strenuous quest for a deeper and\nmore consistent comprehension of the physical and astronomical\nfacts.\" Even Galileo's greatest blunder reveals his greatest strength as a scientist.\nReferring to the tidal theory, Stillman Drake, a leading Galileo scholar, once\nwrote, \"The prime source of Galileo's effectiveness was his bringing together\nof mathematics, astronomy, and physics in an inseparable relationship. Hence\neven a questionable example of such a relationship given by him was still\ncapable of revealing to others what sort of thing should be sought after in\nconstructing a scientific explanation.\" For another view of Galileo's contribution, \nsee His Place in Science .) That is, even though Galileo was wrong in this instance, he was right about the\ndirection of science (and showed it by example): away from a more speculative,\ndeductive approach and towards a more empirical, experimental method. Galileo\ndidn't make it into Lord Kelvin's seminal paper on the tides. But for all his\nwork, including his tidal theory, he secured a place in history as the\nfirst modern scientist."
+    },
+    {
+      "tag": "div",
+      "text": "body copy end sidebar top start sidebar image table start"
+    },
+    {
+      "tag": "p",
+      "text": "Galileo thought the tides occurred because of the Earth's daily rotation around its axis and its yearly circuit around the sun. For his reasoning, \nand an explanation of this animation, see main text at left."
+    },
+    {
+      "tag": "div",
+      "text": "sidebar anim image table end sidebar image table start /td>\n\t</tr>\n\t<tr align=\"left\">\n\t\t<td align=\"right\" valign=\"top\""
+    },
+    {
+      "tag": "p",
+      "text": "Galileo appears before the Inquisition, circa 1632, in a\n19th-century painting by Joseph-Nicolas Robert-Fleury."
+    },
+    {
+      "tag": "div",
+      "text": "sidebar image table end sidebar image table start /td>\n\t</tr>\n\t<tr align=\"left\">\n\t\t<td align=\"right\" valign=\"top\""
+    },
+    {
+      "tag": "p",
+      "text": "In the only mention of Galileo in his classic 1882 treatise on the tides, Lord Kelvin wrote that the Italian astronomer found the idea that the moon caused the tides \"a lamentable piece of mysticism....\""
+    },
+    {
+      "tag": "div",
+      "text": "sidebar image table end sidebar top end sidebar bot start sidebar further reading table start"
+    },
+    {
+      "tag": "p",
+      "text": "\"Galileo's Discourse on the Tides,\" by Galileo Galilei. In The Galileo\nAffair: A Documentary History , edited by Maurice A. Finocchiaro (Berkeley,\nCalif: University of California Press, 1989). Dialogue Concerning the Two Chief World Systems: Ptolemaic and\nCopernican , by Galileo Galilei (New York: The Modern Library, 2001). \"The Tides\" [Evening Lecture to the British Association at the Southhampton\nMeeting, Friday, August 25th, 1882], by Sir William Thomson (Lord\nKelvin). See www.bartleby.com/ 30/16.html"
+    },
+    {
+      "tag": "div",
+      "text": "/td>\n\t</tr>\n\t<tr align=\"left\">\n\t\t<td align=\"right\" valign=\"top\" sidebar further reading table end #bbinclude \"galileo_websitecontent.incl\" sidebar website NOVA content table start"
+    },
+    {
+      "tag": "p",
+      "text": "His Life An illustrated chronology of Galileo's life."
+    },
+    {
+      "tag": "div",
+      "text": "tr><td colspan=\"5\"><img src=\"/wgbh/nova/images02/spacer.gif\" alt=\"\" width=\"10\" height=\"10\" border=\"0\" /></td></tr"
+    },
+    {
+      "tag": "p",
+      "text": "His Place In Science Why Galileo is the father of modern science."
+    },
+    {
+      "tag": "div",
+      "text": "tr><td colspan=\"5\"><img src=\"/wgbh/nova/images02/spacer.gif\" alt=\"\" width=\"10\" height=\"10\" border=\"0\" /></td></tr"
+    },
+    {
+      "tag": "p",
+      "text": "His Telescope (and Sir Isaac's) On Galileo's refractor and Newton's reflector."
+    },
+    {
+      "tag": "div",
+      "text": "tr><td colspan=\"5\"><img src=\"/wgbh/nova/images02/spacer.gif\" alt=\"\" width=\"10\" height=\"10\" border=\"0\" /></td></tr"
+    },
+    {
+      "tag": "p",
+      "text": "His Big Mistake How and why Galileo got it wrong about the tides."
+    },
+    {
+      "tag": "div",
+      "text": "tr><td colspan=\"5\"><img src=\"/wgbh/nova/images02/spacer.gif\" alt=\"\" width=\"10\" height=\"10\" border=\"0\" /></td></tr"
+    },
+    {
+      "tag": "p",
+      "text": "His Experiments Falling objects, inclined planes, and more."
+    },
+    {
+      "tag": "div",
+      "text": "tr><td colspan=\"5\"><img src=\"/wgbh/nova/images02/spacer.gif\" alt=\"\" width=\"10\" height=\"10\" border=\"0\" /></td></tr sidebar website NOVA content table end end bbinclude sidebar authcredcopy table start"
+    },
+    {
+      "tag": "p",
+      "text": "Peter Tyson is editor in chief of NOVA online."
+    },
+    {
+      "tag": "div",
+      "text": "sidebar authcredcopy table end sidebar bot end icons table start icons table end site-specific page bottom nav start Galileo homepage | NOVA homepage © | Created July 2002 site-specific page bottom nav end #bbinclude \"nova_nav_bar_bot_06_00.incl\" bottom of page nova nav start page bot blue nav bar start page bot blue nav bar end bottom of page nova nav end end bbinclude"
+    }
+  ]
+}

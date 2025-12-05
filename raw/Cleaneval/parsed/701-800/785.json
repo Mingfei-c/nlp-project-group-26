@@ -1,0 +1,322 @@
+{
+  "url": "http://www.utmem.edu/univheal/OC_Immunizations.html",
+  "file_number": "785",
+  "content_hash": "6f7d1b92e547cdff39c20c0b79ac473691d91ec6cf3e7bbb25b614786805b187",
+  "total_blocks": 203,
+  "retained_blocks": 78,
+  "ignored_blocks": 125,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "BEGIN HSC MASTHEAD DO NOT EDIT THIS SECTION DO NOT EDIT THE FOLLOWING LINES BEGIN HSC MASTHEAD DO NOT EDIT THIS SECTION END HSC MASTHEAD BEGIN SEARCH AREA DO NOT EDIT THIS SECTION University Links Health Science Center Links About UTHSC Colleges Administration Admissions Alumni & Development Faculty & Staff Research Residency & Fellowship Students Visitors WebMail / SiteMap / Contact Information Enter search terms Select type of search Select type of search People Search Campus Search System Search END SEARCH AREA END HSC MASTHEAD BEGIN MAIN BODY EDIT ONLY THE NAVIGATION, CONTACT & CONTENT SECTIONS"
+    },
+    {
+      "tag": "h1",
+      "text": "University Health\r\n        Services"
+    },
+    {
+      "tag": "div",
+      "text": "insert height as fix for table sizing issue BEGIN NAVIGATION MENU, EDIT BELOW THIS LINE Home"
+    },
+    {
+      "tag": "p",
+      "text": "Home"
+    },
+    {
+      "tag": "div",
+      "text": "Available Services 1"
+    },
+    {
+      "tag": "p",
+      "text": "Available Services"
+    },
+    {
+      "tag": "div",
+      "text": "Primary Care"
+    },
+    {
+      "tag": "p",
+      "text": "Pharmacist Registered Dietitian Occupational Health Massage Therapist"
+    },
+    {
+      "tag": "div",
+      "text": "UT Student Services 2"
+    },
+    {
+      "tag": "p",
+      "text": "UT Student Services"
+    },
+    {
+      "tag": "div",
+      "text": "New Student Information"
+    },
+    {
+      "tag": "p",
+      "text": "UT Student Health Insurance Student\r\n    Families Student Health Adv. Com. Student Mental Health Graduating Students Sexual Assault Student Assistance Program"
+    },
+    {
+      "tag": "div",
+      "text": "UT Employee Health 3"
+    },
+    {
+      "tag": "p",
+      "text": "UT Employee Health"
+    },
+    {
+      "tag": "div",
+      "text": "Infection Control"
+    },
+    {
+      "tag": "p",
+      "text": "UT Occ. Health & Safety Info Workers Compensation TB Screening Plan Employee Assistance Program"
+    },
+    {
+      "tag": "div",
+      "text": "BCHS Students"
+    },
+    {
+      "tag": "p",
+      "text": "BCHS Students"
+    },
+    {
+      "tag": "div",
+      "text": "Travel Clinic"
+    },
+    {
+      "tag": "p",
+      "text": "Travel Clinic"
+    },
+    {
+      "tag": "div",
+      "text": "Emergency"
+    },
+    {
+      "tag": "p",
+      "text": "Emergency"
+    },
+    {
+      "tag": "div",
+      "text": "Health Education Links 6"
+    },
+    {
+      "tag": "p",
+      "text": "Physical Health Links"
+    },
+    {
+      "tag": "div",
+      "text": "Physical\r\n    Health Links"
+    },
+    {
+      "tag": "p",
+      "text": "Mental Health Links Preventive Health Links Alternative Medicine Referral Links"
+    },
+    {
+      "tag": "div",
+      "text": "Current Health Info"
+    },
+    {
+      "tag": "p",
+      "text": "Current Health Info"
+    },
+    {
+      "tag": "div",
+      "text": "FAQs"
+    },
+    {
+      "tag": "p",
+      "text": "FAQs"
+    },
+    {
+      "tag": "div",
+      "text": "Injuries/Exposures"
+    },
+    {
+      "tag": "p",
+      "text": "Injuries/Exposures"
+    },
+    {
+      "tag": "div",
+      "text": "New Patient Forms 11"
+    },
+    {
+      "tag": "p",
+      "text": "New Patient Forms"
+    },
+    {
+      "tag": "div",
+      "text": "Patient Registration Form"
+    },
+    {
+      "tag": "p",
+      "text": "Authorization Form HIPAA Form Health History Form"
+    },
+    {
+      "tag": "div",
+      "text": "Survey Forms 12"
+    },
+    {
+      "tag": "p",
+      "text": "Surveys"
+    },
+    {
+      "tag": "div",
+      "text": "END NAVIGATION MENU BEGIN CONTENT SECTION, EDIT BELOW THIS LINE InstanceBeginEditable name=\"EditRegion3\""
+    },
+    {
+      "tag": "h1",
+      "text": "Immunizations"
+    },
+    {
+      "tag": "p",
+      "text": "To protect our employees and patients, all\r      University of Tennessee Health Science Center faculty/staff should be evaluated\r      to determine susceptibility to infectious diseases. Immunization and/or\r      titers are offered for the following: * Measles (Rubeola) * Rubella * Hepatitis\r      A * Hepatitis\r      B * Influenza\r      (flu) * Ra bies * Varicella\r    (chicken pox) * Pneumovax vaccine Learn more about vaccines and current recommendations ."
+    },
+    {
+      "tag": "div",
+      "text": "To obtain a copy of your immunization record, please call (901)-448-5630. Allow\r24 to 48 hours for your records to be processed. Records can be picked up in\rour office or mailed out to you. If you would like your records faxed please\rfax a signed release to (901)- 448-7255."
+    },
+    {
+      "tag": "h3",
+      "text": "For those at risk to exposure, the following is  required for all Medical\r      Center faculty, staff and housestaff:"
+    },
+    {
+      "tag": "p",
+      "text": "*       Provide written documentation of\r      two tuberculin skin test results during the 12 months prior to beginning\r      practice, one of which\r  needs to be within the past 12 months. If previous tuberculin skin test result\r  is positive, clearance must be provided by the Memphis/Shelby County Health\r      Dept.. Thereafter, a tuberculin skin test is required annually for all\r      negative reactors.. *       Provide\r    proof of varicella (chickenpox) immunity via a blood titer or documentation\r      of disease or immunization *       If\r    born on or after January 1, 1957, provide proof of two immunizations for\r    measles at least one month\r        apart or immunity via\r  a blood titer. (Persons born before this date are considered immune to measles) *       Provide proof of one immunization\r      for rubella or immunity via a blood titer *       Provide\r      proof of one immunization for mumps or immunity via a blood titer *       For\r      those who may be exposed to blood, body fluid or human tissue, the Hepatitis\r      Bvaccine is strongly\r        encouraged and\r  provided without charge, and the Occupational Safety and Health Act (OSHA)-mandated\r  educational materials are provided. Employees those who choose to decline these\r  services must sign a declination statement to that effect."
+    },
+    {
+      "tag": "h3",
+      "text": "Measles (Rubeola)"
+    },
+    {
+      "tag": "div",
+      "text": "Measles is a highly contagious and often serious disease. Measles infection\r  can have serious complications such as encephalitis, meningitis, and death.\r  If you\r  were born on or after January 1, 1957, you should receive the vaccine. For\r  those born before January 1, 1957, the immunization is not required."
+    },
+    {
+      "tag": "p",
+      "text": "NOTE: You do not need to be revaccinated if you can provide documentation of\r    two live measles vaccinations after your 1st birthday at least one month apart\r    or laboratory evidence of immunity to measles (rubeola)."
+    },
+    {
+      "tag": "h3",
+      "text": "Rubella"
+    },
+    {
+      "tag": "div",
+      "text": "Rubella is a highly contagious viral illness with symptoms very similar\r        to rubeola but differs in the severity of symptoms and length of illness.\r        The most serious\r      threat of rubella is to the pregnant female who has never had rubella.\r        If exposed to rubella, they can contract the disease which can cause\r        serious problems for\r      the unborn baby."
+    },
+    {
+      "tag": "p",
+      "text": "*       How do Iknow if I'm immune? You\r      are considered immune if you have had a rubella vaccine. If your birth\r      date is\r    before January\r    1, 1957, you will not be required to have the immunization. *       What if I'm not immune? If a blood\r        test find you to be non-immune, meaning you do not have immunity to rubella,\r        the\r    MMR vaccine will be required.. *       What\r    if Iwas born after January 1, 1957? For those born on or after this date,\r    you will need to get the\r        vaccine if the\r    risk applies to you."
+    },
+    {
+      "tag": "h3",
+      "text": "Hepatitis A"
+    },
+    {
+      "tag": "p",
+      "text": "Hepatitis Ais a viral infection of the liver. Hepatitis Ais transmitted\r      primarily by person-to-person contact, generally through fecal contamination\r      and oral ingestion.\r    Transmission is facilitated by poor personal hygiene, poor sanitation, and\r      intimate contact. *       Who should get the vaccine? Persons\r    encouraged to get the vaccine are those with an occupational risk of infection;\r    such as\r    day care personnel, sewage workers, military personnel, and those who work\r    with infected primates or those who work with hepatitis Ain a research setting.\r    Others\r    include: persons with chronic liver disease, international travelers to areas\r    of high or intermediate risk of transmission, children living in communities\r    with high rates of hepatitis A, sexually active homosexual and bisexual men,\r    and IV drug users. *       How can Iget the vaccine? You must\r    schedule an appointment with the University Health Services to discuss your\r    need for\r    the vaccine. If your need is determined to be related to your job, UHS will\r    administer\r    the vaccine and charge your department.. However, if your need is determined\r    to be personal, you would be charged personnally for the vaccine."
+    },
+    {
+      "tag": "h3",
+      "text": "Hepatitis B"
+    },
+    {
+      "tag": "p",
+      "text": "Hepatitis Bis a viral infection of the liver caused by the Hepatitis\r      Bvirus. *       How is it transmitted? Hepatitis\r      Bcan be transmitted to health care workers by exposure to blood or body\r      fluids\r    from\r    hepatitis Binfected patients. The risk of contracting hepatitis Bfrom a\r    needlestick with a hepatitis Bcontaminated needle is 35-40%. The risk from\r    a splash to\r    the eyes is much less. There is no cure for hepatitis B, but the vaccine\r    can effectively\r    prevent hepatitis Bif you are exposed to the virus. *       Who should take the vaccine? Anyone\r    who is at risk for contact with blood or other potentially infectious materials\r    is strongly encouraged to receive the hepatitis Bvaccine series."
+    },
+    {
+      "tag": "div",
+      "text": "PLEASE NOTE: The US Public Health Service recommends the hepatitis Bvaccine\r    series to all health care workers."
+    },
+    {
+      "tag": "p",
+      "text": "*       How much does it cost? The hepatitis\r    Bvaccine is offered by the university to all faculty/staff who, while performing\r    their job, could come in contact with blood or other potentially infectious\r    materials. Your department will be charged for the vaccine. *       How is it administered? It is given\r    as a series of three intramuscular injections: initial, one month later and\r    six\r    months later. UHS uses recombiant, noninfectious hepatitis Bvaccine. *       What\r    if Idon't want to take the vaccine? Anyone at risk for exposure to blood\r    or other potentially infectious\r      materials\r    who does not wish to take the hepatitis Bvaccine must sign a refusal statement.\r    However, if you later decide that you want the hepatitis Bvaccine, UHS will\r    provide you the vaccine at that time at no charge. The Occupational Safety\r    and Health Administration (OSHA) requires that all persons who, while performing\r    their job, could possibly come in contact with blood or other potentially\r    infectious materials be offered the hepatitis Bvaccine series. See http://www.osha.gov ."
+    },
+    {
+      "tag": "h3",
+      "text": "Influenza (Flu)"
+    },
+    {
+      "tag": "p",
+      "text": "Influenza or flu is a viral infection of the nose, throat, bronchial tubes, and\r    lungs that can make someone of any age ill. *       When do you get the flu? The flu\r      season in the United States is generally from about November through April. *       What are the symptoms of the flu?\r      You usually have fever, chills, cough, and soreness and aching in your\r      back,\r    arms, and legs. *       How long does the flu\r    last? Although most people are ill for only a few days, some people have\r    a much more serious\r    illness\r    that could even result in a hospital visit. On average, thousands of people\r    die each year in the United Stated from the flu or related complications."
+    },
+    {
+      "tag": "div",
+      "text": "*       Who should get a flu shot? Any one\r    wishing to reduce their chances of catching the flu should get the vaccine.\r    Health\r    professionals and others in both hospital and outpatient-care settings who\r    have contact with\r    high-risk patients in all age groups, including children are strongly encouraged\r    to receive the immunization."
+    },
+    {
+      "tag": "p",
+      "text": "*       Who should NOT get a flu shot? Any\r    one with an allergy to eggs that causes dangerous reactions and anyone who\r    has\r    ever been paralyzed with Guillain Barre syndrome should NOT get the vaccine.\r    Women\r    who are or might be pregnant should consult their doctor. Persons who are\r    ill and have fever should wait to take the shot until the fever or others\r    symptoms\r    are gone."
+    },
+    {
+      "tag": "div",
+      "text": "*       How often do Ineed a flu shot? Because\r    the viruses that cause flu frequently change and because any immunity developed\r    in the previous year possibly decreases, it is recommended that you receive\r    the vaccination every year."
+    },
+    {
+      "tag": "p",
+      "text": "*       Who is eligible for the shot and\r      how much does it cost? The flu shot is given free of charge to all UTHSC\r      faculty/staff\r    and students. *       Can Iget the flu from getting the\r    shot? Since all viruses in the vaccine are killed, the vaccine cannot infect\r    anyone. *       How long does it take to start\r    working? The vaccine will begin to provide protection about one to two weeks\r    after\r    you receive the vaccine and immunity may decrease, on average, after several\r    months. *       Can Istill get the flu after\r    taking the shot? Flu shots will not protect everyone from the flu. The flu\r    shot\r    also cannot\r    protect you against other illnesses that resemble the flu. *       When\r    does UHS give the flu shots? Flu shots are given by  UHS from October\r    1 through Janunary 15 of each\r      year."
+    },
+    {
+      "tag": "h3",
+      "text": "Rabies"
+    },
+    {
+      "tag": "p",
+      "text": "Rabies is a viral infection of the central nervous system. The virus is contained\r    in the saliva and certain body materials of rabid animals and humans. *       How do you get it? The most common\r    way a person is exposed to rabies is through bites by rabid animals. *       What is the Rabies vaccine? The\r      rabies vaccine is an inactivated-virus vaccine, available in both human\r      diploid\r    cell vaccine and rabies vaccine absorbed. Human rabies immune globulin is\r    used in\r    postexposure treatment of persons not previously immunized with rabies vaccine. *       Who needs the vaccine? All persons\r    exposed to rabies virus, regardless of prior immunization should get the\r    vaccine. Persons\r    whose occupations or activities place them at increased risk of exposure\r    include laboratory workers, forest rangers, taxidermists, veterinarians,\r    stock breeders,\r    hunters, and spelunkers and persons planning to be more than 30 days in an\r    area where rabies is a constant threat should get the vaccine."
+    },
+    {
+      "tag": "h3",
+      "text": "Varicella (chicken pox)"
+    },
+    {
+      "tag": "div",
+      "text": "Chicken pox, usually a mild childhood illness caused by the varicella virus,\r    can cause severe problems for adults who have never had chicken pox. These adults,\r    especially pregnant women, the elderly, and immunocompromised persons, can develop\r    serious complications, such as dehydration, pneumonia, meningitis, and even death."
+    },
+    {
+      "tag": "p",
+      "text": "*       How will Iknow if I'm immune? UHS will\r    draw blood for a varicella antibody test.  Apositive antibody titer\r    means you have had chicken pox and are unlikely to get it again. With a positive\r    antibody titer, you may work with patients who have chicken pox, even if\r    you\r    are pregnant. NOTE: You will not need this varicella blood test if you have laboratory\r      documentation of a positive varicella titer. *      If\r        Ihad chicken pox as a child, isn't that good enough? Yes.UHS will accept\r    medical \r    \r\r    documentation\r    of past disease. *  What\r  if I'm immune? If you are immune, no further action is needed. This result\r      will be entered into the UHS database and the laboratory report will be\r      filed in your\r  permanent medical record. *       What if I'm NOT immune?  At this\r      time you will be offered\r  the Varivax (varicella virus vaccine) vaccination."
+    },
+    {
+      "tag": "div",
+      "text": "NOTE: If you are non-immune, you must inform your supervisor and UHS of any known\r  contact with a person who has chicken pox, whether at work or away from work.\r  University Health will assess your exposure and determine if it is safe for you\r  to work with patients during the incubation period for chicken pox."
+    },
+    {
+      "tag": "p",
+      "text": "*       What is the Varivax Vaccine? It\r      is a series of two injections given one month apart of the Varicella Virus\r      Vaccine. This\r  is a live virus and is approximately 95% effective in preventing chicken pox."
+    },
+    {
+      "tag": "h3",
+      "text": "Smallpox (or the pox virus)"
+    },
+    {
+      "tag": "p",
+      "text": "Smallpox was an acute, contagious illness characterized by fever, backache, and\r    prostration followed by the appearance of an eruption of papules and vesicles\r    which became pustular by the eighth day."
+    },
+    {
+      "tag": "div",
+      "text": "*       CDC information on Smallpox * President Bush's Smallpox FAQ *       CDC Smallpox Hotline: (888) 246-2675"
+    },
+    {
+      "tag": "h3",
+      "text": "HELPFUL\r  LINKS"
+    },
+    {
+      "tag": "div",
+      "text": "* Center\r    for Disease Control * OSHA * Immunization Action Coalition * Immunization Action Coalition's Vaccine\r    Information"
+    },
+    {
+      "tag": "p",
+      "text": "Apart of the above webpage was taken from:"
+    },
+    {
+      "tag": "div",
+      "text": "InstanceEndEditable Hours and Location Appointments Staff Occupational Health Contact US Maps \r\n                        & Directions Web \r\n                    Mail END CONTACT INFO SECTION BEGIN CONTACT INFO SECTION, EDIT BELOW THIS LINE Contact\r\nUniversity Health Services"
+    },
+    {
+      "tag": "p",
+      "text": "910 Madison Ave . Suite 922 Memphis, Tennessee 38163 Phone: 901-448-5630 Fax: 901-448-7255"
+    },
+    {
+      "tag": "div",
+      "text": "END MAIN BODY FOOTER STARTS HERE DO NOT EDIT THIS SECTION INSERT CONTACT INFORMATION IN THIS CELL, EDIT BELOW THIS LINE Copyright ©2006 The University of Tennessee Health Science Center · Memphis, Tennessee 38163 · Telephone 901-448-5500"
+    }
+  ]
+}

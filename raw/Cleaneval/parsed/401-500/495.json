@@ -1,0 +1,54 @@
+{
+  "url": "http://www.iabc.com/members/faqmem.htm",
+  "file_number": "495",
+  "content_hash": "7b5b6d8dcd654ee4583a8190a9c3170471dc1b910e88e8d4f32ab656ffb28bc4",
+  "total_blocks": 128,
+  "retained_blocks": 11,
+  "ignored_blocks": 117,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"\r\n        \"http://www.w3.org/TR/REC-html40/loose.dtd\" InstanceBegin template=\"/Templates/tplMembersLogin.dwt\" codeOutsideHTMLIsLocked=\"false\" InstanceBeginEditable name=\"doctitle\" InstanceEndEditable InstanceBeginEditable name=\"head\" InstanceEndEditable begin top toolbar menu and quicksearch end top toolbar menu and quicksearch begin main content table begin main menu Members Only Member Centre MyComm Search for Members MemberSpeak The IABC Buzz Member News CW Online Online Library Other Benefits Renew Your Membership Update Your Contact Info Leader Centre Member Guides Strategic Plan Executive Board Motions Get Access to the Member Centre FAQs Student Connection Join IABC Education Publications Research Accreditation Awards Jobs Communities Chapters About IABC end main menu InstanceBeginEditable name=\"membersMainWelcome\""
+    },
+    {
+      "tag": "h1",
+      "text": "members only"
+    },
+    {
+      "tag": "h2",
+      "text": "member log in"
+    },
+    {
+      "tag": "p",
+      "text": "The content you have requested is for IABC members only.  Please log in using your IABC Member ID and Password."
+    },
+    {
+      "tag": "div",
+      "text": "InstanceEndEditable -Start page tools.- -End page toools- InstanceBeginEditable name=\"memberLoginMain\""
+    },
+    {
+      "tag": "p",
+      "text": "Member ID: Password: Forgot your password or member ID? Problems Signing In?"
+    },
+    {
+      "tag": "div",
+      "text": "InstanceEndEditable begin personalized profile area InstanceBeginEditable name=\"memberWelcome\""
+    },
+    {
+      "tag": "p",
+      "text": "You are not logged in."
+    },
+    {
+      "tag": "div",
+      "text": "InstanceEndEditable end personalized profile area begin mychapter sidebar feature InstanceBeginEditable name=\"memberQuickLinks\" List of Member Benefits Member Centre Leader Centre CW Online MemberSpeak MyComm IABC Student Connection InstanceEndEditable end mychapter sidebar feature begin mycommplans sidebar feature InstanceBeginEditable name=\"memberMyComm\" InstanceEndEditable end mycommplans sidebar feature end main content table begin footer table"
+    },
+    {
+      "tag": "p",
+      "text": "© 2006 International Association of Business Communicators. One Hallidie Plaza, Suite 600 San Francisco, CA 94102 USA +1 415.544.4700 Terms of Service"
+    },
+    {
+      "tag": "div",
+      "text": "end footer table InstanceEnd"
+    }
+  ]
+}
