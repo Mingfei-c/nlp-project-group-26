@@ -28,12 +28,14 @@ class ParsedHTML(BaseModel):
     
     Attributes:
         url (Optional[str]): URL extracted from <text id="..."> if present (CleanEval format)
+        file_number (Optional[str]): File number extracted from the filename (characters before extension)
         total_blocks (int): Total number of block-level elements found in original HTML
         retained_blocks (int): Number of content blocks that were extracted and retained
         ignored_blocks (int): Number of blocks that were removed (script, style, etc.)
         blocks (List[TextBlock]): List of extracted text blocks with their tags
     """
     url: Optional[str] = Field(None, description="Source URL if available")
+    file_number: Optional[str] = Field(None, description="File number from filename (before extension)")
     content_hash: str = Field(..., description="SHA-256 hash of the original HTML content")
     total_blocks: int = Field(..., description="Total block-level elements in HTML")
     retained_blocks: int = Field(..., description="Number of content blocks retained")
@@ -343,6 +345,9 @@ def _parse_html_single(file_path: Path, method='blocks'):
     if not file_path.exists():
         raise FileNotFoundError(f"HTML file not found: {file_path}")
     
+    # Extract file number from filename (characters before extension)
+    file_number = file_path.stem  # Gets filename without extension
+    
     with open(file_path, 'rb') as f:
         raw_content = f.read()
     
@@ -357,6 +362,7 @@ def _parse_html_single(file_path: Path, method='blocks'):
     text_blocks = [TextBlock(**block) for block in blocks_data]
     return ParsedHTML(
         url=url,
+        file_number=file_number,
         content_hash=content_hash,
         total_blocks=stats['total'],
         retained_blocks=stats['retained'],
@@ -469,6 +475,9 @@ async def parse_html_file_async(file_path, method='blocks'):
     if input_path.is_dir():
         raise ValueError("parse_html_file_async does not support directory inputs. Use parse_html_file instead.")
     
+    # Extract file number from filename (characters before extension)
+    file_number = input_path.stem  # Gets filename without extension
+    
     # Run file I/O in executor to make it truly async
     loop = asyncio.get_event_loop()
     
@@ -504,6 +513,7 @@ async def parse_html_file_async(file_path, method='blocks'):
         # Create ParsedHTML object
         return ParsedHTML(
             url=url,
+            file_number=file_number,
             content_hash=content_hash,
             total_blocks=stats['total'],
             retained_blocks=stats['retained'],
@@ -559,6 +569,7 @@ if __name__ == "__main__":
         result = result_data  # String
         output_format = "Plain Text"
         url_info = None
+        file_number_info = None
         content_hash_info = None
         stats_info = None
     else:  # blocks - returns ParsedHTML object
@@ -566,6 +577,7 @@ if __name__ == "__main__":
         result = "\n".join(result_lines)
         output_format = "Structured"
         url_info = result_data.url
+        file_number_info = result_data.file_number
         content_hash_info = result_data.content_hash
         stats_info = {
             'total': result_data.total_blocks,
@@ -577,6 +589,8 @@ if __name__ == "__main__":
         f.write(f"HTML File: {input_path}\n")
         f.write(f"Processing Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
         f.write(f"Output Format: {output_format}\n")
+        if file_number_info:
+            f.write(f"File Number: {file_number_info}\n")
         if url_info:
             f.write(f"Source URL: {url_info}\n")
         if stats_info and content_hash_info:
@@ -591,6 +605,8 @@ if __name__ == "__main__":
     print(f"  Input file: {input_path}")
     print(f"  Output file: {output_path}")
     print(f"  Output format: {output_format}")
+    if file_number_info:
+        print(f"  File Number: {file_number_info}")
     if url_info:
         print(f"  Source URL: {url_info}")
     if stats_info and content_hash_info:
