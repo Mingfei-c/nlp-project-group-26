@@ -92,6 +92,13 @@ def preprocess_html(html_content):
     # 3. Merge and clean
     full_text = "".join(text_parts)
     
+    # Normalize whitespace: merge multiple spaces into one
+    full_text = re.sub(r' +', ' ', full_text)
+    
+    # Fix split words where single capital letter is separated from rest of word
+    # Pattern: single capital letter + space + lowercase letter (e.g., "E ncourage" -> "Encourage")
+    full_text = re.sub(r'\b([A-Z])\s+([a-z])', r'\1\2', full_text)
+    
     # Clean excessive empty lines (keep single newlines)
     lines = [line.strip() for line in full_text.split('\n')]
     clean_text = '\n'.join(line for line in lines if line)
@@ -251,6 +258,8 @@ def _group_leaves_by_semantic_parent(leaves):
             # Different tag, save previous block and start new block
             if current_tag is not None and current_texts:
                 combined_text = ' '.join(current_texts).strip()
+                # Fix split words (e.g., "A dvertise" -> "Advertise")
+                combined_text = re.sub(r'\b([A-Z])\s+([a-z])', r'\1\2', combined_text)
                 if combined_text:
                     blocks.append({
                         'tag': current_tag,
@@ -263,6 +272,8 @@ def _group_leaves_by_semantic_parent(leaves):
     # Save the last block
     if current_tag is not None and current_texts:
         combined_text = ' '.join(current_texts).strip()
+        # Fix split words (e.g., "A dvertise" -> "Advertise")
+        combined_text = re.sub(r'\b([A-Z])\s+([a-z])', r'\1\2', combined_text)
         if combined_text:
             blocks.append({
                 'tag': current_tag,
@@ -277,11 +288,10 @@ def _traverse_and_extract(node, text_parts):
     """
     # If it's a text node
     if isinstance(node, NavigableString):
-        text = str(node).strip()
-        if text:
-            # Note: Adding space here for general logic like Resiliparse to prevent English word concatenation
-            # For Chinese text, more refined handling might be needed
-            text_parts.append(text + " ") 
+        text = str(node)
+        if text.strip():  # Only add if there's actual content
+            # Don't automatically add spaces - preserve original spacing
+            text_parts.append(text) 
         return
 
     # If it's an element node

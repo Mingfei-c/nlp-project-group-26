@@ -32,7 +32,7 @@
     },
     {
       "tag": "p",
-      "text": "Firewall rules on a standalone system doing IPsec can be very simple. The first step is to allow IPsec packets (IKE on UDP port 500 plus\n ESP, protocol 50) in and out of your gateway. A script to set up\n iptables(8) rules for this is:"
+      "text": "Firewall rules on a standalone system doing IPsec can be very simple. The first step is to allow IPsec packets (IKE on UDP port 500 plus\n ESP, protocol 50) in and out of your gateway. Ascript to set up\n iptables(8) rules for this is:"
     },
     {
       "tag": "pre",
@@ -40,7 +40,7 @@
     },
     {
       "tag": "p",
-      "text": "Optionally, you could restrict this, allowing these packets only to\n and from a list of known gateways. A second firewalling step -- access controls built into the IPsec\n protocols -- is automatically applied:"
+      "text": "Optionally, you could restrict this, allowing these packets only to\n and from a list of known gateways. Asecond firewalling step -- access controls built into the IPsec\n protocols -- is automatically applied:"
     },
     {
       "tag": "dt",
@@ -104,7 +104,7 @@
     },
     {
       "tag": "p",
-      "text": "The basic firewalling for IPsec does not change when you support\n incoming connections as well as connections you initiate. You must\n still allow IKE (UDP port 500) and ESP (protocol 50) packets to and\n from your machine, as in the rules given above . However, there is an additional security concern when you allow\n incoming opportunistic connections. Incoming opportunistic packets\n enter your machine via an IPSec tunnel. That is, they all appear as ESP\n (protocol 50) packets, concealing whatever port and protocol\n characteristics the packet within the tunnel has. Contained in the\n tunnel as they pass through ppp0 or eth0 , these\n packets can bypass your usual firewall rules on these interfaces. Consequently, you will want to firewall your ipsec interfaces the way you would any publicly accessible interface. A simple way to do this is to create one iptables(8) table with all\n your filtering rules for incoming packets, and apply the entire table\n to all public interfaces, including ipsec interfaces."
+      "text": "The basic firewalling for IPsec does not change when you support\n incoming connections as well as connections you initiate. You must\n still allow IKE (UDP port 500) and ESP (protocol 50) packets to and\n from your machine, as in the rules given above . However, there is an additional security concern when you allow\n incoming opportunistic connections. Incoming opportunistic packets\n enter your machine via an IPSec tunnel. That is, they all appear as ESP\n (protocol 50) packets, concealing whatever port and protocol\n characteristics the packet within the tunnel has. Contained in the\n tunnel as they pass through ppp0 or eth0 , these\n packets can bypass your usual firewall rules on these interfaces. Consequently, you will want to firewall your ipsec interfaces the way you would any publicly accessible interface. Asimple way to do this is to create one iptables(8) table with all\n your filtering rules for incoming packets, and apply the entire table\n to all public interfaces, including ipsec interfaces."
     },
     {
       "tag": "h2",
@@ -112,7 +112,7 @@
     },
     {
       "tag": "p",
-      "text": "On a gateway, the IPsec-related firewall rules applied for input and\n output on the Internet side are exactly as shown above . A gateway exchanges exactly the same things -- UDP 500\n packets and IPsec packets -- with other gateways that a standalone\n system does, so it can use exactly the same firewall rules as a\n standalone system would. However, on a gateway there are additional things to do:"
+      "text": "On a gateway, the IPsec-related firewall rules applied for input and\n output on the Internet side are exactly as shown above . Agateway exchanges exactly the same things -- UDP 500\n packets and IPsec packets -- with other gateways that a standalone\n system does, so it can use exactly the same firewall rules as a\n standalone system would. However, on a gateway there are additional things to do:"
     },
     {
       "tag": "div",

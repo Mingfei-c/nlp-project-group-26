@@ -20,7 +20,7 @@
     },
     {
       "tag": "h1",
-      "text": "The S topping and R ange of I ons in M atter Software Science"
+      "text": "The Stopping and Range of Ions in Matter Software Science"
     },
     {
       "tag": "p",
@@ -76,7 +76,7 @@
     },
     {
       "tag": "h1",
-      "text": "The S topping and R ange of I ons in M atter"
+      "text": "The Stopping and Range of Ions in Matter"
     },
     {
       "tag": "h2",
@@ -84,7 +84,7 @@
     },
     {
       "tag": "p",
-      "text": "SRIM is a\r\ncollection of software packages which calculate many\r\nfeatures of the transport of ions in matter. Typical\r\napplications include: Ion Stopping and Range in Targets: Most aspects of the energy\r\nloss of ions in matter are calculated in SRIM , \r\n    the S topping and R ange\r\nof I ons in M atter.\r\n    SRIM\r\nincludes quick calculations which produce tables of stopping powers, range\r\n    and straggling distributions for any ion at any energy\r\n    in any elemental target. More elaborate calculations\r\n    include targets with complex multi-layer configurations. Ion Implantation : Ion beams are used to modify samples by\r\ninjecting atoms to change the target chemical and electronic properties. The\r\nion beam also causes damage to solid targets by atom displacement. Most of the\r\nkinetic effect s associated with the physics of this kind of interactions are\r\nfound in the SRIM package. Sputtering: The ion beam may knock out target atoms, a process\r\ncalled ion sputtering . The calculation of sputtering, by any ion at\r\nany energy, is included in the SRIM package. Ion\r\n    Transmission: Ion beams can be followed through\r\n    mixed gas/solid target layers, such as occurs in\r\n    ionization chambers or in energy degrader blocks used to\r\n    reduce ion beam energies. Ion Beam\r\n    Therapy: Ion beams are widely used in medical\r\n    therapy, especially in radiation oncology. Typical\r\n    applications are included."
+      "text": "SRIM is a\r\ncollection of software packages which calculate many\r\nfeatures of the transport of ions in matter. Typical\r\napplications include: Ion Stopping and Range in Targets: Most aspects of the energy\r\nloss of ions in matter are calculated in SRIM , \r\n    the Stopping and Range\r\nof Ions in Matter.\r\n    SRIM\r\nincludes quick calculations which produce tables of stopping powers, range\r\n    and straggling distributions for any ion at any energy\r\n    in any elemental target. More elaborate calculations\r\n    include targets with complex multi-layer configurations. Ion Implantation : Ion beams are used to modify samples by\r\ninjecting atoms to change the target chemical and electronic properties. The\r\nion beam also causes damage to solid targets by atom displacement. Most of the\r\nkinetic effect s associated with the physics of this kind of interactions are\r\nfound in the SRIM package. Sputtering: The ion beam may knock out target atoms, a process\r\ncalled ion sputtering . The calculation of sputtering, by any ion at\r\nany energy, is included in the SRIM package. Ion\r\n    Transmission: Ion beams can be followed through\r\n    mixed gas/solid target layers, such as occurs in\r\n    ionization chambers or in energy degrader blocks used to\r\n    reduce ion beam energies. Ion Beam\r\n    Therapy: Ion beams are widely used in medical\r\n    therapy, especially in radiation oncology. Typical\r\n    applications are included."
     },
     {
       "tag": "h2",
@@ -96,7 +96,7 @@
     },
     {
       "tag": "h1",
-      "text": "Soft Errors in\r\nElectronics from Cosmic Rays E lectronic R eliability - E ffects of T errestrial C osmic R ays"
+      "text": "Soft Errors in\r\nElectronics from Cosmic Rays Electronic Reliability - Effects of Terrestrial Cosmic Rays"
     },
     {
       "tag": "h3",
@@ -104,11 +104,11 @@
     },
     {
       "tag": "p",
-      "text": "Introduction History Current\r\n        Status (1MB) Neutron\r\n        Sea Level Flux History\r\n        of Accelerated\r\n        Testing Neutron\r\n        Spectrometers Current\r\n        Status Accelerated\r\n        Testing Buttons in Green are not yet active. Although this subject is more about the effects of energetic hadrons on\r\nterrestrial electronics than about ion beams, it is scientifically in a similar\r\nfield (hadrons = protons, neutrons and pions, i.e. particles which respond to\r\nthe nuclear force / strong interaction). The science and technology about\r\ncosmic ray induced soft fails was considered proprietary by IBM for more than\r\n15 years. In 1996, a complete issue of the IBM Journal of Research and\r\nDevelopment was devoted to reviewing this work. A summary of the issue, and\r\nthe complete first article (the 15 year history of the development of the IBM\r\nscientific understanding of soft fails from radiation) is given\r\nat IBM J. R.& D. The scientific\r\nhistory of  this field is reviewed in detail. The field\r\nis not static because the technology of integrated circuits\r\nis still rapidly changing and the effects of cosmic rays on\r\nintegrated circuits (ICs) show trends which are not well\r\nunderstood. The trends in the sensitivity of ICs to cosmic\r\nrays are reviewed for SRAMs, DRAMs and logic over the last\r\n15 years. Fundamental to\r\nany estimates of the fail rate of ICs is an understanding of\r\nthe ambient flux of cosmic rays in the environment. As this\r\nflux has been investigated over the last 15 years, it has\r\nbecome fuzzier rather than more precise. Previous\r\nmeasurements of the ambient flux which were considered\r\nreliable have been shown to be suspect. New measurements\r\nrarely agree with past measurements. Recent reports of the flux of sea level\r\ncosmic ray hadrons vary by more than 10x, even though they\r\nwere performed by highly competent scientists. The problem will\r\nprobably be resolved by understanding that the immediate\r\nmaterials nearby an experiment can have significant effect\r\non the measured flux. The field of\r\nthe terrestrial flux of cosmic rays will be reviewed. (Return\r\nto Top)"
+      "text": "Introduction History Current\r\n        Status (1MB) Neutron\r\n        Sea Level Flux History\r\n        of Accelerated\r\n        Testing Neutron\r\n        Spectrometers Current\r\n        Status Accelerated\r\n        Testing Buttons in Green are not yet active. Although this subject is more about the effects of energetic hadrons on\r\nterrestrial electronics than about ion beams, it is scientifically in a similar\r\nfield (hadrons = protons, neutrons and pions, i.e. particles which respond to\r\nthe nuclear force / strong interaction). The science and technology about\r\ncosmic ray induced soft fails was considered proprietary by IBM for more than\r\n15 years. In 1996, a complete issue of the IBM Journal of Research and\r\nDevelopment was devoted to reviewing this work. Asummary of the issue, and\r\nthe complete first article (the 15 year history of the development of the IBM\r\nscientific understanding of soft fails from radiation) is given\r\nat IBM J. R.& D. The scientific\r\nhistory of  this field is reviewed in detail. The field\r\nis not static because the technology of integrated circuits\r\nis still rapidly changing and the effects of cosmic rays on\r\nintegrated circuits (ICs) show trends which are not well\r\nunderstood. The trends in the sensitivity of ICs to cosmic\r\nrays are reviewed for SRAMs, DRAMs and logic over the last\r\n15 years. Fundamental to\r\nany estimates of the fail rate of ICs is an understanding of\r\nthe ambient flux of cosmic rays in the environment. As this\r\nflux has been investigated over the last 15 years, it has\r\nbecome fuzzier rather than more precise. Previous\r\nmeasurements of the ambient flux which were considered\r\nreliable have been shown to be suspect. New measurements\r\nrarely agree with past measurements. Recent reports of the flux of sea level\r\ncosmic ray hadrons vary by more than 10x, even though they\r\nwere performed by highly competent scientists. The problem will\r\nprobably be resolved by understanding that the immediate\r\nmaterials nearby an experiment can have significant effect\r\non the measured flux. The field of\r\nthe terrestrial flux of cosmic rays will be reviewed. (Return\r\nto Top)"
     },
     {
       "tag": "h1",
-      "text": "I on B eam A nalysis (IBA)"
+      "text": "Ion Beam Analysis (IBA)"
     },
     {
       "tag": "p",

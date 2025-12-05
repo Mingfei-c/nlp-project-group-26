@@ -56,7 +56,7 @@
     },
     {
       "tag": "p",
-      "text": "In C# 2.0, you can designate an assembly as a friend of yours assembly. A friend assembly can access all the non-public types of your assembly. You can declare an assembly as a friend of your assembly using the assembly: InternalsVisibleTo() attribute defined in the System.Runtime.CompilerServices namespace which takes the name of assembly and its public key token"
+      "text": "In C# 2.0, you can designate an assembly as a friend of yours assembly. Afriend assembly can access all the non-public types of your assembly. You can declare an assembly as a friend of your assembly using the assembly: InternalsVisibleTo() attribute defined in the System.Runtime.CompilerServices namespace which takes the name of assembly and its public key token"
     },
     {
       "tag": "pre",
@@ -64,7 +64,7 @@
     },
     {
       "tag": "p",
-      "text": "You may require this in some project where you need one assembly to access types defined in your assembly and you separated the two assemblies for logical or deployment reasons. There are few important points to remember here: You must know not only the name of assembly to be marked as friend but also its public key token Friendship achieved by friend assemblies is not symmetric, that is, if an assembly B is defined as a friend of an assembly A then it does not mean that A is also a friend of B. In easier word, in the example above, AssemblyB can access all the non-public types in our assembly but it does not mean that our assembly can also access all the non-public types of AssemblyB Also the friendship thus achieved is not transitive, that is, if A defines B as its friend and B defines C as its friend then it does not mean that C is also a friend of A extern Keyword The ‘extern’ keyword can either be used with a method or for assembly alias. When used with methods it specifies that the method body is externally defined in some unmanaged code (mostly specified with DllImport()). The following code demonstrates the extern method"
+      "text": "You may require this in some project where you need one assembly to access types defined in your assembly and you separated the two assemblies for logical or deployment reasons. There are few important points to remember here: You must know not only the name of assembly to be marked as friend but also its public key token Friendship achieved by friend assemblies is not symmetric, that is, if an assembly Bis defined as a friend of an assembly Athen it does not mean that Ais also a friend of B. In easier word, in the example above, AssemblyB can access all the non-public types in our assembly but it does not mean that our assembly can also access all the non-public types of AssemblyB Also the friendship thus achieved is not transitive, that is, if Adefines Bas its friend and Bdefines Cas its friend then it does not mean that Cis also a friend of Aextern Keyword The ‘extern’ keyword can either be used with a method or for assembly alias. When used with methods it specifies that the method body is externally defined in some unmanaged code (mostly specified with DllImport()). The following code demonstrates the extern method"
     },
     {
       "tag": "pre",

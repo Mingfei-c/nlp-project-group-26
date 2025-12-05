@@ -552,7 +552,7 @@
     },
     {
       "tag": "p",
-      "text": "True to their name, comparison operators compare expressions and return one of\r\nthree values: TRUE , FALSE , or Unknown . Wait a minute! Unknown ? TRUE and FALSE are self-explanatory, but what\r\nis Unknown ? To understand how you could get an Unknown , you need to know a little\r\nabout the concept of NULL . In database terms NULL is the absence\r\nof data in a field. It does not mean a column has a zero or a blank in it. A zero\r\nor a blank is a value. NULL means nothing is in that field. If you make\r\na comparison like Field = 9 and the only value for Field is NULL ,\r\nthe comparison will come back Unknown . Because Unknown is an uncomfortable\r\ncondition, most flavors of SQL change Unknown to FALSE and provide\r\na special operator, IS NULL , to test for a NULL condition. Here's an example of NULL : Suppose an entry in the PRICE table\r\ndoes not contain a value for WHOLESALE . The results of a query might look\r\nlike this:"
+      "text": "True to their name, comparison operators compare expressions and return one of\r\nthree values: TRUE , FALSE , or Unknown . Wait a minute! Unknown ? TRUE and FALSE are self-explanatory, but what\r\nis Unknown ? To understand how you could get an Unknown , you need to know a little\r\nabout the concept of NULL . In database terms NULL is the absence\r\nof data in a field. It does not mean a column has a zero or a blank in it. Azero\r\nor a blank is a value. NULL means nothing is in that field. If you make\r\na comparison like Field = 9 and the only value for Field is NULL ,\r\nthe comparison will come back Unknown . Because Unknown is an uncomfortable\r\ncondition, most flavors of SQL change Unknown to FALSE and provide\r\na special operator, IS NULL , to test for a NULL condition. Here's an example of NULL : Suppose an entry in the PRICE table\r\ndoes not contain a value for WHOLESALE . The results of a query might look\r\nlike this:"
     },
     {
       "tag": "h5",
@@ -868,7 +868,7 @@
     },
     {
       "tag": "p",
-      "text": "How can you find all the parts located in the back? A quick visual inspection\r\nof this simple table shows that it has two parts, but unfortunately the locations\r\nhave slightly different names. Try this:"
+      "text": "How can you find all the parts located in the back? Aquick visual inspection\r\nof this simple table shows that it has two parts, but unfortunately the locations\r\nhave slightly different names. Try this:"
     },
     {
       "tag": "h5",
@@ -1012,7 +1012,7 @@
     },
     {
       "tag": "p",
-      "text": "Notice that the results are identical. These two wildcards can be combined. The\r\nnext example finds all records with L as the second character:"
+      "text": "Notice that the results are identical. These two wildcards can be combined. The\r\nnext example finds all records with Las the second character:"
     },
     {
       "tag": "h5",
@@ -1080,7 +1080,7 @@
     },
     {
       "tag": "p",
-      "text": "This statement inserted a comma between the last name and the first name. NOTE: Notice the extra spaces between\r\n\tthe first name and the last name in these examples. These spaces are actually part\r\n\tof the data. With certain data types, spaces are right-padded to values less than\r\n\tthe total length allocated for a field. See your implementation. Data types will\r\n\tbe discussed on Chapter 9, \"Creating and Maintaining Tables.\" So far you have performed the comparisons one at a time. That method is fine for\r\nsome problems, but what if you need to find all the people at work with last names\r\nstarting with P who have less than three days of vacation time?"
+      "text": "This statement inserted a comma between the last name and the first name. NOTE: Notice the extra spaces between\r\n\tthe first name and the last name in these examples. These spaces are actually part\r\n\tof the data. With certain data types, spaces are right-padded to values less than\r\n\tthe total length allocated for a field. See your implementation. Data types will\r\n\tbe discussed on Chapter 9, \"Creating and Maintaining Tables.\" So far you have performed the comparisons one at a time. That method is fine for\r\nsome problems, but what if you need to find all the people at work with last names\r\nstarting with Pwho have less than three days of vacation time?"
     },
     {
       "tag": "h3",
@@ -1108,7 +1108,7 @@
     },
     {
       "tag": "p",
-      "text": "Suppose your company gives each employee 12 days of leave each year. Using what\r\nyou have learned and a logical operator, find all the employees whose names start\r\nwith B and who have more than 50 days of leave coming."
+      "text": "Suppose your company gives each employee 12 days of leave each year. Using what\r\nyou have learned and a logical operator, find all the employees whose names start\r\nwith Band who have more than 50 days of leave coming."
     },
     {
       "tag": "h5",
@@ -1124,7 +1124,7 @@
     },
     {
       "tag": "p",
-      "text": "This query is the most complicated you have done so far. The SELECT clause\r\n(lines 1 and 2) uses arithmetic operators to determine how many days of leave each\r\nemployee has remaining. The normal precedence computes YEARS * 12 - LEAVETAKEN .\r\n(A clearer approach would be to write (YEARS * 12) - LEAVETAKEN .) LIKE is used in line 4 with the wildcard % to find all the B names. Line 6 uses the > to find all occurrences greater than 50 . The new element is on line 5. You used the logical operator AND to ensure\r\nthat you found records that met the criteria in lines 4 and 6."
+      "text": "This query is the most complicated you have done so far. The SELECT clause\r\n(lines 1 and 2) uses arithmetic operators to determine how many days of leave each\r\nemployee has remaining. The normal precedence computes YEARS * 12 - LEAVETAKEN .\r\n(Aclearer approach would be to write (YEARS * 12) - LEAVETAKEN .) LIKE is used in line 4 with the wildcard % to find all the Bnames. Line 6 uses the > to find all occurrences greater than 50 . The new element is on line 5. You used the logical operator AND to ensure\r\nthat you found records that met the criteria in lines 4 and 6."
     },
     {
       "tag": "h4",
@@ -1204,7 +1204,7 @@
     },
     {
       "tag": "p",
-      "text": "NOT means just that. If the condition it applies to evaluates to TRUE , NOT make it FALSE . If the condition after the NOT is FALSE ,\r\nit becomes TRUE . For example, the following SELECT returns the\r\nonly two names not beginning with B in the table:"
+      "text": "NOT means just that. If the condition it applies to evaluates to TRUE , NOT make it FALSE . If the condition after the NOT is FALSE ,\r\nit becomes TRUE . For example, the following SELECT returns the\r\nonly two names not beginning with Bin the table:"
     },
     {
       "tag": "h5",
@@ -1500,11 +1500,11 @@
     },
     {
       "tag": "dd",
-      "text": "Q How does all of this information apply to me if I am not using SQL from\r\n\tthe command line as depicted in the examples?"
+      "text": "Q How does all of this information apply to me if Iam not using SQL from\r\n\tthe command line as depicted in the examples?"
     },
     {
       "tag": "p",
-      "text": "A Whether you use SQL in COBOL as Embedded SQL or in Microsoft's Open Database\r\n\tConnectivity (ODBC), you use the same basic constructions. You will use what you\r\n\tlearned toChapter and yesterChapter repeatedly as you work with SQL. Q Why are you constantly telling me to check my implementation? I thought\r\n\tthere was a standard! A There is an ANSI standard (the most recent version is 1992); however,\r\n\tmost vendors modify it somewhat to suit their databases. The basics are similar if\r\n\tnot identical, and each instance has extensions that other vendors copy and improve.\r\n\tWe have chosen to use ANSI as a starting point but point out the differences as we\r\n\tgo along."
+      "text": "A Whether you use SQL in COBOL as Embedded SQL or in Microsoft's Open Database\r\n\tConnectivity (ODBC), you use the same basic constructions. You will use what you\r\n\tlearned toChapter and yesterChapter repeatedly as you work with SQL. Q Why are you constantly telling me to check my implementation? Ithought\r\n\tthere was a standard! A There is an ANSI standard (the most recent version is 1992); however,\r\n\tmost vendors modify it somewhat to suit their databases. The basics are similar if\r\n\tnot identical, and each instance has extensions that other vendors copy and improve.\r\n\tWe have chosen to use ANSI as a starting point but point out the differences as we\r\n\tgo along."
     },
     {
       "tag": "h2",
