@@ -1,0 +1,301 @@
+{
+  "url": "http://medicine.ucsf.edu/housestaff/handbook/HospH2002_C7.htm",
+  "content_hash": "d0988b8b472ae4fa04f9ad9d32b3cce88d6140f25020a7b8025466373831b4f7",
+  "total_blocks": 713,
+  "retained_blocks": 73,
+  "ignored_blocks": 640,
+  "blocks": [
+    {
+      "tag": "p",
+      "text": "Hematology/Oncology Garth A.\r\nBeinart, M.D. Sumitra Chari,\r\nM.D. Willis H. Navarro, M.D. Anemia overview Microcytic anemia Normocytic anemia Macrocytic anemia Deep vein thrombosis Heparin Warfarin Outpatient therapy for venous thromboembolism Supratherapeutic PT/PTT Uremic bleeding Blood products  components Blood products  complications Neutropenic fever Sickle cell pain crisis Thrombocytopenia Heparin-induced\r\nthrombocytopenia Bone marrow transplantpotential complications BMTacute\r\ngraft vs. host disease staging and grading Oncologic emergencies Pain management Common chemotherapy side effects"
+    },
+    {
+      "tag": "h1",
+      "text": "ANEMIA OVERVIEW"
+    },
+    {
+      "tag": "p",
+      "text": "1. Symptoms of\r\nanemia include fatigue, dyspnea on exertion, and even angina. Physical\r\nexam findings include pallor, tachycardia, and jaundice. 2. To generate a differential diagnosis anemia, first categorize the type of anemia (microcytic, normocytic,\r\nmacrocytic) by MCV and furthermore with the ferritin and reticulocyte\r\ncount.  Then, exam the peripheral smear: findings on the smear will narrow\r\nyour differential, suggest additional medical problems the patient may have ( i.e. target cells and liver disease, spur cells and uremia with uremic platelet\r\ndysfunction), and may reveal diagnoses such as microangiopathic hemolytic\r\nanemia (MAHA) in a timely fashion.  Finally, order additional tests to\r\nconfirm your diagnosis and remember to get your tests before transfusing the\r\npatient. 3. Factoids: Hospitalized patients will drop their\r\nhematocrit 1% per day from blood draws. Epogen causes hypertension if the\r\nhematocrit is raised > 35% in ESRD and does not work in the setting of iron\r\ndeficiency. Follow the hemoglobin and not the\r\nhematocrit. The hematocrit is calculated from two measured values and has a 3 point range for error."
+    },
+    {
+      "tag": "h1",
+      "text": "MICROCYTIC ANEMIA (MCV < 80)"
+    },
+    {
+      "tag": "p",
+      "text": "1. Work-up: order\r\niron, ferritin, transferrin, and if possible a red cell distribution width\r\n(RDW). 2. Iron deficiency: On physical exam, look for koilonychia, atrophic tongue. \r\nIron deficiency usually does not cause a microcytic anemia until the hematocrit\r\ndrops below 30%.  Ferritin is useful for diagnosing iron deficiency. The\r\nlikelihood ratios are as follows: for a ferritin <15 the LR=50 in favor of\r\niron deficiency anemia; for a ferritin <25 the LR=10, specificity of 98%;\r\nfor a ferritin >100 the LR=0.1. Since ferritin is an acute phase reactant,\r\nsome say it should not be used in the setting of inflammation; others say that\r\nin chronic inflammation a ferritin < 50 is highly suggestive of iron\r\ndeficiency.  Iron is low and transferrin or TIBC (total iron binding\r\ncapacity) is high, which makes the transferrin saturation (iron divided by\r\ntransferrin) low: a saturation <10% has a specificity of 88%. The RDW\r\n(reflecting anisocytosis) is high. Once youve made the diagnosis, rule out GI\r\nbleeding: around 60% of patients will have GI lesions. Order stool guiaics, a\r\ncolonoscopy, and possibly an EGD.  With treatment, the hematocrit should\r\nbe normal in 2 months; continue iron treatment 4-6 months to replete stores.\r\nCommon side effect of oral iron is constipation.  IV iron available if\r\npatient refractory to PO, but has increased risk of anaphylaxis. Each PRBC\r\ntransfused contains 200 mg elemental iron. 3. Sideroblastic anemia: hereditary cases are usually microcytic while acquired\r\nsideroblastic anemia may be normocytic. Acquired causes include lead, INH,\r\nEtOH, B 6 deficiency. Basophilic stippling and dimorphic RBC\r\nmorphology is seen on peripheral blood smear. 4. Thalassemia: The Mentzer index may be helpful: (MCV/RBC count) < 13 favors thalassemia\r\nover iron deficiency.  This test has a high sensitivity but low\r\nspecificity.  Basically in iron deficiency, the marrow cant produce RBCs\r\nand theyre small so the RBC count will be low along with the MCV.  In\r\nthalassemia, RBC production is preserved, though the cells are small and\r\nfragile.  So the RBC count is normal with a low MCV.  This concept\r\nmay be more helpful than remembering the Mentzer index.  The RDW in\r\nthalassemia, unlike iron deficiency, is normal and may be a more accurate\r\ndiscriminant function in differentiating between the two.  Make the\r\ndiagnosis of beta-thalassemia with hemoglobin electrophoresis.\r\nAlpha-thalassemia will not show up on electrophoresis: it is diagnosed by\r\nmolecular diagnostic techniques. Order an A-thal on the lab slip. Think of A lpha\r\nthalassemia in A sians.  Beta thal in Meditteraneans.  \r\nDifferential diagnosis for target cells on smear: beta thalassemia, hemoglobin\r\nC disease, liver disease, beta-lipoproteinemia.  In general you should not\r\nsee targets in sickle cell unless they are sickle-thalassemia or sickle-C. 5. Anemia of chronic disease: Chronic inflammatory diseases, that is, such as cancer and\r\ncollagen-vascular diseases. Transferrin is decreased, saturation increased,\r\niron low, ferritin normally increased (non specific for chronic disease). The\r\nMCV rarely falls below 78, though the patient can become microcytic because\r\nthey are functionally deficient of iron. Guyatt\r\nGH, Oxman AD, Ali M, Willan A, McIlroy W, Patterson C. Laboratory diagnosis of\r\niron-deficiency anemia: an overview.  J Gen Intern Med. 1992\r\nMar-Apr;7(2):145-53."
+    },
+    {
+      "tag": "h1",
+      "text": "NORMOCYTIC ANEMIA (MCV 80-100)"
+    },
+    {
+      "tag": "p",
+      "text": "1. Reticulocytes:"
+    },
+    {
+      "tag": "div",
+      "text": "First check a reticulocyte count.  Your goal\r\n     is to come up with a reticulocyte index (RI). If your lab gives you an absolute reticulocyte count, make into a percent reticulocyte count by\r\n     dividing by the RBC count. Make sure to convert your units! Now correct the reticulocyte count for the\r\n     patients hematocrit (HCT).  Corrected reticulocyte count = %\r\n     reticulocytes x (actual hematocrit ideal\r\n     hematocrit). Now correct for early release of reticulocytes by\r\n     dividing by (1 + 0.5 x ) where x is 1 for every drop of 10% in\r\n     the hematocrit.  For example, divide by 1.5 for HCT=35% and divide by\r\n     2 for HCT=25%. You now have the reticulocyte index (RI). \r\n     If the RI < 2 for HCT 10-35%, or < 3 for HCT < 10%, your patient\r\n     has a hypoproliferative anemia."
+    },
+    {
+      "tag": "p",
+      "text": "2. Decreased reticulocyte count: Primary bone marrow failure: - Aplastic anemia/red cell aplasia : diagnosed by bone marrow biopsy. - Myelophthisis : (replacement of the bone marrow) tear\r\ndrops on smear - Myelodysplastic syndrome Secondary bone marrow failure: - Anemia of chronic disease : Normal or increased platelets and WBCs\r\nsupport this is the diagnosis. - Iron, B12, folate deficiency (nutritional\r\ndeficiency) - Chronic kidney disease : use erythropoeitin when the creatinine\r\nclearance drops below 30 ml/min. - Hypersplenism : usually anemia is concomitant with mild\r\npancytopenia. - Hypothyroidism : especially in the elderly - Multiple myeloma : check SPEP, UPEP - HIV/AIDS - Mixed: e.g. an alcoholic with megaloblastic anemia\r\nfrom folate deficiency, and iron deficiency from GI bleeding. The MCV is\r\nnormal, but the RDW is increased reflecting anisocytosis (cells of varying\r\nsizes). 4. Increased reticulocyte count : check smear for schistocytes (intravascular hemolysis)\r\nand/or spherocytes (extravascular hemolysis). Acute blood loss : If you cant find a source, dont forget\r\nto rule out occult retroperitoneal bleed. Correction : of a production deficit. Peak MCV at\r\n7-10 days. Hemolysis : see below. 5. Hemolysis:"
+    },
+    {
+      "tag": "div",
+      "text": "Classification is based on:"
+    },
+    {
+      "tag": "p",
+      "text": "- Site of hemolysis\r\n(intravascular vs. extravascular) or - Intrinsic (RBC defect) vs. an\r\nacquired extrinsic mechanism (where transfused cells will have a shortened life\r\nspan). - Send LDH, total and direct bilirubin,\r\nand possibly haptoglobin (level < 25 is 96% specific for hemolysis).  A\r\nnormal LDH and haptoglobin > 25 helped rule out hemolysis in one small\r\nstudy.  Haptoglobin overall is not very useful as it takes one week to\r\nreturn, is an acute phase reactant, and is very sensitive (leading to\r\ndecreased specificity)."
+    },
+    {
+      "tag": "div",
+      "text": "Intravascular causes:  red cell\r\n     fragmentation syndromes, PNH, immediate transfusion reactions. Look for\r\n     schistocytes and urine hemoglobin/hemosiderin/heme+ (sensitive). Extravascular causes: RBCs destroyed by the\r\n     reticuloendothelial system. Extrinsic causes:"
+    },
+    {
+      "tag": "p",
+      "text": "- Hypersplenism - Antibody-mediated : warm (IgG) vs. cold (Ig M ) think M ono, M ycoplasma;check Coombs. Spherocytes are on the smear. Drugs are a big\r\noffender as well. - Trauma/ Red Cell fragmentation : heart valve, hemodialysis, malignant\r\nHTN, vasculitis, HELLP, cardiopulmonary bypass, TTP/HUS, DIC.  Look for\r\nschistocytes and helmet cells (even 1-2 per HPF), and spherocytes. Remember:\r\nDIC increases INR and PTT, HUS and TTP do not. - Infection/toxin: malaria, babesiosis, clostridia,\r\nbrown-recluse, copper (Wilsons disease). Intrinsic defects: all are hereditary\r\nexcept PNH. - Membrane: Hereditary spherocytosis, hereditary\r\nelliptocytosis. - Enzyme:  e.g. G6PD deficiency: normal smear and\r\nCoombs. Check G6PD levels, which may be normal after an acute hemolytic\r\nepisode or post transfusion. Consider this in HIV patients, particularly\r\nAfrican Americans, taking PCP prophylaxis. Although this is X-linked recessive,\r\nit may still occur in females due to lyonization. - Hemoglobinopathy: sickle cell, thalassemias, Hgb C, Hgb E. - PNH : complement-mediated lysis. Consider with pancytopenia, unexplained\r\nthrombosis (especially intra-abdominal) and an elevated reticulocyte count and\r\nLDH. A rare diagnosis. Marchand A, Galen RS, Van Lente F.   The predictive\r\nvalue of serum haptoglobin in hemolytic disease. JAMA. 1980 May 16;243(19):1909-11."
+    },
+    {
+      "tag": "h1",
+      "text": "MACROCYTIC ANEMIA (MCV > 100)"
+    },
+    {
+      "tag": "p",
+      "text": "1. Megaloblastic :\r\nhypersegmented neutrophils (> 5% of neutrophils with 5 lobes or > 1% with\r\n6 lobes) are seen on the smear. An MCV > 120 is almost pathognomonic for\r\nmegaloblastic anemia. Ovalocytes may be seen, but are nonspecific. On physical\r\nexam, look for atrophic tongue. B12 deficiency : diagnose with serum B12. This value may\r\nbe falsely decreased secondary to folate deficiency or type 1 cryoglobulinemia\r\n( e.g. multiple myeloma, Waldenstroms macroglobulinemia). Look for\r\nsubacute combined degeneration.  Can send homocysteine and methylmalonic\r\nacid.  Schilling test to look at source of deficiency. May have\r\npancytopenia. Folate deficiency : diagnose with RBC-Folate level. \r\n(Serum folate fluctuates and is a poor proxy for folate stores).  May be\r\nfalsely low secondary to B12 deficiency. Drug-induced : chemo, methotrexate (MTX), hydroxyurea,\r\nazathioprine, etc. Note: repletion of vitamin B12 should\r\nalways accompany folate and iron therapy until you are sure the patient does\r\nnot have multiple deficiencies, in order to avoid aplastic-type crisis and/or\r\nhigh output CHF.  In addition, folate may partially correct the\r\nmegaloblastic anemia of B12 deficiency while the neurologic symptoms progress. 2. Non-megaloblastic : MCV < 110 in most cases. Alcoholism : most common cause of macrocytic anemia. Liver disease Hypothyroidism Reticulocytosis : although the reticulocyte MCV is 160 microns, reticulocytosis rarely\r\ncauses an MCV above 110.  Polychromasia is seen on smear. Spurious : hyperglycemia and hypernatremia, secondary to osmotic swelling. Aplastic anemia Myelodysplastic syndromes : giant platelets, hypogranulated neutrophils, bi-lobed\r\nneutrophils. Drugs: anticonvulsants, AZT. Hoffbrand V, Provan D.   ABC of clinical haematology.\r\nMacrocytic anaemias.  BMJ. 1997 Feb 8;314(7078):430-3."
+    },
+    {
+      "tag": "h1",
+      "text": "DEEP VEIN THROMBOSIS"
+    },
+    {
+      "tag": "p",
+      "text": "1. See also Pulmonary:\r\nPulmonary embolism . 2. Over 9 in 10 pulmonary emboli originate\r\nfrom DVTs, and the treatment of PE and DVT are usually identical. 3. DVTs are associated with calf pain and\r\ntenderness. Homans signpain when dorsiflexing the foot with the knee\r\nextendedis neither sensitive nor specific and should be abandoned. 4. DVT prophylaxis should be addressed in\r\nall inpatients. Encourage early ambulation and order physical therapy when\r\nindicated. Obtain prophylaxis with sequential compression devices, low dose ultrafractionated\r\nheparin, or low molecular weight heparin ( e.g. enoxaparin).  See\r\nalso Medical Consultation:\r\nDVT/PE prophylaxis . 5. Simple clinical model to diagnose DVT: Give the patient one (1) point for each of the following (if they\r\nare present): active cancer, immobilization, bedridden > than 3 days due to\r\nsurgery, localized tenderness, entire leg swelling, asymmetric > 3 cm calf\r\nswelling,  pitting edema, or collateral superficial veins (nonvaricose)."
+    },
+    {
+      "tag": "div",
+      "text": "Is there an alternative diagnosis that is as\r\n     likely or more likely than DVT?  If yes, subtract 2 points. Score > 3: high probability of DVT,\r\n     prevalence of DVT 75% . Score 1-2: moderate probability of DVT,\r\n     prevalence of DVT 17% . Score 0: low probability of DVT, prevalence of\r\n     3% ."
+    },
+    {
+      "tag": "p",
+      "text": "6. Work-up of suspected DVT: D-dimers : very useful if your local hospital has the ELISA test\r\nwhich is very sensitive (good for ruling out DVT).  Some labs use the\r\nlatex agglutination test, which is only 85-90% sensitive. Thus, in a patient\r\nwith a non-diagnostic V/Q scan (for PE) or Doppler ultrasound (for DVT), a\r\nnegative D-dimer (ELISA method) means it is probably safe not to anticoagulate\r\nif your clinical suspicion is low or moderate. Doppler ultrasound : This test is better at detecting DVTs above\r\nthe knee (which, in fact, are the clinically significant ones as clots below\r\nthe knee rarely cause pulmonary embolism).  Ultrasound is 50% sensitive in\r\nan asymptomatic individual, and therefore cannot be used to rule out PE.\r\nUltrasound is also less sensitive than venogram for calf DVT. 7. Hypercoagulability work-up:"
+    },
+    {
+      "tag": "div",
+      "text": "After the first event, the hypercoaguable work-up\r\n     will lead to an etiology in only 30% of patients; after the second DVT\r\n     only 50% will eventually have an etiology determined.  Moreover, only\r\n     10-20% of people with an idiopathic DVT will ever have another event."
+    },
+    {
+      "tag": "p",
+      "text": "It is not necessary to begin the work up\r\nof anticoagulation at the time of the clot: the results wont change your\r\nmanagement and will take a while to come back anyway; therefore, consider an\r\noutpatient work-up. Guidelines for hypercoagulability work-up: - Draw an extra blue top tube before\r\nstarting heparin or warfarin if you suspect a hypercoaguable state: heparin\r\nwill interfere with assays for antithrombin III and the lupus anticoagulant. - Protein C, S, anticardiolipin antibodies,\r\nhomocysteine, prothrombin 20210A, Factor V Leiden, and MTHFR mutations (leading\r\nto hyperhomocysteinemia) can be sent when patients are taking heparin.  Note\r\nthat Proteins C and S are vitamin K dependent factors and will be lowered by\r\nwarfarin therapy. - AT III, Protein C, and Protein S may be\r\ntransiently depressed during the acute event, and only persistent lupus\r\nanticoagulants are associated with hypercoagulability. Therefore, repeat\r\nabnormal tests later to make an accurate diagnosis. - Note that there is not a consensus that\r\nall patients with unprovoked DVT/PE should have a hypercoagulability\r\nwork-up.  The most common defects are not associated with recurrent\r\ndisease, and the ones that are, are uncommon.  A targeted work-up is\r\nlikely a more reasonable approach ( e.g. send antiphospholipid antibody\r\nas persistent lupus anticoagulant is associated with venous/arterial recurrence\r\nand may require a higher INR goal for warfarin therapy). 8. Treatment : typically involves heparin (or enoxaparin) and\r\nwarfarin.  Some advocate giving patients heparin for 5 days, even if their\r\nINR becomes therapeutic in less than 5 days. Patients should be therapeutically\r\nanticoagulated as soon as possible (within 24 hours). Thus, it is better to\r\novershoot and risk bleeding than to undershoot and risk further\r\nembolic/thrombotic events.  See Hematology/Oncology:\r\nHeparin and Hematology/Oncology: Warfarin (below). Anand SS, Wells PS, et\r\nal.  Does this patient have deep vein thrombosis? JAMA. 1998 Apr\r\n8;279(14):1094-9. Seligsohn U, Lubetsky A.\r\nGenetic susceptibility to venous thrombosis. N Engl J Med. 2001 Apr\r\n19;344(16):1222-31 Hyers TM, Agnelli G, et al.  Antithrombotic therapy for\r\nvenous thromboembolic disease.  Chest. 2001 Jan;119(1 Suppl):176S-193S.."
+    },
+    {
+      "tag": "h1",
+      "text": "HEPARIN"
+    },
+    {
+      "tag": "h3",
+      "text": "1. Risk factors for bleeding while on\r\nheparin:"
+    },
+    {
+      "tag": "p",
+      "text": "Surgery, trauma, or stroke within the\r\nprevious 14 days. History of peptic ulcer disease, GI\r\nbleeding or GU bleeding. Platelets < 150K. Age > 70 years. Hepatic failure, uremia, bleeding\r\ndiathesis, brain metastases. 2. When to use low molecular weight heparin (enoxaparin): LMWH eliminates the need to\r\nmonitor PTT and adjust dosages. You may send selected patients home with\r\nenoxaparin and warfarin, rather than keeping them in-house on heparin for 5\r\ndays or until they are therapeutic on warfarin (see Hematology/Oncology: Outpatient therapy for\r\nvenous thromboembolism ).  Moreover, LMWH is associated with a\r\nlower incidence of heparin-associated thrombocytopenia.  Regular,\r\nultrafractionated heparin is preferable when:"
+    },
+    {
+      "tag": "div",
+      "text": "Patients require prolonged hospitalization anyway\r\n     (cost savings over enoxaparin) or Rapid reversal of anticoagulation might be\r\n     necessary ( e.g. possible surgery)."
+    },
+    {
+      "tag": "p",
+      "text": "3. Consider a hematology consult before using LMWH in the following\r\nsituations: Weight > 150 kg. Creatinine > 2, or creatinine clearance\r\n< 30 ml/min. Pregnancy. 4. For heparin sliding scale, see Sliding Scales: Heparin . Hirsh J, Warkentin TE, et al.  Heparin and\r\nlow-molecular-weight heparin: mechanisms of action, pharmacokinetics, dosing,\r\nmonitoring, efficacy, and safety.  Chest. 2001 Jan;119(1 Suppl):64S-94S."
+    },
+    {
+      "tag": "h1",
+      "text": "WARFARIN"
+    },
+    {
+      "tag": "p",
+      "text": "1. Give the warfarin on day one of heparin\r\nor enoxaparin if long-term anticoagulation is desired.  Usually 5.0-7.5 mg\r\nPO at night (to ensure absorption on an empty stomach) on Day 1, then 2.5-7.5\r\nmg PO QHS (most often 5 mg). Increase in the INR of > 0.3-0.4 units per day\r\nshould result in a dose reduction (otherwise an INR overshoot is likely). 2. Goal for INR:"
+    },
+    {
+      "tag": "div",
+      "text": "An INR of 2.5-3.5 for mechanical prosthetic\r\n     valves or recurrent systemic thromboembolism INR of 2.0-3.0 for most others (uncomplicated\r\n     DVT/PE)."
+    },
+    {
+      "tag": "p",
+      "text": "3. Information about the patient's past warfarin dosing history will\r\nhelp you titrate appropriately. Congestive heart failure, liver disease,\r\nvitamin K deficiency and certain medications influence warfarin response.\r\nTailor the duration of warfarin therapy to the individual and the indication \r\nusually three months to life. Hirsh J, Dalen J, et al.  Oral anticoagulants: mechanism of\r\naction, clinical effectiveness, and optimal therapeutic range.  Chest.\r\n2001 Jan;119(1 Suppl):8S-21S."
+    },
+    {
+      "tag": "h1",
+      "text": "OUTPATIENT\r\nTHERAPY FOR VENOUS THROMBOEMBOLISM"
+    },
+    {
+      "tag": "p",
+      "text": "1. Indications: Clinically stable patients with DVT or PE\r\ndocumented with imaging study. Patients must be motivated and interested\r\nin home self-injection and frequent follow-up. 2. Contraindications: Co-morbid conditions: Active peptic ulcer\r\ndisease, bleeding in last 14 days, brain metastases, CVA in last 10 days,\r\nblindness, CNS or cord injury/surgery in last 10 days, family bleeding diathesis,\r\npatient weight <35 kg, platelets < 80K or fall of > 40%. Anesthesia: Spinal or epidural anesthesia\r\nin past 3 days. Medication conflicts: prior sensitivity to\r\nheparin, concomitant thrombolytic therapy, need for high-dose NSAIDs other than\r\nibuprofen, naproxen, or Celebrex.  Vioxx may result in warfarin\r\nsensitivity. Cognition problems: inability to maintain\r\ndiary, inject medications, reliably follow medication schedules, recognize change\r\nin health status, or understand directions from home health team. 3. Initial therapy: enoxaparin (1 mg/kg SQ q12h) plus warfarin (5 mg PO qhs; 7.5 mg PO\r\nqhs if > 85 kg). 4. Maintenance algorithm: Continue enoxaparin until patient has\r\nreceived five days of enoxaparin and has two consecutive INR > 2.0. Adjust warfarin to keep INR in desired\r\nrange. Check PT/INR frequently after day 2 until\r\npatient is on stable dose of warfarin."
+    },
+    {
+      "tag": "h1",
+      "text": "SUPRATHERAPEUTIC PT/PTT"
+    },
+    {
+      "tag": "p",
+      "text": "1. Differential diagnosis for prolonged PT: warfarin, liver disease, poor nutrition,\r\nvitamin K deficiency (antibiotics, nutritional, fat malabsorption), deficiency\r\nor inhibitor for factors II, V, VII, or X, DIC, heparin bolus. 2. Differential diagnosis for prolonged PTT: heparin, congenital deficiency of VIII,\r\nIX, XI, von Willebrands disease, anti-phospholipid antibody, inhibitor to any\r\nfactor except VII, liver disease, DIC. 3. Use oral vitamin K to correct mild to moderate PT prolongation.\r\nCorrection occurs within 10-12 hours. Subcutaneous vitamin K is as good as IV\r\nvitamin K, minus the risk of anaphylaxis. 4. FFP lasts 4-6 hours (need to give concomitant vitamin K). 5. Bebulin is a plasma-derived concentrate of factors II, VII, IX,\r\nand X.  It should be used in life threatening bleeds associated with\r\nwarfarin.  Dose Bebulin ~50 U/kg IV push (need to give concomitant vitamin\r\nK). 6. For heparin associated bleeding: Unfractionated heparin: Protamine 1 mg for\r\nevery 100 units heparin given. Dose by adding the amount given during each\r\nprior hour divided by 2 number of hours back .  For example, a\r\npatient on a heparin drip at 500 units/hour for 3 hours (without a bolus) would\r\nhave approximately (500/2 0 )+(500/2 1 )+(500/2 2 )\r\n=  500 + (500/2) + (500/4) = 875 units of circulating heparin. \r\nTherfore, the patient should be given 8-9 mg of protamine. Enoxaparin: 1mg:1mg. Protamine may reverse 40-50% of the drug effect. INR Bleeding Vitamin K FFP Normal  5.9 None Not indicated Not indicated 6.0  9.9 None Oral: 0.5  2.5 mg SC: 0.5  1.0 mg Not indicated > 10 None SC: 3 mg total, in divided doses of 1 mg Not indicated > 20 Yes SC: 10 mg 10  20 cc/kg"
+    },
+    {
+      "tag": "h1",
+      "text": "UREMIC BLEEDING"
+    },
+    {
+      "tag": "p",
+      "text": "1. Tips: Keep hematocrit > 24% Keep platelets > 75K FFP may be helpful if bleeding occurs in\r\nthe setting of an elevated INR 2. Therapies: Dialysis Conjugated estrogen 0.6 mg/kg IV QD x 5\r\ndays DDAVP 0.3 mcg/kg IV q12 hours x 2"
+    },
+    {
+      "tag": "h1",
+      "text": "BLOOD PRODUCTS  COMPONENTS"
+    },
+    {
+      "tag": "p",
+      "text": "1. Premeds: consider pre-medicating with Benadryl 25 mg PO/IV and Tylenol 650 mg PO/PR\r\nbefore each unit. 2. Packed red blood cells (PRBC): Most plasma removed. One unit should raise the hematocrit by 3\r\npoints or hemoglobin by 1 g/dL. Leuko-poor/leuko-filtered red blood cells have most\r\nWBCs removed to make it less antigenic. Use in patients prone to transfusion\r\nreactions and in patients requiring multiple transfusions (bone marrow\r\ntransplant, leukemia, chemotherapy). Washed red blood cells have WBC almost all\r\nremoved. Use as for leuko-poor RBC; note that they are more expensive. \r\nUsed for patients with allergic reaction to transfusions. Irradiated blood cells have lymphocytes killed, decreasing\r\nlikelihood of graft-versus host disease (GVHD) in bone marrow transplant\r\npatients. CMV\r\nnegative blood used for patients who are CMV negative and are pre-transplant or\r\npost-transplant. 3. Platelets: A 6-pack should  ideally raise\r\nplatelet count by 50-60K; For dysfunctional platelets (e.g. in uremia), DDAVP\r\nis usually given at 0.3 mcg/kg IV q12-24 hours x 2. Do not correct platelets\r\nfor paracentesis. Indications: - Platelets < 10-20K for non-bleeding\r\npatient. - Platelets < 50K for bleeding, pre-op,\r\nor pre-procedure. - Platelets < 75K for uremic bleeding\r\npatients. - Platelets < 100K for CNS or intraocular\r\nbleed. Cross-matched platelets may be used when\r\npatient has been sensitized to random-donor platelets and no longer bumps their\r\nplatelet counts after transfusion; cross-matching typically takes at least 1-2\r\ndays as well as lab medicine approval at most institutions. Always check a 1 hour post-transfusion\r\nplatelet count to ensure a response and to monitor for alloimmunization. 4. Fresh frozen plasma\r\n(FFP): A\r\nhigh PT is frequently encountered in end-stage liver disease. It is generally\r\nokay to leave a high PT alone when a patient is not bleeding. For those with\r\nrefractory bleeding, use an FFP dripthe half-life of FFP is about 4-6 hours. FFP\r\nis indicated if the PT > 18 seconds and is associated with bleeding or\r\nplanned procedures."
+    },
+    {
+      "tag": "h2",
+      "text": "5. Cryoprecipitate:"
+    },
+    {
+      "tag": "p",
+      "text": "Contains factor VIII, von Willebrand\r\nfactor, and fibrinogen. Use\r\nis generally reserved for patients with quantitative fibrinogen deficiency ( e.g. DIC) and qualitative fibrinogen deficits ( e.g. acquired dysfibrinogenemia\r\nassociated with liver disease). Its use in patients with hemophilia A (factor\r\nVIII deficiency) and von Willebrand disease has been supplanted by the use of\r\nspecific factor products that are safer and more efficacious. Advantage: you can replete with less\r\nvolume than FFP."
+    },
+    {
+      "tag": "h6",
+      "text": "Churchill WH.  Transfusion\r\ntherapy. In: Scientific American Medicine.  Edited by Federman D. \r\nNew York: Scientific American, 1999."
+    },
+    {
+      "tag": "h1",
+      "text": "BLOOD PRODUCTS  COMPLICATIONS"
+    },
+    {
+      "tag": "p",
+      "text": "1. Work-up: for\r\nall transfusion reactions consider a workup for a hemolytic reaction: blood\r\ncultures and hemolysis labs, including purple top for Coombs and red top for\r\nrepeat type and cross.  The blood bank is required to investigate and will\r\nhelp. The different types of reactions are listed below. 2. Acute hemolytic transfusion reaction: Preexisting anti-RBC antibodies in the\r\nrecipient hemolyze donated blood. Usually caused by ABO incompatibility due to\r\na clerical error. Fever and hypotension occur early in the transfusion; chills,\r\nflank pain, and dyspnea may occur. - Stop blood product immediately, as little\r\nas 30 cc can be fatal. - Provide hemodynamic and renal support. - Maintain diuresis with IV fluids and\r\nfurosemide; consider alkalinization of urine with bicarbonate to prevent renal\r\nfailure. Watch K + , CK. 3. Delayed hemolytic transfusion reaction: An extravascular immune-mediated process\r\nmediated by noncomplement-binding IgG. Ideally, the screen portion of the\r\ntype and screen will identified patients susceptible to this\r\ncomplication.  Fever, jaundice, and anemia occur 2 days to 2 weeks after\r\ntransfusion. 4. Anaphylaxis: This is different from an acute hemolytic\r\nreaction.  Interestingly, the reaction is not IgE mediated, but caused by\r\nimmune-complex activation of complement  by anaphylatoxins.  Symptoms\r\nare anaphylactoid, occur early in transfusion, and include laryngeal edema. - Stop the transfusion - Give epinephrine and steroids - Wash subsequent blood products, and avoid\r\nFFP 5. Bacterial contamination: Look for endotoxemiathe onset of high\r\nfever/shock within 4 hours of transfusion. Platelets are far more likely to be\r\ncontaminated with bacteria than blood, because they are stored are room\r\ntemperature. 6. Acute lung injury: i.e. noncardiogenic pulmonary edema. Also termed\r\nTRALItransfusion-related acute lung injury.  This is caused by donor\r\nantibodies against recipient WBCs. Respiratory failure occurs within 6 hours of\r\ntransfusion and treatment is supportive. 7. Febrile nonhemolytic transfusion reaction: This is characterized by fever > 1 C during or within 2 hours of completing\r\ntransfusion. It occurs with 1 in 5 platelet transfusion reactions and is of\r\nlimited clinical significance. It is questionable whether it is necessary to\r\ndiscontinue the transfusion. Caused by antibodies against foreign donor\r\nleukocyte antigens. 8. Urticarial reaction: Some say it is okay to continue\r\ntransfusion if the patient responds to antihistamines. Again, this is different\r\nfromand does not progress toan anaphylactiod reaction. For nonhemolytic reactions: - Benadryl 25-50 mg and Tylenol 650 mg for\r\nmild transfusion reactions. - Hydrocortisone 50-100 mg IV for moderate\r\nand severe reactions."
+    },
+    {
+      "tag": "h1",
+      "text": "NEUTROPENIC FEVER: ABSOLUTE NEUTROPHIL\r\nCOUNT < 500"
+    },
+    {
+      "tag": "p",
+      "text": "1. If patient has HIV, see Infectious\r\nDiseases: HIV and fever . 2. Non-bone marrow\r\ntransplant patients: Obtain blood culture x 2, urine culture,\r\nsputum Gram stain and culture, C. difficile toxin if patient has been on\r\nantibiotics, and CXR. Order neutropenic precautions (no rectals,\r\nno flowers, no fruit), neutropenic diet, mouth care with Peridex 10 cc sw/sp\r\nbid, Nystatin 10 cc sw/sw qid or Mycelex troche 1 qid, and Tylenol 650 mg q 4-6\r\nhour prn. Consider monotherapy with broad-spectrum\r\nantibiotics such as ceftazidime, cefipime or anti-pseudomonal beta-lactam.\r\nCover for Gram negative bacteria including Pseudomonas.  Also cover Gram\r\npositives such as Staph aureus and Strep viridans. - If prolonged neutropenia, consider fungal\r\ninfection and adding amphotericin B (typically 1 mg/kg IV qd). - For nosocomial acquisition, suspected IV\r\ncatheter infection, known colonization with MRSA/PRSP, (+) blood culture for\r\nGram positive cocci, or a hypotensive patient, consider covering MRSA by adding\r\nvancomycin. - Double-cover documented Pseudomonas by\r\nadding an aminoglycoside or a fluoroquinolone, such as ciprofloxacin. The\r\nfluoroquinolone is preferable given the renal toxicity of aminoglycosides."
+    },
+    {
+      "tag": "h6",
+      "text": "3. Bone marrow transplant patients: the guidelines above still apply, except for the following: Most hospitals\r\nthat have a bone marrow transplant unit have an antibiotic algorithm that you\r\nshould follow when treating bone marrow transplant patients with neutropenic\r\nfever. The patients most likely\r\nto suffer from full blown sepsis syndrome are those who are\r\npenicillin-allergic."
+    },
+    {
+      "tag": "h1",
+      "text": "SICKLE CELL PAIN CRISIS"
+    },
+    {
+      "tag": "p",
+      "text": "Your hospital\r\nstaff typically know these patients well.  Often, the patients primary physician\r\nhas contracted with the patient for an individualized pain protocol. \r\nConsider consultation with the hematologist or pain service to get the exact\r\ndetails (if they exist).  Dont be surprised by massive opiate tolerance\r\nand the need to rapidly escalate the analgesia dose required for relief:\r\nremember, physicians typically under-treat pain.  Unlike most opioids,\r\nsuch as morphine and oxycodone, codeine and hydrocodone have ceilings beyond\r\nwhich increasing doses will not result in increasing analgesia. 1. Tips: Stroke, MI, persistent priapism, or\r\nintractable pain characterize acute vaso-occlusive crises. Exchange transfusion\r\nis indicated in these cases. Also, multi-organ failure requires urgent exchange\r\ntransfusion. If patient with frequent episodes of pain\r\ncrisis, consider hydroxyurea as prophylaxis."
+    },
+    {
+      "tag": "div",
+      "text": "In the past, the dogma for treating sickle cell\r\n     crises called for aggressive fluids, oxygen, and even bicarbonate\r\n     infusions as methods to reverse the sickling process in the red blood\r\n     cells.  However, we have since learned that the event that led to the\r\n     sickle crisis (and thus the sickling) has already occurred by the time\r\n     the patient comes into the ER.  Therefore, these measures are\r\n     unlikely to be helpful and may be harmful (see below)."
+    },
+    {
+      "tag": "h4",
+      "text": "2. Orders:"
+    },
+    {
+      "tag": "p",
+      "text": "IV: moderate hypotonic ( e.g. D 5 NS )\r\nhydration. Aggressive hydration can lead to or exacerbate acute chest\r\nsyndrome . DIET: NPO; advance diet as tolerated. NURSING: O 2 0-4 L/min by NC.\r\n(If respiratory status is compromised, remember acute chest syndrome. A new\r\npulmonary infiltrate, fever, chest pain, cough, tachypnea and cough are\r\ncharacteristic). LAB: CBC, reticulocyte count, cultures,\r\nelectrolytes, BUN, creatinine, bilirubin, U/A, CXR.  Draw red-top tube for\r\ntype and hold. (If patient is to be transfused, alert the blood bank that the\r\npatient has sickle cell disease; these patients will be screened more\r\nthoroughly to avoid alloimmunization associated with frequent transfusions). MEDS:Folic acid 1 mg PO QD and analgesic du\r\njour. Avoid Demerol: these patients will inevitably require huge\r\ndoses, and are at greatly increased risk of seizures. 3. Try to determine precipitating factor(s): stress, dehydration,\r\ndrug use, infection, hypoxia, MI, etc. Although, remember that many of these\r\npatients come in and out of the hospital for \"routine\" pain crises\r\nwithout specific precipitants. While pain crises often present with\r\nnon-specific elevations in WBC and low-grade fevers, there always is the\r\npotential for something bad to be going on. Therefore complete work up of\r\nconcomitant infection is important. 4. Acute chest syndrome: This is one of the dreaded complications of sickle cell disease\r\nand a leading cause of death in adults with this disease.  You should\r\nthink of this diagnosis in any patient with cough, chest pain, wheezing,\r\nshortness of breath, fever, and/or new infiltrate on CXR who has a history of\r\nsickle cell disease.  Etiology is not fully known, but thought to involve\r\nmicro/macro vascular infarction, pulmonary fat emboli, and concurrent\r\nviral/bacterial infection.  Management primarily consists of supportive\r\ncare, bronchodilators, treatment of coexisting infection, and transfusions if\r\nneeded.  In addition, a simple transfusion may be adequate, but if the\r\npatients clinical situation worsens an exchange transfusion may be needed. Vichinsky EP, Neumayr LD, et al.   Causes and outcomes\r\nof the acute chest syndrome in sickle cell disease. National Acute Chest\r\nSyndrome Study Group.  N Engl J Med. 2000 Jun 22;342(25):1855-65."
+    },
+    {
+      "tag": "h1",
+      "text": "THROMBOCYTOPENIA"
+    },
+    {
+      "tag": "p",
+      "text": "1. Defined as\r\nplatelet count < 150K. Generally, platelets > 50K are not associated with\r\nsignificant bleeding, and spontaneous bleeding rarely happens with platelets\r\n>10-20K in the absence of coagulopathy or qualitative platelet defect. Avoid intramuscular injections, rectal\r\nexams, suppositories, and enemas. Avoid drugs that interfere with platelet\r\nfunction (e.g. NSAIDs/ASA, certain beta-lactam antibiotics). 2. History: B-symptoms (such as fevers, night sweats, weight loss), GI bleed, epistaxis. 3. Physical examination: look for lymphadenopathy, splenomegaly, ecchymoses, petechiae,\r\npurpura. Petechiae indicate a significant risk for intracerebral hemorrhage. 4. Labs: peripheral smear, PT/PTT, LDH (MAHA), BUN/Cr (HUS/TTP). Get HIV, ANA when\r\nindicated, and consider toxoplasmosis, EBV, and CMV serology if\r\nlymphadenopathy, splenomegaly, or B-symptoms are detected."
+    },
+    {
+      "tag": "h6",
+      "text": "5. Etiologies:"
+    },
+    {
+      "tag": "h4",
+      "text": "Decreased Production"
+    },
+    {
+      "tag": "p",
+      "text": "- Aplastic anemia - Megaloblastic anemia: B12 or folate\r\ndeficiency - Hematologic malignancies: myelodysplasia,\r\nleukemia, myeloma - Marrow infiltration: lymphoma,\r\nmyelofibrosis, metastatic tumor, TB, Gaucher's disease - Drug-induced: EtOH, thiazides, estrogens,\r\nSeptra, chemotherapy, cimetidine, famotidine - Paroxysmal nocturnal hemoglobinuria (PNH):\r\nrare and associated with pancytopenia. - Infections: mono, influenza, rubella, hemorrhagic\r\nfever, sepsis. Increased Destruction : classically associated with large\r\nplatelets on the smear. - Immune mediated: o ITP: sending platelet associated antibody\r\nhas low sens/spec, treat with steroids, IVIG, splenectomy o Neoplasia-associated: CLL o Drug-induced: quinidine, heparin (HIT),\r\nrifampin, sulfa, indomethacin, gold o SLE, RA o HIV-associated thrombocytopenia o Post-transfusion purpura - Non-immune mediated: o DIC: increased PT/PTT and D-dimers,\r\ndecreased platelet/fibrinogen, hemolytic anemia, prosthetic valves. o HUS o TTP: always increased LDH. Decreased\r\nplatelet, and normal PT/PTT. o Pre-ecclampsia/ecclampsia o Toxic shock syndrome o Vasculitis o Infections: rickettsia, CMV, EBV, malaria,\r\nsepsis, etc."
+    },
+    {
+      "tag": "h4",
+      "text": "Sequestration : Hypersplenism"
+    },
+    {
+      "tag": "p",
+      "text": "Pseudo-thrombocytopenia :\r\nBlood clumping on CBC, need to check smear to rule out George JN, Raskob GE, et al.  Drug-induced thrombocytopenia:\r\na systematic review of published case reports. Ann Intern Med. 1998 Dec 1;129(11):886-90."
+    },
+    {
+      "tag": "h1",
+      "text": "HEPARIN-INDUCED\r\nTHROMBOCYTOPENIA (HIT)"
+    },
+    {
+      "tag": "h5",
+      "text": "1. There are primarily two types of HIT:"
+    },
+    {
+      "tag": "p",
+      "text": "Type 1 Type 2 Frequency 10-20% 1-3% Timing 1-4 days 5-10 days Nadir of\r\n  platelet count 100,000 30-55,000 Antibody\r\n  mediated No Yes Thromboembolic\r\n  sequelae None 30-80% Hemorrhagic\r\n  sequelae None Rarely Management Observe Discontinue heparin\r\n  and start alternate anticoagulant."
+    },
+    {
+      "tag": "h5",
+      "text": "2. Diagnosis: think of this diagnosis in\r\nyour hospitalized patients whose platelet count starts dropping. You can diagnose HIT type 2 by\r\nsending platelet factor 4 antibody, although this syndrome is primarily a\r\nclinical diagnosis. 3. Incidence: HIT occurs less frequently now\r\nwith the increased use of low molecular weight heparin. 4. Complications: the thrombotic complications\r\ncan be arterial or venous and often occur at sites of preexisting pathology. 5. Treatment: includes stopping all heparin\r\nproducts (including heparin flushes and coated catheters), and instituting\r\nalternate anticoagulation, as these patients are at increased risk of\r\nthrombosis.  Choices include danaparoid (a heparinoid) or lepirudin and\r\nargatroban (direct thrombin inhibitors)."
+    },
+    {
+      "tag": "p",
+      "text": "Brieger\r\nDB, Mak KH, Kottke-Marchant K, Topol EJ.   Heparin-induced\r\nthrombocytopenia.  J Am Coll Cardiol. 1998 Jun;31(7):1449-59."
+    },
+    {
+      "tag": "h1",
+      "text": "BONE MARROW TRANSPLANT (BMT) \r\nPOTENTIAL COMPLICATIONS"
+    },
+    {
+      "tag": "p",
+      "text": "Days\r\n  post-BMT Complication -7 to 21 Toxicology of preparative\r\n  regimens (nausea, vomiting, diarrhea, alopecia, mucositis, renal failure,\r\n  skin breakdown, ARDS, cardiomyopathy) 0 to 21 HSV reactivation, hepatic\r\n  veno-occlusive disease 0 to 28 Diffuse alveolar\r\n  hemorrhage, particularly at engraftment 0 to 49 Bacterial and fungal\r\n  infections 28 to 70 CMV infection 14 to 100 Acute GVHD 49 to 100 Interstitial pneumonitis 100 to 180 Chronic GVHD, VZV, PCP"
+    },
+    {
+      "tag": "h1",
+      "text": "BMT  ACUTE GRAFT VS. HOST DISEASE STAGING AND\r\nGRADING"
+    },
+    {
+      "tag": "p",
+      "text": "Stage Skin Liver (total bilirubin) GI 1+ maculopapular rash on < 25 % of BSA 2-3 mg/dl diarrhea 500  1000 cc/day 2+ maculopapular rash on 25-50 % of BSA 3-6 mg/dl diarrhea 1000  1500 cc/day 3+ generalized erythroderma 6-15 mg/dl diarrhea > 1500 cc/day 4+ generalized erythroderma and desquamation > 15 mg/dl severe abdominal pain  ileus Use staging\r\ninformation above to determine clinical grade on chart below: Clinical grade Skin Liver GI Decrease in clinical performance I 1+ to 2+ 0 0 None II 1+ to 3+ 1+ 1+ Mild III 1+ to 3+ 2+ to 3+ 2+ to 3+ Marked IV 2+ to 4+ 2+ to 4+ 2+ to 4+ Extreme Armitage JO. Bone marrow transplantation. N Engl J Med. 1994 Mar\r\n24;330(12):827-38."
+    },
+    {
+      "tag": "h1",
+      "text": "ONCOLOGIC EMERGENCIES"
+    },
+    {
+      "tag": "p",
+      "text": "1. Cord compression: see Neurology:\r\nCord compression for more details.  Remember early treatment is\r\nkeydexamethasone, radiation, and neurosurgical evaluation. 2. Neutropenic fever: see Hematology/Oncology:\r\nNeutropenic fever . 3. Cerebral metastases: can present as headache, seizures, altered mental\r\nstatus, or focal deficit.  Common in breast and lung cancer. \r\nDiagnose with head CT.  Treat with dexamethasone, radiation, and possible\r\nsurgery.  With edema, mass effect, and/or midline shift, consider measures\r\nto control the rise in intracranial pressure (ICP) such as mannitol and\r\nhyperventilation. 4. Carcinomatous meningitis: may present as seizures, focal neurologic deficits,\r\nperipheral neuropathy, or altered mental status.  Occurs most often with breast\r\ncancer, lymphoma, and leukemia.  Diagnose  with spinal fluid\r\ncytology.   Treat with intrathecal chemotherapy or whole brain\r\nradiation. 5. Superior vena cava (SVC) syndrome: presents with facial and/or upper extremity edema as well\r\nas dyspnea on exertion.  Commonly seen with lung cancer and\r\nlymphoma.  Diagnose with CT scan (gold standard).  Treat with\r\nradiation and/or chemotherapy based on tumor type.  Surgery is often risky\r\nand dangerous. 6. Hypercalcemia : Presents gradually with fatigue, anorexia,\r\nconstipation, polyuria, and confusion.  Can occur with squamous cell\r\ncarcinomas, breast cancer, small cell lung cancer, and myeloma.  Treat\r\nwith hydration, lasix, calcitonin and pamidronate if needed. See also Acid-base/Electrolytes: Hypercalcemia . 7. Tumor lysis syndrome: findings include potassium, phosphorous, uric acid, creatinine, and calcium.  Often occurs with tumors that are bulky and very\r\nchemotherapy-sensitive.   Seen often in Burkitts lymphoma. \r\nPrevent with hydration and allopurinol.  If patient develops syndrome,\r\ntreat electrolyte abnormalities and continue hydration and allopurinol. 8. Hyperviscosity: patients present with nonspecific CNS symptoms such\r\nas headache, dizziness, somnolence, and blurry vision.  More often occurs\r\nin patient with myeloma, Waldenstroms macroglobulinemia, and polycythemia\r\nvera.   Obtain CSF, head CT to rule out other CNS processes. Treat\r\nwith hydration, phlebotomy (for polycythemia vera), and chemotherapy. 9. Leukostasis: occurs with very high white blood cell count in acute\r\nleukemias.  Symptoms include hypoxia, renal insufficiency, altered mental\r\nstatus, and somnolence. Can worsen during induction chemotherapy.  Obtain\r\nCSF and head CT to rule out other diagnoses.  Treat with leukopheresis,\r\nhydration, induction chemotherapy, and possibly hydroxyurea.  Avoid blood\r\nproduct transfusions as this might worsen symptoms.  Wait until after you\r\nwhite blood cells have been removed by leukopheresis. 10. DIC: often\r\noccurs in patients with AML (especially M 3 variant) and\r\nadenocarcinoma patients.  Diagnose by PT/PTT, fibrinogen, platelet count,\r\nand D-dimers.  Treat by correcting deficitsplatelet transfusions, FFP,\r\nvitamin K, cryoprecipitate.  Treat the underlying cause.  Heparin is\r\noccasionally used to suppress the consumptive process, but the data on this is\r\nlimited. UCSF\r\nDivision of Hematology/Oncology Housestaff Handbook,1998. Brigden\r\nML.  Hematologic and oncologic emergencies.  Postgrad Med. 2001\r\nMar;109(3):143-6, 151-4, 157-8."
+    },
+    {
+      "tag": "h1",
+      "text": "PAIN MANAGEMENT"
+    },
+    {
+      "tag": "p",
+      "text": "See Toxicology"
+    },
+    {
+      "tag": "h1",
+      "text": "COMMON CHEMOTHERAPY SIDE EFFECTS"
+    },
+    {
+      "tag": "p",
+      "text": "For\r\nnausea and vomiting, see Gastroenterology:\r\nNausea . Anthracycline\r\nantibiotics: cardiac toxicity in accumulated dose (consider evaluation with pretreatment\r\nMUGA or echocardiogram). Cyclophosphamide:\r\nhemorrhagic cystitis (pre-treat with mesna). Etoposide:\r\nfever, hypotension during infusion, metabolic acidosis after infusion. Cytarabine:\r\nsevere mucositis, pink rash that can desquamate, renal insufficiency. Cisplatin:\r\nrenal toxicity, potassium and magnesium wasting. Vincristine:\r\nperipheral neuropathy. Bleomycin:\r\npulmonary fibrosis."
+    }
+  ]
+}

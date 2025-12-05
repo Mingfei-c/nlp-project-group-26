@@ -1,0 +1,145 @@
+{
+  "url": "http://www.freeswan.org/freeswan_trees/freeswan-1.99/doc/quickstart-firewall.html",
+  "content_hash": "4ddf3f66c92db820cbb19d143c65b327cdfb9d68fd3f24d78859cd075ed5993c",
+  "total_blocks": 52,
+  "retained_blocks": 34,
+  "ignored_blocks": 18,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\" Contents Previous Next"
+    },
+    {
+      "tag": "h1",
+      "text": "FreeS/WAN quick start on firewalling"
+    },
+    {
+      "tag": "p",
+      "text": "This firewalling information supplements our quickstart guide. It includes tips for firewalling:"
+    },
+    {
+      "tag": "div",
+      "text": "a standalone system with\n initiator-only opportunism incoming opportunistic connections an opportunistic gateway"
+    },
+    {
+      "tag": "p",
+      "text": "and a list of helpful resources ."
+    },
+    {
+      "tag": "h2",
+      "text": "Firewalling a standalone system"
+    },
+    {
+      "tag": "p",
+      "text": "Firewall rules on a standalone system doing IPsec can be very simple. The first step is to allow IPsec packets (IKE on UDP port 500 plus\n ESP, protocol 50) in and out of your gateway. A script to set up\n iptables(8) rules for this is:"
+    },
+    {
+      "tag": "pre",
+      "text": "# edit this line to match the interface you use as default route\n# ppp0 is correct for many modem, DSL or cable connections\n# but perhaps not for you\nworld=ppp0\n#\n# allow IPsec\n#\n# IKE negotiations\niptables -A INPUT  -p udp -i $world --sport 500 --dport 500 -j ACCEPT\niptables -A OUTPUT -p udp -o $world --sport 500 --dport 500 -j ACCEPT\n# ESP encryption and authentication\niptables -A INPUT  -p 50 -i $world -j ACCEPT\niptables -A OUTPUT -p 50 -o $world -j ACCEPT"
+    },
+    {
+      "tag": "p",
+      "text": "Optionally, you could restrict this, allowing these packets only to\n and from a list of known gateways. A second firewalling step -- access controls built into the IPsec\n protocols -- is automatically applied:"
+    },
+    {
+      "tag": "dt",
+      "text": "Pluto -- the FreeS/WAN keying\n daemon -- deals with the IKE packets."
+    },
+    {
+      "tag": "dd",
+      "text": "Pluto authenticates its partners during the IKE negotiation, and\n drops negotiation if authentication fails."
+    },
+    {
+      "tag": "dt",
+      "text": "KLIPS -- the FreeS/WAN kernel\n component -- handles the ESP packets. KLIPS drops outgoing packets"
+    },
+    {
+      "tag": "dd",
+      "text": "if they are routed to IPsec, but no tunnel has been negotiated for\n them"
+    },
+    {
+      "tag": "dt",
+      "text": "KLIPS drops incoming unencrypted packets"
+    },
+    {
+      "tag": "dd",
+      "text": "if source and destination addresses match a tunnel; the packets\n should have been encrypted"
+    },
+    {
+      "tag": "dt",
+      "text": "KLIPS drops incoming encrypted packets"
+    },
+    {
+      "tag": "dd",
+      "text": "if source and destination address do not match the negotiated\n parameters of the tunnel that delivers them if packet-level authentication fails"
+    },
+    {
+      "tag": "p",
+      "text": "These errors are logged. See our troubleshooting document for details. As an optional third step, you may wish to filter packets emerging\n from your opportunistic tunnels. These packets arrive on an interface\n such as ipsec0 , rather than eth0 , ppp0 or whatever. For example, in an iptables(8) rule set, you would use:"
+    },
+    {
+      "tag": "dt",
+      "text": "-i ipsec+"
+    },
+    {
+      "tag": "dd",
+      "text": "to specify packets arriving on any ipsec device"
+    },
+    {
+      "tag": "dt",
+      "text": "-o ipsec+"
+    },
+    {
+      "tag": "dd",
+      "text": "to specify packets leaving via any ipsec device"
+    },
+    {
+      "tag": "p",
+      "text": "In this way, you can apply whatever additional filtering you like to\n these packets. The packets emerging on ipsec0 are likely to be things\n that a client application on your machine requested: web pages, e-mail,\n file transfers and so on. However, any time you initiate an\n opportunistic connection, you open a two-way connection to another\n machine (or network). It is conceivable that a Bad Guy there could take\n advantage of your link. For more information, read the next section."
+    },
+    {
+      "tag": "h2",
+      "text": "Firewalling incoming opportunistic\n connections"
+    },
+    {
+      "tag": "p",
+      "text": "The basic firewalling for IPsec does not change when you support\n incoming connections as well as connections you initiate. You must\n still allow IKE (UDP port 500) and ESP (protocol 50) packets to and\n from your machine, as in the rules given above . However, there is an additional security concern when you allow\n incoming opportunistic connections. Incoming opportunistic packets\n enter your machine via an IPSec tunnel. That is, they all appear as ESP\n (protocol 50) packets, concealing whatever port and protocol\n characteristics the packet within the tunnel has. Contained in the\n tunnel as they pass through ppp0 or eth0 , these\n packets can bypass your usual firewall rules on these interfaces. Consequently, you will want to firewall your ipsec interfaces the way you would any publicly accessible interface. A simple way to do this is to create one iptables(8) table with all\n your filtering rules for incoming packets, and apply the entire table\n to all public interfaces, including ipsec interfaces."
+    },
+    {
+      "tag": "h2",
+      "text": "Firewalling for opportunistic gateways"
+    },
+    {
+      "tag": "p",
+      "text": "On a gateway, the IPsec-related firewall rules applied for input and\n output on the Internet side are exactly as shown above . A gateway exchanges exactly the same things -- UDP 500\n packets and IPsec packets -- with other gateways that a standalone\n system does, so it can use exactly the same firewall rules as a\n standalone system would. However, on a gateway there are additional things to do:"
+    },
+    {
+      "tag": "div",
+      "text": "you have other interfaces and need rules for them packets emerging from ipsec processing must be correctly forwarded"
+    },
+    {
+      "tag": "p",
+      "text": "You need additional rules to handle these things. For example, adding\n some rules to the set shown above we get:"
+    },
+    {
+      "tag": "pre",
+      "text": "# edit this line to match the interface you use as default route\n# ppp0 is correct for many modem, DSL or cable connections\n# but perhaps not for you\nworld=ppp0\n#\n# edit these lines to describe your internal subnet and interface\nlocalnet=42.42.42.0/24\ninternal=eth1\n#\n# allow IPsec\n#\n# IKE negotiations\niptables -A INPUT  -p udp -i $world --sport 500 --dport 500 -j ACCEPT\niptables -A OUTPUT -p udp -o $world --sport 500 --dport 500 -j ACCEPT\n# ESP encryption and authentication\niptables -A INPUT  -p 50 -i $world -j ACCEPT\niptables -A OUTPUT -p 50 -o $world -j ACCEPT\n#\n# packet forwarding for an IPsec gateway\n# simplest possible rules\n$ forward everything, with no attempt to filter\n#\n# handle packets emerging from IPsec\n# ipsec+ means any of ipsec0, ipsec1, ...\niptables -A FORWARD -d $localnet -i ipsec+ -j ACCEPT\n# simple rule for outbound packets\n# let local net send anything\n# IPsec will encrypt some of it\niptables -A FORWARD -s $localnet -i $internal -j ACCEPT"
+    },
+    {
+      "tag": "p",
+      "text": "On a production gateway, you would no doubt need tighter rules than\n the above."
+    },
+    {
+      "tag": "h2",
+      "text": "Firewall resources"
+    },
+    {
+      "tag": "p",
+      "text": "For more information, see these handy resources:"
+    },
+    {
+      "tag": "div",
+      "text": "netfilter\n documentation books such as: Cheswick and Bellovin, Firewalls\n and Internet Security Zeigler, Linux Firewalls , our firewalls document our firewall links Back to our quickstart guide. Contents Previous Next"
+    }
+  ]
+}

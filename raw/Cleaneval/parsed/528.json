@@ -1,0 +1,37 @@
+{
+  "url": "http://www.journalism.org/resources/tools/ethics/plagiarism/excerpts.asp?from=print",
+  "content_hash": "a9f10ca2138408cf5b43795e02c7a9784b4795290dcdf9be195e40b8ab48bd9c",
+  "total_blocks": 61,
+  "retained_blocks": 7,
+  "ignored_blocks": 54,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" RSS | Join our Email List"
+    },
+    {
+      "tag": "h2",
+      "text": "Primary links"
+    },
+    {
+      "tag": "div",
+      "text": "Home Numbers Analysis Studies Commentaries and Backgrounders Books Daily Briefing Special Archives State of the News Media 2006 2005 2004 Journalism Resources Principles of Journalism CCJ JTools Job Links Journalism Schools Journalism Organizations Ethics Codes Advice to Students About PEJ About Us The People of PEJ Partners FAQs Contact Us About Our Site Permissions Privacy Policy RSS Feeds Contact Us Home » Journalism Resources » Journalism Tools Principles of Journalism CCJ JTools Job Links Journalism Schools Journalism Websites Ethics Codes Advice to Students the Daily Briefings section is the only one that displays the right sidebar"
+    },
+    {
+      "tag": "h2",
+      "text": "Journalism Tools"
+    },
+    {
+      "tag": "div",
+      "text": "start main content begin content <em class=\"info\">info: Submitted by mike on June 22, 2006 - 18:03.</em>"
+    },
+    {
+      "tag": "p",
+      "text": "This page offers links to a Tool Box of ideas, strategies and techniques about how to produce and understand journalism. The materials were collected by the Committee of Concerned Journalists, a consortium of more than 7,000 working in news around the world. There are Tools For Citizens , including a Citizens Bill of Journalism Rights , as well as tools for people who work in print, in television, radio and online, as well as for teachers and for students. The ideas, collected from talking with citizens and journalists around the country, are regularly updated. They are meant to help both the the public that consumes the news and the journalists who endeavor produce it on the public's behalf. Tools for Citizens Tools for Print Journalists Tools for TV and Radio Journalists Tools for Online Journalists Tools for International Journalists Tools for Newsroom Managers Tools for Journalism Teachers Tools for Journalism Students"
+    },
+    {
+      "tag": "div",
+      "text": "<em class=\"clear terms\">taxonomy: <a href=\"/taxonomy/term/18\" rel=\"tag\" title=\"\">Journalism Resources</a></em> end content end main content Home | Numbers | Analysis | Daily Briefing | State of the News Media | Journalism Resources | About PEJ | Contact Us Copyright 2006 Project for Excellence in Journalism. Privacy Policy | Site Map Powered by: Phase2 Technology"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "url": "http://www.housing.lon.ac.uk/site7/Postcodes/SE15.htm",
+  "content_hash": "4a81d8c64f9878e6093038f19022745dcf642384690c889be9841f2ef77b731a",
+  "total_blocks": 34,
+  "retained_blocks": 7,
+  "ignored_blocks": 27,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "xml version=\"1.0\" encoding=\"iso-8859-1\"? html\n     PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n     \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\""
+    },
+    {
+      "tag": "p",
+      "text": "This site will look much better in a browser that supports web \r\n\tstandards , but it is accessible to any browser or Internet \r\n\tdevice."
+    },
+    {
+      "tag": "div",
+      "text": "hide next line to remove banner ad and rename style above - Steve You are here: Home » Who is this site for? Search our Housing Database Links to registered letting agents Find a Flatmate Are you a landlord or a letting agent? Housing advice Property Management Unit Short term housing Area Guide Housing Links The London Student Housing Guide ###search_1### begin ###search_1### end CONTENT ELEMENT, uid:604/text [begin] Header: [begin]"
+    },
+    {
+      "tag": "h1",
+      "text": "Page not found"
+    },
+    {
+      "tag": "div",
+      "text": "Header: [end] Text: [begin]"
+    },
+    {
+      "tag": "p",
+      "text": "The page you are looking for is no longer at this address. We have updated and reorganised our website. You should be able to find the same content by navigating from our home page or using the links on the left hand side of the screen. If you still can't find what you're looking for, please e-mail us."
+    },
+    {
+      "tag": "div",
+      "text": "Text: [end] CONTENT ELEMENT, uid:604/text [end] © University of London Housing Services, University of London Union, \r\n    Malet Street, London, WC1E 7HY Tel: 020 7862 8880 e-mail: housing@lon.ac.uk Last Updated: 29/03/2006"
+    }
+  ]
+}

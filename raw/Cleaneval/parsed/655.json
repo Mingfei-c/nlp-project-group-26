@@ -1,0 +1,377 @@
+{
+  "url": "http://www.profit-loss.com/",
+  "content_hash": "3a264de05b61eb5fb08177c16613a47fdefa0240b12c63638d5e0ea4f3068b95",
+  "total_blocks": 268,
+  "retained_blocks": 92,
+  "ignored_blocks": 176,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" start uberContainer Wednesday 27th December 12.43am GMT start content start wrap start maincol"
+    },
+    {
+      "tag": "p",
+      "text": "Behind the BRICs: Opportunities and Risks in Emerging Markets in 2007 Also in this issue: Profile: SEB's Seppo Leskinen New FX Heads for JP Margan, Standard Chartered Transferring Sports Psychology into Trading When (and when not) to Book Your 2007 Vacation"
+    },
+    {
+      "tag": "div",
+      "text": "end txt div end story div end unnamed div"
+    },
+    {
+      "tag": "h3",
+      "text": "NAB Closes the Book on Options Fiasco"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "National Australia Bank (NAB) has revealed that the Australian Prudential Regulation Authority (APRA) has closed the remaining remedial actions associated with the foreign exchange options trading losses that were revealed in January 2004"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "Lloyds TSB Adds to Client Solutions Team."
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "Vishal Gupta has been appointed to the newly-formed client solutions team at Lloyds TSB corporate markets"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "RZB Appoints in London"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "Raiffeisen Zentralbank (RZB) has moved to bolster its central and eastern European sales capabilities in London"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "Reuters News  For Machines"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "Algorithmic traders are now able to rely upon more than just price data for populating their models after Reuters launched two products that allow its news output to be read for the purposes of automated trading"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "Seven Banks Sign for SD Commodities"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "Citigroup, Credit Swiss, Morgan Stanley, Standard Chartered, ABN Amro, ING and Mitsubishi Financial Group have licensed SD-CM"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "Reuters, TMA Hong Kong Launch RMB Swap Fixing"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "The Treasury Markets Association of Hong Kong (TMA) and Reuters say that a new renminbi swap offer rate (CNY SOR) fixing will be launched on 18 December 2006"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "Nicholls up the Ladder at DB"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "Deutsche Bank has appointed David Nicholls as head of global finance, Europe, within its Global Markets division"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "Lehman Shuffles the Pack in Europe"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "Lehman Brothers has made three further appointments to its European fixed income operation"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "HSBC Transacts First Swaption on CNY Non-Deliverable IRS"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "HSBC has transacted the first-ever offshore option on a Chinese currency non-deliverable interest rate swap"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "Association Issue Information Abuse Warning"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "A group of 12 industry associations last week issued a joint statement reaffirming their commitment, on behalf of the members and financial markets they represent, to promote fair and competitive markets in which inappropriate use of material non-public"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "Korean FX Business Hits New High in Q3"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "Average daily FX volumes in South Koreas interbank market hit a record high of $11.4 billion in the third quarter of 2006, up around 40% from the previous year's average, but just 1% above the previous quarters record, according to Bank of Korea (BOK) s"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "CLS Adds OTC Derivatives from DTCC"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "The Depository Trust & Clearing Corporation (DTCC) has selected CLS Bank International (CLS) to provide central settlement of payments for over-the-counter (OTC) derivatives contracts housed in the DTCC Deriv/Servs Trade Information Warehouse"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "Eurex to Add Credit Derivatives"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "Eurex will launch the worlds first exchange traded credit derivatives contract on 27 March 2007, a future based on the iTraxx Europe 5 year index series"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "Another Week; Another CME Record"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "Just one week after revealing its busiest day, CME raised the bar again on December 8, when FX trading breached a significant growth milestone with record volume of  1,268,883 futures and options on futures contracts. This reflects record notional value"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "ACI Issues Holiday Trading Guidelines"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "After consultation with the Australian Foreign Exchange Committee (AFXC) and the Australian Committee for Professionalism, ACI Australia  which is affiliated to ACI  The Financial Markets Association  has issued the following guidelines with regard to"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "Committees Issue NDF Documentation"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "The New York Foreign Exchange Committee (FXC), EMTA, and the UK Foreign Exchange Joint Standing Committee (JSC) have jointly published the Master Confirmation Agreement for Non-Deliverable Forward FX Transactions, which is accompanies by practice notes"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div"
+    },
+    {
+      "tag": "h3",
+      "text": "Compliments of the Season"
+    },
+    {
+      "tag": "h4",
+      "text": "Mon 18th Dec 2006 06:00:00"
+    },
+    {
+      "tag": "p",
+      "text": "This is the last Squawkbox of 2006 and as such, everyone at Profit & Loss would like to extend the compliments of the season to all readers. We hope you enjoy what break you are taking over the next two weeks and wish you the best of luck for 2007. \r\n\r\nTh"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Read\n\t\t\t\t this story"
+    },
+    {
+      "tag": "div",
+      "text": "end links div end txt div end story div div id=\"otherNews\">\n\t\t<h1>MORE NEWS</h1>\n\t\t<div class=\"topic\">\n\t\t\t  <blockquote class=\"iconLink\"><a href=\"/morenews/\">New\n\t\t\t  website now up!! </a></blockquote>\n\t\t\t  <blockquote class=\"iconLink\"><a href=\"/morenews/\">More\n\t\t\t  financial news goes here... </a></blockquote>\n\t\t</div>\n\t</div end newcol div end maincolContent div end maincol start subcol start nav Home Latest Issue Browse Archive Latest Issue Browse Archive Upcoming Events Event Booking Subscribe Contact Us end nav end subcolContent end subcol end wrap start xcol start xcolContent EXTRA INFO - Host=hs0002616,vcSKey=BR_Home,AdLocations=T,R,F,C,xtraValueKeyCodes=undo_kpa=1,xtraValueKeywords= end div adOfTheWeek"
+    },
+    {
+      "tag": "h2",
+      "text": "Past Events"
+    },
+    {
+      "tag": "div",
+      "text": "Forex Network Asia Forex Network Chicago Forex Network New York end div todaysJobs end div miscCol start xcol end xcol end xcolContent end xcol end content start footer"
+    },
+    {
+      "tag": "p",
+      "text": "Home | About | Contact | Squawkbox | Log On | Subscribe | Links ©1999- 2006 P&L Services Ltd, All rights reserved"
+    },
+    {
+      "tag": "div",
+      "text": "end footer end uberContainer start topbanner end topbanner"
+    }
+  ]
+}
