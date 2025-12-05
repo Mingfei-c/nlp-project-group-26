@@ -1,0 +1,193 @@
+{
+  "url": "http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2003/02/21/BA49366.DTL",
+  "content_hash": "bdad978e1754cf9a6b2191c7ef697a5c7801a390806ee8d0f063af949c41e2b7",
+  "total_blocks": 146,
+  "retained_blocks": 46,
+  "ignored_blocks": 100,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "html\nPUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\" /#header SFGate Home Business Sports Entertainment Travel Jobs Real Estate Cars /#sitemenu SFGate News Web by /#searchbar START HEADLINE/DECK & SUBHEADLINE/SUBDECK"
+    },
+    {
+      "tag": "p",
+      "text": "logo"
+    },
+    {
+      "tag": "div",
+      "text": "divider catheader\ntophoriznav divider /divider"
+    },
+    {
+      "tag": "h1",
+      "text": "Quake maps show shaky East Bay soil Risk of 'liquefaction' in north Alameda County"
+    },
+    {
+      "tag": "div",
+      "text": "END HEADLINE/DECK & SUBHEADLINE/SUBDECK"
+    },
+    {
+      "tag": "p",
+      "text": "START WRITER CREDIT Charles Burress, Chronicle Staff Writer Friday, February 21, 2003 END WRITER CREDIT"
+    },
+    {
+      "tag": "div",
+      "text": "end #contentheader <hr> now part of stylesheet <hr noshade size=\"1\" color=\"#CCC\" /> START STORY START OBJECT THUMBS AREA Printable Version Email This Article end #additionalcontent"
+    },
+    {
+      "tag": "p",
+      "text": "The seismic time bomb ticking under the Bay Area could wreak especially \nwidespread damage in heavily populated parts of the East Bay, according to new \nearthquake-hazard maps announced Thursday. Broad expanses of northern Alameda County's flatlands fall into a \n\"liquefaction\" risk zone, meaning the soil could shake like a bowl of jelly in \na major quake. It's the same phenomenon that struck the San Francisco Marina \nin the 1989 Loma Prieta quake. The new maps also show the hills thickly mottled with patches of potential \nlandslide areas. The color charts were issued under state law requiring \nproperty sellers to disclose potential liquefaction or landslide risk. The law \nalso requires geologic studies for new construction. \"Just because you live in one of these zones, it doesn't mean the end of \nthe world,\" said Darryl Young, director of the state Department of \nConservation, which presented the maps at a news conference in Berkeley. \"It's just a wake-up call,\" he said. \"This is about reducing fear and \ngiving people constructive things they can do. . . . Unless you know where you \nlive and how the ground likely will perform, you can't start to prepare for a \nquake.\" The maps show only whether a property lies within a liquefaction or \nlandslide zone. They don't show relative risk within the zones. The risk \nwithin a zone varies considerably, depending on the type of soil, subsurface \nwater and terrain. In Berkeley, which Young praised as a leader in earthquake preparedness, \nabout 40 percent of the city lies within the two zones, estimated city mapping \nanalyst Brian Quinn. Much of Oakland and San Leandro also are included, and \nall of Alameda and Emeryville fall into the liquefaction areas. The zones are being created throughout the state under a 1990 law passed \nafter Loma Prieta. Any person selling a property within the zones must disclose it, just as \nthey do the property's presence in a flood plain. New commercial buildings \noccupied by humans and new residential projects of at least four units in the \nzones must conduct a geologic survey to obtain a building permit. Whether \nsingle-family homes, duplexes or triplexes will need to do such studies is \nleft up to the local city or county. The law takes effect whenever the map for that area is officially certified. San Francisco's was adopted in 2000. Alameda County's was approved Feb. 14, \nthough state officials didn't stage their public debut until Thursday. Young and other officials sought both to ring an alarm about the Bay Area's \nseismic danger and to offer help on how to be prepared. \"We know that in the next 30 years, there is a greater than 70 percent \nchance of a major earthquake,\" he said. \"The Loma Prieta quake was not the big \none. The Loma Prieta quake was in Santa Cruz County 50 miles away.\" He urged citizens to consult the new maps to find out if their property \nlies in one of the zones by downloading them from the department Web site at gmw.consrv.ca.gov/shmp /. They can be purchased in black and white -- \ncall (415) 495-8700 -- or in color -- call (415) 904-7707 or (916) 445-5716 -- \nor viewed at the department's San Francisco office at 185 Berry St., Suite 210. If citizens find their property in a potential risk zone, they should \nconsult their insurance agent, a local builder or their city for advice, he \nsaid. Solutions can be as simple as securing heavy objects or as relatively \ninexpensive as bolting a house to its foundation. For those wanting detailed information on the risk within the zones, the \nAssociation of Bay Area Governments and United States Geological Survey have \nseveral maps showing comparative risks for liquefaction, landslides and ground-\nshaking. For example, ABAG's interactive \"Liquefaction Susceptibility\" map can be \naccessed at gis.abag.ca.gov/website/liq/viewer.htm . The USGS \nliquefaction map for northern Alameda County is at quake.wr.usgs.gov/prepare/alameda.html . E-mail Charles Burress at cburress@sfchronicle.com ."
+    },
+    {
+      "tag": "div",
+      "text": "END STORY"
+    },
+    {
+      "tag": "p",
+      "text": "Page A - 23"
+    },
+    {
+      "tag": "div",
+      "text": "end #contentbody begin google/afc/javascript/placead.tmpl end google/afc/javascript/placead.tmpl"
+    },
+    {
+      "tag": "p",
+      "text": "Get up to 50% off home delivery of the Chronicle for 12 weeks!"
+    },
+    {
+      "tag": "div",
+      "text": "end #content START DATE begin top jobs"
+    },
+    {
+      "tag": "h4",
+      "text": "FINANCE"
+    },
+    {
+      "tag": "p",
+      "text": "Healthy, Human Development WestEd"
+    },
+    {
+      "tag": "h4",
+      "text": "HEALTHCARE"
+    },
+    {
+      "tag": "p",
+      "text": "RHC ADMINISTRATOR  & HUMAN RESOURCE"
+    },
+    {
+      "tag": "h4",
+      "text": "HEALTHCARE"
+    },
+    {
+      "tag": "p",
+      "text": "Opportunities in Sacramento Sutter Health"
+    },
+    {
+      "tag": "h4",
+      "text": "HEALTHCARE"
+    },
+    {
+      "tag": "p",
+      "text": "Nurse Practitioner Sutter Health Sutter Health"
+    },
+    {
+      "tag": "h4",
+      "text": "Healthcare"
+    },
+    {
+      "tag": "p",
+      "text": "Mental Health Mendocino County Mental Health"
+    },
+    {
+      "tag": "h4",
+      "text": "INSTALLER"
+    },
+    {
+      "tag": "p",
+      "text": "Cabinet installer Armstrong World Armstrong World Industries"
+    },
+    {
+      "tag": "h4",
+      "text": "Installer"
+    },
+    {
+      "tag": "p",
+      "text": "Opening in SF and South Bay! Armstrong"
+    },
+    {
+      "tag": "h4",
+      "text": "Law Enforcement"
+    },
+    {
+      "tag": "p",
+      "text": "Earn more than $71,000 CDC"
+    },
+    {
+      "tag": "h4",
+      "text": "NURSING"
+    },
+    {
+      "tag": "p",
+      "text": "Healthcare Advocates Kaiser Permanente"
+    },
+    {
+      "tag": "h4",
+      "text": "PHARMACIST"
+    },
+    {
+      "tag": "p",
+      "text": "San Jose . Wed-Sat-no"
+    },
+    {
+      "tag": "h4",
+      "text": "RECRUITERS"
+    },
+    {
+      "tag": "p",
+      "text": "$50K first year potential MPRI"
+    },
+    {
+      "tag": "h4",
+      "text": "RESTAURANT"
+    },
+    {
+      "tag": "p",
+      "text": "$2500 Manager sign-on bonus! Chilis and Maggianos Little Italy"
+    },
+    {
+      "tag": "h4",
+      "text": "RESTAURANT"
+    },
+    {
+      "tag": "p",
+      "text": "Thomas Keller  Restaurants in"
+    },
+    {
+      "tag": "h4",
+      "text": "RESTAURANT"
+    },
+    {
+      "tag": "p",
+      "text": "Thomas Keller's  Bouchon Bakery in"
+    },
+    {
+      "tag": "h4",
+      "text": "SALES"
+    },
+    {
+      "tag": "p",
+      "text": "Sales Opportunities! Reynolds and Reynolds"
+    },
+    {
+      "tag": "div",
+      "text": "About Top Jobs View All Top Jobs Search more Jobs /#adjacency end top jobs"
+    },
+    {
+      "tag": "p",
+      "text": "ADVERTISERS"
+    },
+    {
+      "tag": "div",
+      "text": "START AD/DROPINS/TOPJOBS/SKYAD TABLE END AD/DROPINS/TOPJOBS/SKYAD TABLES gutter Back To Top end article nested table here newspaper_nav2 list_sections San Francisco Chronicle Sections North Bay Datebook San Francisco Commentary Sports News Bay Area Peninsula Contra Costa East Bay Business end #sectionmenu end list_sections /newspaper_nav2 ©2006 San Francisco Chronicle | Privacy Policy | Feedback | RSS Feeds | FAQ | Site Index | Contact /#footermenu /#footer /#container"
+    }
+  ]
+}

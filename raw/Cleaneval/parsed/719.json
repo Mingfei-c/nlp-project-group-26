@@ -1,0 +1,13 @@
+{
+  "url": "http://www.sptimes.com/2003/12/06/Tampabay/Flu_vaccine_has_run_o.shtml",
+  "content_hash": "291655dfe894fe79e95bc5bafa08d8fb07ce0820e1dfaab1a0dd652c0cec2cdb",
+  "total_blocks": 257,
+  "retained_blocks": 1,
+  "ignored_blocks": 256,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\""
+    }
+  ]
+}

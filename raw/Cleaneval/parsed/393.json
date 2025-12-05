@@ -1,0 +1,45 @@
+{
+  "url": "http://www.eelaart.com/control.htm",
+  "content_hash": "3f8d38484cd88b8440d7bda1790649f5c344896854b3853dfd16a312413f8936",
+  "total_blocks": 64,
+  "retained_blocks": 9,
+  "ignored_blocks": 55,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "msnavigation"
+    },
+    {
+      "tag": "p",
+      "text": "[ Start ] [ Omhoog ] [ Water Management System ] [ Macro Design ] [ Micro Design ] [ Water Control ] [ Model Areas ] [ Institutions ] [ Agriculture ] [ Information system ]"
+    },
+    {
+      "tag": "div",
+      "text": "msnavigation msnavigation msnavigation"
+    },
+    {
+      "tag": "p",
+      "text": "Water Control Operation\r\nmanuals for the control structures and the recommended water management are\r\navailable with the Ministry of Public Works. Areas are grouped in Water Management Zones.\r\nFor each Water Management Zone in a Scheme there is a detailed description for operation\r\ndepending on the crops grown, their growth stage and a number of physical \r\ncharacteristics. Factors having an\r\ninfluence on the soil and water management:"
+    },
+    {
+      "tag": "div",
+      "text": "Plowing. Plowing of the rootzone followed by sun-drying up to\r\n    two weeks of the clods improves the effect of the following leaching and puddling of the\r\n    soil. Together with the puddling, the Plowing is the most efficient way to leach out the\r\n    toxic elements from the root-zone. Puddling (with pump irrigation). Leaching and Puddling\r\n    will require pump irrigation to make the soil sufficiently wet. Puddly and soft wet soil\r\n    is a requisite to the growth of rice up to the end of the tillering stage. When the soil\r\n    is puddly and soft there are relatively wide spaces between the soil particles, there is a\r\n    low percentage of the solid phase and both bulk density and hardness are low. These\r\n    conditions favour rice plant growth and absorption of nutrients. After a number of years,\r\n    with repeated cycles of puddling, the formed plow-layer will encourage much better water\r\n    control. Sun-drying (mid-season) . Drainage of the\r\n    rice field between the end of the tillering stage and the panicle differentiation stage\r\n    will lead to higher yields. Rice roots will extend more deeply and stems grow more\r\n    strongly. Drainage will increase the portion of the most active white roots of the rice\r\n    plant and will decrease the number of non-active black roots. This drainage will also\r\n    cause the soil to become more hard and compact by sun drying. According Cheng (1984) the\r\n    presence of white roots against black roots is a good indicator that sufficient drainage\r\n    has been applied. Leaching/percolation . The main aim for the\r\n    water management is to promote leaching/percolation by controlled drainage during periods\r\n    with rainfall. It will be difficult to provide sufficient water for 8 mm/day percolation.\r\n    It appears that leaching is most essential during planting and early growth of the\r\n    transplanted rice. Pump irrigation during this period should be highly recommended for\r\n    real high yields. Water supply may include acid canal water as it has little effect on the\r\n    yield and can be used to provide sufficient percolation. Water levels up to 30 cm below land surface during the growth period of rice in areas no pump irrigation will be applied. Water\r\n    levels are preferred to drop up to 30 cm below surface in\r\n    very acid soils which has not be puddled and leached by extra pump\r\n    irrigation. These water level below surface does not affect the yields in these rice\r\n    fields of the swamp lands. During periods with high rainfall mostly the groundwater levels\r\n    will be higher. The groundwater level should not drop below 30 cm below land level. The\r\n    groundwater levels drop up to 30 cm below surface will not be necessary anymore in soils\r\n    subject to several cycles of plowing, leaching and puddling with pump irrigation. Ripe soils . Ripe soils are in advantage over\r\n    less-ripened, soft soils for high yields. These soils can also be  better puddled and\r\n    are less subject to toxic conditions. Ripe soils in the swamplands will be formed after\r\n    long periods of dryness during the dry season. Groundwater drop below 60 cm during dry season . A\r\n    long dry period in the dry season when groundwater levels drop below 60 cm depth will have\r\n    a very positive effect on the next crop.The positive effect is attributed to better\r\n    aeration of the soil, oxidation of toxic organic compounds and increased permeability by\r\n    crack forming in the poorly drained clay soils. In wet years the drop of groundwater will\r\n    hardly occur during the dry season. Therefore an field drainage system is required. For\r\n    the Acid Sulphate soils it is essential that sufficient percolation can be applied after\r\n    the dry season, during the next growing season. In these conditions the El Nio effect of\r\n    1997/98 resulted in peak high yields for the following growing season in the Telang\r\n    project of South Sumatra province.The same positive effect in acid sulphate soils has been\r\n    recorded for the Saleh project (South Sumatra) in 1994/95, also after an extreme long dry\r\n    season. Computer Model Simulations based on acid sulphate soil oxidation and leaching,\r\n    also show that a deep drop of groundwater below the pyrite layer does not influence the\r\n    toxicity in the next growing season, when normal percolation quantities (4-8 mm/day) are\r\n    applied during the growing season of the rice. Flushing and avoiding slackwater\r\n    conditions. From an environmental point of view it is necessary to\r\n    avoid acid conditions in the canals. Potentials for fisheries will increase with better\r\n    quality water. Better quality water can be obtained by avoiding the slackwater conditions\r\n    in canals. It is a matter of Design to improve water\r\n    movements in the Primary and Secondary canals."
+    },
+    {
+      "tag": "p",
+      "text": "Without mechanised land preparation including pump irrigation during land preparation and early planting of the rice crop\r\nthere will be no high yields possible! So what are the main (most important)\r\nobjectives of the soil & water management system?"
+    },
+    {
+      "tag": "div",
+      "text": "Controlled\r\n    drainage. During most of the time in the wet\r\n    season:  Groundwater levels should not exceeding 30 cm below land surface. During the\r\n    dry season groundwater levels should be at about 60 cm below surface for most of the time. Flushing\r\n    of canal water and avoiding slackwater conditions. Double\r\n    connected canals and one-way flow in the main canals in areas far away from the river.\r\n    (2-3 km and more)"
+    },
+    {
+      "tag": "p",
+      "text": "Gate operation : Objectives for soil/water management are fulfilled by\r\nthe operation of the control gates . A gate\r\nusually consist of a sliding gate and stoplogs. Four types of operation are defined for\r\nthe Tidal Swamp Schemes: Retention, Controlled Drainage, Supply and Maximum Drainage. Of\r\nthese operations the Controlled Drainage is the most important operation which will be\r\nfunctioning for most of the time in Indonesia. The operation of the gates has been practiced\r\nand monitored in the Model areas. It proves that the most difficult operation is water\r\nsupply, because it requires frequent visits to the gates and careful watch of the tides\r\nfor a good result. For that reason water supply operation should be preferable carried out\r\nnear the home-stead's. (SPD secondary canal). Controlled drainage is the most easy\r\noperation and should be preferable carried out on the other side (SDU secondary canal).\r\nSee Design Macro . A description of the operation guidelines is\r\ngiven in WebPage Model Area . Back to Top See also Table of Contents."
+    },
+    {
+      "tag": "div",
+      "text": "msnavigation msnavigation"
+    }
+  ]
+}

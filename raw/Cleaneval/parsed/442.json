@@ -1,0 +1,157 @@
+{
+  "url": "http://www.ftb.ca.gov/forms/updates/updateResults.asp?FormNum=Publication+1001",
+  "content_hash": "113221bbdcf7d0327a8acc25a2d1f776101c7245b416055f82bf815961896aae",
+  "total_blocks": 252,
+  "retained_blocks": 37,
+  "ignored_blocks": 215,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" #BeginTemplate \"/templates/ftb_3.dwt\" DW6 OPEN PAGE TABLE FOR CENTERING START BANNER AND GOOGLE SEARCH END BANNER AND GOOGLE SEARCH BEGIN NAVIGATION BAR #BeginEditable \"Navigation Tabs\" #EndEditable END NAVIGATION BAR BEGIN PAGE BODY #BeginEditable \"Page Header\" Updates \r\n      to \r\n      Publication 1001 #EndEditable #BeginEditable \"Page Body Content\" Revision Date 2005 Revision Details 09/13/06 Publication 1001, instructions under Dividend Income, column 3 The column is (as referenced) an addition to income for California tax calculation.  The above quantity should be a subtraction (column B) in line 9 of Schedule CA."
+    },
+    {
+      "tag": "p",
+      "text": "It currently reads: If the value of U.S. and California state or municipal obligations is at least 50% of the funds   total assets, enter the amount of exempt interest dividends that are attributed to U.S. obligations included in federal income on Schedule CA (540 or 540NR), line 9, column C. It should read: If the value of U.S. and California state or municipal obligations is at least 50% of the funds   total assets, enter the amount of exempt interest dividends that are attributed to U.S. obligations included in federal income on Schedule CA (540 or 540NR), line 9, column B. The revision needs to be noted in printed products 2005 Publication 1001, booklet page 3, and 2005 Package X, page 13.  The Internet version of Publication 1001 is available for download."
+    },
+    {
+      "tag": "div",
+      "text": "03/29/06 2005 Publication 1001, 2005\r\n      Supplemental Guidelines to California Adjustments Page 4, Column 2, second row from bottom - Depreciation of qualified\r\n          leasehold improvements and qualified restaurant property acquired\r\n          before1/1/2006 currently shows the recovery period as 7 years:"
+    },
+    {
+      "tag": "p",
+      "text": "It should read: Federal law requires a 15-year recovery period. For California purposes, qualified leasehold improvements and qualified restaurant property must be recovered over a 39\r\n        year recovery period. This revision is required in the 2005 Package X, page 14. The internet\r\n      version of the Publication 1001, page 4, will be available for download on\r\n      03/29/06."
+    },
+    {
+      "tag": "div",
+      "text": "03/08/06 Publication 1001, Supplemental\r\n      Guidelines to California Adjustments FTB conformed by date change to AJCA Act Section 840 as explained on\r\n          page 4 of our Legislative Change Notice for AB 115 (Stats. 2005, Ch.\r\n          691) regarding IRC Section 121(d)(10); property acquired in a\r\n          like-kind exchange."
+    },
+    {
+      "tag": "p",
+      "text": "It should read: Publication 1001, page 8, on the Gain on sale of personal residence\r\n      bullet: For sale or exchanges after 5/6/97, federal law allows an exclusion of\r\n      gain on the sale of a personal residence in the amount of $250,000\r\n      ($500,000 if married filing jointly). The taxpayer must have owned and\r\n      occupied the residence as a principal residence for at least 2 of the 5\r\n      years before the sale. California conforms to this provision. However,\r\n      California taxpayers who served in the Peace Corps during the 5 year\r\n      period ending on the date of the sale may reduce the 2 year period by the\r\n      period of service, not to exceed 18 months. If there is a difference between the amounts excluded (or depreciated,\r\n      if recapture applies) for federal and California, complete California\r\n      Schedule D (540 or 540NR). Transfer the amount from California Schedule D,\r\n      line 12a, to Schedule CA (540 or 540NR), line 13, column B (if gain is\r\n      less than federal). Transfer the amount from California Schedule D, line\r\n      12b, to Schedule CA (540 or 540NR), line 13, column C (if gain is more\r\n      than federal). This change must be made in 2005 Package X, page 18; and the\r\n      Publication 1001 page 8. A revised internet version is available for download as of\r\n      3/9/06."
+    },
+    {
+      "tag": "div",
+      "text": "1/19/06 Publication 1001, page 12, second column\r\n      revised. Current instructions read:"
+    },
+    {
+      "tag": "p",
+      "text": "Column two: California law conforms to federal law in the tax\r\n        treatment of expenses for reservists, performing artists, and fee-based\r\n        Government officials. It should read: Column two: California law conforms to federal law in the tax\r\n        treatment of expenses for reservists, performing artists, and fee-basis\r\n        government officials. This revision needs to be noted in printed products of 2005 Publication\r\n      1001 and 2005 Package X, page 22 only. Revised internet versions are\r\n      available for download as of 1/13/06."
+    },
+    {
+      "tag": "div",
+      "text": "12/31/2005 Publication 1001, Supplemental Guidelines to\r\n      California Adjustments"
+    },
+    {
+      "tag": "p",
+      "text": "Publication 1001, Page 12, bulleted item regarding certain business\r\n      expenses of reservists, performing artists, and fee-basis governmental\r\n      officials."
+    },
+    {
+      "tag": "div",
+      "text": "Column 2 (DIFFERENCES BETWEEN FEDERAL AND CALIFORNIA LAW) reads:"
+    },
+    {
+      "tag": "p",
+      "text": "Federal law allows a deduction. California conforms to deductions\r\n        regarding certain expenses of reservists and fee-basis governmental\r\n        officials. California has not conformed to deductions of performing\r\n        artists It should read: California has conforms to federal law in the tax treatment of\r\n        expenses for reservists, performing artists, and fee-basis Governmental\r\n        officials. However, there could be continuing differences in the depreciation\r\n        deduction such as IRC Section 179 or bonus depreciation."
+    },
+    {
+      "tag": "div",
+      "text": "Column 3 (WHAT TO DO FOR CALIFORNIA) reads:"
+    },
+    {
+      "tag": "p",
+      "text": "Enter the amount of expenses claimed for performing artists on\r\n          Schedule CA (540 or 540NR), line 24, column B. It should read: If the federal depreciation deduction is more than the California\r\n        depreciation deduction, enter the difference on line 24, column B. If\r\n        the federal depreciation deduction is less than the California\r\n        depreciation, enter the difference in column C. Revised\r\n      copies of the publication are available for download as of 01/04/05."
+    },
+    {
+      "tag": "div",
+      "text": "Revision Date 2004 Revision Details 09/13/2006 Publication 1001, instructions under Dividend Income, column 3 The column is (as referenced) an addition to income for California tax calculation.  The above quantity should be a subtraction (column B) in line 9 of Schedule CA."
+    },
+    {
+      "tag": "p",
+      "text": "It currently reads: If the value of U.S. and California state or municipal obligations is at least 50% of the funds   total assets, enter the amount of exempt interest dividends that are attributed to U.S. obligations included in federal income on Schedule CA (540 or 540NR), line 9, column C. It should read: If the value of U.S. and California state or municipal obligations is at least 50% of the funds   total assets, enter the amount of exempt interest dividends that are attributed to U.S. obligations included in federal income on Schedule CA (540 or 540NR), line 9, column B. The revision needs to be noted in printed products 2004 Publication 1001, booklet page 3, and 2004 Package X, page 13.  The Internet version of Publication 1001 is available for download."
+    },
+    {
+      "tag": "div",
+      "text": "12/30/2004 Publication 1001, Supplemental Guidelines to California Adjustments"
+    },
+    {
+      "tag": "p",
+      "text": "Revisions are required on page 12 of the publication explaining that due to\r\n      California's conformity to the reservist and performing artist, the\r\n      instructions for Schedule CA were revised. Since Publication 1001 supports Schedule CA, the text heading has\r\n      to be revised as well. This has been updated in the Package X and on the\r\n      Internet."
+    },
+    {
+      "tag": "div",
+      "text": "Page 12"
+    },
+    {
+      "tag": "p",
+      "text": "It should read: \"Certain business expenses of fee-basis government officials\""
+    },
+    {
+      "tag": "div",
+      "text": "Revision Date 2003 Revision Details 09/17/2004 Publication 1001, Supplemental Guidelines to California Adjustments"
+    },
+    {
+      "tag": "p",
+      "text": "The Internet version of the form has been revised. A\r\n      revised copy is available to download on the Internet. This revision is\r\n      due to the California Legislature enactment of SB 615 (Stats. 2004 CH\r\n      388), which makes California law compatible with the Servicemembers Civil\r\n      Relief Act (Public Law 108-189). ). Income exclusion may decrease total\r\n      tax liability. The revision is required on the 2003 Publication\r\n          1001, page 1and 2; Package X page 11. It should read , under Whats Changed?,\r\n        page 1 : The California legislature enacted SB 615 (Stats.\r\n        2004 CH. 688), which makes California law compatible with Servicemembers\r\n        Civil Relief Act (Public Law 108-189). This means that servicemembers\r\n        domiciled outside of California, and their spouses, may exclude the\r\n        members military compensation from gross income when computing the\r\n        tax rate on nonmilitary income. Requirements for military servicemembers domiciled\r\n        in California remain unchanged. Military servicemembers domiciled in\r\n        California must include their military pay in total income. In addition,\r\n        they must include their military pay in California source income when\r\n        stationed in California. However, military pay is not California source\r\n        income when a servicemember is permanently stationed outside of California. It should read, under Differences Between\r\n        Federal and California Law, page 1: Special rules apply to active duty military pay.\r\n        Native Americans with military pay also see \"Earning of American Indians\" on this page. It should read, under Earnings of American Indians, page 2: Federal law taxes income received by Indians from reservation sources. California does not tax income earned by tribal\r\n        members who live in Indian country affiliated with their tribe and\r\n        receive earning from the same tribal source of which they are members.\r\n\t\tMilitary compensation is considered income from tribal sources.\r\n        For more information get FTB 674, Frequently Asked Questions about the Income Taxation of American Indians. Native Americans who receive military compensation must re-figure any AGI percentage calculation(s) by \r\n\t\tfirst subtracting military compensation from Federal AGI."
+    },
+    {
+      "tag": "div",
+      "text": "Revision Date 2002 Revision Details 09/13/2006 The column is (as referenced) an addition to income for California tax calculation.  The above quantity should be a subtraction (column B) in line 9 of Schedule CA."
+    },
+    {
+      "tag": "p",
+      "text": "It currently reads: If the value of U.S. and California state or municipal obligations is at least 50% of the funds   total assets, enter the amount of exempt interest dividends that are attributed to U.S. obligations included in federal income on Schedule CA (540 or 540NR), line 9, column C. It should read, If the value of U.S. and California state or municipal obligations is at least 50% of the funds total assets, enter the amount of exempt interest dividends that are attributed to U.S. obligations included in federal income on Schedule CA (540 or 540NR), line 9, column B. The revision needs to be noted in the printed 2002 Publication 1001, booklet page 2.  The Internet version of Publication 1001 is available for download."
+    },
+    {
+      "tag": "div",
+      "text": "09/17/2004"
+    },
+    {
+      "tag": "p",
+      "text": "Publication 1001, Supplemental Guidelines to California Adjustments The Internet version of the form has been revised. A\r\n      revised copy is available to download on the Internet. This revision is\r\n      due to the California Legislature enactment of SB 615 (Stats. 2004 CH\r\n      388), which makes California law compatible with the Servicemembers Civil\r\n      Relief Act (Public Law 108-189). ). Income exclusion may decrease total tax liability. The revision is required on the 2002 Publication 1001, page 1and 2. It should read , under Whats Changed?, page 1 : The California legislature enacted SB 615 (Stats.\r\n        2004 CH. 688), which makes California law compatible with Servicemembers\r\n        Civil Relief Act (Public Law 108-189). This means that servicemembers\r\n        domiciled outside of California, and their spouses, may exclude the\r\n        members military compensation from gross income when computing the\r\n        tax rate on nonmilitary income. Requirements for military servicemembers domiciled\r\n        in California remain unchanged. Military servicemembers domiciled in\r\n        California must include their military pay in total income. In addition,\r\n        they must include their military pay in California source income when\r\n        stationed in California. However, military pay is not California source\r\n        income when a servicemember is permanently stationed outside of California. It should read, under Differences Between Federal and California Law, page 1: Special rules apply to active duty military pay. Native Americans with military pay also see \"Earning of American\r\n        Indians\" on this page. It should read, under Earnings of American Indians, page 2: Federal law taxes income received by Indians from reservation sources. California does not tax income earned by tribal\r\n        members who live in Indian country affiliated with their tribe and\r\n        receive earning from the same tribal source of which they are members.\r\n\t\tMilitary compensation is considered income from tribal sources.\r\n        For more information get FTB 674, Frequently Asked Questions about the Income Taxation of American Indians. Native Americans who receive military compensation must re-figure any AGI percentage calculation(s) by first subtracting\r\n        military compensation from Federal AGI."
+    },
+    {
+      "tag": "div",
+      "text": "Revision Date 2001 Revision Details 09/17/2004"
+    },
+    {
+      "tag": "p",
+      "text": "Publication 1001, Supplemental Guidelines to California Adjustments The Internet version of the form has been revised. A\r\n      revised copy is available to download on the Internet. This revision is\r\n      due to the California Legislature enactment of SB 615 (Stats. 2004 CH\r\n      388), which makes California law compatible with the Servicemembers Civil\r\n      Relief Act (Public Law 108-189). ). Income exclusion may decrease total tax liability. The revision is required on the 2001 Publication 1001, page 1and 2; and Package X, page 3. It should read , under Whats Changed?, page 1 : The California legislature enacted SB 615 (Stats.\r\n        2004 CH. 688), which makes California law compatible with Servicemembers\r\n        Civil Relief Act (Public Law 108-189). This means that servicemembers\r\n        domiciled outside of California, and their spouses, may exclude the\r\n        members military compensation from gross income when computing the tax rate on nonmilitary income. Requirements for military servicemembers domiciled\r\n        in California remain unchanged. Military servicemembers domiciled in\r\n        California must include their military pay in total income. In addition,\r\n        they must include their military pay in California source income when\r\n        stationed in California. However, military pay is not California source\r\n        income when a servicemember is permanently stationed outside of California. It should read, under Differences Between Federal and California Law, page 1: Special rules apply to active duty military pay. Native Americans with military pay also see \"Earning of \r\n\t\tAmerican Indians\" on this page. It should read, under Earnings of American Indians, page 2: Federal law taxes income received by Indians from reservation sources. California does not tax income earned by tribal\r\n        members who live in Indian country affiliated with their tribe and\r\n        receive earning from the same tribal source of which they are members.\r\n\t\tMilitary compensation is considered income from tribal sources.\r\n        For more information get FTB 674, Frequently Asked Questions about the\r\n        Income Taxation of American Indians. Native Americans who receive military compensation must\r\n        re-figure any AGI percentage calculation(s) by first subtracting military compensation from Federal AGI."
+    },
+    {
+      "tag": "div",
+      "text": "Revision Date 2000 Revision Details 09/17/2004"
+    },
+    {
+      "tag": "p",
+      "text": "Publication 1001, Supplemental Guidelines to California Adjustments The Internet version of the form has been revised. A\r\n      revised copy is available to download on the Internet. This revision is\r\n      due to the California Legislature enactment of SB 615 (Stats. 2004 CH\r\n      388), which makes California law compatible with the Servicemembers Civil\r\n      Relief Act (Public Law 108-189). ). Income exclusion may decrease total\r\n      tax liability. The revision is required on the 2000 Publication 1001, page 1and 2 and Package X, page 3. It should read, under Whats Changed?, page 1: The California legislature enacted SB 615 (Stats.\r\n        2004 CH. 688), which makes California law compatible with Servicemembers\r\n        Civil Relief Act (Public Law 108-189). This means that servicemembers\r\n        domiciled outside of California, and their spouses, may exclude the\r\n        members military compensation from gross income when computing the\r\n        tax rate on nonmilitary income. Requirements for military servicemembers domiciled\r\n        in California remain unchanged. Military servicemembers domiciled in\r\n        California must include their military pay in total income. In addition,\r\n        they must include their military pay in California source income when\r\n        stationed in California. However, military pay is not California source\r\n        income when a servicemember is permanently stationed outside of\r\n        California. It should read, under Differences Between\r\n        Federal and California Law, page 1: Special rules apply to active duty military pay.\r\n        Native Americans with military pay also see \"Earning of American Indians\" on this page. It should read, under Earnings of American Indians, page 2: Federal law taxes income received by Indians from reservation sources. California does not tax income earned by tribal\r\n        members who live in Indian country affiliated with their tribe and\r\n        receive earning from the same tribal source of which they are members.\r\n\t\tMilitary compensation is considered income from tribal sources.\r\n        For more information get FTB 674, Frequently Asked Questions about the\r\n        Income Taxation of American Indians. Native Americans who receive military compensation\r\n        must re-figure any AGI percentage calculation(s) by first subtracting\r\n        military compensation from Federal AGI."
+    },
+    {
+      "tag": "div",
+      "text": "Revision Date 1999 Revision Details 09/17/2004"
+    },
+    {
+      "tag": "p",
+      "text": "Publication 1001, Supplemental Guidelines to California Adjustments The Internet version of the form has been revised. A\r\n      revised copy is available to download on the Internet. This revision is\r\n      due to the California Legislature enactment of SB 615 (Stats. 2004 CH\r\n      388), which makes California law compatible with the Servicemembers Civil\r\n      Relief Act (Public Law 108-189). ). Income exclusion may decrease total\r\n      tax liability. The revision is required on the 1999 Publication 1001, page 1and Package X, page 3. It should read , under Whats\r\n        Changed?, page 1 : The California legislature enacted SB 615 (Stats.\r\n        2004 CH. 688), which makes California law compatible with Servicemembers\r\n        Civil Relief Act (Public Law 108-189). This means that servicemembers\r\n        domiciled outside of California, and their spouses, may exclude the\r\n        members military compensation from gross income when computing the\r\n        tax rate on nonmilitary income. Requirements for military servicemembers domiciled\r\n        in California remain unchanged. Military servicemembers domiciled in\r\n        California must include their military pay in total income. In addition,\r\n        they must include their military pay in California source income when\r\n        stationed in California. However, military pay is not California source\r\n        income when a servicemember is permanently stationed outside of California. It should read, under Differences Between\r\n        Federal and California Law, page 1: Special rules apply to active duty military pay.\r\n        Native Americans with military pay also see \"Earning of American Indians\" on this page. It should read, under Earnings of American Indians, page 1: Federal law taxes income received by Indians from reservation sources. California does not tax income earned by tribal\r\n        members who live in Indian country affiliated with their tribe and\r\n        receive earning from the same tribal source of which they are members.\r\n\t\tMilitary compensation is considered income from tribal sources.\r\n        For more information get FTB 674, Frequently Asked Questions about the\r\n        Income Taxation of American Indians."
+    },
+    {
+      "tag": "blockquote",
+      "text": "Native Americans who receive military compensation must\r\n        re-figure any AGI percentage calculation(s) by first subtracting\r\n        military compensation from Federal AGI."
+    },
+    {
+      "tag": "p",
+      "text": "View updates to a different Form \r\n          or Publication. <--- Select Form From List ---> Form 100 Form 100 Booklet Form 100S Booklet Form 100W Form 100W Booklet Form 540/540A Resident Booklet Form 540 2EZ Booklet Form 540 ES Form 540NR Non Resident Booklet Form 540NR (Long) Form 540NR (Short) Form 540X Form 541 Booklet Form 541 ES Form 565 Booklet Form 568 Booklet Form 3506 Form 3537 Form 3553 Form 3801 Form 3801-CR Form 3803 Form 3805P Form 3805Q Form 3805V Form 3805Z Booklet Form 3807 Form 3885 Form 5123 Form 5805 Form 8453-C Form 9000H/9000R - Homeowner & Renter Assistance Booklet Schedule B/ C/ D/ and H (100S) Schedule CA (540) Schedule CA (540NR) Schedule D (100S) Schedule D (540) Schedule D (540NR) Schedule D (541) Schedule D-1 Schedule P (100) Schedule P (100W) Schedule P (540) Schedule P (540NR) Schedule R Publication 1001 Publication 1032 Publication 1061 Publication 1095D Publication 1098"
+    },
+    {
+      "tag": "div",
+      "text": "Back to Law \r\n        & Legislation Page | Back \r\n        to Forms and Publications page #EndEditable END PAGE BODY BEGIN PAGE FOOTER"
+    },
+    {
+      "tag": "p",
+      "text": "Privacy | Webmaster | Careers | Accessibility | Flex Your Power | California Home Last modified: #BeginEditable \"Date\" #BeginDate format:Am3 09/19/2006 #EndDate #EndEditable"
+    },
+    {
+      "tag": "div",
+      "text": "END PAGE FOOTER #EndTemplate"
+    }
+  ]
+}

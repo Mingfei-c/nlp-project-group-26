@@ -3,6 +3,9 @@ from pydantic import BaseModel, Field
 from typing import List, Optional
 import re
 import hashlib
+import asyncio
+import json
+from pathlib import Path
 
 # ============================================================================
 # Data Models
@@ -46,7 +49,7 @@ class ParsedHTML(BaseModel):
 BLOCK_TAGS = {
     'address', 'article', 'aside', 'blockquote', 'canvas', 'dd', 'div', 'dl', 'dt', 
     'fieldset', 'figcaption', 'figure', 'footer', 'form', 'h1', 'h2', 'h3', 'h4', 
-    'h5', 'h6', 'header', 'hr', 'li', 'main', 'nav', 'noscript', 'ol', 'p', 'pre', 
+    'h5', 'h6', 'header', 'hr', 'main', 'nav', 'noscript', 'ol', 'p', 'pre', 
     'section', 'table', 'tfoot', 'ul', 'video',
     # Table-related elements (for handling old table-based layouts)
     'td', 'th', 'tr'
@@ -54,6 +57,9 @@ BLOCK_TAGS = {
 
 # Define tags to be removed
 IGNORE_TAGS = {'script', 'style', 'noscript', 'meta', 'head', 'title'}
+
+# Supported HTML file extensions
+HTML_SUFFIXES = {'.html', '.htm'}
 
 def preprocess_html(html_content):
     """
@@ -160,7 +166,7 @@ def extract_blocks(html_content, return_stats=False):
     return blocks
 
 # Define semantic tags (tags with meaningful content)
-SEMANTIC_TAGS = {'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p', 'li', 'dt', 'dd', 'blockquote', 'pre', 'article', 'section', 'div'}
+SEMANTIC_TAGS = {'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p', 'dt', 'dd', 'blockquote', 'pre', 'article', 'section', 'div'}
 
 # Define layout tags (tags used only for layout, with minimal content significance)
 LAYOUT_TAGS = {'table', 'tr', 'td', 'th', 'tbody', 'thead', 'tfoot', 'html', 'body', 'center', 'font'}
@@ -289,137 +295,194 @@ def _traverse_and_extract(node, text_parts):
     if node.name in BLOCK_TAGS:
         text_parts.append('\n')
 
-def _extract_blocks_recursive(node, blocks):
-    """
-    Recursively extract block-level elements and their text content
-    """
-    # If it's a text node, skip
-    if isinstance(node, NavigableString):
-        return
-    
-    # If it's a block-level element
-    if node.name in BLOCK_TAGS:
-        # Check child element situation
-        block_children = [
-            child for child in node.children 
-            if hasattr(child, 'name') and child.name in BLOCK_TAGS
-        ]
-        
-        if block_children:
-            # Check if only contains table-related child elements
-            table_tags = {'table', 'tr', 'td', 'th', 'tbody', 'thead', 'tfoot'}
-            only_table_children = all(child.name in table_tags for child in block_children)
-            
-            if only_table_children and node.name in table_tags:
-                # If it's a table element with only table children, extract all text (don't split)
-                text_parts = []
-                _extract_text_from_block(node, text_parts)
-                text = "".join(text_parts).strip()
-                
-                if text:
-                    blocks.append({
-                        'tag': node.name,
-                        'text': text
-                    })
-                return
-            else:
-                # If there are non-table block children, or not a table element, use original logic
-                # First extract current block's "direct content" (not in child blocks)
-                direct_text_parts = []
-                for child in node.children:
-                    if isinstance(child, NavigableString):
-                        text = str(child).strip()
-                        if text:
-                            direct_text_parts.append(text + " ")
-                    elif hasattr(child, 'name') and child.name not in BLOCK_TAGS:
-                        # Inline element, extract its text
-                        _extract_text_from_block(child, direct_text_parts)
-                
-                direct_text = "".join(direct_text_parts).strip()
-                if direct_text:
-                    blocks.append({
-                        'tag': node.name,
-                        'text': direct_text
-                    })
-                
-                # Then recursively process block-level child elements
-                for child in block_children:
-                    _extract_blocks_recursive(child, blocks)
-        else:
-            # If no block-level children, extract all text from current block
-            text_parts = []
-            _extract_text_from_block(node, text_parts)
-            text = "".join(text_parts).strip()
-            
-            if text:  # Only keep blocks with non-empty text
-                blocks.append({
-                    'tag': node.name,
-                    'text': text
-                })
-        return
-    
-    # If not a block-level element, continue recursion
-    for child in node.children:
-        _extract_blocks_recursive(child, blocks)
 
-def _extract_text_from_block(node, text_parts):
+def _collect_html_files(directory: Path):
     """
-    Extract all text from a block-level element (merge inline elements)
-    """
-    for child in node.children:
-        if isinstance(child, NavigableString):
-            text = str(child).strip()
-            if text:
-                text_parts.append(text + " ")
-        elif child.name == 'br':
-            text_parts.append(' ')  # br converted to space within block
-        elif child.name not in BLOCK_TAGS:  # If it's an inline element, recursively extract
-            _extract_text_from_block(child, text_parts)
+    Recursively collect all HTML files within a directory.
+    
+    Args:
+        directory (Path): Directory to search.
         
-    # If it's a block-level element, add newline after it
-    if node.name in BLOCK_TAGS:
-        text_parts.append('\n')
-
-def parse_html_file(file_path, method='blocks'):
+    Returns:
+        List[Path]: Sorted list of HTML file paths.
     """
-    Parse an HTML file and extract structured text blocks.
+    html_files = [
+        path for path in directory.rglob('*')
+        if path.is_file() and path.suffix.lower() in HTML_SUFFIXES
+    ]
+    html_files.sort()
+    return html_files
+
+
+def _parsed_html_to_dict(parsed_html: ParsedHTML):
+    """
+    Safely convert ParsedHTML into a serializable dictionary.
+    
+    Args:
+        parsed_html (ParsedHTML): Parsed HTML data.
+        
+    Returns:
+        dict: Serializable representation of the parsed data.
+    """
+    if hasattr(parsed_html, "model_dump"):
+        return parsed_html.model_dump()
+    return parsed_html.dict()
+
+
+def _parse_html_single(file_path: Path, method='blocks'):
+    """
+    Parse a single HTML file and return the requested representation.
+    
+    Args:
+        file_path (Path): Path to the HTML file.
+        method (str): Extraction method - 'blocks' (default) or 'text'.
+        
+    Returns:
+        ParsedHTML or str: Structured data when method='blocks', plain text otherwise.
+    """
+    if not file_path.exists():
+        raise FileNotFoundError(f"HTML file not found: {file_path}")
+    
+    with open(file_path, 'rb') as f:
+        raw_content = f.read()
+    
+    content_hash = hashlib.sha256(raw_content).hexdigest()
+    html_content = raw_content.decode('utf-8', errors='ignore')
+    _, url = _extract_from_text_wrapper(html_content)
+    
+    if method == 'text':
+        return preprocess_html(html_content)
+    
+    blocks_data, stats = extract_blocks(html_content, return_stats=True)
+    text_blocks = [TextBlock(**block) for block in blocks_data]
+    return ParsedHTML(
+        url=url,
+        content_hash=content_hash,
+        total_blocks=stats['total'],
+        retained_blocks=stats['retained'],
+        ignored_blocks=stats['ignored'],
+        blocks=text_blocks
+    )
+
+
+def _parse_html_directory(directory: Path, output_dir: Path, method: str):
+    """
+    Parse all HTML files within a directory and write results to disk.
+    
+    Args:
+        directory (Path): Directory containing HTML files.
+        output_dir (Path): Directory to store JSON outputs.
+        method (str): Extraction method. Only 'blocks' is supported for directories.
+        
+    Returns:
+        List[Path]: List of output file paths that were written.
+    """
+    if method != 'blocks':
+        raise ValueError("Directory input only supports method='blocks'.")
+    
+    output_dir = output_dir.resolve()
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    html_files = _collect_html_files(directory)
+    output_paths = []
+    
+    for html_file in html_files:
+        parsed_html = _parse_html_single(html_file, method=method)
+        if not isinstance(parsed_html, ParsedHTML):
+            raise ValueError("Directory processing expects ParsedHTML output.")
+        
+        relative_path = html_file.relative_to(directory)
+        output_path = (output_dir / relative_path).with_suffix('.json')
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        
+        serialized = _parsed_html_to_dict(parsed_html)
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(serialized, f, ensure_ascii=False, indent=2)
+        
+        output_paths.append(output_path)
+    
+    return output_paths
+
+
+def parse_html_file(file_path, method='blocks', output_dir=None):
+    """
+    Parse an HTML file or directory and extract structured text blocks.
     This is the main public API function for this module.
     
     Args:
-        file_path (str): Path to the HTML file to parse
+        file_path (str or Path): Path to the HTML file or directory to parse.
         method (str): Extraction method - 'blocks' (default) or 'text'
                      - 'blocks': Returns ParsedHTML object with structured data
                      - 'text': Returns plain text string (backward compatibility)
+        output_dir (str or Path, optional): Destination for JSON dumps when file_path is a directory.
         
     Returns:
-        ParsedHTML or str: If method='blocks', returns ParsedHTML object with url, block_count, and blocks.
-                          If method='text', returns plain text string.
+        ParsedHTML, str, or List[Path]:
+            - ParsedHTML when parsing a single file with method='blocks'
+            - str when parsing a single file with method='text'
+            - List[Path] of generated JSON files when parsing a directory
                           
     Raises:
-        FileNotFoundError: If the HTML file does not exist
-        
+        FileNotFoundError: If the input path does not exist
+        ValueError: If directory input is provided without output_dir
+    
     Example:
         >>> result = parse_html_file('example.html')
         >>> print(f"URL: {result.url}")
         >>> print(f"Total blocks: {result.total_blocks}")
         >>> print(f"Retained: {result.retained_blocks}, Ignored: {result.ignored_blocks}")
-        >>> for block in result.blocks:
-        ...     print(f"<{block.tag}> {block.text[:50]}...")
+        >>> generated = parse_html_file('html_directory', output_dir='parsed_output')
+        >>> print(f"Generated {len(generated)} JSON files")
     """
-    import os
+    input_path = Path(file_path)
     
-    if not os.path.exists(file_path):
-        raise FileNotFoundError(f"HTML file not found: {file_path}")
+    if not input_path.exists():
+        raise FileNotFoundError(f"Input path not found: {file_path}")
     
-    # Read HTML file
-    # Read HTML file
-    with open(file_path, 'rb') as f:
-        raw_content = f.read()
+    if input_path.is_dir():
+        if output_dir is None:
+            raise ValueError("output_dir must be provided when processing a directory.")
+        return _parse_html_directory(input_path, Path(output_dir), method)
+    
+    return _parse_html_single(input_path, method=method)
+
+
+async def parse_html_file_async(file_path, method='blocks'):
+    """
+    Async version of parse_html_file for concurrent processing.
+    
+    Args:
+        file_path (str): Path to the HTML file to parse
+        method (str): Extraction method - 'blocks' (default) or 'text'
         
-    # Calculate SHA-256 hash of the raw content
+    Returns:
+        ParsedHTML or str: Same as parse_html_file
+        
+    Raises:
+        FileNotFoundError: If the HTML file does not exist
+        ValueError: If a directory path is provided
+    """
+    input_path = Path(file_path)
+    
+    if not input_path.exists():
+        raise FileNotFoundError(f"HTML file not found: {file_path}")
+    if input_path.is_dir():
+        raise ValueError("parse_html_file_async does not support directory inputs. Use parse_html_file instead.")
+    
+    # Run file I/O in executor to make it truly async
+    loop = asyncio.get_event_loop()
+    
+    # Read file asynchronously
+    def _read_file():
+        with open(input_path, 'rb') as f:
+            return f.read()
+    
+    raw_content = await loop.run_in_executor(None, _read_file)
+    
+    # Calculate SHA-256 hash
     content_hash = hashlib.sha256(raw_content).hexdigest()
     
-    # Decode content for processing
+    # Decode content
     html_content = raw_content.decode('utf-8', errors='ignore')
     
     # Extract URL from CleanEval format
@@ -427,16 +490,18 @@ def parse_html_file(file_path, method='blocks'):
     
     # Process HTML based on method
     if method == 'text':
-        # Backward compatibility: return plain text string
         return preprocess_html(html_content)
     else:  # method == 'blocks' (default)
-        # Extract blocks with statistics
-        blocks_data, stats = extract_blocks(html_content, return_stats=True)
+        # Extract blocks with statistics (CPU-bound, run in executor)
+        def _extract():
+            return extract_blocks(html_content, return_stats=True)
+        
+        blocks_data, stats = await loop.run_in_executor(None, _extract)
         
         # Convert to Pydantic models
         text_blocks = [TextBlock(**block) for block in blocks_data]
         
-        # Create ParsedHTML object with statistics
+        # Create ParsedHTML object
         return ParsedHTML(
             url=url,
             content_hash=content_hash,
@@ -449,34 +514,54 @@ def parse_html_file(file_path, method='blocks'):
 
 if __name__ == "__main__":
     import argparse
-    import os
     from datetime import datetime
     
-    parser = argparse.ArgumentParser(description='Preprocess HTML file and extract structured text')
-    parser.add_argument('html_file', type=str, help='HTML file path to process')
-    parser.add_argument('--output-dir', type=str, 
-                       default='../../trace',
-                       help='Output directory (default: ../../trace)')
+    parser = argparse.ArgumentParser(description='Preprocess HTML file or directory and extract structured text')
+    parser.add_argument('input_path', type=str, help='HTML file or directory path to process')
+    parser.add_argument('output_dir', type=str, help='Directory to store parsed outputs')
     parser.add_argument('--method', type=str, choices=['text', 'blocks'], default='blocks',
                        help='Output method: text (plain text) or blocks (structured, default)')
     
     args = parser.parse_args()
     
-    # Parse HTML file using the public API function
+    input_path = Path(args.input_path).resolve()
+    output_dir = Path(args.output_dir).resolve()
+    
     try:
-        result_data = parse_html_file(args.html_file, method=args.method)
-    except FileNotFoundError as e:
+        if input_path.is_dir():
+            written_files = parse_html_file(input_path, method=args.method, output_dir=output_dir)
+        else:
+            result_data = parse_html_file(input_path, method=args.method)
+    except (FileNotFoundError, ValueError) as e:
         print(f"Error: {e}")
         exit(1)
     
-    # Format output based on method
+    if input_path.is_dir():
+        processed_count = len(written_files)
+        print("✓ Processing complete")
+        print(f"  Input directory: {input_path}")
+        print(f"  Output directory: {output_dir}")
+        print(f"  Files processed: {processed_count}")
+        if processed_count == 0:
+            print("  Note: No HTML files were found under the input directory.")
+        else:
+            sample_path = written_files[0]
+            print(f"  Example output: {sample_path}")
+        exit(0)
+    
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_filename = f"html_parsing_{timestamp}.txt"
+    output_path = output_dir / output_filename
+    
     if args.method == 'text':
         result = result_data  # String
         output_format = "Plain Text"
         url_info = None
-        block_count_info = None
+        content_hash_info = None
+        stats_info = None
     else:  # blocks - returns ParsedHTML object
-        # Format blocks for output
         result_lines = [f"<{block.tag}> {block.text}" for block in result_data.blocks]
         result = "\n".join(result_lines)
         output_format = "Structured"
@@ -488,25 +573,13 @@ if __name__ == "__main__":
             'ignored': result_data.ignored_blocks
         }
     
-    # Create output directory
-    output_dir = os.path.abspath(os.path.join(
-        os.path.dirname(__file__), args.output_dir
-    ))
-    os.makedirs(output_dir, exist_ok=True)
-    
-    # Generate output filename
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_filename = f"html_parsing_{timestamp}.txt"
-    output_path = os.path.join(output_dir, output_filename)
-    
-    # Write to file
     with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(f"HTML File: {args.html_file}\n")
+        f.write(f"HTML File: {input_path}\n")
         f.write(f"Processing Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
         f.write(f"Output Format: {output_format}\n")
         if url_info:
             f.write(f"Source URL: {url_info}\n")
-        if args.method == 'blocks':
+        if stats_info and content_hash_info:
             f.write(f"Content Hash: {content_hash_info}\n")
             f.write(f"Total Blocks: {stats_info['total']}\n")
             f.write(f"Retained Blocks: {stats_info['retained']}\n")
@@ -514,13 +587,13 @@ if __name__ == "__main__":
         f.write("=" * 80 + "\n\n")
         f.write(result)
     
-    print(f"✓ Processing complete")
-    print(f"  Input file: {args.html_file}")
+    print("✓ Processing complete")
+    print(f"  Input file: {input_path}")
     print(f"  Output file: {output_path}")
     print(f"  Output format: {output_format}")
     if url_info:
         print(f"  Source URL: {url_info}")
-    if args.method == 'blocks':
+    if stats_info and content_hash_info:
         print(f"  Content Hash: {content_hash_info}")
         print(f"  Total blocks: {stats_info['total']}")
         print(f"  Retained blocks: {stats_info['retained']}")

@@ -1,0 +1,25 @@
+{
+  "url": "http://www.bcbudget.gov.bc.ca/annualreports/wlap/Report_on_Performance.htm",
+  "content_hash": "b5f55306d57d35056174cfff1311fc2a3c7bf46bead35a6ee743e4abd3848973",
+  "total_blocks": 59,
+  "retained_blocks": 4,
+  "ignored_blocks": 55,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" HEADER HEADER MAIN B.C. Home British Columbia Budgets CONTENTS tab end tab END CONTENTS OTHER LINKS tab end tab END OTHER LINKS RESOURCES tab end tab END RESOURCES BODY TEXT"
+    },
+    {
+      "tag": "h3",
+      "text": "File Not Found"
+    },
+    {
+      "tag": "p",
+      "text": "The file “\r\nhttp://www.bcbudget.gov.bc.ca/annualreports/wlap/Report_on_Performance.htm\r\n” is no longer available at that location. Visit the British Columbia Budgets’ home page to locate the appropriate file."
+    },
+    {
+      "tag": "div",
+      "text": "END BODY TEXT END MAIN"
+    }
+  ]
+}

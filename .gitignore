@@ -43,3 +43,5 @@ dmypy.json
 
 # traces
 trace/
+# Configuration files with API keys
+grounding-truth-generation-block-level/config.toml

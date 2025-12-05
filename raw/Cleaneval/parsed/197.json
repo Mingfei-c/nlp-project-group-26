@@ -1,0 +1,185 @@
+{
+  "url": "http://whyslopes.com/etc/CalculusAndBeyond/ch22.html",
+  "content_hash": "29062907171aea1edeec9903e2d86ea1343350650de3d612f1f8ab4c1557d080",
+  "total_blocks": 275,
+  "retained_blocks": 44,
+  "ignored_blocks": 231,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "msnavigation google_ad_section_start(weight=ignore)"
+    },
+    {
+      "tag": "p",
+      "text": "www.whyslopes.com advice & directions for students , parents ,\n  and teachers ,\n  approximately correct. Even if you have seen a site topic, look through site coverage for unique viewpoints not seen in your earlier days as a student or instructor. Volume 3, Why Slopes and More Math All results 5 results 10 results 20 results 30 results 50 results 100 Results [ Back ] [ Volume Entrance ] [ Next ] 22 Complex #'s"
+    },
+    {
+      "tag": "div",
+      "text": "google_ad_section_end msnavigation msnavigation"
+    },
+    {
+      "tag": "p",
+      "text": "put your ad here. (V) signals RealPlayer webvideo present. Area Content Foreword 1. Introduction 2. Second Preview Begins 2 Skier in Motion (V) 2 The Skier (V) 2. Position Dependent (V) 3 Slope & Extrema (V) 4 Single Factor Analysis (V) 4 Two Factor (V) 4 More Factors (V) 4 With Divisors (V) 5 Maxima & Minima Tests 6 Jumps & Discontinuities 8 Review  (optional) 9 On Calculus Studies 11 Slope of Slope 13  Acceleration 14 Limits & Error Control (V) 14 Limit of a Fn. 14. Ltd Error Control 14 Signif. Digits 14 Cauchy Limits 14 Sequence Limits 14 Decimal Arith. 15 What is Slope (V) 15 Slope Calculation (V) 15 Slope, a Limit 15 Tangent Lines 15 Linear Approx., 15 Limits via Algebra (V) 15 Recap. PS.Chain Rule for Polys PS Chain Rule- General  (V) - PS More Chain Rule (V) PS - Sign Analysis (V) 16 What is Velocity 17  What is Area 18 Integration 18 Area Calculation 18  Fn DefN, 6 Ways 19 Logs & Powers 19 Natural Log. 19 Exponential Fn. 20 What's Next 21 Add Vectors 22 Complex #'s 23 Complex #'s 23 Trig Identity 23 Proofs of. 24 Complex Logs etc"
+    },
+    {
+      "tag": "div",
+      "text": "Units in Calculations: 7 Velocity 7 Varying Velocity Example 7. Velocity Calculation 7 Changing Units 7 Same Velocity  Motions 10 Slopes without Units. 10 Units & Slopes 10  Units in Cost vs. Quantity 10  How Units  Appear 10 Unit  Elimination 10 Partial Elimination 10 Interest & Units 12 More on Units Content Guide google_ad_section_end msnavigation"
+    },
+    {
+      "tag": "h1",
+      "text": "Chapter 22 Complex Numbers - Basic Ideas"
+    },
+    {
+      "tag": "blockquote",
+      "text": "Here is a geometric story which describes the complex numbers, or what\n  mathematicians since Gauss in the 1840's have regarded as the complex numbers.\n  This geometric story provides a confirmation of the law of signs for real\n  numbers. This first part of the story could be explain to someone familiar\n  with arithmetic and the measurement of coordinates, rectangular and polar in\n  the plane. The second part of this story is an exercise in trig. The second\n  part appears in the next chapter."
+    },
+    {
+      "tag": "p",
+      "text": "This applet (online only)\n  illustrates the ideas in this chapter. This first half assumes you have some familiarity with the measurement of\ndistances and angles, with the addition of real numbers and points in the plane,\nand finally with multiplication of nonnegative (that is zero and positive) real\nnumbers."
+    },
+    {
+      "tag": "blockquote",
+      "text": "1. The immediate motivation for this approach (in this chapter) stems\n  from three successive 1976 McGill University public lectures of the late\n  Richard Feynman. He simply described physics as the addition and\n  multiplication of arrows in the plane. He defined their multiplication as\n  follows: add their angles and multiply their lengths. In terms of the\n  polar coordinate [ r 1 , q 1 ]\n  and [ r 2 , q 2 ] for the\n  factors, the polar coordinates of the product is [ r , q ]\n  = [ r 1 r 2 , q 1 + q 2 ]\n  .)"
+    },
+    {
+      "tag": "p",
+      "text": "All this was effectively presented to a general audience with no mention of\n  vectors nor the Gauss-Argand representation of complex numbers. See the\n  foreword. 2. In Morris Kline's three-volume work Mathematical Thought from\n  Ancient to Modern Times, see in volume 2, Chapter 27, the third\n  section called The Geometrical Representation of Complex Numbers. This\n  section briefly describes the approach of Caspar Wessel (1745-1818). Part of\n  Wessel's work (translated into English) is reproduced in David Eugene Smith's\n  1929 work A Source Book in Mathematics, Dover 1959 Reprint."
+    },
+    {
+      "tag": "h2",
+      "text": "Points in the Plane"
+    },
+    {
+      "tag": "p",
+      "text": "Addition The sum of two points with the rectangular coordinates ( a , b )\nand ( c , d ) is given by ( a + c , b + d ). We\ntherefore write ( a , b )+( b , d )\n            = ( a + c , c + d ) For example (2,5)+(6,2) = (8,7). In words, the addition rule is simple add the rectangular coordinates of\nthe summands to get the rectangular coordinates of the sum. With this in\nmind, the following question is easy: What are the rectangular coordinates of\nthe sum of (1,14) and (2,8)? Answer: (1,14)+(2,8) = (1+2,14+8) = (3,22). The\nchapter Arrow Addition discusses the addition of points or arrows in\nthe plane further."
+    },
+    {
+      "tag": "h3",
+      "text": "Multiplication"
+    },
+    {
+      "tag": "p",
+      "text": "Next we define using polar coordinates the product of two points in the\nplane. Each point or factor is located by means of angular displacement or\nrotation from the positive real axis, and also a nonnegative distance from the\norigin. The product of two points is given by a third point. Its angular\ndisplacement is the sum of the angular displacement of the factors. Its distance\nto the origin is the product of the distances of the factors. This is the add\nthe angles and multiply the lengths rule. In polar coordinate notation, the\nmultiplication rule and definition is indicated by [ r 1 , q 1 ][ r 2 , q 2 ]\n            = [ r 1 r 2 , q 1 + q 2 ] (As in the previous chapter, square brackets are used to indicate polar\ncoordinates while round brackets indicate rectangular coordinates.) Example . Two arrows are to be multiplied. One has length 1.3 and angle\n22.62 ; the other factor has length 1.026\nand angle 46.97 ; and so their product\nhas length 1.3338 = 1.31.026 and angle 69.69 = 22.62 +46.97 ;\nand that is it. See the following diagram. Another Example . The product of the two points [3,80 ]\nand [4, 60 ] is [(3)(4), 80 +\n60 ] = [12,140 ]"
+    },
+    {
+      "tag": "h3",
+      "text": "Stop For a Summary"
+    },
+    {
+      "tag": "p",
+      "text": "The addition of points in the plane is given by means of their rectangular\ncoordinates while multiplication is given in terms of polar coordinates. It is\nan exercise in trig to obtain expressions for the rectangular coordinates of a\nproduct in terms of the rectangular coordinates of the factors. See the next\nchapter. (Note that while your reading of this chapter requires a mastery of the\nalgebraic way of writing and thinking, you could explain with diagrams and\nexamples only, the ideas in this chapter to someone without this mastery. It is\nthe on-paper communication which requires the mastery.)"
+    },
+    {
+      "tag": "h2",
+      "text": "Introducing the Complex Numbers"
+    },
+    {
+      "tag": "p",
+      "text": "Points in the plane with the operations of addition and multiplication just\ngiven are called the complex numbers. The plane with these two operations on its\npoints is called the complex numbers plane, or more briefly the complex numbers. We will now change to a more standard notation for them. We may and often\nwill write the rectangular coordinates z = ( a , b ) as z = a + ib , We will further call the abscissa a , the real part\nof the complex number z = a + ib . We will also call the\nordinate b , the imaginary part of the complex number z = a + ib . We will say that the complex number z = a + ib is purely\nimaginary when its real part a = 0. The angle of a purely imaginary\ncomplex number z = a + ib = 0+ ib = (0, b ) is 90\ndegrees or 270 degrees (modulo"
+    },
+    {
+      "tag": "blockquote",
+      "text": "FOOTNOTE: Two quantities x and y are equal modulo a third\n  quantity c , if and only if their difference x - y = kc for some whole number or integer k ."
+    },
+    {
+      "tag": "p",
+      "text": "360 degrees), depending on the sign of the imaginary part b . When b > 0, the angle is 90 degrees (modulo 360 degrees). When b < 0, the\nangle is 270 degrees (modulo 360 degrees). We will also say that z = a + ib is (purely) real when its\nimaginary part b is zero. The angle of a (purely) real complex number z = a + ib = a + i 0 = ( a ,0) is 0 degrees or 180\ndegrees (modulo 360 degrees), depending on the sign of the real part a .\nIf a > 0, this angle is 0 degrees (modulo 360 degrees) while if a > 0, this angle is 180 degrees (modulo 360 degrees)."
+    },
+    {
+      "tag": "h3",
+      "text": "Real Numbers as Complex Numbers"
+    },
+    {
+      "tag": "p",
+      "text": "Each complex number z = a + i 0 with imaginary part zero\ngives and is given by a real number a . We will write z = a in this situation, and say that the complex number z is also a real number. With this practice, the real numbers can be regarded as a subset of the\ncomplex numbers; and the real number line can be identified with the horizontal\naxis of the plane."
+    },
+    {
+      "tag": "h3",
+      "text": "Confirmation of The Law of Signs"
+    },
+    {
+      "tag": "p",
+      "text": "We identify the real number line with the horizontal axis of the plane. With\nthis identification, observe that positive numbers have angular displacement\nzero, modulo 360 degrees. Also observe that negative numbers have angular\ndisplacement 180 degrees, modulo 360 degrees. The magnitude of a real number is\nits distance to the origin. Suppose z = a + i 0 and w = c + i 0. We\nwant to compute the product zw with the multiply the lengths, add the\nangles rule. Each factor has length | a | or | c | . Each factor\nhas angle 0 or 180 degrees (modulo 360 degrees). The relationships 0 = 0 +0 180 = 0 +180 = 180 +0 360 = 180 +180 = 0 (modulo 360 ) imply the add the angles, multiply the lengths rule for the\nmultiplication of complex numbers agrees with the ordinary method for\nmultiplying real numbers and the law of signs. The relationship in particular\nimply (+1) = (+1)(+1) as 0 = 0 +0 ( - 1) = (+1)( - 1) = ( - 1)(+1)\n    as 180 = 0 +180 = 180 +0 ( - 1)( - 1) = (+1) as\n    360 = 180 +180 Examples and then some further comments may reinforce these ideas. For the first\nexample, the number 4 is now identified with the point (4,0) = [4,0 ]\n= [4,360 ]. This number or point has\ndistance 4 to the origin and angle of 0 ,\nmodulo 360 degrees, with the horizontal axis: For the second example, the number - 2\nis identified with the point ( - 2,0) = [2,180 ].\nSee the figure below. Now multiplying the point [2,180 ]\nby itself leads to the product [2,180 ] 2 = [2 2 ,180 +180 ]\n= [4,360 ] = [4,0 ].\nThus the point on the horizontal axis identified with - 2\nwhen squared gives the point identified with +4 indicated above. The 360 degrees\nin the diagram for the number or point 4 = (4,0) represents the doubling of the\nangle 180 degrees. For an example or exercise, compute the pairwise products of 3=3+0i, 4=4+0i,\n-3=-3+i0 and -4=-4+0i using the add the angles, multiply the lengths rule. Remark. The add the angles, multiply the length rule could be\nused to define the product of real numbers to people/students who know (a) about\nthe addition of real numbers or coordinates and (b) about the multiplication of\nnon-negative numbers. They would not need to have any previous knowledge of the\nlaw of signs."
+    },
+    {
+      "tag": "blockquote",
+      "text": "FOOTNOTE: The add the angles, multiple the lengths rule for the\n  multiplication of complex numbers thus yields a rule for the multiplication of\n  real numbers once the multiplication of positive numbers with themselves or\n  zero is understood/defined."
+    },
+    {
+      "tag": "p",
+      "text": "More Exercises. Compute the following using the multiply the lengths,\nadd the angles rule: A = (1.5)(2). B = (1.5)( - 2). C = ( - 1.5)( - 2). D = (1.5)( - 2). E = [10,45 ] [[1/20],15 ]. Note each factor gives a point or arrow in the coordinate plane. Stop For A Summary . The polar coordinate definition [ r 1 , q 1 ][ r 2 , q 2 ]\n            = [ r 1 r 2 , q 1 + q 2 ] of the product of two point in the plane, involves the multiplication of lengths\n(= distances to the origin) and the addition of angles. For points on the\nhorizontal axis, the angles of the factors are zero or 180 (modulo 360 ). Computing the angle of the\nproduct will involve one of the following expressions: 0 +0 = 0 0 +180 = 180 180 +0 = 180 180 +180 = 360 Since the angle 180 degrees is associated with -1, and the angles 0 and 360\ndegrees are both associated with the number +1, the polar coordinate definition\nof multiplication of points in the plane agrees with (or yields) the law of\nsigns for the multiplication of positive and negative numbers."
+    },
+    {
+      "tag": "h3",
+      "text": "Square Root of -1"
+    },
+    {
+      "tag": "p",
+      "text": "The real number - 1 = - 1+0 i = [1,180 ] has angle 180 degrees (mod 360\ndegrees) and length 1. The purely imaginary number (0,1) = 0+ i 1 = [1,90 ]\nhas angle 90 degrees and length 1. Multiplying this point or number by itself,\nthat is, squaring it, gives the point with length 1 1 = 1 and angle 90 +90 = 180 . So the product equals - 1+0 i = - 1. We call i = the principal square root of - 1. A second square root of -1 is obtained as follows. The imaginary number (0, - 1)\n= 0+ i ( - 1) = [1, - 90 ]\nhas angle - 90 degrees and length 1. Multiplying this\npoint or number by itself, that is squaring it, gives the point with length 1\ntimes 1 =1 and angle ( - 90 )+( - 90 )\n= - 180 = 180 (mod 360 ). So this product equals - 1+0 i = - 1 as well. This provides two square roots of -1 as both [1,+90 ] 2 = [1,+180 ] = - 1\nand [1, - 90 ] 2 = [1, - 180 ] = - 1."
+    },
+    {
+      "tag": "h3",
+      "text": "Square Roots of Other Complex Numbers"
+    },
+    {
+      "tag": "p",
+      "text": "The square root of a positive number or zero are real nonnegative numbers. I\nassume in the following that you know how to compute these square roots. The\nsquare roots of negative numbers and of other arrows or points in the coordinate\nplane depend on this ability. Observe that squaring points in the plane doubles their angular displacements\nand squares their magnitudes (distance to the origin). That is, the add the\nangles, multiple the lengths rule gives [r , 1 2 q ][r , 1 2 q ] = [ r , q ] Therefore the arrow [r ,[1/2] q ] when\nsquared (meaning multiplied by itself) yields [ r , q ]\n. So it is called a square root of the arrow [ r , q ].\nAnother square root is located by the polar coordinates [r ,[1/2] q +180 ]\nsince [ r , q ] = [ r , q +360 ]\nboth locate the same point in the plane. You should consider the special case of\npositive numbers z = a + i 0 = [ a ,0 ]\nwhere the angle q = 0 degrees. Exercises. Find all the square roots of 4 and -4 and plot them. Find the cube roots of 27 and -27 and plot them in the plane. Find the square roots of \\cis(45 )\n    = cos(45 )+ i sin(45 )\n    = [1,45 ]."
+    },
+    {
+      "tag": "h3",
+      "text": "Complex Conjugates"
+    },
+    {
+      "tag": "p",
+      "text": "The complex conjugate of a complex number z = a + b i with polar coordinates r = [( a 2 + b 2 )]\nand q is the complex number [ ` ( z )]\n= a - b i with polar coordinates r and -q . *   Exercise. Show multiplying a complex number a + b i by its conjugate a - b i gives the nonnegative number r 2 = a 2 + b 2 ."
+    },
+    {
+      "tag": "h3",
+      "text": "Conjugates and Reciprocals"
+    },
+    {
+      "tag": "p",
+      "text": "Observe that p = [( a )/( r 2 )] - i [( b )/( r 2 )]\n= [1/( r 2 )][ ` ( z )] has angle -q and length [1/( r )]. Here p = [1/( r 2 )][ r , -q ]\n= [[1/( r )], -q ].) Multiplying number p =\n[[1/( r )], -q ] by z = [ r , q ]\ngives the complex number [1,0] with length 1 and angle 0, that is, the real\nnumber 1. And multiplication of any point ( c , d ) by 1 = [1,0 ]\nyields back the point ( c , d ) The reciprocal (or multiplicative inverse) of the complex number z = a + b i with length r > 0 and angle q is\nthe complex number p with length 1/ r and angle -q . Observe that if r > 1 then the length of the reciprocal [1/( r )]\n< 1 < r , that is, the length of the reciprocal is less than 1 and\nthe length of the original number. In contrast, if 0 < r < 1 then\n[1/( r )] > 1 > r . Question: Which of these two cases is\nrepresented in the above diagram? What happens in the case r = 1?"
+    },
+    {
+      "tag": "h3",
+      "text": "Two Algebraic Properties"
+    },
+    {
+      "tag": "p",
+      "text": "Observe [ r 1 ,0]([1, q ][ r 2 , q 2 ])\n            = [ r 1 , q 1 ][ r 2 , q 2 ] since [ r 1 ,0]([1, q ][ r 2 , q 2 ])\n= [ r 1 ,0][ r 2 , q 1 + q 2 ]\n= [ r 1 r 2 , q 1 + q 2 ]\n. Similarly [1, q ]([ r 1 ,0][ r 2 , q 2 ])\n            = [ r 1 , q 1 ][ r 2 , q 2 ]"
+    },
+    {
+      "tag": "h3",
+      "text": "Real Multiples of Arrows"
+    },
+    {
+      "tag": "p",
+      "text": "We said earlier (in the last section of the chapter Arrow Addition ) for\nreal numbers a , b and c that c ( a , b )\n= ( ca , cb ) without any reference to or use of the add the\nangles, multiply the lengths arrow multiplication rule. But c = c + i 0\n= ( c ,0) gives a point in the plane. So we can multiple c = c + i 0\n= ( c ,0) and ( a , b ) = [ r , q ]\nusing the add the angles, multiply the lengths rule. Two cases, more\nprecisely possibilities, will be examined. Case 1: c 0 Observe for c > 0 that c = c + i 0 = [ c ,0] has angle 0 degrees and\nlength c = | c | .\nThus the add the angles, multiply the lengths multiplication rule\nyields c ( a , b ) = [ c ,0][ r , q ]\n            = [ cr ,0+ q ] = [ cr , q ]\n            = ( ca , cb ) as before. Case 2 : c < 0 Now c = - d < 0. But d > 0 implies ( d ,0)( a , b ) =\n            [ d ,0][ r , q ] = [ dr , q ]\n            = ( da , db ) Therefore ( c ,0)( a , b ) = ( - 1)[ d ,0]( a , b )\n                  = ( - 1)[ dr , q ] = [ dr , q +180 ]\n                = ( - da , - db ) = ( ca , cb )"
+    },
+    {
+      "tag": "div",
+      "text": "again."
+    },
+    {
+      "tag": "p",
+      "text": "Conclusion. Multiplication of a point ( a , b ) by a real\nnumber c = c + i 0 with and without the add the angles,\nmultiple the lengths rule gives ( ca , cb )."
+    },
+    {
+      "tag": "h3",
+      "text": "Some Vocabulary."
+    },
+    {
+      "tag": "p",
+      "text": "For each point or complex number z = a + b i = ( a , b )\n= [ r , q ] in this plane, we say that a is\nthe real part of z ; that b is the imaginary part of z ; that r = | z | = [( a 2 + b 2 )] is\nthe magnitude, modulus or absolute value of z (different\ntexts prefer different terms); and that q is the\nangle or argument of z . Remark. The use of round brackets () in the notation for\nrectangular coordinates ( a , b ) stems from the convention\nin many algebra texts written before this one. The use of square bracket [] in\nthe notation for polar coordinates [ r , q ]\nhere was chosen simply because the square brackets were available. In\nretrospect, cosmetic appearance alone would suggest the employment of\nround-brackets for polar coordinates and square brackets for rectangular\ncoordinates. The development of notation is not always cosmetically optimal."
+    },
+    {
+      "tag": "h3",
+      "text": "Three Problems."
+    },
+    {
+      "tag": "p",
+      "text": "Locate in the plane the complex conjugate and reciprocals of the complex\n    three numbers s = 3+4 i , t = 12+( - 5) i ,\n    and z = cos(120 ) + i sin(120 ). Locate the three complex cube roots of 1 (unity) . Hint: divide the unit circle into three arcs each spanning an angle of 360/3\n    =120 degrees. The required roots are at the ends of each arc (if two\n    arcs share the endpoin t 1 = 1+ i 0. L ocate the fourth, fifth and sixth roots of unity. What is the\n    general pattern for n-th roots of unity (where n = 2, 3, 4, ).? msnavigation google_ad_section_start(weight=ignore) google_ad_section_start(weight=ignore) google_ad_section_start(weight=ignore) What is a Variable? Introduction Variation between Examples Variation of Letters A letter denotes a variable Cases of Double Variation Three Notions of a Variable Constants,Parameters,Variables Talking about numbers Arithmetic Videos Fractions Primes Greatest Common Divisors Least Common Multiples Square Root Simplification Online Volumes 1 Elements of Reason 1A. Pattern Based Reason 1B. Mathematics\nCurriculum Notes 2. Three Skills for\nAlgebra 3. Why\nSlopes and More Math More Site Areas : Helping\nYour Child or Teen Learn . Analytic\nGeometry Solving\nLinear Equations with Stick Diagrams Fractions, \nRatios, Rates, Proportions & Units Euclidean\nGeometry Analytic\nGeometry Number\nTheory . Calculus\nIntro Complex\nNumbers Odds & Ends Quebec\nMaths Education Real\nAnalysis LaTeX2HotEqn Good news: Site pages  identify what you need\nto study. Bad news: Site pages do not explain\neverything Worse news: Learning takes time, yours. Site Message: Calculus & calculus preparation give\na first reason & focus for learning and teaching most mathematics in school\nand  college. msnavigation msnavigation google_ad_section_start(weight=ignore) [ Top ] [ Back ] [ Volume Entrance ] [ Next ] site entrance site\nreviews Feedback\nand Contact Form Site uploaded with SmartFTP. Favourite Sites : BBC News and the Mathematics portion of English\nNational Curriculum Francais : || Dfinition\nd'une variable || Algbre || Arithmetique || Logique | | All trademarks and copyrights\non this page are owned by their respective owners. Copyright to comments &\ncontributions are owned by the Poster. The Rest  1995 onward by site author\nAlan Selby, Ph. D.  All Rights Reserved. google_ad_section_start(weight=ignore) msnavigation"
+    }
+  ]
+}

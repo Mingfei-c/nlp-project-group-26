@@ -1,0 +1,33 @@
+{
+  "url": "http://web.indstate.edu/ctl/tips/tip1_16.html",
+  "content_hash": "31b573495ca3c74c2a8c18db2c7fa9bea9759a9d69296717a6d7c25e9a667cd5",
+  "total_blocks": 146,
+  "retained_blocks": 6,
+  "ignored_blocks": 140,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\" HEADER JOIN US VISITING ISU ACADEMICS RESEARCH ATHLETICS ISU TODAY END HEADER LEFTHAND NAVIGATION Center \r\n\t\t\tfor Instruction, research, and technology Research Services Faculty Development Undergraduate IT Training Instructional \r\n\r\n\t\t\t\tTechnologies Interactive and Multimedia Design Services About Us Staff Directory OFFICE OF INFORMATION TECHNOLOGY ISU \r\n\r\nCOMMUNITY PROSPECTIVE \r\n\r\nSTUDENTS ALUMNI \r\n\r\n& FRIENDS PARENTS \r\n\r\n& FAMILY BUSINESS \r\n\r\n& COMMUNITY ISU \r\n\r\nA-Z MyISU SEARCH //END LEFTHAND NAVIGATION"
+    },
+    {
+      "tag": "h2",
+      "text": "Welcome"
+    },
+    {
+      "tag": "p",
+      "text": "The Center for \r\n\t\t\tInstruction, Research, and Technology explores, develops, promotes, \r\n\t\t\tand supports effective teaching and research practices to advance \r\n\t\t\tknowledge and active learning at Indiana State University. CIRT \r\n\t\t\tendeavors to have a measurable impact on the academic community by \r\n\t\t\tbuilding the reputation of Indiana State for innovative instruction \r\n\t\t\tand technology-enhanced research. The Center is \r\n\t\t\tunder the domain of the Associate Vice President for Academic \r\n\t\t\tAffairs and Chief Information Officer and has strong ties to the \r\n\t\t\tProvost's and is guided by a faculty advisory committee."
+    },
+    {
+      "tag": "div",
+      "text": "inserted table to bump contact info to the left to line up with image above per Comm/Mktg. 11/30/04, sjo Caleb Mills Award Nomination Form"
+    },
+    {
+      "tag": "p",
+      "text": "Mailing\r\n                Address: Normal Hall 301 Indiana State University Terre Haute, IN 47809 Office Locations Phone: 812-237-2676 Fax: 812-237-8446 cirt@indstate.edu Office Hours: Monday-Friday 8:00 AM -4:30 PM"
+    },
+    {
+      "tag": "div",
+      "text": "Last modified:  20-Nov-06     Maintained by: egruenert@isugw.indstate.edu FOOTER/COPYRIGHT INFO 200 North Seventh Street, Terre Haute, Indiana, USA 47809-9989 Copyright 2006 by Indiana State \r\n\r\nUniversity . 1-800-GO-TO-ISU | 1-800-468-6478 END FOOTER/COPYRIGHT INFO"
+    }
+  ]
+}

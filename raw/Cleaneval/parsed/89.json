@@ -1,0 +1,109 @@
+{
+  "url": "http://jerz.setonhill.edu/writing/technical/mechanism.htm",
+  "content_hash": "74a9915c8892129cc2ad6fe7ed3bfa61e1befbec7f1a4fc49f56d085be4b40aa",
+  "total_blocks": 103,
+  "retained_blocks": 25,
+  "ignored_blocks": 78,
+  "blocks": [
+    {
+      "tag": "div",
+      "text": "InstanceBegin template=\"/Templates/Writing.dwt\" codeOutsideHTMLIsLocked=\"false\" InstanceBeginEditable name=\"Title_IC\""
+    },
+    {
+      "tag": "h2",
+      "text": "Writing a Mechanism Description Analyzing the Function, Appearance and Operation of \r\n    an Object"
+    },
+    {
+      "tag": "div",
+      "text": "InstanceEndEditable InstanceBeginEditable name=\"NavBar\""
+    },
+    {
+      "tag": "p",
+      "text": "> Resources > Writing > Technical >"
+    },
+    {
+      "tag": "div",
+      "text": "InstanceEndEditable InstanceBeginEditable name=\"Blurb\""
+    },
+    {
+      "tag": "p",
+      "text": "This document describes how to write a mechanism description (also \r\n      called an object description ).  A mechanism description is a short report designed to convey to the \r\n      reader a technical understanding of the function , appearance , \r\n      and operation of a particular object.  In one or two sentences, \r\n      give the reader a quick overview of these three elements, before you lauch \r\n      into the details."
+    },
+    {
+      "tag": "div",
+      "text": "InstanceEndEditable InstanceBeginEditable name=\"Text\" 1998; \r\n        first posted by Dennis \r\n        G. Jerz"
+    },
+    {
+      "tag": "p",
+      "text": "A mechanism description analyzes (that is, subdivides into components \r\n          for futher scrutiny) an object in space. Among the rhetorical patterns \r\n          you might employ are definition , partition , classification , \r\n          and comparison/contrast . \r\n          When nothing else seems appropriate, you can always fall back on the more-important-to-less-important strategy."
+    },
+    {
+      "tag": "div",
+      "text": "D on't sell the object. A technical writer is not required to persuade the reader that the \r\n            object is wonderful, or valuable, or scary. But do mention the details. \r\n            While you shouldn't say an object is \"adorably cute,\" you \r\n            could mention that it \"resembles a cartoon cow wearing a pink ruffled \r\n            skirt,\" and let your readers make the value judgment for themselves. Just describe it. Provide whatever level of detail your reader requires. Know \r\n            your audience.  A child safety organization may require an extremely \r\n            detailed description of a simple toy (along with a separate process \r\n            description for the manufacture of each component), while a military \r\n            recruitment office might require only a few paragraphs about a complex \r\n            nuclear submarine."
+    },
+    {
+      "tag": "h3",
+      "text": "Introduction"
+    },
+    {
+      "tag": "div",
+      "text": "Your introduction should first state the purpose and scope of your \r\n        document .  If your document is longer than a few paragraphs, \r\n        the first paragraph should be a stand-alone summary, which briefly defines \r\n        the object and explains its function, appearance, and operation. Throughout the ages, mankind \r\n              has found many uses for salt.  Ancient tribes used it preserve \r\n              meat; around the world it adds flavor to food; the Bible uses it \r\n              as a symbol of zest for life.  Salt became such an important \r\n              part of people's diet that a way was needed to allow early nomads \r\n              to carry salt with them on their perilous travels; such a device \r\n              ideally also helped ancient gormandizers to distribute portions \r\n              of the precious flavor enhancer onto their foods.  Thus was \r\n              born the salt shaker. Some beginning technical writers, \r\n              who remember using grandiose words to please their high school English \r\n              teachers, mistakenly believe that an introduction should provide \r\n              a sort of cosmic overview. But a technical writer does not need \r\n              to amuse or impress a reader -- somebody who wants to know exactly \r\n              how much this salt shaker weighs does not need an ancient history \r\n              lesson. Just provide the necessary information as efficiently as \r\n              possible. This document provides the manufacturing \r\n              specifications for the entire line of Happy Homemaker \"Praying Cow\" \r\n              salt shakers (Divine Bovine Industries model #00045).  A hand-painted \r\n              ceramic collector's item, the \"Praying Cow\" salt shaker represents \r\n              a plump, cartoon-like cow, her head bowed as if in prayer.  \r\n              A blue flower-print skirt is painted onto the body of the animal.  \r\n              The salt is dispensed through the cow's matching bonnet, via a circular \r\n              array of six small holes.  The bonnet twists off to allow the \r\n              consumer to fill the dispenser cavity. Note that this writer correctly begins by introducing \r\n                  the reader to the document .  We can assume that the \r\n                  rest of the document provides the measurements and other technical \r\n                  details, as promised by the opening sentence. The summary paragraph assumes that the reader \r\n                  already knows the definition and function of a salt shaker; \r\n                  this is permissible. In this case, it would not be wise to \r\n                  omit a description of the appearance, and almost unforgivable \r\n                  not to include a picture. Fortunately for civilization as we know it, \r\n                  this product is completely imaginary."
+    },
+    {
+      "tag": "h3",
+      "text": "Function"
+    },
+    {
+      "tag": "div",
+      "text": "A nswer the question, \"What does it do?\" If the object \r\n        participates in a process, then you may need to write a brief process \r\n        description as well. Keep this section brief -- chance are, if your reader \r\n        is interested in a full mechanism description, he or she already has some \r\n        idea what the object is for. Of course, if the object will be so unfamiliar \r\n        to your reader that the rest of the document won't make sense, then provide \r\n        whatever background information your reader is likely to need. (Sometimes \r\n        the only way to do this is to show a prototype of your mechanism description \r\n        to a test user... see \" Usability \r\n        Testing .\")"
+    },
+    {
+      "tag": "h3",
+      "text": "Appearance"
+    },
+    {
+      "tag": "div",
+      "text": "Answer the question, \"What does it look like?\"  You may have to use classification to break the object up into its various components, and describe each \r\n        in sequence. The original Star Trek Enterprise, \r\n              TV's most famous fictional starship, has a saucer shaped primary \r\n              hull, a cigar-shaped secondary hull, and two cylindrical warp pods.  \r\n              A horizontal strut suspends the secondary hull behind and below \r\n              the saucer.  At the flat, front of the suspended section is \r\n              the deflector dish, and at the tapered back are clamshell doors \r\n              that open to reveal a shuttle bay.  Each of the two cylindrical \r\n              power units is supported by a long pylon connected near the rear \r\n              of the secondary hull.  The pylons raise the power units above \r\n              the plane of the horizontal dish, and extend them outwards roughly \r\n              to the same width of the saucer.  The pods themselves have \r\n              red semicircular half-spheres on the front, and tapered cylindrical \r\n              fixtures on the rear. The content of the above section is fine, \r\n              but it's a little hard to read.   If you were to go in \r\n              to any more detail, you should break it up into smaller paragraphs... \r\n              If you start to break your object up into multiple nested layers \r\n              of components, you should consider a bulleted list , formatted \r\n              so that your reader can more easily identify the level of detail \r\n              you are describing in any given section. (See below.) The primary hull contains the \r\n              following visible features: The bridge (a circular, domed structure at the center \r\n                  of the upper surface of the saucer). The first pilot episode, \"The Cage\" featured a special \r\n                    effects shot of the camera zooming in on the model to reveal \r\n                    the characters arranged on the bridge; the same shot also \r\n                    appeared as a kind of flashback in the later episode, \"The \r\n                    Menagerie, Part I.\" The set for the bridge on Star Trek: The Next Generation featured a ceiling window that revealed a starry backdrop, \r\n                    but no such window ever appeared in the original series. Lighting effects (including blinking running lights, \r\n                  as well as smaller lights representing windows) Vessel identification (black painted capital letters \r\n                  on the upper and lower surfaces of the saucer, reading \"U.S.S. \r\n                  Enterprise\" and \"NCC-1701\") Phasers and photon torpedoes (usually depicted as \r\n                  emanating from a spot near the center of the underside of the \r\n                  saucer)"
+    },
+    {
+      "tag": "h3",
+      "text": "Operation"
+    },
+    {
+      "tag": "div",
+      "text": "Answer the question, \"How does it work?\""
+    },
+    {
+      "tag": "p",
+      "text": "You could also productively think of this section as the conclusion to your paper.  Rarely will you gain anything by writing a \r\n          lame, strained conclusion like, \"Therefore, this paper has shown that \r\n          the PickMaster 2000 Electric Toothpick Dispenser can be an exciting \r\n          part of the environment around the cash register in any restaurant.\" Even if an object does not have an exciting or visible method of operating \r\n          (such as a decorative item or a simple brick), you should still explain how its design helps it to fulfill its function . Fall, 1998 -- written by Dennis G. Jerz 14 Feb 2001 -- posted in ORR 12 Sep 2003 -- minor updates InstanceEndEditable"
+    },
+    {
+      "tag": "div",
+      "text": "InstanceBeginEditable name=\"Sidebar\" InstanceEndEditable InstanceBeginEditable name=\"Comments\" InstanceEndEditable InstanceBeginEditable name=\"NavBar2\""
+    },
+    {
+      "tag": "p",
+      "text": "D.G. Jerz > Resources > Writing > Technical >"
+    },
+    {
+      "tag": "div",
+      "text": "InstanceEndEditable #BeginLibraryItem \"/Library/DGJerz.lbi\" D.G. \r\n      Jerz Seton \r\n      Hill University Contact About F.A.Q. #EndLibraryItem #BeginLibraryItem \"/Library/Weblog.lbi\" Weblog #EndLibraryItem #BeginLibraryItem \"/Library/teaching.lbi\" Teaching #BeginLibraryItem \"/Library/courses.lbi\" LA100 EL200 EL236 EL405 #EndLibraryItem #EndLibraryItem InstanceBeginEditable name=\"ResMenu\" Resources Writing Design iFiction Lit/Drama InstanceEndEditable On \r\n          Jerz's Site InstanceBeginEditable name=\"HotLinks\" InstanceEndEditable"
+    },
+    {
+      "tag": "p",
+      "text": "Blurbs : Short previews help online readers evaluate links. E-Mail \r\n          Tips Polite, \r\n          effective, professional writing. Academic\r\n                 Blogging First\r\n          Amendment Memes & Weblogs What \r\n          If There Were No Interactive Fiction? Alternate gaming history, without text adventures. New \r\n          Media Journalism Seton Hill University's weblog aggregator."
+    },
+    {
+      "tag": "div",
+      "text": "For Students"
+    },
+    {
+      "tag": "p",
+      "text": "MLA \r\n          Style B ibliography B uilder Taking \r\n          Notes Tips for college \r\n          success. R esearch P apers Begin with good sources. Timed \r\n          Essays Crunch-time survival tips. Writing \r\n          Tips Active and Passive\r\n          Verbs Show,\r\n          Don't (Just) Tell Thesis Statements MLA Style"
+    },
+    {
+      "tag": "div",
+      "text": "InstanceBeginEditable name=\"HotLinks2\" InstanceEndEditable InstanceEnd"
+    }
+  ]
+}
