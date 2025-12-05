@@ -32,7 +32,7 @@
     },
     {
       "tag": "p",
-      "text": "A complete list of real-time data links is located in the Space Weather Resources section."
+      "text": "Acomplete list of real-time data links is located in the Space Weather Resources section."
     },
     {
       "tag": "h2",
@@ -48,7 +48,7 @@
     },
     {
       "tag": "p",
-      "text": "A magnetic field is a vector + it has direction and magnitude (or size). The magnetic field around Earth is separated into a horizontal (H) vector and a vertical vector (Z).  The horizontal vector can be further separated into X and Y components.  The X is the north-south vector and the Y is the east-west part. Notice that X, Y and Z components of the magnetic field are vectors.  They give the direction (X is north-south, Y is east-west, and Z is vertical) and the size of the magnetic field. In these graphs H is the size of the vector sum of the X and Y components of the magnetic field found by the Pythagorean Theorem - H 2 = X 2 + Y 2 . The Red curve gives the value of the angle between the north geographic and north magnetic pole (D). The horizontal red line indicates the normal or undisturbed angle between north geographic and north magnetic pole at this location. The vertical axis on the right is the angle in degrees (red numbers)"
+      "text": "Amagnetic field is a vector + it has direction and magnitude (or size). The magnetic field around Earth is separated into a horizontal (H) vector and a vertical vector (Z).  The horizontal vector can be further separated into Xand Ycomponents.  The Xis the north-south vector and the Yis the east-west part. Notice that X, Yand Zcomponents of the magnetic field are vectors.  They give the direction (Xis north-south, Yis east-west, and Zis vertical) and the size of the magnetic field. In these graphs His the size of the vector sum of the Xand Ycomponents of the magnetic field found by the Pythagorean Theorem - H 2 = X 2 + Y 2 . The Red curve gives the value of the angle between the north geographic and north magnetic pole (D). The horizontal red line indicates the normal or undisturbed angle between north geographic and north magnetic pole at this location. The vertical axis on the right is the angle in degrees (red numbers)"
     },
     {
       "tag": "h3",

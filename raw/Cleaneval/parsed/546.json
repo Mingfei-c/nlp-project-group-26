@@ -8,7 +8,7 @@
   "blocks": [
     {
       "tag": "div",
-      "text": "Library about the Library people, administration, policies and plans Skip over navigation show detailed menu hide detailed menu : search : site map ask us Resources Borrowing/accounts Services for... Help/how-to Facilities Resources TRELLIS catalogue · Course reserve Journal indexes · E-journals · E-books · E-reference Archival & special collections Audio-visual · Data · GIS & maps · Government · Newspapers · RefWorks citations · Theses Borrowing/accounts Your account: renewals, fines, etc Borrowing info,  fines, account problems Books & articles from TRELLIS Books & articles from interlibrary loan / document delivery Services for... Undergrads Faculty & grad students Distance & open learning Students with disabilities U of G staff Alumni & visitors Help/how-to Ask us Subject & course guides Research Technology Learning & writing Off campus web access Site map Facilities Hours Directions to the Library Computers, wireless, laptops Printing, scanning, photocopying Study space & offices Locations & building maps #BeginLibraryItem \"/library/breadcrumbs.lbi\" #EndLibraryItem InstanceBeginEditable name=\"body\""
+      "text": "Library about the Library people, administration, policies and plans Skip over navigation show detailed menu hide detailed menu : search : site map ask us Resources Borrowing/accounts Services for... Help/how-to Facilities Resources TRELLIS catalogue · Course reserve Journal indexes · E-journals · E-books · E-reference Archival & special collections Audio-visual · Data · GIS & maps · Government · Newspapers · RefWorks citations · Theses Borrowing/accounts Your account: renewals, fines, etc Borrowing info,  fines, account problems Books & articles from TRELLIS Books & articles from interlibrary loan / document delivery Services for... Undergrads Faculty & grad students Distance & open learning Students with disabilities Uof Gstaff Alumni & visitors Help/how-to Ask us Subject & course guides Research Technology Learning & writing Off campus web access Site map Facilities Hours Directions to the Library Computers, wireless, laptops Printing, scanning, photocopying Study space & offices Locations & building maps #BeginLibraryItem \"/library/breadcrumbs.lbi\" #EndLibraryItem InstanceBeginEditable name=\"body\""
     },
     {
       "tag": "h1",
@@ -56,7 +56,7 @@
     },
     {
       "tag": "p",
-      "text": "U of G home | Library home | top of this page"
+      "text": "Uof Ghome | Library home | top of this page"
     },
     {
       "tag": "div",

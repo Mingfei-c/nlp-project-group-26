@@ -16,11 +16,11 @@
     },
     {
       "tag": "div",
-      "text": "( thing ) by pingouin (2.7 y) ( print ) ? 1 C! Sat Nov 13 1999 at 14:15:41 117813{ How much is your time worth to you? A union is an organization of workers who push for the best possible working conditions - who else will? The boss ? The boss invented sweatshop s! Unions are easy to demonize , if you don't belong to one. They brought about the 40-hour work week, overtime pay, safety laws, and more, including previously-unknown prosperity for those who punched a clock . It enabled many to move to suburbia , buy homes, and raise kids who would grow up to demonize unions. }117813 ( idea ) by Cogito (1.1 y) ( print ) ? Sun Nov 18 2001 at 23:30:03 1202105{"
+      "text": "( thing ) by pingouin (2.7 y) ( print ) ? 1 C! Sat Nov 13 1999 at 14:15:41 117813{ How much is your time worth to you? Aunion is an organization of workers who push for the best possible working conditions - who else will? The boss ? The boss invented sweatshop s! Unions are easy to demonize , if you don't belong to one. They brought about the 40-hour work week, overtime pay, safety laws, and more, including previously-unknown prosperity for those who punched a clock . It enabled many to move to suburbia , buy homes, and raise kids who would grow up to demonize unions. }117813 ( idea ) by Cogito (1.1 y) ( print ) ? Sun Nov 18 2001 at 23:30:03 1202105{"
     },
     {
       "tag": "p",
-      "text": "In the field of computation theory , union is one of the regular operation s. If A and B are language s (not necessarily regular language s) then the union of A and B (usually written A ∪ B ) is defined as follows. { x | x ∈ A or x ∈ B } In plain English : A ∪ B is the set of all string s which are either member s of A or B or both. For example, if A = {a,b,c}, and B = {c,d,e} A ∪ B = {a,b,c,d,e} Some interesting things to note about the union operation: The union of a set with any subset is equal to the original set ( iff B ⊆ A , then A ∪ B = A ). Regular languages are closed under the union operation. This means that if A and B are regular languages, then so is A ∪ B ."
+      "text": "In the field of computation theory , union is one of the regular operation s. If Aand Bare language s (not necessarily regular language s) then the union of Aand B (usually written A ∪ B ) is defined as follows. { x | x ∈ Aor x ∈ B } In plain English : A ∪ Bis the set of all string s which are either member s of Aor Bor both. For example, if A = {a,b,c}, and B = {c,d,e} A ∪ B = {a,b,c,d,e} Some interesting things to note about the union operation: The union of a set with any subset is equal to the original set ( iff B ⊆ A , then A ∪ B = A ). Regular languages are closed under the union operation. This means that if Aand Bare regular languages, then so is A ∪ B ."
     },
     {
       "tag": "div",
@@ -40,7 +40,7 @@
     },
     {
       "tag": "pre",
-      "text": "Jones, Jim      bobj@salesman.com      123-123-1234\r\nSousa, Sam      sams@salesman.com      123-123-1235\r\nDilbert, J      jd@engineer.com        234-234-1234\r\nSmart, Alec     sa@engineer.com        234-234-2344"
+      "text": "Jones, Jim      bobj@salesman.com      123-123-1234\r\nSousa, Sam      sams@salesman.com      123-123-1235\r\nDilbert, Jjd@engineer.com        234-234-1234\r\nSmart, Alec     sa@engineer.com        234-234-2344"
     },
     {
       "tag": "p",
@@ -64,7 +64,7 @@
     },
     {
       "tag": "p",
-      "text": "B is the set of all element s of elements of A. When A={a,b} is a pair (derived e.g. by the axiom of pairing ), we use the more common notation a∪b = ∪ A. This notation is also used when a=b. Note, however, that the existence of unions ∪ A when A is infinite does not follow from the existence of unions of such pairs. In particular : The cardinality of a finite union is bounded by the cardinalities of A and of each of the elements of A. But the cardinality of an infinite (even countable ) union has no such bound. Hence the need for an axiom . When A is an indexed set A = {a i : i∈I} for some index set I,  notations based on ∪ i∈I a i = ∪ A are common. Thus, we may see"
+      "text": "Bis the set of all element s of elements of A. When A={a,b} is a pair (derived e.g. by the axiom of pairing ), we use the more common notation a∪b = ∪ A. This notation is also used when a=b. Note, however, that the existence of unions ∪ Awhen Ais infinite does not follow from the existence of unions of such pairs. In particular : The cardinality of a finite union is bounded by the cardinalities of Aand of each of the elements of A. But the cardinality of an infinite (even countable ) union has no such bound. Hence the need for an axiom . When Ais an indexed set A = {a i : i∈I} for some index set I,  notations based on ∪ i∈Ia i = ∪ Aare common. Thus, we may see"
     },
     {
       "tag": "blockquote",
@@ -76,11 +76,11 @@
     },
     {
       "tag": "h1",
-      "text": "C and C++"
+      "text": "Cand C++"
     },
     {
       "tag": "p",
-      "text": "In C and in C++, a union is a type . The syntax of a union is exactly the same as the syntax of a struct :"
+      "text": "In Cand in C++, a union is a type . The syntax of a union is exactly the same as the syntax of a struct :"
     },
     {
       "tag": "pre",
@@ -88,7 +88,7 @@
     },
     {
       "tag": "p",
-      "text": "defines a union U with 3 field s. However, unions are limited in such a way as to allow access to only one field at a time ."
+      "text": "defines a union Uwith 3 field s. However, unions are limited in such a way as to allow access to only one field at a time ."
     },
     {
       "tag": "h2",
@@ -96,15 +96,15 @@
     },
     {
       "tag": "p",
-      "text": "The informal rule is that a union holds all fields overlap ping in memory . The formal rule s are more complex , but amount to the same thing : A pointer to the union can be converted into a pointer to the type of any of the fields ( in particular , it has the correct alignment for each of these types); Reading any but the last-written field of the union yields undefined behaviour ; The sizeof the union is the largest of the sizeofs each of the members. As usual, standardese prohibits the use of words such as \"memory\", or indeed any mention of implementation . But we all know what they mean. Since no portable conversion s exist in such a configuration , standard C unions are limited to expressing just the \" variant \" part of Pascal 's variant record s. C has no notion of the type member ; if YOU want to know the type currently stored in a union, YOU have to make sure you know what it is. One way to do this could be to say"
+      "text": "The informal rule is that a union holds all fields overlap ping in memory . The formal rule s are more complex , but amount to the same thing : Apointer to the union can be converted into a pointer to the type of any of the fields ( in particular , it has the correct alignment for each of these types); Reading any but the last-written field of the union yields undefined behaviour ; The sizeof the union is the largest of the sizeofs each of the members. As usual, standardese prohibits the use of words such as \"memory\", or indeed any mention of implementation . But we all know what they mean. Since no portable conversion s exist in such a configuration , standard Cunions are limited to expressing just the \" variant \" part of Pascal 's variant record s. Chas no notion of the type member ; if YOU want to know the type currently stored in a union, YOU have to make sure you know what it is. One way to do this could be to say"
     },
     {
       "tag": "pre",
-      "text": "struct variant {\r\n  enum {e_pchar, e_int, e_double} type;\r\n  union U value;\r\n};"
+      "text": "struct variant {\r\n  enum {e_pchar, e_int, e_double} type;\r\n  union Uvalue;\r\n};"
     },
     {
       "tag": "p",
-      "text": "and use the type field to keep track of the type of the last stored data. But C doesn't force you to do it this way. Your program might store types differently. For instance:"
+      "text": "and use the type field to keep track of the type of the last stored data. But Cdoesn't force you to do it this way. Your program might store types differently. For instance:"
     },
     {
       "tag": "pre",
@@ -136,7 +136,7 @@
     },
     {
       "tag": "p",
-      "text": "There isn't really one, except that the English language provides the same word for both. The C union { A a; B b; }; can store all values of the disjoint union A∪B. But it relies on label ed values (you can store in either of the fields .a and .b , and you must specify which one you mean). And if A and B refer to the same type, the distinction is even more pronounce d. C unions better fit (one of) the semantics commonly ascribed to \"A ``square cup'' B\", which isn't really a union in the mathematical sense."
+      "text": "There isn't really one, except that the English language provides the same word for both. The Cunion { Aa; Bb; }; can store all values of the disjoint union A∪B. But it relies on label ed values (you can store in either of the fields .a and .b , and you must specify which one you mean). And if Aand Brefer to the same type, the distinction is even more pronounce d. Cunions better fit (one of) the semantics commonly ascribed to \"A ``square cup'' B\", which isn't really a union in the mathematical sense."
     },
     {
       "tag": "div",
@@ -144,7 +144,7 @@
     },
     {
       "tag": "p",
-      "text": "Un\"ion [F., from L. unio oneness, union, a single large pearl, a kind of onion, fr. unus one. See One , and cf. Onion , Unit .] 1. The act of uniting or joining two or more things into one, or the state of being united or joined; junction; coalition; combination. Union differs from connection , as it implies that the bodies are in contact, without an interening body; whereas things may be connected by the invention of a third body, as by a cord or chain. 2. Agreement and conjunction of mind, spirit, will, affections, or the like; harmony; concord. 3. That which is united, or made one; something formed by a combination or coalition of parts or members; a confederation; a consolidated body; a league; as, the weavers have formed a union ; trades unions have become very numerous; the United States of America are often called the Union . A. Hamilton. 4. A textile fabric composed of two or more materials, as cotton, silk, wool, etc., woven together. 5. A large, fine pearl. [Obs.]"
+      "text": "Un\"ion [F., from L. unio oneness, union, a single large pearl, a kind of onion, fr. unus one. See One , and cf. Onion , Unit .] 1. The act of uniting or joining two or more things into one, or the state of being united or joined; junction; coalition; combination. Union differs from connection , as it implies that the bodies are in contact, without an interening body; whereas things may be connected by the invention of a third body, as by a cord or chain. 2. Agreement and conjunction of mind, spirit, will, affections, or the like; harmony; concord. 3. That which is united, or made one; something formed by a combination or coalition of parts or members; a confederation; a consolidated body; a league; as, the weavers have formed a union ; trades unions have become very numerous; the United States of America are often called the Union . A. Hamilton. 4. Atextile fabric composed of two or more materials, as cotton, silk, wool, etc., woven together. 5. Alarge, fine pearl. [Obs.]"
     },
     {
       "tag": "blockquote",
@@ -152,7 +152,7 @@
     },
     {
       "tag": "p",
-      "text": "6. A device emblematic of union, used on a national flag or ensign, sometimes, as in the military standard of Great Britain, covering the whole field; sometimes, as in the flag of the United States, and the English naval and marine flag, occupying the upper inner corner, the rest of the flag being called the fly . Also, a flag having such a device; especially, the flag of Great Britain. ⇒ The union of the United States ensign is a cluster of white stars, denoting the union of the States, and, properly, equal in number to that of the States, displayed on a blue field; the fly being composed of alternate stripes of red and white. The union of the British ensign is the three crosses of St. George, St. Andrew, and St. Patrick in combination, denoting the union of England, Scotland and Ireland, displayed on a blue field in the national banner used on shore, on a red, white, or blue field in naval ensigns, and with a white border or fly in the merchant service. 7. Mach. A joint or other connection uniting parts of machinery, or the like, as the elastic pipe of a tender connecting it with the feed pipe of a locomotive engine; especially, a pipe fitting for connecting pipes, or pipes and fittings, in such a way as to facilitate disconnection. 8. Brewing A cask suspended on trunnions, in which fermentation is carried on. Hypostatic union Theol. See under Hypostatic . -- Latin union . See under Latin . -- Legislative Union Eng. Hist. , the union of Great Britain and Ireland, which took place Jan. 1, 1801. -- Union , ∨ Act of Union Eng. Hist. , the act by which Scotland was united to England, or by which the two kingdoms were incorporated into one, in 1707. -- Union by the first , ∨ second , intention . Surg. See To heal by the first, ∨ second, intention , under Intention . -- Union down Naut. , a signal of distress at sea made by reversing the flag, or turning its union downward. -- Union jack . Naut. See Jack , n., 10. -- Union joint . Mech. (a) A joint formed by means of a union. (b) A piece of pipe made in the form of the letter T. Syn. -- Unity; junction; connection; concord; alliance; coalition; combination; confederacy.  -- Union , Unity . Union is the act of bringing two or more things together so as to make but one, or the state of being united into one. Unity is a state of simple oneness , either of essence, as the unity of God, or of action, feeling, etc., as unity of design, of affection, etc. Thus, we may speak of effecting a union of interests which shall result in a unity of labor and interest in securing a given object."
+      "text": "6. Adevice emblematic of union, used on a national flag or ensign, sometimes, as in the military standard of Great Britain, covering the whole field; sometimes, as in the flag of the United States, and the English naval and marine flag, occupying the upper inner corner, the rest of the flag being called the fly . Also, a flag having such a device; especially, the flag of Great Britain. ⇒ The union of the United States ensign is a cluster of white stars, denoting the union of the States, and, properly, equal in number to that of the States, displayed on a blue field; the fly being composed of alternate stripes of red and white. The union of the British ensign is the three crosses of St. George, St. Andrew, and St. Patrick in combination, denoting the union of England, Scotland and Ireland, displayed on a blue field in the national banner used on shore, on a red, white, or blue field in naval ensigns, and with a white border or fly in the merchant service. 7. Mach. Ajoint or other connection uniting parts of machinery, or the like, as the elastic pipe of a tender connecting it with the feed pipe of a locomotive engine; especially, a pipe fitting for connecting pipes, or pipes and fittings, in such a way as to facilitate disconnection. 8. Brewing Acask suspended on trunnions, in which fermentation is carried on. Hypostatic union Theol. See under Hypostatic . -- Latin union . See under Latin . -- Legislative Union Eng. Hist. , the union of Great Britain and Ireland, which took place Jan. 1, 1801. -- Union , ∨ Act of Union Eng. Hist. , the act by which Scotland was united to England, or by which the two kingdoms were incorporated into one, in 1707. -- Union by the first , ∨ second , intention . Surg. See To heal by the first, ∨ second, intention , under Intention . -- Union down Naut. , a signal of distress at sea made by reversing the flag, or turning its union downward. -- Union jack . Naut. See Jack , n., 10. -- Union joint . Mech. (a) Ajoint formed by means of a union. (b) Apiece of pipe made in the form of the letter T. Syn. -- Unity; junction; connection; concord; alliance; coalition; combination; confederacy.  -- Union , Unity . Union is the act of bringing two or more things together so as to make but one, or the state of being united into one. Unity is a state of simple oneness , either of essence, as the unity of God, or of action, feeling, etc., as unity of design, of affection, etc. Thus, we may speak of effecting a union of interests which shall result in a unity of labor and interest in securing a given object."
     },
     {
       "tag": "blockquote",

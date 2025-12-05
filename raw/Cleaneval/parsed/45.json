@@ -32,7 +32,7 @@
     },
     {
       "tag": "div",
-      "text": "» Top developer challenges » Supporting the application in production » Addressing application performance issues » Resolving performance problems today » Common problem resolution approaches » Key issues in problem resolution today » How can HP OpenView Transaction Analyzer (OVTA) help? » Demonstration: isolating performance problems with HP OVTA » A re-cap of OVTA » Key OVTA differentiators » Extended application and platform support » Moving beyond performance management » Why is designing for manageability important? » What can you rely on for manageability? » What role can you play in manageability? » Application management solutions with HP OpenView and BEA » Call to action"
+      "text": "» Top developer challenges » Supporting the application in production » Addressing application performance issues » Resolving performance problems today » Common problem resolution approaches » Key issues in problem resolution today » How can HP OpenView Transaction Analyzer (OVTA) help? » Demonstration: isolating performance problems with HP OVTA » Are-cap of OVTA » Key OVTA differentiators » Extended application and platform support » Moving beyond performance management » Why is designing for manageability important? » What can you rely on for manageability? » What role can you play in manageability? » Application management solutions with HP OpenView and BEA » Call to action"
     },
     {
       "tag": "h2",
@@ -116,7 +116,7 @@
     },
     {
       "tag": "h2",
-      "text": "A re-cap of OVTA"
+      "text": "Are-cap of OVTA"
     },
     {
       "tag": "h3",
